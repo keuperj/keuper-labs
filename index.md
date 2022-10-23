@@ -2,10 +2,9 @@
 title: Home
 ---
 
-# Your Lab Slogan
+# Keuper Labs
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
+
 
 {%
   include link.html
@@ -31,7 +30,18 @@ Spend less time reinventing the wheel, and more time running your lab.
 
 {% include section.html %}
 
-# Highlights
+# News
+
+<!-- Twitter embeds from https://publish.twitter.com/ -->
+
+<a class="twitter-timeline" data-width="400" data-height="400" href="https://twitter.com/KeuperLabs?ref_src=twsrc%5Etfw">recent Tweets</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{:.center}
+
+<a href="https://twitter.com/KeuperLabs?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @KeuperLabs</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/intent/tweet?screen_name=KeuperLabs&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @KeuperLabs</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{:.center}
+
+# Research
 
 {% capture text %}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
