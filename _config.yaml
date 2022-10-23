@@ -12,9 +12,9 @@ baseurl: /keuper-labs
 links:
   email: info@keuper-labs.org
   google-scholar: Keuper Labs
-  #github: your-lab
+  github: your-lab
   twitter: @KeuperLabs
-  #youtube: YourLabChannel
+  youtube: YourLabChannel
 
 ### advanced settings
 
