@@ -10,12 +10,11 @@ baseurl: /keuper-labs
 
 # site social media and other links
 links:
-  email: jane.smith@your-lab.com
-  google-scholar: Jane Smith
-  github: your-lab
-  twitter: YourLabHandle
-  instagram: YourLabHandle
-  youtube: YourLabChannel
+  email: info@keuper-labs.org
+  google-scholar: Keuper Labs
+  #github: your-lab
+  twitter: @KeuperLabs
+  #youtube: YourLabChannel
 
 ### advanced settings
 
