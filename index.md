@@ -12,7 +12,7 @@ Joint research pages of the labs run by Margret and Janis Keuper. We work on the
   include link.html
   link="https://scholar.google.com/citations?user=KMqMQAcAAAAJ&hl=de"
   text="Google Scholar Profile"
-  icon="fas fa-google"
+  icon="fas fa-graduation-cap"
   flip=true
 %}
 {%
@@ -33,9 +33,8 @@ Joint research pages of the labs run by Margret and Janis Keuper. We work on the
 
 {%
   include feature.html
-  image="images/margret.jpg"
+  image="images/margret_small.jpg"
   title="Margret Keuper"
-  height="200px"
   text=text
 %}
 
@@ -46,7 +45,7 @@ Joint research pages of the labs run by Margret and Janis Keuper. We work on the
   include link.html
   link="https://scholar.google.de/citations?view_op=list_works&hl=de&hl=de&user=BUkDvU0AAAAJ"
   text="Google Scholar Profile"
-  icon="fas fa-google"
+  icon="fas fa-graduation-cap"
   flip=true
 %}
 {%
@@ -68,8 +67,7 @@ Joint research pages of the labs run by Margret and Janis Keuper. We work on the
 
 {%
   include feature.html
-  image="images/janis_SC15.png"
-  height="200px"
+  image="images/janis_SC15_small.png"
   title="Janis Keuper"
   text=text
 %}
