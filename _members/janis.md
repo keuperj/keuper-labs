@@ -37,7 +37,6 @@ nav:
 {%
   include feature.html
   image="images/janis_SC15.png"
-  height="100px"
   title="Janis Keuper"
   text=text
 %}
