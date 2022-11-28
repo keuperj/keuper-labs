@@ -9,6 +9,9 @@ nav:
 
 This private website aggregates research from several closely cooperating labs from multiple institutions. Please refer to the individual lab sites linked below for contact details or write us a mail... 
 
+
+{:.center}
+
 {%
   include link.html
   type="email"
@@ -19,7 +22,6 @@ This private website aggregates research from several closely cooperating labs f
   style="button"
 %}
 
-{:.center}
 
 {% include section.html %}
 
@@ -59,13 +61,13 @@ This private website aggregates research from several closely cooperating labs f
 {% capture col1 %}
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="The Center for Wit and Sagacity"
+  image="images/RGB_IMLA_RGB_Farbe.jpg"
+  caption="Institute for Machine Learning and Analytics at Offenburg University"
 %}
 {%
   include link.html
-  link="team"
-  text="Meet our team"
+  link="https://imla.hs-offenburg.de/"
+  text="visit group pages in Offenburg"
   icon="fas fa-arrow-right"
   flip=true
 %}
@@ -73,13 +75,13 @@ This private website aggregates research from several closely cooperating labs f
 {% capture col2 %}
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Department of Metaphor"
+  image="images/itwm.svg"
+  caption="Machine Learning in HPC group at Fraunhofer ITWM"
 %}
 {%
   include link.html
-  link="team"
-  text="Meet our team"
+  link="https://www.itwm.fraunhofer.de/en/departments/hpc/data-analysis-and-machine-learning.html"
+  text="visit group pages in Kaiserslautern"
   icon="fas fa-arrow-right"
   flip=true
 %}
