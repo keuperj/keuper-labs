@@ -36,7 +36,7 @@ nav:
 
 {%
   include feature.html
-  image="images/margret_small.jpg"
+  image="images/margret.jpg"
   height="100px"
   title="Margret Keuper"
   text=text
