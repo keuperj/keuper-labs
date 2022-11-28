@@ -12,10 +12,16 @@ Joint research pages of the labs run by Margret and Janis Keuper. We work on the
   title="A Large Card"
   subtitle="A cool card"
   description="A cool description"
-  tooltip="A cool tooltip"
-  tags="tag A, tag B, tag C"
-  repo="greenelab/lab-website-template"
-  style="small"
+  style="large"
+%}
+{%
+  include card.html
+  image="images/margret_small.jpg"
+  link="https://nasa.gov/"
+  title="A Large Card"
+  subtitle="A cool card"
+  description="A cool description"
+  style="large"
 %}
 
 
