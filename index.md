@@ -1,6 +1,10 @@
 ---
 title: Home
 ---
+{%
+  include figure.html
+  image="images/logo.svg"
+%}
 
 # Keuper Labs
 Joint research pages of the labs run by ***Margret and Janis Keuper***. We work on the intersection of **Machine Learning and Computer Vision**.
