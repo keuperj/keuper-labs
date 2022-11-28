@@ -31,7 +31,7 @@ This private website aggregates research from several closely cooperating labs f
 {%
   include figure.html
   image="images/logovc.png"
-  height=300
+  height="300px"
   caption="Visual Computing Group at the University of Siegen"
 %}
 {%
@@ -46,7 +46,7 @@ This private website aggregates research from several closely cooperating labs f
 {%
   include figure.html
   image="images/logo_mpi_430.png"
-  height=300
+  height="300px"
   caption="Robust Visual Learning Group at MPI Saarbrücken"
 %}
 {%
@@ -64,7 +64,7 @@ This private website aggregates research from several closely cooperating labs f
 {%
   include figure.html
   image="images/RGB_IMLA_RGB_Farbe.jpg"
-  height=300
+  height="300px"
   caption="Institute for Machine Learning and Analytics at Offenburg University"
 %}
 {%
@@ -79,7 +79,7 @@ This private website aggregates research from several closely cooperating labs f
 {%
   include figure.html
   image="images/itwm.svg"
-  height=300
+  height="300px"
   caption="Machine Learning in HPC group at Fraunhofer ITWM"
 %}
 {%
