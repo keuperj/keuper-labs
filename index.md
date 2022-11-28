@@ -6,7 +6,7 @@ title: Home
 Joint research pages of the labs run by Margret and Janis Keuper. We work on the intersection of Machine Learning and Computer Vision.
 
 {% capture text %}
-**Margret Keuper** is Professor for Visual Computing at the University Siegen and head of the Robust Visual Learning Group at MPI Saarbrücken. Her research interests are ...
+**Margret Keuper** is Professor for Visual Computing at the University Siegen and head of the *Robust Visual Learning Group* at MPI Saarbrücken. Her research interests are ...
 {:.center}
 {%
   include link.html
@@ -18,14 +18,14 @@ Joint research pages of the labs run by Margret and Janis Keuper. We work on the
 {%
   include link.html
   link="https://www.vc.informatik.uni-siegen.de/en/keuper-margret"
-  text="Official website University Siegen"
+  text="Official website at University Siegen"
   icon="fas fa-arrow-right"
   flip=true
 %}
 {%
   include link.html
   link="https://www.mpi-inf.mpg.de/de/departments/computer-vision-and-machine-learning/people/margret-keuper"
-  text="Official website MPI Saarbrücken"
+  text="Official website at MPI Saarbrücken"
   icon="fas fa-arrow-right"
   flip=true
 %}
@@ -39,12 +39,26 @@ Joint research pages of the labs run by Margret and Janis Keuper. We work on the
 %}
 
 {% capture text %}
-Janis
+**Janis Keuper** is Professor for Data Science and Head of the *Institute for Machine Learning and Analytics* (IMLA) at Offenburg University. He also leads the *Machine Learning in HPC* group at Fraunhofer ITWM in Kaiserslautern.
 
 {%
   include link.html
-  link="research"
-  text="See what we've published"
+  link="https://scholar.google.de/citations?view_op=list_works&hl=de&hl=de&user=BUkDvU0AAAAJ"
+  text="Google Scholar Profile"
+  icon="fas fa-arrow-right"
+  flip=true
+%}
+{%
+  include link.html
+  link="https://imla.hs-offenburg.de/"
+  text="Official website at IMLA"
+  icon="fas fa-arrow-right"
+  flip=true
+%}
+{%
+  include link.html
+  link="https://www.itwm.fraunhofer.de/en/departments/hpc/data-analysis-and-machine-learning.html"
+  text="Official website at Fraunhofer ITWM"
   icon="fas fa-arrow-right"
   flip=true
 %}
