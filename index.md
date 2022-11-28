@@ -19,14 +19,14 @@ Joint research pages of the labs run by Margret and Janis Keuper. We work on the
   include link.html
   link="https://www.vc.informatik.uni-siegen.de/en/keuper-margret"
   text="Official website at University Siegen"
-  icon="fas fa-arrow-right"
+  icon="fas fa-link"
   flip=true
 %}
 {%
   include link.html
   link="https://www.mpi-inf.mpg.de/de/departments/computer-vision-and-machine-learning/people/margret-keuper"
   text="Official website at MPI Saarbrücken"
-  icon="fas fa-arrow-right"
+  icon="fas fa-link"
   flip=true
 %}
 {% endcapture %}
@@ -34,6 +34,7 @@ Joint research pages of the labs run by Margret and Janis Keuper. We work on the
 {%
   include feature.html
   image="images/margret_small.jpg"
+  height="100px"
   title="Margret Keuper"
   text=text
 %}
@@ -51,15 +52,15 @@ Joint research pages of the labs run by Margret and Janis Keuper. We work on the
 {%
   include link.html
   link="https://imla.hs-offenburg.de/"
-  text="Official website at IMLA"
-  icon="fas fa-arrow-right"
+  text="Official website at the Institute for Machine Learning and Analytics"
+  icon="fas fa-link"
   flip=true
 %}
 {%
   include link.html
   link="https://www.itwm.fraunhofer.de/en/departments/hpc/data-analysis-and-machine-learning.html"
   text="Official website at Fraunhofer ITWM"
-  icon="fas fa-arrow-right"
+  icon="fas fa-link"
   flip=true
 %}
 {:.center}
@@ -68,6 +69,7 @@ Joint research pages of the labs run by Margret and Janis Keuper. We work on the
 {%
   include feature.html
   image="images/janis_SC15_small.png"
+  height="100px"
   title="Janis Keuper"
   text=text
 %}
