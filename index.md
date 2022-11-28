@@ -11,7 +11,7 @@ Joint research pages of the labs run by Margret and Janis Keuper. We work on the
   link="members/margret.html"
   title="Margret Keuper"
   subtitle="University Siegen + MPI Saarbrücken"
-  description="Margret Keuper is Professor for Visual Computing at the University Siegen and head of the *Robust Visual Learning Group* at MPI Saarbrücken. Her research interests are ..."
+  description="Margret is Professor for Visual Computing at the University Siegen and head of the *Robust Visual Learning Group* at MPI Saarbrücken."
   style="large"
 %}
 {%
@@ -20,7 +20,7 @@ Joint research pages of the labs run by Margret and Janis Keuper. We work on the
   link="menḿbers/janis.html"
   title="Janis Keuper"
   subtitle="IMLA Offenburg + ITWM Kaiserslautern"
-  description="**Janis Keuper** is Professor for Data Science and Head of the *Institute for Machine Learning and Analytics* (IMLA) at Offenburg University. He also leads the *Machine Learning in HPC* group at Fraunhofer ITWM in Kaiserslautern."
+  description="Janis is Professor for Data Science and Head of the *Institute for Machine Learning and Analytics* (IMLA) at Offenburg University. He also leads the *Machine Learning in HPC* group at Fraunhofer ITWM in Kaiserslautern."
   style="large"
 %}
 
