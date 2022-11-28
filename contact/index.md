@@ -31,6 +31,7 @@ This private website aggregates research from several closely cooperating labs f
 {%
   include figure.html
   image="images/logovc.png"
+  height=400
   caption="Visual Computing Group at the University of Siegen"
 %}
 {%
