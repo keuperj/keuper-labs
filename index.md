@@ -3,33 +3,38 @@ title: Home
 ---
 
 # Keuper Labs
-Joint research pages of the labs run by Margret and Janis Keuper.
+Joint research pages of the labs run by Margret and Janis Keuper. We work on the intersection of Machine Learning and Computer Vision.
 
 {% capture text %}
-Margret
-
+**Margret Keuper** is Professor for Visual Computing at the University Siegen and head of the Robust Visual Learning Group at MPI Saarbrücken. Her research interests are ...
+{:.center}
 {%
   include link.html
-  link="research"
+  link="https://scholar.google.com/citations?user=KMqMQAcAAAAJ&hl=de"
   text="Google Scholar Profile"
   icon="fas fa-arrow-right"
   flip=true
 %}
 {%
   include link.html
-  link="research"
+  link="https://www.vc.informatik.uni-siegen.de/en/keuper-margret"
   text="Official website University Siegen"
   icon="fas fa-arrow-right"
   flip=true
 %}
-{:.center}
+{%
+  include link.html
+  link="https://www.mpi-inf.mpg.de/de/departments/computer-vision-and-machine-learning/people/margret-keuper"
+  text="Official website MPI Saarbrücken"
+  icon="fas fa-arrow-right"
+  flip=true
+%}
 {% endcapture %}
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Research"
+  image="images/margret.jpg"
+  title="Margret Keuper"
   text=text
 %}
 
@@ -73,8 +78,7 @@ Janis
 # Research
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Find our latest papers on Computer Vision and Machine Learning topics...
 
 {%
   include link.html
@@ -95,8 +99,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 %}
 
 {% capture text %}
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Explore our current ond past research projects...
 
 {%
   include link.html
@@ -112,13 +115,13 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
   include feature.html
   image="images/photo.jpg"
   link="resources"
-  title="Our Resources"
+  title="Our Projects"
   flip=true
   text=text
 %}
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Meet our teams and find open positions... 
 
 {%
   include link.html
@@ -138,5 +141,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   text=text
 %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+.
