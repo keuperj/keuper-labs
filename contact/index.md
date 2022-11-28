@@ -48,6 +48,13 @@ This website aggregates research from several closely cooperating labs from mult
   image="images/photo.jpg"
   caption="The Center for Wit and Sagacity"
 %}
+{%
+  include link.html
+  link="team"
+  text="Meet our team"
+  icon="fas fa-arrow-right"
+  flip=true
+%}
 {% endcapture %}
 {% capture col2 %}
 {%
