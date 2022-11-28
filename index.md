@@ -5,6 +5,20 @@ title: Home
 # Keuper Labs
 Joint research pages of the labs run by Margret and Janis Keuper. We work on the intersection of Machine Learning and Computer Vision.
 
+{%
+  include card.html
+  image="images/margret_small.jpg"
+  link="https://nasa.gov/"
+  title="A Large Card"
+  subtitle="A cool card"
+  description="A cool description"
+  tooltip="A cool tooltip"
+  tags="tag A, tag B, tag C"
+  repo="greenelab/lab-website-template"
+  style="small"
+%}
+
+
 {% capture text %}
 **Margret Keuper** is Professor for Visual Computing at the University Siegen and head of the *Robust Visual Learning Group* at MPI Saarbrücken. Her research interests are ...
 
@@ -52,7 +66,7 @@ Joint research pages of the labs run by Margret and Janis Keuper. We work on the
 {%
   include link.html
   link="https://imla.hs-offenburg.de/"
-  text="Official website at the Institute for Machine Learning and Analytics"
+  text="Official website at IMLA in Offenburg"
   icon="fas fa-link"
   flip=true
 %}
@@ -63,7 +77,7 @@ Joint research pages of the labs run by Margret and Janis Keuper. We work on the
   icon="fas fa-link"
   flip=true
 %}
-{:.center}
+
 {% endcapture %}
 
 {%
@@ -119,7 +133,7 @@ Explore our current ond past research projects...
 {%
   include link.html
   link="tools"
-  text="Browse our tools"
+  text="Browse our projects"
   icon="fas fa-arrow-right"
   flip=true
 %}
@@ -141,7 +155,7 @@ Meet our teams and find open positions...
 {%
   include link.html
   link="team"
-  text="Meet our team"
+  text="Meet our teams"
   icon="fas fa-arrow-right"
   flip=true
 %}
