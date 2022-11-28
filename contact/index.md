@@ -26,30 +26,13 @@ This private website aggregates research from several closely cooperating labs f
 {% include section.html %}
 
 
-{%
-  include gallery.html
-  image1="images/logovc.png"
-  link1="https://www.vc.informatik.uni-siegen.de/en/keuper-margret"
-  tooltip1="Visual Computing Group at the University of Siegen"
-  image2="images/logo_mpi_430.png"
-  link2="https://www.mpi-inf.mpg.de/de/departments/computer-vision-and-machine-learning/people/margret-keuper"
-  tooltip2="Robust Visual Learning Group at MPI Saarbrücken"
-  image3="images/RGB_IMLA_RGB_Farbe.jpg"
-  link3="https://imla.hs-offenburg.de/"
-  tooltip3="Institute for Machine Learning and Analytics at Offenburg University"
-  image4="images/itwm.svg"
-  link4="https://www.itwm.fraunhofer.de/en/departments/hpc/data-analysis-and-machine-learning.html"
-  tooltip4="Machine Learning in HPC group at Fraunhofer ITWM"
- 
-  style="square"
-%}
-
 
 {% capture col1 %}
 {%
   include figure.html
   image="images/logovc.png"
-  height="300px"
+  link="https://www.vc.informatik.uni-siegen.de/en/keuper-margret"
+  height="100px"
   caption="Visual Computing Group at the University of Siegen"
 %}
 {%
@@ -64,7 +47,8 @@ This private website aggregates research from several closely cooperating labs f
 {%
   include figure.html
   image="images/logo_mpi_430.png"
-  height="300px"
+  link="https://www.mpi-inf.mpg.de/de/departments/computer-vision-and-machine-learning/people/margret-keuper"
+  height="100px"
   caption="Robust Visual Learning Group at MPI Saarbrücken"
 %}
 {%
@@ -82,7 +66,8 @@ This private website aggregates research from several closely cooperating labs f
 {%
   include figure.html
   image="images/RGB_IMLA_RGB_Farbe.jpg"
-  height="300px"
+  link="https://imla.hs-offenburg.de/"
+  height="100px"
   caption="Institute for Machine Learning and Analytics at Offenburg University"
 %}
 {%
@@ -97,7 +82,8 @@ This private website aggregates research from several closely cooperating labs f
 {%
   include figure.html
   image="images/itwm.svg"
-  height="300px"
+  link="https://www.itwm.fraunhofer.de/en/departments/hpc/data-analysis-and-machine-learning.html"
+  height="100px"
   caption="Machine Learning in HPC group at Fraunhofer ITWM"
 %}
 {%
