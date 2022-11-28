@@ -11,7 +11,7 @@ Joint research pages of the labs run by ***Margret and Janis Keuper***. We work 
 
 {%
   include card.html
-  image="images/margret_small.jpg"
+  image="images/margret.jpg"
   link="members/margret.html"
   title="Margret Keuper"
   subtitle="University Siegen + MPI Saarbrücken"
@@ -20,7 +20,7 @@ Joint research pages of the labs run by ***Margret and Janis Keuper***. We work 
 %}
 {%
   include card.html
-  image="images/janis_SC15_small.png"
+  image="images/janis_SC15.png"
   link="meḿbers/janis.html"
   title="Janis Keuper"
   subtitle="IMLA Offenburg + ITWM Kaiserslautern"
