@@ -4,6 +4,7 @@ title: Home
 {%
   include figure.html
   image="images/logo.svg"
+  width="200px"
 %}
 
 # Keuper Labs
