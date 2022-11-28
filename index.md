@@ -3,7 +3,7 @@ title: Home
 ---
 
 # Keuper Labs
-Joint research pages of the labs run by Margret and Janis Keuper. We work on the intersection of Machine Learning and Computer Vision.
+Joint research pages of the labs run by ***Margret and Janis Keuper***. We work on the intersection of **Machine Learning and Computer Vision**.
 
 {%
   include card.html
