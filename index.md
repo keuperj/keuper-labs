@@ -22,7 +22,7 @@ Joint research pages of the labs run by ***Margret and Janis Keuper***. We work 
 {%
   include card.html
   image="images/janis_SC15.png"
-  link="meḿbers/janis.html"
+  link="members/janis.html"
   title="Janis Keuper"
   subtitle="IMLA Offenburg + ITWM Kaiserslautern"
   description="Janis is Professor for Data Science and Head of the *Institute for Machine Learning and Analytics* (IMLA) at Offenburg University. He also leads the *Machine Learning in HPC* group at Fraunhofer ITWM in Kaiserslautern."
