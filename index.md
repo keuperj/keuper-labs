@@ -8,91 +8,25 @@ Joint research pages of the labs run by Margret and Janis Keuper. We work on the
 {%
   include card.html
   image="images/margret_small.jpg"
-  link="https://nasa.gov/"
-  title="A Large Card"
-  subtitle="A cool card"
-  description="A cool description"
+  link="members/margret.html"
+  title="Margret Keuper"
+  subtitle="University Siegen + MPI Saarbrücken"
+  description="Margret Keuper is Professor for Visual Computing at the University Siegen and head of the *Robust Visual Learning Group* at MPI Saarbrücken. Her research interests are ..."
   style="large"
 %}
 {%
   include card.html
-  image="images/margret_small.jpg"
-  link="https://nasa.gov/"
-  title="A Large Card"
-  subtitle="A cool card"
-  description="A cool description"
+  image="images/janis_SC15_small.png"
+  link="menḿbers/janis.html"
+  title="Janis Keuper"
+  subtitle="IMLA Offenburg + ITWM Kaiserslautern"
+  description="**Janis Keuper** is Professor for Data Science and Head of the *Institute for Machine Learning and Analytics* (IMLA) at Offenburg University. He also leads the *Machine Learning in HPC* group at Fraunhofer ITWM in Kaiserslautern."
   style="large"
 %}
 
 
-{% capture text %}
-**Margret Keuper** is Professor for Visual Computing at the University Siegen and head of the *Robust Visual Learning Group* at MPI Saarbrücken. Her research interests are ...
 
-{%
-  include link.html
-  link="https://scholar.google.com/citations?user=KMqMQAcAAAAJ&hl=de"
-  text="Google Scholar Profile"
-  icon="fas fa-graduation-cap"
-  flip=true
-%}
-{%
-  include link.html
-  link="https://www.vc.informatik.uni-siegen.de/en/keuper-margret"
-  text="Official website at University Siegen"
-  icon="fas fa-link"
-  flip=true
-%}
-{%
-  include link.html
-  link="https://www.mpi-inf.mpg.de/de/departments/computer-vision-and-machine-learning/people/margret-keuper"
-  text="Official website at MPI Saarbrücken"
-  icon="fas fa-link"
-  flip=true
-%}
-{% endcapture %}
 
-{%
-  include feature.html
-  image="images/margret_small.jpg"
-  height="100px"
-  title="Margret Keuper"
-  text=text
-%}
-
-{% capture text %}
-**Janis Keuper** is Professor for Data Science and Head of the *Institute for Machine Learning and Analytics* (IMLA) at Offenburg University. He also leads the *Machine Learning in HPC* group at Fraunhofer ITWM in Kaiserslautern.
-
-{%
-  include link.html
-  link="https://scholar.google.de/citations?view_op=list_works&hl=de&hl=de&user=BUkDvU0AAAAJ"
-  text="Google Scholar Profile"
-  icon="fas fa-graduation-cap"
-  flip=true
-%}
-{%
-  include link.html
-  link="https://imla.hs-offenburg.de/"
-  text="Official website at IMLA in Offenburg"
-  icon="fas fa-link"
-  flip=true
-%}
-{%
-  include link.html
-  link="https://www.itwm.fraunhofer.de/en/departments/hpc/data-analysis-and-machine-learning.html"
-  text="Official website at Fraunhofer ITWM"
-  icon="fas fa-link"
-  flip=true
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/janis_SC15_small.png"
-  height="100px"
-  title="Janis Keuper"
-  text=text
-%}
 
 {:.center}
 
