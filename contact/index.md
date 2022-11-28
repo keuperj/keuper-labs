@@ -31,12 +31,26 @@ This website aggregates research from several closely cooperating labs from mult
   image="images/photo.jpg"
   caption="The Center for Wit and Sagacity"
 %}
+{%
+  include link.html
+  link="team"
+  text="Meet our team"
+  icon="fas fa-arrow-right"
+  flip=true
+%}
 {% endcapture %}
 {% capture col2 %}
 {%
   include figure.html
   image="images/photo.jpg"
   caption="Department of Metaphor"
+%}
+{%
+  include link.html
+  link="team"
+  text="Meet our team"
+  icon="fas fa-arrow-right"
+  flip=true
 %}
 {% endcapture %}
 
@@ -61,6 +75,13 @@ This website aggregates research from several closely cooperating labs from mult
   include figure.html
   image="images/photo.jpg"
   caption="Department of Metaphor"
+%}
+{%
+  include link.html
+  link="team"
+  text="Meet our team"
+  icon="fas fa-arrow-right"
+  flip=true
 %}
 {% endcapture %}
 
