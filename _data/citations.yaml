@@ -20,7 +20,7 @@
   tags:
   - GAN
   - robustness
-  _cache: 56c685c6d40a1b9f4a524280bbe5a63160bff3ccd07a0dcd4c89d1b6791f058c
+  _cache: fb82ad5712cd4626064f3676be7fa1361741f5c99a5403dba380155407ffea4a
 - title: CNN Filter DB - An Empirical Investigation of Trained Convolutional Filters
   authors:
   - Paul Gavrikov
@@ -47,8 +47,7 @@
   - Janis Keuper
   - Margret Keuper
   link: https://arxiv.org/pdf/2204.00491
-  publisher: ECCV 2022 - 17th European Conference, Tel Aviv, Israel, October 23-27,
-    2022, Proceedings
+  publisher: ECCV 2022 - Proceedings of the 17th European Conference, Tel Aviv, Israel
   date: ''
   extra-links:
   - type: preprint
@@ -59,7 +58,7 @@
   tags:
   - CNN
   - robustness
-  _cache: f53785e63ff8e3a66d41a342cbfe52c48a086deb07c1b79a1a0cd24ce380f5c4
+  _cache: 6152d8915b78e129e4b9b647c0ec6e0911f7121af5b2ba9d1cf92cc80ab59023
 - title: Robust Models are less Over-Confident
   authors:
   - Julia Grabinski
