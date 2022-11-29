@@ -32,8 +32,8 @@ nav:
 {%
   include link.html
   link="mailto:keuler_at_imla.ai"
-  text="keuler_at_imla.ai"
-  icon="fas fa-mail"
+  text="Contact via email: keuler_at_imla.ai"
+  icon="fas fa-envelopes-bulk"
   flip=true
 %}
 
