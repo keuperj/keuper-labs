@@ -2,7 +2,7 @@
 name: Julia Grabinski
 image: images/placeholder.jpg
 description: PhD Student at ITWM | Siegen | IMLA
-role: imla
+role: phd
 aliases:
   - J. Grabinski
   - Grabinski
