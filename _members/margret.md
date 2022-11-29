@@ -1,11 +1,11 @@
 ---
-title: Margret Keuper
+title: 
 nav:
   order: 3
   tooltip: About Margret
 ---
 
-# <i class="fas fa-users"></i>Margret Keuper
+
 
 
 {% capture text %}
