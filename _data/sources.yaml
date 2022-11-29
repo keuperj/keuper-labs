@@ -1,6 +1,8 @@
 # WARNING: do NOT change month and day at the date -> Bug! Changing the year is fine
 
-
+#-------------------------
+# 2020
+#-------------------------
 - title: Watch your Up-Convolution - CNN Based Generative Deep Neural Networks are Failing to Reproduce Spectral Distributions
   date: 2020-6-1 
   authors: 
@@ -18,7 +20,16 @@
   tags:
     - GAN
     - robustness
- 
+
+#-------------------------
+# 2021
+#-------------------------
+
+
+#-------------------------
+# 2022
+#-------------------------
+
 - title: CNN Filter DB - An Empirical Investigation of Trained Convolutional Filters
   date: 2022-6-1
   authors: 
@@ -108,3 +119,8 @@
   image: images/neurips_22.png
   tags:
     - robustness    
+
+
+#-------------------------
+# 2023
+#-------------------------
