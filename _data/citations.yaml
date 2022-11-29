@@ -3,6 +3,7 @@
 
 - title: Watch your Up-Convolution - CNN Based Generative Deep Neural Networks are
     Failing to Reproduce Spectral Distributions
+  date: ''
   authors:
   - Ricard Durall
   - Margret Keuper
@@ -19,8 +20,7 @@
   tags:
   - GAN
   - robustness
-  _cache: 357e108cc53f4d061714453f884b958cdae4183479236f8071490c352c9df5fe
-  date: ''
+  _cache: 4fdc4ce64df17a6c1d879137b78e28cb7d6250e1df830cb9da8a17f9f8f2b7f8
 - title: CNN Filter DB - An Empirical Investigation of Trained Convolutional Filters
   authors:
   - Paul Gavrikov
