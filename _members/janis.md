@@ -5,8 +5,6 @@ nav:
   tooltip: About Janis
 ---
 
-# <i class="fas fa-users"></i>Janis Keuper
-
 {% capture text %}
 **Janis Keuper** is Professor for Data Science and Head of the *Institute for Machine Learning and Analytics* (IMLA) at Offenburg University. He also leads the *Machine Learning in HPC* group at Fraunhofer ITWM in Kaiserslautern.
 
