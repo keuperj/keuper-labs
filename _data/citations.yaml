@@ -20,7 +20,7 @@
   tags:
   - GAN
   - robustness
-  _cache: fb82ad5712cd4626064f3676be7fa1361741f5c99a5403dba380155407ffea4a
+  _cache: a506dcef39dcb9d4a6ffaff69f0e15d360bffa64a0a5043a7fc7f909254b9c1b
 - title: CNN Filter DB - An Empirical Investigation of Trained Convolutional Filters
   authors:
   - Paul Gavrikov
@@ -40,3 +40,42 @@
   - CNN
   - robustness
   _cache: d5d1e73dbea3cc8cf6f0cafcbf2c1d99cbee58f84e6d3c13d9b402d8236cef3d
+- title: FrequencyLowCut Pooling--Plug & Play against Catastrophic Overfitting
+  authors:
+  - Julia Grabinski
+  - Steffen Jung
+  - Janis Keuper
+  - Margret Keuper
+  link: https://arxiv.org/pdf/2204.00491
+  publisher: ECCV 2022 - Proceedings of the 17th European Conference, Tel Aviv, Israel
+  date: ''
+  extra-links:
+  - type: preprint
+    link: https://arxiv.org/pdf/2204.00491
+  - type: source
+    link: https://github.com/GeJulia/flc_pooling
+  image: images/eccv_22.png
+  tags:
+  - CNN
+  - robustness
+  _cache: 6152d8915b78e129e4b9b647c0ec6e0911f7121af5b2ba9d1cf92cc80ab59023
+- title: Robust Models are less Over-Confident
+  authors:
+  - Julia Grabinski
+  - Paul Gavrikov
+  - Janis Keuper
+  - Margret Keuper
+  link: https://arxiv.org/pdf/2210.05938
+  publisher: NeurIPS 22, proceedings of the thirty-sixth Conference on Neural Information
+    Processing Systems
+  date: ''
+  extra-links:
+  - type: preprint
+    link: https://arxiv.org/pdf/2210.05938
+  - type: source
+    link: https://github.com/GeJulia/robustness_confidences_evaluation
+  image: images/neurips_22.png
+  tags:
+  - CNN
+  - robustness
+  _cache: f6247142d75b29d7bd0be60d239527eebe9113f9cfba292d680e71476e17175c
