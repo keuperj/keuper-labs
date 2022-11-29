@@ -36,14 +36,14 @@
     link: https://github.com/paulgavrikov/CNN-Filter-DB
   - type: youtube
     link: https://github.com/paulgavrikov/CNN-Filter-DB
-  - type: blog
+  - type: website
     link: https://towardsdatascience.com/what-makes-the-convolutions-of-robust-vision-models-special-5f9c1a0c5bb5
   image: images/cvpr_22_oral.png
   tags:
   - ORAL
   - CNN
   - robustness
-  _cache: 1897d72443d23bdb614fbb75b525e6474eb0b872ffc1f5da1d993bb3b3b1f600
+  _cache: 774345cf007e40b0a3ed4295f07cc33513395df468dfcf2978e9226e0233996c
 - title: FrequencyLowCut Pooling--Plug & Play against Catastrophic Overfitting
   date: '2022-06-01'
   authors:
