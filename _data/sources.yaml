@@ -16,3 +16,19 @@
     - GAN
     - robustness
  
+- title: CNN Filter DB: An Empirical Investigation of Trained Convolutional Filters
+  authors: 
+    - Paul Gavrikov
+    - Janis Keuper
+  link: https://openaccess.thecvf.com/content/CVPR2022/papers/Gavrikov_CNN_Filter_DB_An_Empirical_Investigation_of_Trained_Convolutional_Filters_CVPR_2022_paper.pdf
+  publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 
+  date: 2022-6-1
+  extra-links:
+    - type: preprint
+      link: https://openaccess.thecvf.com/content/CVPR2022/papers/Gavrikov_CNN_Filter_DB_An_Empirical_Investigation_of_Trained_Convolutional_Filters_CVPR_2022_paper.pdf
+    - type: source
+      link: https://github.com/paulgavrikov/CNN-Filter-DB
+  image: images/cvpr_22.png
+  tags:
+    - CNN
+    - robustness
