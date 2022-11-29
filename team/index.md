@@ -50,17 +50,42 @@ nav:
 ## Join
 
 ### Open PhD Position in Siegen
+{%
+  include card.html
+  image="images/logovc.png"
+  title="Open PhD Position in DFG Research Group"
+  link="https://www.learning2sense.de/open-positions" 
+  subtitle="University of Siegen"
+  description="We have multiple openings in the new DFG reasearch group *Learning to Sense*."
+  style="small"
 
-### Open PhD Positions at ITWM
+{%
+  include card.html
+  image="images/itwm.svg"
+  title="Open PhD Positions"
+  subtitle="at Fraunhofer ITWM, Kaiserslautern"
+  description="We are constantly looking for talented PhD candidates. Current topics include: *robust DL* and *scalable DL on HPC*. For details contact [*Janis*](members/janis.html)."
+  style="small"
+%}
 
-### Open Position as HPC Research Engineer at ITWM
+{%
+  include card.html
+  image="images/itwm.svg"
+  title="Open Position as HPC Research Engineer"
+  link="https://jobs.fraunhofer.de/job/Kaiserslautern-Research-Associate-HPC-Machine-Learning-67663/874127901/" 
+  subtitle="at Fraunhofer ITWM, Kaiserslautern"
+  description="We are looking for people with strong HPC background interested to work on scalable Deep Learning projects."
+  style="small"
+%}
 
-### Open Position as ML Research Engineer at IMLA
-
-### Open Position as Linux Administrator at IMLA
-Our research IT is looking for a new team member to build and opperate our compute infrastructure, including HPC-, Hadoop- and Kubernetes-Clusters.  
-
-{% include link.html type="external" link="https://recruitingapp-5458.de.umantis.com/Vacancies/687/Description/1" text="Job Details and Application" icon="fas fa-server" style="button" %}
+{%
+  include card.html
+  image="images/RGB_IMLA_RGB_Farbe.jpg"
+  title="Open Position as ML Research Engineer"
+  subtitle="at IMLA, Offenburg University"
+  description="We are looking to extend our team working on applied ML project with our industrie partners. For details contact [*Janis*](members/janis.html)."
+  style="small"
+%}
 
 {%
   include card.html
@@ -69,5 +94,5 @@ Our research IT is looking for a new team member to build and opperate our compu
   title="Open Position as Linux Administrator"
   subtitle="at IMLA, Offenburg University"
   description="Our research IT is looking for a new team member to build and opperate our compute infrastructure, including HPC-, Hadoop- and Kubernetes-Clusters."
-  style="large"
+  style="small"
 %}
