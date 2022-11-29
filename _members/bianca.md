@@ -2,7 +2,7 @@
 name: Bianca Lamm
 image: images/placeholder.jpg
 description: PhD Student at IMLA
-role: imla
+role: phd
 aliases:
   - B. Lamm
   - Lamm
