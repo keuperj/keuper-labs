@@ -13,11 +13,13 @@
   extra-links:
   - type: preprint
     link: https://openaccess.thecvf.com/content_CVPR_2020/papers/Durall_Watch_Your_Up-Convolution_CNN_Based_Generative_Deep_Neural_Networks_Are_CVPR_2020_paper.pdf
-  image: images/cvpr_20
+  - type: source
+    link: https://github.com/cc-hpc-itwm/UpConv
+  image: images/cvpr_20.png
   tags:
   - GAN
   - robustness
-  _cache: 81402dd87a43e832104e9a897ec6ac72c400e16fa8725e1c4615a60e9e592cd8
+  _cache: 3f80bd46d06a6d641dba104417409fcb9bb9d99be32590c4456e38728b459bf2
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
