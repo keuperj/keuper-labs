@@ -89,7 +89,7 @@ Meet our teams and find open positions...
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/eccv.jpg"
   link="team"
   title="Our Team"
   text=text
