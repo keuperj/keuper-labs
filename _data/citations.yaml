@@ -9,7 +9,7 @@
   - Janis Keuper
   link: https://openaccess.thecvf.com/content_CVPR_2020/papers/Durall_Watch_Your_Up-Convolution_CNN_Based_Generative_Deep_Neural_Networks_Are_CVPR_2020_paper.pdf
   publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern
-    Recognition
+    Recognition **[Oral]**
   date: '2020-06-01'
   extra-links:
   - type: preprint
@@ -20,7 +20,7 @@
   tags:
   - GAN
   - robustness
-  _cache: 68e1e2f9333a43c151ec5f984c029bf299fb3d1cea6a5b2e92c81ac9e474cd6e
+  _cache: 6b5546332a685b0e025f725f4ba5ee4dc1f1a8807a4b2299cc73a3fabccfab76
 - title: CNN Filter DB - An Empirical Investigation of Trained Convolutional Filters
   authors:
   - Paul Gavrikov
