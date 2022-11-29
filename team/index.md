@@ -57,7 +57,7 @@ nav:
   link="https://www.learning2sense.de/open-positions" 
   subtitle="University of Siegen"
   description="We have multiple openings in the new DFG reasearch group *Learning to Sense*."
-  style="small"
+  style="large"
 %}
 
 {%
@@ -66,7 +66,7 @@ nav:
   title="Open PhD Positions"
   subtitle="at Fraunhofer ITWM, Kaiserslautern"
   description="We are constantly looking for talented PhD candidates. Current topics include: *robust DL* and *scalable DL on HPC*. For details contact [Janis](members/janis.html)."
-  style="small"
+  style="large"
 %}
 
 {%
@@ -76,7 +76,7 @@ nav:
   link="https://jobs.fraunhofer.de/job/Kaiserslautern-Research-Associate-HPC-Machine-Learning-67663/874127901/" 
   subtitle="at Fraunhofer ITWM, Kaiserslautern"
   description="We are looking for people with strong HPC background interested to work on scalable Deep Learning projects."
-  style="small"
+  style="large"
 %}
 
 {%
@@ -85,7 +85,7 @@ nav:
   title="Open Position as ML Research Engineer"
   subtitle="at IMLA, Offenburg University"
   description="We are looking to extend our team working on applied ML project with our industrie partners. For details contact [Janis](members/janis.html)."
-  style="small"
+  style="large"
 %}
 
 {%
@@ -95,5 +95,5 @@ nav:
   title="Open Position as Linux Administrator"
   subtitle="at IMLA, Offenburg University"
   description="Our research IT is looking for a new team member to build and opperate our compute infrastructure, including HPC-, Hadoop- and Kubernetes-Clusters."
-  style="small"
+  style="large"
 %}
