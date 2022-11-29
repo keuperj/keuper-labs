@@ -28,13 +28,14 @@
       link: https://openaccess.thecvf.com/content/CVPR2022/papers/Gavrikov_CNN_Filter_DB_An_Empirical_Investigation_of_Trained_Convolutional_Filters_CVPR_2022_paper.pdf
     - type: source
       link: https://github.com/paulgavrikov/CNN-Filter-DB
-  image: images/cvpr_22.png
+  image: images/cvpr_22_oral.png
   tags:
     - ORAL
     - CNN
     - robustness
     
 - title: FrequencyLowCut Pooling--Plug & Play against Catastrophic Overfitting
+  date: 2022-6-1
   authors: 
     - Julia Grabinski
     - Steffen Jung
@@ -53,6 +54,7 @@
     - robustness    
 
 - title: Robust Models are less Over-Confident
+  date: 2022-6-1
   authors: 
     - Julia Grabinski
     - Paul Gavrikov
