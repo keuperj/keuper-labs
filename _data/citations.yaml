@@ -3,7 +3,7 @@
 
 - title: Watch your Up-Convolution - CNN Based Generative Deep Neural Networks are
     Failing to Reproduce Spectral Distributions
-  date: ''
+  date: '2020-06-01'
   authors:
   - Ricard Durall
   - Margret Keuper
@@ -20,8 +20,9 @@
   tags:
   - GAN
   - robustness
-  _cache: 4fdc4ce64df17a6c1d879137b78e28cb7d6250e1df830cb9da8a17f9f8f2b7f8
+  _cache: 68e1e2f9333a43c151ec5f984c029bf299fb3d1cea6a5b2e92c81ac9e474cd6e
 - title: CNN Filter DB - An Empirical Investigation of Trained Convolutional Filters
+  date: '2022-06-01'
   authors:
   - Paul Gavrikov
   - Janis Keuper
@@ -38,8 +39,7 @@
   - ORAL
   - CNN
   - robustness
-  _cache: 8f3f1d0e0df811cc58bd6a362a641a7aeaba08897e268ce4d576887310ddca2d
-  date: ''
+  _cache: d7ef559177cad79e3ce509bd24aaf2b4b9205410fbfe66bb1716e0e60124089c
 - title: FrequencyLowCut Pooling--Plug & Play against Catastrophic Overfitting
   authors:
   - Julia Grabinski
