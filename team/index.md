@@ -78,7 +78,7 @@ nav:
   width="50px"
   title="Open PhD Positions"
   subtitle="at Fraunhofer ITWM, Kaiserslautern"
-  description="We are constantly looking for talented PhD candidates. Current topics include: *robust DL* and *scalable DL on HPC*. For details contact [Janis](members/janis.html)."
+  description="We are constantly looking for talented PhD candidates. Current topics include: *robust DL* and *scalable DL on HPC*. For details contact [Janis](../members/janis.html)."
   style="large"
 %}
 
@@ -97,7 +97,7 @@ nav:
   image="images/imla_small.jpg"
   title="Open Position as ML Research Engineer"
   subtitle="at IMLA, Offenburg University"
-  description="We are looking to extend our team working on applied ML project with our industrie partners. For details contact [Janis](members/janis.html)."
+  description="We are looking to extend our team working on applied ML project with our industrie partners. For details contact [Janis](../members/janis.html)."
   style="large"
 %}
 
