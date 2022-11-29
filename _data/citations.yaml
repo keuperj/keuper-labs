@@ -1,14 +1,24 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
-- title: Some Publication Title
+- title: Watch your Up-Convolution - CNN Based Generative Deep Neural Networks are
+    Failing to Reproduce Spectral Distributions
   authors:
-  - Steve McQueen
-  - Lightning McQueen
-  publisher: bioRxiv
+  - Ricard Durall
+  - Margret Keuper
+  - Janis Keuper
+  publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern
+    Recognition 2020
   date: ''
-  link: biorxiv.org/1234
-  _cache: a5992d8dfa2d99d1f8971ad00d0813ad065197258aac65f60bc9df6875738254
+  extra-links:
+  - type: preprint
+    link: https://openaccess.thecvf.com/content_CVPR_2020/papers/Durall_Watch_Your_Up-Convolution_CNN_Based_Generative_Deep_Neural_Networks_Are_CVPR_2020_paper.pdf
+  image: images/cvpr_20
+  tags:
+  - GAN
+  - robustness
+  repo: https://github.com/cc-hpc-itwm/UpConv
+  _cache: 8ae070e9cda4359c1fb6d4d465cb5f8b4be45ca97ff46914957ede7f7ed8d185
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
