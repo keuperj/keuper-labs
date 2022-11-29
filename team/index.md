@@ -9,7 +9,7 @@ nav:
 
 {%
   include card.html
-  image="images/margret.jpg"
+  image="images/margret_small.jpg"
   link="members/margret.html"
   title="Margret Keuper"
   subtitle="Computervision + Machine Learning"
@@ -18,7 +18,7 @@ nav:
 %}
 {%
   include card.html
-  image="images/janis_SC15.png"
+  image="images/janis_small.jpg"
   link="members/janis.html"
   title="Janis Keuper"
   subtitle="Large Scale ML + Computer Vision"
