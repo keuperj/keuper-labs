@@ -1,5 +1,5 @@
 ---
-title: Janis Keuper
+title: 
 nav:
   order: 3
   tooltip: About Janis
@@ -37,7 +37,7 @@ nav:
 {%
   include feature.html
   image="images/janis_SC15.png"
-  title="Janis Keuper"
+  title=""
   text=text
 %}
 
