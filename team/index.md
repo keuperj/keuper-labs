@@ -37,12 +37,25 @@ nav:
   filters="role: siegen"
 %}
 
-
 {%
   include list.html
   data="members"
   component="portrait"
   filters="role: imla"
+%}
+
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: itwm"
+%}
+
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: mpi"
 %}
 {:.center}
 
