@@ -18,8 +18,6 @@ Joint research pages of the labs run by ***Margret and Janis Keuper***. We work 
 {% include section.html %}
 
 
-# Research
-
 {% capture text %}
 Find our latest papers on Computer Vision, Machine Learning and HPC topics...
 
