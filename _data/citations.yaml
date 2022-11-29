@@ -10,7 +10,7 @@
   link: https://openaccess.thecvf.com/content_CVPR_2020/papers/Durall_Watch_Your_Up-Convolution_CNN_Based_Generative_Deep_Neural_Networks_Are_CVPR_2020_paper.pdf
   publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern
     Recognition
-  date: '2020-06-01'
+  date: ''
   extra-links:
   - type: preprint
     link: https://openaccess.thecvf.com/content_CVPR_2020/papers/Durall_Watch_Your_Up-Convolution_CNN_Based_Generative_Deep_Neural_Networks_Are_CVPR_2020_paper.pdf
@@ -20,7 +20,7 @@
   tags:
   - GAN
   - robustness
-  _cache: 68e1e2f9333a43c151ec5f984c029bf299fb3d1cea6a5b2e92c81ac9e474cd6e
+  _cache: a506dcef39dcb9d4a6ffaff69f0e15d360bffa64a0a5043a7fc7f909254b9c1b
 - title: CNN Filter DB - An Empirical Investigation of Trained Convolutional Filters
   authors:
   - Paul Gavrikov
@@ -28,7 +28,7 @@
   link: https://openaccess.thecvf.com/content/CVPR2022/papers/Gavrikov_CNN_Filter_DB_An_Empirical_Investigation_of_Trained_Convolutional_Filters_CVPR_2022_paper.pdf
   publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern
     Recognition
-  date: '2022-06-01'
+  date: ''
   extra-links:
   - type: preprint
     link: https://openaccess.thecvf.com/content/CVPR2022/papers/Gavrikov_CNN_Filter_DB_An_Empirical_Investigation_of_Trained_Convolutional_Filters_CVPR_2022_paper.pdf
@@ -39,7 +39,7 @@
   - ORAL
   - CNN
   - robustness
-  _cache: d7ef559177cad79e3ce509bd24aaf2b4b9205410fbfe66bb1716e0e60124089c
+  _cache: d5d1e73dbea3cc8cf6f0cafcbf2c1d99cbee58f84e6d3c13d9b402d8236cef3d
 - title: FrequencyLowCut Pooling--Plug & Play against Catastrophic Overfitting
   authors:
   - Julia Grabinski
@@ -49,7 +49,7 @@
   link: https://arxiv.org/pdf/2204.00491
   publisher: ECCV 2022 - 17th European Conference, Tel Aviv, Israel, October 23-27,
     2022, Proceedings
-  date: '2022-10-01'
+  date: ''
   extra-links:
   - type: preprint
     link: https://arxiv.org/pdf/2204.00491
@@ -59,7 +59,7 @@
   tags:
   - CNN
   - robustness
-  _cache: df0eaacdae7bf4f21d873e35b2bdb59e43707cd0750e2292433acd541422ed76
+  _cache: 07a668feda462142166b886e4fdade1f778d71b30fd383dcb88aba79d7d65581
 - title: Robust Models are less Over-Confident
   authors:
   - Julia Grabinski
@@ -69,7 +69,7 @@
   link: https://arxiv.org/pdf/2210.05938
   publisher: NeurIPS 22, proceedings of the thirty-sixth Conference on Neural Information
     Processing Systems
-  date: '2022-11-01'
+  date: ''
   extra-links:
   - type: preprint
     link: https://arxiv.org/pdf/2210.05938
@@ -79,4 +79,4 @@
   tags:
   - CNN
   - robustness
-  _cache: cd4cd7c34b382c6b06f7556166855c8c072c74d95475d5619b7c1937410fa28f
+  _cache: f6247142d75b29d7bd0be60d239527eebe9113f9cfba292d680e71476e17175c
