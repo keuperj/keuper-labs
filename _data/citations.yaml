@@ -1,6 +1,14 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- title: Some Publication Title
+  authors:
+  - Steve McQueen
+  - Lightning McQueen
+  publisher: bioRxiv
+  date: ''
+  link: biorxiv.org/1234
+  _cache: a5992d8dfa2d99d1f8971ad00d0813ad065197258aac65f60bc9df6875738254
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
