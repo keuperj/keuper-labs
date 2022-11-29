@@ -1,3 +1,6 @@
+# WARNING: do NOT change month and day at the date -> Bug! Changing the year is fine
+
+
 - title: Watch your Up-Convolution - CNN Based Generative Deep Neural Networks are Failing to Reproduce Spectral Distributions
   date: 2020-6-1 
   authors: 
@@ -53,6 +56,23 @@
     - CNN
     - robustness    
 
+- title: Learning Where To Look--Generative NAS is Surprisingly Efficient
+  date: 2022-6-1
+  authors: 
+    - Jovita Lukasik
+    - Steffen Jung
+    - Margret Keuper
+  link: https://arxiv.org/pdf/2203.08734.pdf
+  publisher: ECCV 2022 - Proceedings of the 17th European Conference, Tel Aviv, Israel
+  extra-links:
+    - type: preprint
+      link: https://arxiv.org/pdf/2203.08734.pdf
+    - type: source
+      link: https://github.com/jovitalukasik/AG-Net
+  image: images/eccv_22.png
+  tags:
+    - NAS  
+
 - title: Robust Models are less Over-Confident
   date: 2022-6-1
   authors: 
@@ -70,4 +90,19 @@
   image: images/neurips_22.png
   tags:
     - CNN
+    - robustness    
+
+- title: Trading off Image Quality for Robustness is not Necessary with Regularized Deterministic Autoencoders
+  date: 2022-6-1
+  authors: 
+    - Amrutha Saseendran
+    - Kathrin Skubch
+    - Margret Keuper
+  link: https://pure.mpg.de/rest/items/item_3473164/component/file_3473165/content
+  publisher: NeurIPS 22, proceedings of the thirty-sixth Conference on Neural Information Processing Systems 
+  extra-links:
+    - type: preprint
+      link: https://pure.mpg.de/rest/items/item_3473164/component/file_3473165/content
+  image: images/neurips_22.png
+  tags:
     - robustness    
