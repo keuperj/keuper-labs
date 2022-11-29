@@ -62,6 +62,7 @@ nav:
 {%
   include card.html
   image="images/itwm.svg"
+  width="50px"
   title="Open PhD Positions"
   subtitle="at Fraunhofer ITWM, Kaiserslautern"
   description="We are constantly looking for talented PhD candidates. Current topics include: *robust DL* and *scalable DL on HPC*. For details contact [Janis](members/janis.html)."
