@@ -12,8 +12,8 @@ nav:
   image="images/margret.jpg"
   link="members/margret.html"
   title="Margret Keuper"
-  subtitle="University Siegen + MPI Saarbrücken"
-  description="Margret is Professor for Visual Computing at the [University Siegen](http://uni-siegen.de) and head of the *Robust Visual Learning Group* at MPI Saarbrücken."
+  subtitle="Computervision + Machine Learning"
+  description="Margret is Professor for Visual Computing at the [University Siegen](https://www.vc.informatik.uni-siegen.de/en/keuper-margret) and head of the *Robust Visual Learning Group* at [MPI Saarbrücken](https://www.mpi-inf.mpg.de/de/departments/computer-vision-and-machine-learning/people/margret-keuper)."
   style="large"
 %}
 {%
@@ -21,8 +21,8 @@ nav:
   image="images/janis_SC15.png"
   link="members/janis.html"
   title="Janis Keuper"
-  subtitle="IMLA Offenburg + ITWM Kaiserslautern"
-  description="Janis is Professor for Data Science and Head of the *Institute for Machine Learning and Analytics* (IMLA) at Offenburg University. He also leads the *Machine Learning in HPC* group at Fraunhofer ITWM in Kaiserslautern."
+  subtitle="Large Scale ML + Computer Vision"
+  description="Janis is Professor for Data Science and Head of the *Institute for Machine Learning and Analytics* (IMLA) at [Offenburg University](https://imla.hs-offenburg.de/). He also leads the *Machine Learning in HPC* group at [Fraunhofer ITWM](https://www.itwm.fraunhofer.de/en/departments/hpc/data-analysis-and-machine-learning.html) in Kaiserslautern."
   style="large"
 %}
 
