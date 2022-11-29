@@ -47,9 +47,8 @@ nav:
 {:.center}
 
 
-## Join
+## Open Positions
 
-### Open PhD Position in Siegen
 {%
   include card.html
   image="images/logovc.png"
