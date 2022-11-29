@@ -10,24 +10,11 @@ title: Home
 # Keuper Labs
 Joint research pages of the labs run by ***Margret and Janis Keuper***. We work on the intersections of **Machine Learning, Computer Vision and High Performance Computing**.
 
-
-
-
 {:.center}
 
 
 {% include section.html %}
 
-# News
-
-<!-- Twitter embeds from https://publish.twitter.com/ -->
-
-<a class="twitter-timeline" data-width="1000" data-height="600" href="https://twitter.com/KeuperLabs?ref_src=twsrc%5Etfw">Recent Tweets</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-{:.center}
-
-<a href="https://twitter.com/KeuperLabs?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @KeuperLabs</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<a href="https://twitter.com/intent/tweet?screen_name=KeuperLabs&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @KeuperLabs</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-{:.center}
 
 # Research
 
@@ -46,7 +33,7 @@ Find our latest papers on Computer Vision, Machine Learning and HPC topics...
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/paper.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -95,4 +82,13 @@ Meet our teams and find open positions...
   text=text
 %}
 
-.
+# News
+
+<!-- Twitter embeds from https://publish.twitter.com/ -->
+
+<a class="twitter-timeline" data-width="1000" data-height="600" href="https://twitter.com/KeuperLabs?ref_src=twsrc%5Etfw">Recent Tweets</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{:.center}
+
+<a href="https://twitter.com/KeuperLabs?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @KeuperLabs</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/intent/tweet?screen_name=KeuperLabs&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @KeuperLabs</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{:.center}
