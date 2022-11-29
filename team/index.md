@@ -58,6 +58,7 @@ nav:
   subtitle="University of Siegen"
   description="We have multiple openings in the new DFG reasearch group *Learning to Sense*."
   style="small"
+%}
 
 {%
   include card.html
