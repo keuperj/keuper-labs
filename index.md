@@ -8,7 +8,7 @@ title: Home
 %}
 
 # Keuper Labs
-Joint research pages of the labs run by ***Margret and Janis Keuper***. We work on the intersection of **Machine Learning and Computer Vision**.
+Joint research pages of the labs run by ***Margret and Janis Keuper***. We work on the intersections of **Machine Learning, Computer Vision and High Performance Computing**.
 
 
 
@@ -32,7 +32,7 @@ Joint research pages of the labs run by ***Margret and Janis Keuper***. We work 
 # Research
 
 {% capture text %}
-Find our latest papers on Computer Vision and Machine Learning topics...
+Find our latest papers on Computer Vision, Machine Learning and HPC topics...
 
 {%
   include link.html
