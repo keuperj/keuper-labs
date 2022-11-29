@@ -59,6 +59,23 @@
   - CNN
   - robustness
   _cache: 4a14e08b6e560cec681a9dd3929783156eb1b7f1b7ac66e83af8542c7f1c1f25
+- title: Learning Where To Look--Generative NAS is Surprisingly Efficient
+  date: '2022-06-01'
+  authors:
+  - Jovita Lukasik
+  - Steffen Jung
+  - Margret Keuper
+  link: https://arxiv.org/pdf/2203.08734.pdf
+  publisher: ECCV 2022 - Proceedings of the 17th European Conference, Tel Aviv, Israel
+  extra-links:
+  - type: preprint
+    link: https://arxiv.org/pdf/2203.08734.pdf
+  - type: source
+    link: https://github.com/jovitalukasik/AG-Net
+  image: images/eccv_22.png
+  tags:
+  - NAS
+  _cache: cf7e3f7cae639ae56508eb2149b5fef73d76a8a2b071894b62bf51400f6ea9cd
 - title: Robust Models are less Over-Confident
   date: '2022-06-01'
   authors:
@@ -79,3 +96,20 @@
   - CNN
   - robustness
   _cache: 28918bc88b4b278706514ec2812dfc54703d13718e032014e56828a59baadd64
+- title: Trading off Image Quality for Robustness is not Necessary with Regularized
+    Deterministic Autoencoders
+  date: '2022-06-01'
+  authors:
+  - Amrutha Saseendran
+  - Kathrin Skubch
+  - Margret Keuper
+  link: https://pure.mpg.de/rest/items/item_3473164/component/file_3473165/content
+  publisher: NeurIPS 22, proceedings of the thirty-sixth Conference on Neural Information
+    Processing Systems
+  extra-links:
+  - type: preprint
+    link: https://pure.mpg.de/rest/items/item_3473164/component/file_3473165/content
+  image: images/neurips_22.png
+  tags:
+  - robustness
+  _cache: c38dd8e3c3423ee2aa25fd8b9f0624061608956781a2c1ea1b729971ce32fb35
