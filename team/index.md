@@ -64,7 +64,7 @@ nav:
 
 {%
   include card.html
-  image="images/logovc.png"
+  image="images/siegen_small.jpg"
   title="Open PhD Position in DFG Research Group"
   link="https://www.learning2sense.de/open-positions" 
   subtitle="University of Siegen"
@@ -74,7 +74,7 @@ nav:
 
 {%
   include card.html
-  image="images/itwm.svg"
+  image="images/itwm_small.jpg"
   width="50px"
   title="Open PhD Positions"
   subtitle="at Fraunhofer ITWM, Kaiserslautern"
@@ -84,7 +84,7 @@ nav:
 
 {%
   include card.html
-  image="images/itwm.svg"
+  image="images/itwm_small.jpg"
   title="Open Position as HPC Research Engineer"
   link="https://jobs.fraunhofer.de/job/Kaiserslautern-Research-Associate-HPC-Machine-Learning-67663/874127901/" 
   subtitle="at Fraunhofer ITWM, Kaiserslautern"
@@ -94,7 +94,7 @@ nav:
 
 {%
   include card.html
-  image="images/RGB_IMLA_RGB_Farbe.jpg"
+  image="images/imla_small.jpg"
   title="Open Position as ML Research Engineer"
   subtitle="at IMLA, Offenburg University"
   description="We are looking to extend our team working on applied ML project with our industrie partners. For details contact [Janis](members/janis.html)."
@@ -103,7 +103,7 @@ nav:
 
 {%
   include card.html
-  image="images/RGB_IMLA_RGB_Farbe.jpg"
+  image="images/imla_small.jpg"
   link="https://recruitingapp-5458.de.umantis.com/Vacancies/687/Description/1"
   title="Open Position as Linux Administrator"
   subtitle="at IMLA, Offenburg University"
