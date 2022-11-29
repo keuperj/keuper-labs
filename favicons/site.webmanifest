@@ -3,7 +3,7 @@
     "short_name": "",
     "icons": [
         {
-            "src": "favicons/android.png",
+            "src": "favicons/kappa.png",
             "sizes": "512x512",
             "type": "image/png"
         }
