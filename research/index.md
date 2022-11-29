@@ -14,7 +14,7 @@ nav:
   title="Videos"
   subtitle="on YouTube"
   description="Find videos from our talks and online paper presentations in our [YouTube Channel](https://www.youtube.com/channel/UC7cACCO3Rv9WAl196pX_3bw)"
-  style="small"
+  style="large"
 %}
 {%
   include card.html
@@ -23,7 +23,7 @@ nav:
   title="Source Code"
   subtitle="On GitHub"
   description="We typically publish the code with our papers on our [GitHub page](https://github.com/keuper-labs)."
-  style="small"
+  style="large"
 %}
 
 ## Publications
