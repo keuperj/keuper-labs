@@ -34,13 +34,14 @@
     link: https://openaccess.thecvf.com/content/CVPR2022/papers/Gavrikov_CNN_Filter_DB_An_Empirical_Investigation_of_Trained_Convolutional_Filters_CVPR_2022_paper.pdf
   - type: source
     link: https://github.com/paulgavrikov/CNN-Filter-DB
-  image: images/cvpr_22.png
+  image: images/cvpr_22_oral.png
   tags:
   - ORAL
   - CNN
   - robustness
-  _cache: d7ef559177cad79e3ce509bd24aaf2b4b9205410fbfe66bb1716e0e60124089c
+  _cache: 2c3821c95477b587e871c7a8f581ae9ebe64cc5a5d3870b15657b2eaf83fad91
 - title: FrequencyLowCut Pooling--Plug & Play against Catastrophic Overfitting
+  date: '2022-06-01'
   authors:
   - Julia Grabinski
   - Steffen Jung
@@ -57,9 +58,9 @@
   tags:
   - CNN
   - robustness
-  _cache: 570588a4ff30650440deb4e30e8a6f8b9d16a75fed7f50ad4f8fc1e53664b394
-  date: ''
+  _cache: 4a14e08b6e560cec681a9dd3929783156eb1b7f1b7ac66e83af8542c7f1c1f25
 - title: Robust Models are less Over-Confident
+  date: '2022-06-01'
   authors:
   - Julia Grabinski
   - Paul Gavrikov
@@ -77,5 +78,4 @@
   tags:
   - CNN
   - robustness
-  _cache: 4bcec549db0c86725d32d8c5412e9303d24c051660a4ab53cb2fdbee26012ce8
-  date: ''
+  _cache: 28918bc88b4b278706514ec2812dfc54703d13718e032014e56828a59baadd64
