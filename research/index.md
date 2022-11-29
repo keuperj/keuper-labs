@@ -9,7 +9,7 @@ nav:
 
 {%
   include card.html
-  image="images/"
+  image="images/youtube.png"
   link="https://www.youtube.com/channel/UC7cACCO3Rv9WAl196pX_3bw"
   title="Videos"
   subtitle="on YouTube"
@@ -18,7 +18,7 @@ nav:
 %}
 {%
   include card.html
-  image="images/"
+  image="images/github.png"
   link="https://github.com/keuper-labs"
   title="Source Code"
   subtitle="On GitHub"
