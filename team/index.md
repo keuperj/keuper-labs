@@ -18,7 +18,7 @@ nav:
 %}
 {%
   include card.html
-  image="images/janis_small.jpg"
+  image="images/janis_SC15_small.jpg"
   link="members/janis.html"
   title="Janis Keuper"
   subtitle="Large Scale ML + Computer Vision"
