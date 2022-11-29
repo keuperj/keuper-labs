@@ -12,7 +12,7 @@ nav:
   image="images/margret.jpg"
   link="members/margret.html"
   title="Margret Keuper"
-  subtitle="University Siegen + MPI Saarbrücken"
+  subtitle="[University Siegen](http://) + MPI Saarbrücken"
   description="Margret is Professor for Visual Computing at the University Siegen and head of the *Robust Visual Learning Group* at MPI Saarbrücken."
   style="large"
 %}
@@ -47,4 +47,17 @@ nav:
 {:.center}
 
 
+## Join
 
+### Open PhD Position in Siegen
+
+### Open PhD Positions at ITWM
+
+### Open Position as HPC Research Engineer at ITWM
+
+### Open Position as ML Research Engineer at IMLA
+
+### Open Position as Linux Administrator at IMLA
+Our research IT is looking for a new team member to build and opperate our compute infrastructure, including HPC-, Hadoop- and Kubernetes-Clusters.  
+
+{% include link.html type="external" link="https://recruitingapp-5458.de.umantis.com/Vacancies/687/Description/1" text="Job Details and Application" icon="fa-server" style="button" %}
