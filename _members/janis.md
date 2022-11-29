@@ -29,6 +29,13 @@ nav:
   icon="fas fa-link"
   flip=true
 %}
+{%
+  include link.html
+  link="mailto:keuler_at_imla.ai"
+  text="keuler_at_imla.ai"
+  icon="fas fa-mail"
+  flip=true
+%}
 
 {% endcapture %}
 
