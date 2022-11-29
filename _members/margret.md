@@ -6,8 +6,6 @@ nav:
 ---
 
 
-
-
 {% capture text %}
 **Margret Keuper** is Professor for Visual Computing at the University Siegen and head of the *Robust Visual Learning Group* at MPI Saarbrücken. Her research interests are ...
 
@@ -38,6 +36,6 @@ nav:
   include feature.html
   image="images/margret.jpg"
   height="100px"
-  title="Margret Keuper"
+  title=""
   text=text
 %}
