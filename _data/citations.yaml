@@ -39,3 +39,23 @@
   - CNN
   - robustness
   _cache: eb078164eeacf556b268bc5c0b102f4aa324dde6de13efc5ffbbd8f9bb90338a
+- title: FrequencyLowCut Pooling--Plug & Play against Catastrophic Overfitting
+  authors:
+  - Julia Grabinski
+  - Steffen Jung
+  - Janis Keuper
+  - Margret Keuper
+  link: https://arxiv.org/pdf/2204.00491
+  publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern
+    Recognition
+  date: '2022-10-01'
+  extra-links:
+  - type: preprint
+    link: https://arxiv.org/pdf/2204.00491
+  - type: source
+    link: https://github.com/GeJulia/flc_pooling
+  image: images/eccv_22.png
+  tags:
+  - CNN
+  - robustness
+  _cache: d3051585474ffca4ccc1dc4804d75a03f0e62950a5fb2478d3d20f6ea6ca1fc6
