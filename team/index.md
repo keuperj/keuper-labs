@@ -34,29 +34,10 @@ nav:
   include list.html
   data="members"
   component="portrait"
-  filters="role: siegen"
+  filters="role: phd"
 %}
 
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: imla"
-%}
 
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: itwm"
-%}
-
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: mpi"
-%}
 {:.center}
 
 
