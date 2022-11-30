@@ -1,8 +1,9 @@
 ---
 name: Jovita Lukasik
 image: images/placeholder.jpg
-description: PhD Student at Siegen | MPI
+description:  at Uni Siegen | MPI
 role: phd
+group: MPI
 aliases:
   - J. Lukasik
   - Lukasik
