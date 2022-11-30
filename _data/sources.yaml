@@ -1,4 +1,6 @@
-# WARNING: do NOT change month and day at the date -> Bug! Changing the year is fine
+# WARNINGS:
+# 1) do NOT change month and day at the date -> Bug! Changing the year is fine
+# 2) NO ":" in titles -> will break yaml file
 
 #-------------------------
 # 2020
@@ -30,7 +32,7 @@
 # 2022
 #-------------------------
 
-- title: Surrogate NAS benchmarks: Going beyond the limited search spaces of tabular NAS benchmarks
+- title: Surrogate NAS benchmarks - Going beyond the limited search spaces of tabular NAS benchmarks
   date: 2022-6-1
   authors: 
     - Arber Zela
