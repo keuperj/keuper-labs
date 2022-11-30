@@ -29,8 +29,8 @@ nav:
 
 {% include section.html %}
 
-## PhD Students
-with affiliations, rondom ordering...
+## PhD Students 
+
 {%
   include list.html
   data="members"
