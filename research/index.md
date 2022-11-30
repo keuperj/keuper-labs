@@ -27,7 +27,7 @@ nav:
 %}
 
 ## Publications
-List of recent papers at A* conferences. A full list of all publications can be found at our [Google Scholar](https://scholar.google.de/citations?user=GzGmPPAAAAAJ) page.
+Selected list of recent papers. A full list of all publications can be found at our [Google Scholar](https://scholar.google.de/citations?user=GzGmPPAAAAAJ) page.
 
 {% include section.html %}
 
