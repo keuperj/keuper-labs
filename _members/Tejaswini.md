@@ -1,7 +1,7 @@
 ---
 name: Tejaswini Medi
 image: images/placeholder.jpg
-description: PhD Student at IMLA
+description: PhD Student at Siegen
 role: phd
 aliases:
   - T. Medi
