@@ -1,8 +1,9 @@
 ---
 name: Paul Gavrikov
 image: images/placeholder.jpg
-description: PhD Student at IMLA
+description:  at IMLA
 role: phd
+group: IMLA
 aliases:
   - P. Gavrikov
   - Gavrikov
