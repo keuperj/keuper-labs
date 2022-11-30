@@ -1,8 +1,9 @@
 ---
 name: Steffen Jung
 image: images/placeholder.jpg
-description: PhD Student at MPI
+description:  at MPI
 role: phd
+group: MPI
 aliases:
   - S. Jung
   - Jung
