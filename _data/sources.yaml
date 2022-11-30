@@ -30,6 +30,42 @@
 # 2022
 #-------------------------
 
+- title: Surrogate NAS benchmarks: Going beyond the limited search spaces of tabular NAS benchmarks
+  date: 2022-6-1
+  authors: 
+    - Arber Zela
+    - Julien Niklas Siems
+    - Lucas Zimmer
+    - Jovita Lukasik
+    - Margret Keuper
+    - Frank Hutter
+  link: https://pure.mpg.de/rest/items/item_3404264/component/file_3404265/content
+  publisher: Proceedings of the Tenth International Conference on Learning Representations
+  extra-links:
+    - type: preprint
+      link: https://pure.mpg.de/rest/items/item_3404264/component/file_3404265/content
+  image: images/iclr_22.png
+  tags:
+    - NAS
+
+- title: Higher-Order Multicuts for Geometric Model Fitting and Motion Segmentation
+  date: 2022-6-1
+  authors: 
+    - Evgeny Levinkov
+    - Amirhossein Kardoost
+    - Bjoern Andres
+    - Margret Keuper
+  link: IEEE Transactions on Pattern Analysis and Machine Intelligence
+  publisher: IEEE Transactions on Pattern Analysis and Machine Intelligence
+  extra-links:
+    - type: preprint
+      link: IEEE Transactions on Pattern Analysis and Machine Intelligence
+  image: images/tpami.png
+  tags:
+    - Multicut
+    - Segmentation
+
+
 - title: CNN Filter DB - An Empirical Investigation of Trained Convolutional Filters
   date: 2022-6-1
   authors: 
