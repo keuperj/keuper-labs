@@ -30,39 +30,13 @@ nav:
 {% include section.html %}
 
 ## PhD Students
-
-### Visual Computing Group at the University of Siegen (Margret)
+with affiliations, rondom ordering...
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="group: Siegen"
+  filters="role:phd"
 %}
-
-### Robust Visual Learning Group at MPI Saarbrücken (Margret)
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="group: MPI"
-%}
-
-### Institute for Machine Learning and Analytics, Offenburg (Janis)
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="group: IMLA"
-%}
-
-### Machine Learning in HPC group at Fraunhofer ITWM (Janis)
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="group: ITWM"
-%}
-
 
 {:.center}
 
