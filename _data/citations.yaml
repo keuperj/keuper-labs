@@ -21,6 +21,42 @@
   - GAN
   - robustness
   _cache: 68e1e2f9333a43c151ec5f984c029bf299fb3d1cea6a5b2e92c81ac9e474cd6e
+- title: Surrogate NAS benchmarks - Going beyond the limited search spaces of tabular
+    NAS benchmarks
+  date: '2022-06-01'
+  authors:
+  - Arber Zela
+  - Julien Niklas Siems
+  - Lucas Zimmer
+  - Jovita Lukasik
+  - Margret Keuper
+  - Frank Hutter
+  link: https://pure.mpg.de/rest/items/item_3404264/component/file_3404265/content
+  publisher: Proceedings of the Tenth International Conference on Learning Representations
+  extra-links:
+  - type: preprint
+    link: https://pure.mpg.de/rest/items/item_3404264/component/file_3404265/content
+  image: images/iclr_22.png
+  tags:
+  - NAS
+  _cache: 6f88d19eebc6a143d9cb1349b6b4aada0f70a75d7bd5b8ba66004998ca105f23
+- title: Higher-Order Multicuts for Geometric Model Fitting and Motion Segmentation
+  date: '2022-06-01'
+  authors:
+  - Evgeny Levinkov
+  - Amirhossein Kardoost
+  - Bjoern Andres
+  - Margret Keuper
+  link: IEEE Transactions on Pattern Analysis and Machine Intelligence
+  publisher: IEEE Transactions on Pattern Analysis and Machine Intelligence
+  extra-links:
+  - type: preprint
+    link: IEEE Transactions on Pattern Analysis and Machine Intelligence
+  image: images/tpami.png
+  tags:
+  - Multicut
+  - Segmentation
+  _cache: 364c439edd1c7246588f7f63188780aea33b58e7bbeec77a5d385e4be379006a
 - title: CNN Filter DB - An Empirical Investigation of Trained Convolutional Filters
   date: '2022-06-01'
   authors:
