@@ -1,8 +1,9 @@
 ---
 name: Tejaswini Medi
 image: images/placeholder.jpg
-description: PhD Student at Siegen
+description: at Uni Siegen
 role: phd
+group: Siegen
 aliases:
   - T. Medi
   - Medi
