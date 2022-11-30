@@ -1,8 +1,9 @@
 ---
 name: Bianca Lamm
 image: images/placeholder.jpg
-description: PhD Student at IMLA
+description:  at IMLA
 role: phd
+group: IMLA
 aliases:
   - B. Lamm
   - Lamm
