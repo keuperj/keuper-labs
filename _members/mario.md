@@ -1,8 +1,9 @@
 ---
 name: Mario Fernandez
 image: images/placeholder.jpg
-description: PhD Student at ITWM
+description: at ITWM
 role: phd
+group: ITWM
 aliases:
   - M. Fernandez
   - Fernandez
