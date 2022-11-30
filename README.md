@@ -1,44 +1,31 @@
-![GitHub last commit](https://img.shields.io/github/last-commit/greenelab/lab-website-template)
 
-<h1 align="center">Lab Website Template</h1>
-<p align="center">
-<img height="200" src="https://raw.githubusercontent.com/greenelab/lab-website-template/main/favicons/share-thumbnail.jpg?raw=true" alt="Lab Website Template">
-</p>
-An easy-to-use, flexible website template for labs, including automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel and more time running your lab.
+<h1 align="center">Keuper Labs Website</h1>
 
-#### 🔔 Still in pre-release/preview. We need testers! 🔔
+## FAQ
+### How to add a paper
+* edit (in GitLab web UI) ```_data/sources.yaml```
+* copy and edit existing entry
+* order of entries is the order of papers on the site
+* read Warinings in file header!
+* check if website built correctly
 
-Please help us out!
-How easy is the template to use?
-How flexible is it?
-How's our documentation?
+### How to edit personal page
+* edit (in GitLab web UI) your .md file ```_members``` folder 
+* check if website built correctly
 
-## Features
+### How to add person to team
+* copy and edit (in GitLab web UI) .md file of other person in the ```_members``` folder 
+* check if website built correctly
 
-- **Automatically generated citations** (using [Manubot](https://manubot.org)) from **just an identifier** (DOI, PubMed ID, and many more)
-- Automatically pull in and display tags from GitHub repositories
-- Works and looks good on all major desktop and mobile browsers
-- A suite of pre-built components:
-  - formatted tables and code blocks
-  - social media links with icons
-  - figures with captions
-  - image galleries
-  - multi-size cards with image and text
-  - citations
-  - ...and many more!
-- A **home page**, where you can highlight the most important things that make your lab special
-- A **research page**, with a sorted, searchable list of all your published works
-- A **tools page**, where you can show off your software, datasets, or other useful things
-- A **team** page, compiled automatically from individual members
-- Individual **team member pages** with bios, assignable roles, and social media links
-- A **blog page**, with a sorted, grouped, tagged list of all your posts
+### Changes are not visible online -> what to do?
+* build bot sometimes takes 2min to compile
+* update website cache
+* check [output of the build bot](https://github.com/keuperj/keuper-labs/actions) -> red x ist fail. click on the job to get an error message. In most cases the yaml is broken -> NO : in data fields of a yaml file!
 
-## Gallery
+### How to do other changes 
+-> read full docu below
 
-[🖼️ See who else is using the template and what it can do!](https://github.com/greenelab/lab-website-template/wiki/Gallery)
-
-## Documentation
+## Full Documentation
 
 [▶️ Get Started](https://github.com/greenelab/lab-website-template/wiki/Get-Started)
 
