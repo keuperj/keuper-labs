@@ -1,8 +1,9 @@
 ---
 name: Shashank Agnihotri
 image: images/placeholder.jpg
-description: PhD Student at Uni Siegen
+description:  at Uni Siegen
 role: phd
+group: Siegen
 aliases:
   - S. Agnihotri
   - Agnihotri
