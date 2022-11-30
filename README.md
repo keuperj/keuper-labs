@@ -5,16 +5,19 @@
 ### How to add a paper
 * edit (in GitLab web UI) ```_data/sources.yaml```
 * copy and edit existing entry
+* upload (via gitlab UI) image of conference (ratio is 100x200) to ```images```
 * order of entries is the order of papers on the site
 * read Warinings in file header!
 * check if website built correctly
 
 ### How to edit personal page
 * edit (in GitLab web UI) your .md file ```_members``` folder 
+* upload (via gitlab UI) your image (ratio is 1:1) to ```images```
 * check if website built correctly
 
 ### How to add person to team
 * copy and edit (in GitLab web UI) .md file of other person in the ```_members``` folder 
+* upload (via gitlab UI) image (ratio is 1:1) to ```images```
 * check if website built correctly
 
 ### Changes are not visible online -> what to do?
