@@ -20,4 +20,4 @@ Our publicly fundet reserach projects...
 
 ## Past Projects
 
-{% include list.html component="card" data="tools" filters="group: past" style="small" %}
+{% include list.html component="card" data="tools" filters="group: past" style="large" %}
