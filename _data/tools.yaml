@@ -1,7 +1,7 @@
 - title: Deep Topology Learning
   subtitle: with Uni Freiburg, LRZ + Psiori
   group: past
-  image: images/BMBF.jepg
+  image: images/BMBF.jpeg
   link: http://detol.de
   description: AutoML at HPC scale. Find and optimize DNN hyper-parameters and topologies.
   tags:
