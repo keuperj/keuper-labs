@@ -1,3 +1,13 @@
+- title: Learning to Sense
+  subtitle: DFG Research Unit 5336
+  group: past
+  image: images/dfg.jpg
+  link: https://www.learning2sense.de/start
+  description: Jointly Optimizing Sensor System Designs and Neural Networks
+  tags:
+    - DFG
+    
+
 - title: Deep Topology Learning
   subtitle: with Uni Freiburg, LRZ + Psiori
   group: past
