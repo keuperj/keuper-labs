@@ -6,7 +6,7 @@ nav:
 ---
 
 # <i class="fas fa-tools"></i>Projects
-
+Our publicly fundet reserach projects...
 
 {% include search-info.html %}
 
