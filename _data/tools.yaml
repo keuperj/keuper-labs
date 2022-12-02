@@ -1,3 +1,14 @@
+#- title: new BMBF
+#  subtitle: with 
+#  group: current
+#  image: images/BMBF.jpeg
+#  link: http://detol.de
+#  description: 
+#  tags:
+#    - BMBF
+#    - NAS
+
+
 - title: Learning to Sense
   subtitle: DFG Research Unit 5336
   group: current
@@ -34,4 +45,12 @@
   tags:
     - BMBF
     - NAS
+    
+- title: DFG Research Project 360826079
+  group: past
+  image: images/dfg.jpg
+  link: https://gepris.dfg.de/gepris/projekt/360826079?language=en
+  description: Video Segmentation from Multiple Representations using Lifted Multicuts
+  tags:
+    - DFG
 
