@@ -17,27 +17,27 @@ Joint research pages of the labs run by ***Margret and Janis Keuper***. We work 
 ### Latest Highlights
 {%
   include card.html
-  image="images/dfg.png"
+  image="images/dfg.jpg"
   link="https://www.learning2sense.de/start"
-  title="New DFG Research Group"
-  subtitle="*Learning to Sense*"
+  title="New DFG Research Group in Siegen"
+  subtitle="Learning to Sense"
   style="small"
 %}
 {%
   include card.html
-  image="images/neurips.png"
+  image="images/neurips_22.png"
   link="https://keuperj.github.io/keuper-labs/research/"
-  title="2 Paper"
-  subtitle="at NeurIPS 22"
+  title="NeurIPS 22"
+  subtitle="2 Paper accepted"
   style="small"
 %}
 
 {%
   include card.html
-  image="images/cvpr_22.png"
+  image="images/cvpr_22_oral.png"
   link="https://keuperj.github.io/keuper-labs/research/"
-  title="Oral"
-  subtitle="at CVPR 22"
+  title="CVPR 22"
+  subtitle="oral presentation "
   style="small"
 %}
 
