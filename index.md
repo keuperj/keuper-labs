@@ -14,42 +14,30 @@ Joint research pages of the labs run by ***Margret and Janis Keuper***. We work 
 
 {:.center}
 
-### Highlights
+### Latest Highlights
 {%
   include card.html
-  image="images/youtube.png"
-  link="https://www.youtube.com/channel/UC7cACCO3Rv9WAl196pX_3bw"
-  title="Videos"
-  subtitle="on YouTube"
-  description="Find videos from our talks and online paper presentations in our [YouTube Channel](https://www.youtube.com/channel/UC7cACCO3Rv9WAl196pX_3bw)"
+  image="images/dfg.png"
+  link="https://www.learning2sense.de/start"
+  title="New DFG Research Group"
+  subtitle="*Learning to Sense*"
   style="small"
 %}
 {%
   include card.html
-  image="images/github.png"
-  link="https://github.com/keuper-labs"
-  title="Source Code"
-  subtitle="On GitHub"
-  description="We typically publish the code with our papers on our [GitHub page](https://github.com/keuper-labs)."
+  image="images/neurips.png"
+  link="https://keuperj.github.io/keuper-labs/research/"
+  title="2 Paper"
+  subtitle="at NeurIPS 22"
   style="small"
 %}
 
 {%
   include card.html
-  image="images/youtube.png"
-  link="https://www.youtube.com/channel/UC7cACCO3Rv9WAl196pX_3bw"
-  title="Videos"
-  subtitle="on YouTube"
-  description="Find videos from our talks and online paper presentations in our [YouTube Channel](https://www.youtube.com/channel/UC7cACCO3Rv9WAl196pX_3bw)"
-  style="small"
-%}
-{%
-  include card.html
-  image="images/github.png"
-  link="https://github.com/keuper-labs"
-  title="Source Code"
-  subtitle="On GitHub"
-  description="We typically publish the code with our papers on our [GitHub page](https://github.com/keuper-labs)."
+  image="images/cvpr_22.png"
+  link="https://keuperj.github.io/keuper-labs/research/"
+  title="Oral"
+  subtitle="at CVPR 22"
   style="small"
 %}
 
