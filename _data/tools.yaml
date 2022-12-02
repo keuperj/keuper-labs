@@ -22,6 +22,7 @@
   subtitle: BMWk fundet project
   group: current
   image: images/gaiax.png
+  width: 50
   link: https://gaia-x4ki.eu/
   description: The GAIA-X 4 KI project investigates the development of a data and service ecosystem for the training and validating of artificial intelligence (AI) applications.
   tags:
