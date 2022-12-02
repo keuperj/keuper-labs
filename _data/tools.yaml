@@ -6,7 +6,24 @@
   description: Jointly Optimizing Sensor System Designs and Neural Networks
   tags:
     - DFG
+ 
+ - title: Gaia-X4KI
+  subtitle: BMWk fundet project
+  group: current
+  image: images/gaiax.png
+  link: https://gaia-x4ki.eu/
+  description: The GAIA-X 4 KI project investigates the development of a data and service ecosystem for the training and validating of artificial intelligence (AI) applications.
+  tags:
+    - BMWk
     
+ - title: Q-AMeLiA
+  subtitle: fundet by the state of Baden-Würtemberg
+  group: current
+  image: images/qamelia.jpg
+  link: https://q-amelia.in.hs-furtwangen.de/
+  description: Quality Assurance of Machine Learning Applications.   
+  tags:
+    - BW
 
 - title: Deep Topology Learning
   subtitle: with Uni Freiburg, LRZ + Psiori
