@@ -14,6 +14,44 @@ Joint research pages of the labs run by ***Margret and Janis Keuper***. We work 
 
 {:.center}
 
+### Highlights
+{%
+  include card.html
+  image="images/youtube.png"
+  link="https://www.youtube.com/channel/UC7cACCO3Rv9WAl196pX_3bw"
+  title="Videos"
+  subtitle="on YouTube"
+  description="Find videos from our talks and online paper presentations in our [YouTube Channel](https://www.youtube.com/channel/UC7cACCO3Rv9WAl196pX_3bw)"
+  style="small"
+%}
+{%
+  include card.html
+  image="images/github.png"
+  link="https://github.com/keuper-labs"
+  title="Source Code"
+  subtitle="On GitHub"
+  description="We typically publish the code with our papers on our [GitHub page](https://github.com/keuper-labs)."
+  style="small"
+%}
+
+{%
+  include card.html
+  image="images/youtube.png"
+  link="https://www.youtube.com/channel/UC7cACCO3Rv9WAl196pX_3bw"
+  title="Videos"
+  subtitle="on YouTube"
+  description="Find videos from our talks and online paper presentations in our [YouTube Channel](https://www.youtube.com/channel/UC7cACCO3Rv9WAl196pX_3bw)"
+  style="small"
+%}
+{%
+  include card.html
+  image="images/github.png"
+  link="https://github.com/keuper-labs"
+  title="Source Code"
+  subtitle="On GitHub"
+  description="We typically publish the code with our papers on our [GitHub page](https://github.com/keuper-labs)."
+  style="small"
+%}
 
 {% include section.html %}
 
