@@ -30,7 +30,7 @@ We are currently re-building this site. Hence, content is still missing here and
   image="images/neurips_22.png"
   link="https://keuperj.github.io/keuper-labs/research/?search=neurips%2022"
   title="NeurIPS 22"
-  subtitle="2 Paper accepted"
+  subtitle="2 full paper and 1 workshop paper accepted"
   style="small"
 %}
 
@@ -39,7 +39,7 @@ We are currently re-building this site. Hence, content is still missing here and
   image="images/cvpr_22_oral.png"
   link="https://keuperj.github.io/keuper-labs/research/?search=cvpr%2022"
   title="CVPR 22"
-  subtitle="oral presentation "
+  subtitle="oral paper presentation "
   style="small"
 %}
 
