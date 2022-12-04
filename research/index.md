@@ -7,6 +7,46 @@ nav:
 
 # <i class="fas fa-microscope"></i>Research
 
+### Highlights
+{%
+  include card.html
+  image="images/dfg.jpg"
+  link="https://www.learning2sense.de/start"
+  title="New DFG Research Group in Siegen"
+  subtitle="Learning to Sense"
+  style="small"
+%}
+{%
+  include card.html
+  image="images/neurips_22.png"
+  link="https://keuperj.github.io/keuper-labs/research/?search=neurips%2022"
+  title="NeurIPS 22"
+  subtitle="2 full paper and 1 workshop paper accepted"
+  style="small"
+%}
+
+{%
+  include card.html
+  image="images/eccv_22.png"
+  link="https://keuperj.github.io/keuper-labs/research/?search=ECCV%2022"
+  title="ECCV 22"
+  subtitle="2 full papers"
+  style="small"
+%}
+
+{%
+  include card.html
+  image="images/cvpr_22_oral.png"
+  link="https://keuperj.github.io/keuper-labs/research/?search=cvpr%2022"
+  title="CVPR 22"
+  subtitle="oral paper presentation "
+  style="small"
+%}
+
+
+
+### Resources
+
 {%
   include card.html
   image="images/youtube.png"
