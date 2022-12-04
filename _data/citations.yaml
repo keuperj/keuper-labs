@@ -10,7 +10,7 @@
   - Janis Keuper
   link: https://openaccess.thecvf.com/content_CVPR_2020/papers/Durall_Watch_Your_Up-Convolution_CNN_Based_Generative_Deep_Neural_Networks_Are_CVPR_2020_paper.pdf
   publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern
-    Recognition
+    Recognition (CVPR 2020)
   extra-links:
   - type: preprint
     link: https://openaccess.thecvf.com/content_CVPR_2020/papers/Durall_Watch_Your_Up-Convolution_CNN_Based_Generative_Deep_Neural_Networks_Are_CVPR_2020_paper.pdf
@@ -20,7 +20,7 @@
   tags:
   - GAN
   - robustness
-  _cache: 68e1e2f9333a43c151ec5f984c029bf299fb3d1cea6a5b2e92c81ac9e474cd6e
+  _cache: 062fd2cf8a0452a77445d10b0879c9a244a27bbb2ac5be49839db36359dfe2cd
 - title: Surrogate NAS benchmarks - Going beyond the limited search spaces of tabular
     NAS benchmarks
   date: '2022-06-01'
@@ -64,7 +64,7 @@
   - Janis Keuper
   link: https://openaccess.thecvf.com/content/CVPR2022/papers/Gavrikov_CNN_Filter_DB_An_Empirical_Investigation_of_Trained_Convolutional_Filters_CVPR_2022_paper.pdf
   publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern
-    Recognition
+    Recognition (CVPR 2022)
   extra-links:
   - type: preprint
     link: https://openaccess.thecvf.com/content/CVPR2022/papers/Gavrikov_CNN_Filter_DB_An_Empirical_Investigation_of_Trained_Convolutional_Filters_CVPR_2022_paper.pdf
@@ -79,7 +79,7 @@
   - ORAL
   - CNN
   - robustness
-  _cache: 774345cf007e40b0a3ed4295f07cc33513395df468dfcf2978e9226e0233996c
+  _cache: c8e86eef55606212591175025bb6cc60dd9edaf1fe9afd5a5ef99aa9b32e22f4
 - title: FrequencyLowCut Pooling--Plug & Play against Catastrophic Overfitting
   date: '2022-06-01'
   authors:
