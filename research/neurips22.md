@@ -13,7 +13,12 @@ title: NeurIPS 22
 
 ### Trading off Image Quality for Robustness is not Necessary with Regularized Deterministic Autoencoders
 #### Amrutha Saseendran, Kathrin Skubch, Margret Keuper
-{% capture text %}
+{%
+  include figure.html
+  image="images/neurips22_poster2.jpeg"
+  link="https://pure.mpg.de/rest/items/item_3473164/component/file_3473165/content"
+  width="1000px"
+%}
 The susceptibility of Variational Autoencoders (VAEs) to adversarial attacks indicates the necessity to evaluate the robustness of the learned representations along
 with the generation performance. The vulnerability of VAEs has been attributed
 to the limitations associated with their variational formulation. Deterministic autoencoders could overcome the practical limitations associated with VAEs and
@@ -27,6 +32,7 @@ benchmark datasets to quantify the robustness of the proposed approach based
 on the adversarial attacks targeted at VAEs. Our empirical findings show that the
 proposed method achieves significant performance in both robustness and fidelity
 when compared to the robust VAE models.
+
 {%
   include link.html
   link="https://pure.mpg.de/rest/items/item_3473164/component/file_3473165/content"
@@ -41,15 +47,7 @@ when compared to the robust VAE models.
   icon="fa-brands fa-github"
   flip=true
 %}
-{% endcapture %}
 
-{%
-  include feature.html
-  image="images/neurips22_poster2.jpeg"
-  link="https://pure.mpg.de/rest/items/item_3473164/component/file_3473165/content"
-  title="Abstract"
-  text=text
-%}
 
 ### Robust Models are less Over-Confident 
 #### Julia Grabinski, Paul Gavrikov, Janis Keuper, Margret Keuper
