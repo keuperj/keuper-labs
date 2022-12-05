@@ -7,9 +7,7 @@ nav:
 
 # <i class="fas fa-microscope"></i>NeurIPS 22
 
-
-
-<a class="twitter-timeline" data-width="1000" data-height="1200" href="https://twitter.com/search?q=from%3A%40KeuperLabs %23NeurIPS2022 include%3Aretweets include%3Anativeretweets&src=typed_query">Tweets from NeurIPS</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-width="1000" data-height="1200" href="https://twitter.com/search?q=from%3A%40KeuperLabs %23NeurIPS2022 include%3Aretweets include%3Anativeretweets">Tweets from NeurIPS</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 {:.center}
 
 
