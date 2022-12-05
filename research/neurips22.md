@@ -7,7 +7,7 @@ title: NeurIPS 22
 
 <!-- Twitter embeds from https://publish.twitter.com/ -->
 
-<a class="twitter-timeline" data-width="1000" data-height="1200" href="https://twitter.com/KeuperLabs?ref_src=twsrc%5Etfw">Recent Tweets</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">It’s a wrap! Time to go home after many fruitful discussions at <a href="https://twitter.com/hashtag/NeurIPS2022?src=hash&amp;ref_src=twsrc%5Etfw">#NeurIPS2022</a> <br>Feel free to check out our papers: Robustness &amp; Overcofidence: <a href="https://t.co/2ecMJ0iYzk">https://t.co/2ecMJ0iYzk</a><br>Medical Imaging CNNs: <a href="https://t.co/3kPeREIvUa">https://t.co/3kPeREIvUa</a> <a href="https://t.co/t1XUwSxQWT">pic.twitter.com/t1XUwSxQWT</a></p>&mdash; Paul @NeurIPS2022 (@PaulGavrikov) <a href="https://twitter.com/PaulGavrikov/status/1599445513090531330?ref_src=twsrc%5Etfw">December 4, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 ## Full Paper
 
