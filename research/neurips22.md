@@ -1,16 +1,13 @@
 ---
 title: NeurIPS 22
-nav:
-  order: 2
-  tooltip: Conference Summary 
+
 ---
 
 # <i class="fas fa-microscope"></i>NeurIPS 22
 
 <!-- Twitter embeds from https://publish.twitter.com/ -->
 
-<a href="https://twitter.com/intent/tweet?button_hashtag=LoveTwitter&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-size="large" data-related="keuperlabs" data-lang="en" data-show-count="false">Tweet #LoveTwitter</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+<a class="twitter-timeline" data-width="1000" data-height="1200" href="https://twitter.com/KeuperLabs">Recent Tweets</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Full Paper
 
