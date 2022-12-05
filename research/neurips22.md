@@ -7,7 +7,7 @@ title: NeurIPS 22
 
 <!-- Twitter embeds from https://publish.twitter.com/ -->
 
-<a class="twitter-timeline" data-width="1000" data-height="1200" href="https://twitter.com/KeuperLabs">Recent Tweets</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-width="1000" data-height="1200" href="https://twitter.com/search?q=from%3A%40KeuperLabs %23NeurIPS2022 include%3Aretweets include%3Anativeretweets">Recent Tweets</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Full Paper
 
@@ -32,7 +32,7 @@ when compared to the robust VAE models.
   include link.html
   link="https://github.com/boschresearch/Robust_GMM_DAE"
   text="Source"
-  icon="fas fa-github"
+  icon="fa-brands fa-github"
   flip=true
 %}
 {% endcapture %}
