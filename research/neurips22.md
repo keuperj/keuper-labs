@@ -6,7 +6,7 @@ title: NeurIPS 22
 # <i class="fas fa-microscope"></i>NeurIPS 22
 
 <!-- Twitter embeds from https://publish.twitter.com/ -->
-
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">It’s <a href="https://twitter.com/NeurIPSConf?ref_src=twsrc%5Etfw">@NeurIPSConf</a> time! <a href="https://t.co/8xrKYQ6hYf">pic.twitter.com/8xrKYQ6hYf</a></p>&mdash; Paul @NeurIPS2022 (@PaulGavrikov) <a href="https://twitter.com/PaulGavrikov/status/1597250371482660865?ref_src=twsrc%5Etfw">November 28, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">It’s a wrap! Time to go home after many fruitful discussions at <a href="https://twitter.com/hashtag/NeurIPS2022?src=hash&amp;ref_src=twsrc%5Etfw">#NeurIPS2022</a> <br>Feel free to check out our papers: Robustness &amp; Overcofidence: <a href="https://t.co/2ecMJ0iYzk">https://t.co/2ecMJ0iYzk</a><br>Medical Imaging CNNs: <a href="https://t.co/3kPeREIvUa">https://t.co/3kPeREIvUa</a> <a href="https://t.co/t1XUwSxQWT">pic.twitter.com/t1XUwSxQWT</a></p>&mdash; Paul @NeurIPS2022 (@PaulGavrikov) <a href="https://twitter.com/PaulGavrikov/status/1599445513090531330?ref_src=twsrc%5Etfw">December 4, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 ## Full Paper
@@ -82,6 +82,8 @@ the models’ prediction confidences.
 
 
 ## Workshop Paper
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Had a great time at the <a href="https://twitter.com/hashtag/medneurips?src=hash&amp;ref_src=twsrc%5Etfw">#medneurips</a> workshop today presenting „Does Medical Imaging learn different Convolution Filters?“ <a href="https://t.co/3kPeREZyWa">https://t.co/3kPeREZyWa</a> <a href="https://t.co/5rdHmszYHT">pic.twitter.com/5rdHmszYHT</a></p>&mdash; Paul @NeurIPS2022 (@PaulGavrikov) <a href="https://twitter.com/PaulGavrikov/status/1598783692238749697?ref_src=twsrc%5Etfw">December 2, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 ### MedNeurIPS Workshop: Does Medical Imaging learn different Convolution Filters?
 #### Paul Gavrikov, Janis Keuper
