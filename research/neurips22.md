@@ -29,17 +29,22 @@ representations. We conduct extensive experimental studies on popular image
 benchmark datasets to quantify the robustness of the proposed approach based
 on the adversarial attacks targeted at VAEs. Our empirical findings show that the
 proposed method achieves significant performance in both robustness and fidelity
-when compared to the robust VAE models. An implementation is available at
-https://github.com/boschresearch/Robust_GMM_DAE.
+when compared to the robust VAE models.
 
-{:.center}
+{%
+  include link.html
+  link="https://github.com/boschresearch/Robust_GMM_DAE"
+  text="Source"
+  icon="fas fa-github"
+  flip=true
+%}
 {% endcapture %}
 
 {%
   include feature.html
   image="images/paper.jpg"
   link="https://pure.mpg.de/rest/items/item_3473164/component/file_3473165/content"
-  title="Our Research"
+  title="Abstract"
   text=text
 %}
 
@@ -62,14 +67,13 @@ Further, our analysis of robust models shows that not only AT but also the model
 building blocks (like activation functions and pooling) have a strong influence on
 the models’ prediction confidences.
 
-{:.center}
 {% endcapture %}
 
 {%
   include feature.html
   image="images/paper.jpg"
   link="https://arxiv.org/pdf/2210.05938.pdf"
-  title="Our Research"
+  title="Abstract"
   text=text
 %}
 
