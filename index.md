@@ -28,7 +28,7 @@ We are currently re-building this site. Hence, content is still missing here and
 {%
   include card.html
   image="images/neurips_22.png"
-  link="https://keuperj.github.io/keuper-labs/research/?search=neurips%2022"
+  link="https://www.keuper-labs.org/research/neurips22.html"
   title="NeurIPS 22"
   subtitle="2 full paper and 1 workshop paper accepted"
   style="small"
