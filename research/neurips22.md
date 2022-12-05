@@ -9,8 +9,7 @@ nav:
 
 <!-- Twitter embeds from https://publish.twitter.com/ -->
 
-
-<a href="https://twitter.com/intent/tweet?screen_name=search&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-size="large" data-related="keuperlabs" data-lang="en" data-show-count="false">Tweets from NeurIPS</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-width="1000" data-height="1200" href="https://twitter.com/KeuperLabs?ref_src=twsrc%5Etfw">Recent Tweets</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Full Paper
 
@@ -79,9 +78,10 @@ the models’ prediction confidences.
 
 ## Workshop Paper
 
-### title
+### MedNeurIPS Workshop: Does Medical Imaging learn different Convolution Filters?
+#### Paul Gavrikov, Janis Keuper
 {% capture text %}
-Find our latest papers on Computer Vision, Machine Learning and HPC topics...
+Recent work has investigated the distributions of learned convolution filters through a large-scale study containing hundreds of heterogeneous image models. Surprisingly, on average, the distributions only show minor drifts in comparisons of various studied dimensions including the learned task, image domain, or dataset. However, among the studied image domains, medical imaging models appeared to show significant outliers through "spikey" distributions, and, therefore, learn clusters of highly specific filters different from other domains. Following this observation, we study the collected medical imaging models in more detail. We show that instead of fundamental differences, the outliers are due to specific processing in some architectures. Quite the contrary, for standardized architectures, we find that models trained on medical data do not significantly differ in their filter distributions from similar architectures trained on data from other domains. Our conclusions reinforce previous hypotheses stating that pre-training of imaging models can be done with any kind of diverse image data.
 
 {:.center}
 {% endcapture %}
@@ -89,7 +89,7 @@ Find our latest papers on Computer Vision, Machine Learning and HPC topics...
 {%
   include feature.html
   image="images/paper.jpg"
-  link="research"
-  title="Our Research"
+  link="https://arxiv.org/pdf/2210.13799"
+  title="Abstract"
   text=text
 %}
