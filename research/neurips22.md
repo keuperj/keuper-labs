@@ -7,7 +7,7 @@ title: NeurIPS 22
 
 <!-- Twitter embeds from https://publish.twitter.com/ -->
 
-<a class="twitter-timeline" data-width="1000" data-height="1200" href="https://twitter.com/search?q=from%3A%40KeuperLabs %23NeurIPS2022 include%3Aretweets include%3Anativeretweets">Recent Tweets</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-width="1000" data-height="1200" href="https://twitter.com/KeuperLabs?ref_src=twsrc%5Etfw">Recent Tweets</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Full Paper
 
@@ -27,7 +27,13 @@ benchmark datasets to quantify the robustness of the proposed approach based
 on the adversarial attacks targeted at VAEs. Our empirical findings show that the
 proposed method achieves significant performance in both robustness and fidelity
 when compared to the robust VAE models.
-
+{%
+  include link.html
+  link="https://pure.mpg.de/rest/items/item_3473164/component/file_3473165/content"
+  text="PDF"
+  icon="fa-solid fa-file-pdf"
+  flip=true
+%}
 {%
   include link.html
   link="https://github.com/boschresearch/Robust_GMM_DAE"
@@ -39,7 +45,7 @@ when compared to the robust VAE models.
 
 {%
   include feature.html
-  image="images/paper.jpg"
+  image="images/neurips22_poster2.jpeg"
   link="https://pure.mpg.de/rest/items/item_3473164/component/file_3473165/content"
   title="Abstract"
   text=text
@@ -63,12 +69,18 @@ less overconfident with their decisions, even on clean data than non-robust mode
 Further, our analysis of robust models shows that not only AT but also the model’s
 building blocks (like activation functions and pooling) have a strong influence on
 the models’ prediction confidences.
-
+{%
+  include link.html
+  link="https://arxiv.org/pdf/2210.05938.pdf"
+  text="PDF"
+  icon="fa-solid fa-file-pdf"
+  flip=true
+%}
 {% endcapture %}
 
 {%
   include feature.html
-  image="images/paper.jpg"
+  image="images/neurips22_poster1.jpeg"
   link="https://arxiv.org/pdf/2210.05938.pdf"
   title="Abstract"
   text=text
@@ -81,12 +93,18 @@ the models’ prediction confidences.
 {% capture text %}
 Recent work has investigated the distributions of learned convolution filters through a large-scale study containing hundreds of heterogeneous image models. Surprisingly, on average, the distributions only show minor drifts in comparisons of various studied dimensions including the learned task, image domain, or dataset. However, among the studied image domains, medical imaging models appeared to show significant outliers through "spikey" distributions, and, therefore, learn clusters of highly specific filters different from other domains. Following this observation, we study the collected medical imaging models in more detail. We show that instead of fundamental differences, the outliers are due to specific processing in some architectures. Quite the contrary, for standardized architectures, we find that models trained on medical data do not significantly differ in their filter distributions from similar architectures trained on data from other domains. Our conclusions reinforce previous hypotheses stating that pre-training of imaging models can be done with any kind of diverse image data.
 
-{:.center}
+{%
+  include link.html
+  link="https://arxiv.org/pdf/2210.13799"
+  text="PDF"
+  icon="fa-solid fa-file-pdf"
+  flip=true
+%}
 {% endcapture %}
 
 {%
   include feature.html
-  image="images/paper.jpg"
+  image="images/neurips22_poster3.jpeg"
   link="https://arxiv.org/pdf/2210.13799"
   title="Abstract"
   text=text
