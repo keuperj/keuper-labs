@@ -76,3 +76,5 @@ Selected list of recent papers. A full list of all publications can be found at 
 {% include search-info.html %}
 
 {% include list.html data="citations" component="citation" style="rich" %}
+
+## A full list of all publications at our [Google Scholar](https://scholar.google.de/citations?user=GzGmPPAAAAAJ)
