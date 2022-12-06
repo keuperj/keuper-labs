@@ -21,6 +21,62 @@
   - GAN
   - robustness
   _cache: 062fd2cf8a0452a77445d10b0879c9a244a27bbb2ac5be49839db36359dfe2cd
+- title: Smooth variational graph embeddings for efficient neural architecture search
+  date: '2021-06-01'
+  authors:
+  - Jovita Lukasik
+  - David Friede
+  - Arber Zela
+  - Frank Hutter
+  - Margret Keuper
+  link: https://arxiv.org/pdf/2010.04683
+  publisher: Proceedings of the Nineth International Conference on Learning Representations
+    (ICLR 21)
+  extra-links:
+  - type: preprint
+    link: https://arxiv.org/pdf/2010.04683
+  - type: source
+    link: https://github.com/jovitalukasik/SVGe
+  image: images/iclr_22.png
+  tags:
+  - NAS
+  _cache: 626d43e64ddda4c7592675e8e8c5dcd2e4e408621f97c1a55ea41a185571ae16
+- title: Shape your Space - A Gaussian Mixture Regularization Approach to Deterministic
+    Autoencoders
+  date: '2021-06-01'
+  authors:
+  - Amrutha Saseendran
+  - Kathrin Skubch
+  - Stefan Falkner
+  - Margret Keuper
+  link: https://proceedings.neurips.cc/paper/2021/file/3c057cb2b41f22c0e740974d7a428918-Paper.pdf
+  publisher: NeurIPS 21, proceedings of the thirty-sixth Conference on Neural Information
+    Processing Systems
+  extra-links:
+  - type: preprint
+    link: https://proceedings.neurips.cc/paper/2021/file/3c057cb2b41f22c0e740974d7a428918-Paper.pdf
+  image: images/neurips_22.png
+  tags:
+  - VAE
+  _cache: 67b5ff071b42e075f6c73d4bafb5437768997ec11d744c96bf302b2590c997f3
+- title: Multi-Class Multi-Instance Count Conditioned Adversarial Image Generation
+  date: '2021-06-01'
+  authors:
+  - Amrutha Saseendran
+  - Kathrin Skubch
+  - Margret Keuper
+  link: https://openaccess.thecvf.com/content/ICCV2021/papers/Saseendran_Multi-Class_Multi-Instance_Count_Conditioned_Adversarial_Image_Generation_ICCV_2021_paper.pdf
+  publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern
+    Recognition (CVPR 2021)
+  extra-links:
+  - type: preprint
+    link: https://openaccess.thecvf.com/content/ICCV2021/papers/Saseendran_Multi-Class_Multi-Instance_Count_Conditioned_Adversarial_Image_Generation_ICCV_2021_paper.pdf
+  image: images/cvpr_21.jpg
+  tags:
+  - ORAL
+  - CNN
+  - robustness
+  _cache: c247c19aa5fe05ecb1750028cb5acc836e78b11fab5a804256144883a5268ef9
 - title: Surrogate NAS benchmarks - Going beyond the limited search spaces of tabular
     NAS benchmarks
   date: '2022-06-01'
@@ -33,13 +89,14 @@
   - Frank Hutter
   link: https://pure.mpg.de/rest/items/item_3404264/component/file_3404265/content
   publisher: Proceedings of the Tenth International Conference on Learning Representations
+    (ICLR 22)
   extra-links:
   - type: preprint
     link: https://pure.mpg.de/rest/items/item_3404264/component/file_3404265/content
   image: images/iclr_22.png
   tags:
   - NAS
-  _cache: 6f88d19eebc6a143d9cb1349b6b4aada0f70a75d7bd5b8ba66004998ca105f23
+  _cache: 0e7f44b07776ea946681a7175b9cb648e841e358efac69de0c1070421bfdd81f
 - title: Higher-Order Multicuts for Geometric Model Fitting and Motion Segmentation
   date: '2022-06-01'
   authors:
@@ -152,4 +209,5 @@
   image: images/neurips_22.png
   tags:
   - robustness
-  _cache: c38dd8e3c3423ee2aa25fd8b9f0624061608956781a2c1ea1b729971ce32fb35
+  - VAE
+  _cache: 903cf8668f26f0324fb5f2cd1090c8904ace4b075dec8964cd227b745dda1b54
