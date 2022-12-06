@@ -76,9 +76,40 @@
       link: https://openaccess.thecvf.com/content/ICCV2021/papers/Saseendran_Multi-Class_Multi-Instance_Count_Conditioned_Adversarial_Image_Generation_ICCV_2021_paper.pdf
   image: images/cvpr_21.jpg
   tags:
-    - ORAL
-    - CNN
+    - VAE
     - robustness
+
+- title: Extracting horizon surfaces from 3D seismic data using deep learning
+  date: 2021-6-1
+  authors: 
+    - Valentin Tschannen
+    - Matthias Delescluse
+    - Norman Ettrich
+    - Janis Keuper
+  link: https://library.seg.org/doi/pdf/10.1190/geo2019-0569.1
+  publisher: Geophysics - Journal of the Society of Exploration Geophysicists and American Association of Petroleum Geologists
+  extra-links:
+    - type: preprint
+      link: https://library.seg.org/doi/pdf/10.1190/geo2019-0569.1
+  image: images/seg.png
+  tags:
+    - Geophysics
+    - CNN
+
+- title: Spectral distribution aware image generation
+  date: 2021-6-1
+  authors: 
+    - Steffen Jung
+    - Margret Keuper
+  link: https://ojs.aaai.org/index.php/AAAI/article/view/16267/16074
+  publisher: Geophysics - Journal of the Society of Exploration Geophysicists and American Association of Petroleum Geologists
+  extra-links:
+    - type: preprint
+      link: https://ojs.aaai.org/index.php/AAAI/article/view/16267/16074
+  image: images/aaai.jpg
+  tags:
+    - Geophysics
+    - CNN
 
 #-------------------------
 # 2022
