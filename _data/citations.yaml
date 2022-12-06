@@ -21,6 +21,24 @@
   - GAN
   - robustness
   _cache: 062fd2cf8a0452a77445d10b0879c9a244a27bbb2ac5be49839db36359dfe2cd
+- title: Extracting horizon surfaces from 3D seismic data using deep learning
+  date: '2020-06-01'
+  authors:
+  - Valentin Tschannen
+  - Matthias Delescluse
+  - Norman Ettrich
+  - Janis Keuper
+  link: https://library.seg.org/doi/pdf/10.1190/geo2019-0569.1
+  publisher: Geophysics - Journal of the Society of Exploration Geophysicists and
+    American Association of Petroleum Geologists
+  extra-links:
+  - type: preprint
+    link: https://library.seg.org/doi/pdf/10.1190/geo2019-0569.1
+  image: images/seg.png
+  tags:
+  - Geophysics
+  - CNN
+  _cache: 970e906d90fd8a51f63151725ca9f72f8a16ebfc35f88718c9b7ebd6e7c25d82
 - title: Smooth variational graph embeddings for efficient neural architecture search
   date: '2021-06-01'
   authors:
@@ -76,24 +94,6 @@
   - VAE
   - robustness
   _cache: 798158b04f35973aea50b48a82d11cbdaf0f9572c9cf06103c6aa95442afc19a
-- title: Extracting horizon surfaces from 3D seismic data using deep learning
-  date: '2021-06-01'
-  authors:
-  - Valentin Tschannen
-  - Matthias Delescluse
-  - Norman Ettrich
-  - Janis Keuper
-  link: https://library.seg.org/doi/pdf/10.1190/geo2019-0569.1
-  publisher: Geophysics - Journal of the Society of Exploration Geophysicists and
-    American Association of Petroleum Geologists
-  extra-links:
-  - type: preprint
-    link: https://library.seg.org/doi/pdf/10.1190/geo2019-0569.1
-  image: images/seg.png
-  tags:
-  - Geophysics
-  - CNN
-  _cache: 112ed407c4c62a3eb808fe1d60dfb24795b73db88fd068a7e7284a2c0bf67be9
 - title: Spectral distribution aware image generation
   date: '2021-06-01'
   authors:
