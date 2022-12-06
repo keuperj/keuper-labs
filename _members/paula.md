@@ -1,5 +1,5 @@
 ---
-name: Paul Harder
+name: Paula Harder
 image: images/placeholder.jpg
 description:  at ITWM
 role: phd
