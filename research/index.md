@@ -30,7 +30,7 @@ nav:
   image="images/eccv_22.png"
   link="https://keuperj.github.io/keuper-labs/research/?search=ECCV%2022"
   title="ECCV 22"
-  subtitle="2 full papers"
+  subtitle="2 full paper"
   style="small"
 %}
 
@@ -39,7 +39,7 @@ nav:
   image="images/cvpr_22_oral.png"
   link="https://keuperj.github.io/keuper-labs/research/?search=cvpr%2022"
   title="CVPR 22"
-  subtitle="oral paper presentation "
+  subtitle="oral paper and workshop paper "
   style="small"
 %}
 
