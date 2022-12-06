@@ -27,6 +27,58 @@
 # 2021
 #-------------------------
 
+- title: Smooth variational graph embeddings for efficient neural architecture search
+  date: 2021-6-1
+  authors: 
+    - Jovita Lukasik
+    - David Friede
+    - Arber Zela
+    - Frank Hutter
+    - Margret Keuper
+    
+  link: https://arxiv.org/pdf/2010.04683
+  publisher: Proceedings of the Nineth International Conference on Learning Representations (ICLR 21)
+  extra-links:
+    - type: preprint
+      link: https://arxiv.org/pdf/2010.04683
+    - type: source
+      link: https://github.com/jovitalukasik/SVGe
+  image: images/iclr_22.png
+  tags:
+    - NAS
+
+- title: Shape your Space: A Gaussian Mixture Regularization Approach to Deterministic Autoencoders
+  date: 2021-6-1
+  authors: 
+    - Amrutha Saseendran
+    - Kathrin Skubch
+    - Stefan Falkner
+    - Margret Keuper
+  link: https://proceedings.neurips.cc/paper/2021/file/3c057cb2b41f22c0e740974d7a428918-Paper.pdf
+  publisher: NeurIPS 21, proceedings of the thirty-sixth Conference on Neural Information Processing Systems 
+  extra-links:
+    - type: preprint
+      link: https://proceedings.neurips.cc/paper/2021/file/3c057cb2b41f22c0e740974d7a428918-Paper.pdf
+  image: images/neurips_22.png
+  tags:
+    - VAE    
+
+- title: Multi-Class Multi-Instance Count Conditioned Adversarial Image Generation
+  date: 2021-6-1
+  authors: 
+    - Amrutha Saseendran
+    - Kathrin Skubch
+    - Margret Keuper
+  link: https://openaccess.thecvf.com/content/ICCV2021/papers/Saseendran_Multi-Class_Multi-Instance_Count_Conditioned_Adversarial_Image_Generation_ICCV_2021_paper.pdf
+  publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2021)
+  extra-links:
+    - type: preprint
+      link: https://openaccess.thecvf.com/content/ICCV2021/papers/Saseendran_Multi-Class_Multi-Instance_Count_Conditioned_Adversarial_Image_Generation_ICCV_2021_paper.pdf
+  image: images/cvpr_21.jpg
+  tags:
+    - ORAL
+    - CNN
+    - robustness
 
 #-------------------------
 # 2022
@@ -42,7 +94,7 @@
     - Margret Keuper
     - Frank Hutter
   link: https://pure.mpg.de/rest/items/item_3404264/component/file_3404265/content
-  publisher: Proceedings of the Tenth International Conference on Learning Representations
+  publisher: Proceedings of the Tenth International Conference on Learning Representations (ICLR 22)
   extra-links:
     - type: preprint
       link: https://pure.mpg.de/rest/items/item_3404264/component/file_3404265/content
@@ -158,7 +210,8 @@
       link: https://pure.mpg.de/rest/items/item_3473164/component/file_3473165/content
   image: images/neurips_22.png
   tags:
-    - robustness    
+    - robustness
+    - VAE
 
 
 #-------------------------
