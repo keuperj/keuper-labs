@@ -1,6 +1,6 @@
 ---
 name: Paul Gavrikov
-image: images/placeholder.jpg
+image: https://paulgavrikov.github.io/assets/images/profile.jpeg
 description:  at IMLA
 role: phd
 group: IMLA
@@ -8,7 +8,7 @@ aliases:
   - P. Gavrikov
   - Gavrikov
 links:
-  home-page: paulgavrikov.github.io
+  home-page: https://paulgavrikov.github.io
   email: paul.gavrikov@hs-offenburg.de
   twitter: PaulGavrikov
 ---
