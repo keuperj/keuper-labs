@@ -1,7 +1,6 @@
 ---
 name: Paul Gavrikov
-image: https://paulgavrikov.github.io/assets/images/profile.jpeg
-  - width: 400px
+image: https://scholar.googleusercontent.com/citations?view_op=view_photo&user=cshJtrQAAAAJ&citpid=1
 description:  at IMLA
 role: phd
 group: IMLA
@@ -11,6 +10,7 @@ aliases:
 links:
   home-page: https://paulgavrikov.github.io
   email: paul.gavrikov@hs-offenburg.de
+  scholar: https://scholar.google.com/citations?user=cshJtrQAAAAJ&hl=en
   twitter: PaulGavrikov
 ---
 
