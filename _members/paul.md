@@ -1,7 +1,7 @@
 ---
 name: Paul Gavrikov
 image: https://paulgavrikov.github.io/assets/images/profile.jpeg
-width: 400px
+  - width: 400px
 description:  at IMLA
 role: phd
 group: IMLA
