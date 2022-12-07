@@ -117,14 +117,14 @@
   - Paul Gavrikov
   - Janis Keuper
   link: https://arxiv.org/abs/2201.08465
-  publisher: NeurIPS 22 Workshop - Distribution shifts - connecting methods and applications
+  publisher: NeurIPS 21 Workshop - Distribution shifts - connecting methods and applications
     (DistShift)
   extra-links:
   - type: preprint
     link: https://arxiv.org/abs/2201.08465
   tags:
   - CNN
-  _cache: 0552cec01f3bf98adc0997e80cb4c022177c1fe5e18a48588e6da9ef72ddf439
+  _cache: a327948471758f605c18f710e5e5e5fd69098cee19d2d766bf4a24661ff4fcdd
 - title: Surrogate NAS benchmarks - Going beyond the limited search spaces of tabular
     NAS benchmarks
   date: '2022-06-01'
