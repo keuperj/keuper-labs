@@ -110,6 +110,21 @@
   - Geophysics
   - CNN
   _cache: 9bb84414d4f77270febe6a9589a6e82eb6dccafcf640d34604688c32d73de365
+- title: An Empirical Investigation of Model-to-Model Distribution Shifts in Trained
+    Convolutional Filters
+  date: '2021-06-01'
+  authors:
+  - Paul Gavrikov
+  - Janis Keuper
+  link: https://arxiv.org/abs/2201.08465
+  publisher: NeurIPS 22 Workshop - Distribution shifts - connecting methods and applications
+    (DistShift)
+  extra-links:
+  - type: preprint
+    link: https://arxiv.org/abs/2201.08465
+  tags:
+  - CNN
+  _cache: 0552cec01f3bf98adc0997e80cb4c022177c1fe5e18a48588e6da9ef72ddf439
 - title: Surrogate NAS benchmarks - Going beyond the limited search spaces of tabular
     NAS benchmarks
   date: '2022-06-01'
@@ -170,6 +185,39 @@
   - CNN
   - robustness
   _cache: c8e86eef55606212591175025bb6cc60dd9edaf1fe9afd5a5ef99aa9b32e22f4
+- title: Adversarial Robustness Through the Lens of Convolutional Filters
+  date: '2022-06-01'
+  authors:
+  - Paul Gavrikov
+  - Janis Keuper
+  link: https://openaccess.thecvf.com/content/CVPR2022W/ArtOfRobust/html/Gavrikov_Adversarial_Robustness_Through_the_Lens_of_Convolutional_Filters_CVPRW_2022_paper.html
+  publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern
+    Recognition Workshops (CVPRW 2022)
+  extra-links:
+  - type: preprint
+    link: https://openaccess.thecvf.com/content/CVPR2022W/ArtOfRobust/html/Gavrikov_Adversarial_Robustness_Through_the_Lens_of_Convolutional_Filters_CVPRW_2022_paper.html
+  - type: source
+    link: https://github.com/paulgavrikov/cvpr22w_RobustnessThroughTheLens
+  - type: website
+    link: https://towardsdatascience.com/what-makes-the-convolutions-of-robust-vision-models-special-5f9c1a0c5bb5
+  tags:
+  - CNN
+  - robustness
+  _cache: f960efa9ab536ce7bb8a8fc83f14e4676ed5e22ae9102a10853b3adb51addcea
+- title: Does Medical Imaging learn different Convolution Filters?
+  date: '2022-06-01'
+  authors:
+  - Paul Gavrikov
+  - Janis Keuper
+  link: https://arxiv.org/abs/2210.13799
+  publisher: NeurIPS 22 Workshop - Medical Imaging meets NeurIPS
+  extra-links:
+  - type: preprint
+    link: https://arxiv.org/abs/2210.13799
+  tags:
+  - CNN
+  - medical imaging
+  _cache: ec0b3b51e66e99d2213805be403356bde2f133e3754f02afd32c27918c7527a4
 - title: FrequencyLowCut Pooling--Plug & Play against Catastrophic Overfitting
   date: '2022-06-01'
   authors:
