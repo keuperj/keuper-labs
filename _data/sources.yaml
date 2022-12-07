@@ -111,8 +111,9 @@
   tags:
     - Geophysics
     - CNN
-    
-  - title: An Empirical Investigation of Model-to-Model Distribution Shifts in Trained Convolutional Filters
+
+
+- title: An Empirical Investigation of Model-to-Model Distribution Shifts in Trained Convolutional Filters
   date: 2021-6-1
   authors: 
     - Paul Gavrikov
@@ -186,6 +187,7 @@
     - CNN
     - robustness
 
+
 - title: Adversarial Robustness Through the Lens of Convolutional Filters
   date: 2022-6-1
   authors: 
@@ -203,8 +205,9 @@
   tags:
     - CNN
     - robustness
-    
- - title: Does Medical Imaging learn different Convolution Filters?
+
+
+- title: Does Medical Imaging learn different Convolution Filters?
   date: 2022-6-1
   authors: 
     - Paul Gavrikov
