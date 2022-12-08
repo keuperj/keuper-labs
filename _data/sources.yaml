@@ -84,6 +84,20 @@
     - VAE
   group: AAA
 
+- title: An Empirical Investigation of Model-to-Model Distribution Shifts in Trained Convolutional Filters
+  date: 2021-6-1
+  authors: 
+    - Paul Gavrikov
+    - Janis Keuper
+  link: https://arxiv.org/abs/2201.08465
+  publisher: NeurIPS 21 Workshop - Distribution shifts - connecting methods and applications (DistShift)
+  extra-links:
+    - type: preprint
+      link: https://arxiv.org/abs/2201.08465
+  tags:
+    - CNN
+  group: workshop 
+  
 - title: Multi-Class Multi-Instance Count Conditioned Adversarial Image Generation
   date: 2021-6-1
   authors: 
@@ -119,19 +133,7 @@
   group: AAA
 
 
-- title: An Empirical Investigation of Model-to-Model Distribution Shifts in Trained Convolutional Filters
-  date: 2021-6-1
-  authors: 
-    - Paul Gavrikov
-    - Janis Keuper
-  link: https://arxiv.org/abs/2201.08465
-  publisher: NeurIPS 21 Workshop - Distribution shifts - connecting methods and applications (DistShift)
-  extra-links:
-    - type: preprint
-      link: https://arxiv.org/abs/2201.08465
-  tags:
-    - CNN
-  group: workshop 
+
 
 #-------------------------
 # 2022
@@ -173,6 +175,25 @@
     - Multicut
     - Segmentation
   group: AAA
+  
+- title: Adversarial Robustness Through the Lens of Convolutional Filters
+  date: 2022-6-1
+  authors: 
+    - Paul Gavrikov
+    - Janis Keuper
+  link: https://openaccess.thecvf.com/content/CVPR2022W/ArtOfRobust/html/Gavrikov_Adversarial_Robustness_Through_the_Lens_of_Convolutional_Filters_CVPRW_2022_paper.html
+  publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW 2022)
+  extra-links:
+    - type: preprint
+      link: https://openaccess.thecvf.com/content/CVPR2022W/ArtOfRobust/html/Gavrikov_Adversarial_Robustness_Through_the_Lens_of_Convolutional_Filters_CVPRW_2022_paper.html
+    - type: source
+      link: https://github.com/paulgavrikov/cvpr22w_RobustnessThroughTheLens
+    - type: website
+      link: https://towardsdatascience.com/what-makes-the-convolutions-of-robust-vision-models-special-5f9c1a0c5bb5
+  tags:
+    - CNN
+    - robustness
+  group: workshop
 
 - title: CNN Filter DB - An Empirical Investigation of Trained Convolutional Filters
   date: 2022-6-1
@@ -197,25 +218,6 @@
     - robustness
   group: AAA
 
-
-- title: Adversarial Robustness Through the Lens of Convolutional Filters
-  date: 2022-6-1
-  authors: 
-    - Paul Gavrikov
-    - Janis Keuper
-  link: https://openaccess.thecvf.com/content/CVPR2022W/ArtOfRobust/html/Gavrikov_Adversarial_Robustness_Through_the_Lens_of_Convolutional_Filters_CVPRW_2022_paper.html
-  publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW 2022)
-  extra-links:
-    - type: preprint
-      link: https://openaccess.thecvf.com/content/CVPR2022W/ArtOfRobust/html/Gavrikov_Adversarial_Robustness_Through_the_Lens_of_Convolutional_Filters_CVPRW_2022_paper.html
-    - type: source
-      link: https://github.com/paulgavrikov/cvpr22w_RobustnessThroughTheLens
-    - type: website
-      link: https://towardsdatascience.com/what-makes-the-convolutions-of-robust-vision-models-special-5f9c1a0c5bb5
-  tags:
-    - CNN
-    - robustness
-  group: workshop
 
     
 - title: FrequencyLowCut Pooling--Plug & Play against Catastrophic Overfitting
