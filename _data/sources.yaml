@@ -94,6 +94,7 @@
   extra-links:
     - type: preprint
       link: https://arxiv.org/abs/2201.08465
+  image: images/neurips_22_w.png
   tags:
     - CNN
   group: workshop 
@@ -190,6 +191,7 @@
       link: https://github.com/paulgavrikov/cvpr22w_RobustnessThroughTheLens
     - type: website
       link: https://towardsdatascience.com/what-makes-the-convolutions-of-robust-vision-models-special-5f9c1a0c5bb5
+  image: images/cvpr_22_w.png
   tags:
     - CNN
     - robustness
@@ -269,6 +271,7 @@
   extra-links:
     - type: preprint
       link: https://arxiv.org/abs/2210.13799
+  image: images/neurips_22_w.png
   tags:
     - CNN
     - medical imaging
