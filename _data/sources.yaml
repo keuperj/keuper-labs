@@ -22,6 +22,7 @@
   tags:
     - GAN
     - robustness
+  group: AAA
 
 - title: Extracting horizon surfaces from 3D seismic data using deep learning
   date: 2020-6-1
@@ -39,6 +40,7 @@
   tags:
     - Geophysics
     - CNN
+  group: AAA
 
 #-------------------------
 # 2021
@@ -63,6 +65,7 @@
   image: images/iclr_22.png
   tags:
     - NAS
+  group: AAA
 
 - title: Shape your Space - A Gaussian Mixture Regularization Approach to Deterministic Autoencoders
   date: 2021-6-1
@@ -78,7 +81,8 @@
       link: https://proceedings.neurips.cc/paper/2021/file/3c057cb2b41f22c0e740974d7a428918-Paper.pdf
   image: images/neurips_22.png
   tags:
-    - VAE    
+    - VAE
+  group: AAA
 
 - title: Multi-Class Multi-Instance Count Conditioned Adversarial Image Generation
   date: 2021-6-1
@@ -95,6 +99,7 @@
   tags:
     - VAE
     - robustness
+  group: AAA
 
 
 - title: Spectral distribution aware image generation
@@ -111,6 +116,7 @@
   tags:
     - Geophysics
     - CNN
+  group: AAA
 
 
 - title: An Empirical Investigation of Model-to-Model Distribution Shifts in Trained Convolutional Filters
@@ -125,6 +131,7 @@
       link: https://arxiv.org/abs/2201.08465
   tags:
     - CNN
+  group: workshop 
 
 #-------------------------
 # 2022
@@ -147,6 +154,7 @@
   image: images/iclr_22.png
   tags:
     - NAS
+  group: AAA
 
 - title: Higher-Order Multicuts for Geometric Model Fitting and Motion Segmentation
   date: 2022-6-1
@@ -164,6 +172,7 @@
   tags:
     - Multicut
     - Segmentation
+  group: AAA
 
 - title: CNN Filter DB - An Empirical Investigation of Trained Convolutional Filters
   date: 2022-6-1
@@ -186,6 +195,7 @@
     - ORAL
     - CNN
     - robustness
+  group: AAA
 
 
 - title: Adversarial Robustness Through the Lens of Convolutional Filters
@@ -205,21 +215,8 @@
   tags:
     - CNN
     - robustness
+  group: workshop
 
-
-- title: Does Medical Imaging learn different Convolution Filters?
-  date: 2022-6-1
-  authors: 
-    - Paul Gavrikov
-    - Janis Keuper
-  link: https://arxiv.org/abs/2210.13799
-  publisher: NeurIPS 22 Workshop - Medical Imaging meets NeurIPS
-  extra-links:
-    - type: preprint
-      link: https://arxiv.org/abs/2210.13799
-  tags:
-    - CNN
-    - medical imaging
     
 - title: FrequencyLowCut Pooling--Plug & Play against Catastrophic Overfitting
   date: 2022-6-1
@@ -239,6 +236,7 @@
   tags:
     - CNN
     - robustness    
+  group: AAA
 
 - title: Learning Where To Look--Generative NAS is Surprisingly Efficient
   date: 2022-6-1
@@ -256,6 +254,23 @@
   image: images/eccv_22.png
   tags:
     - NAS  
+  group: AAA
+
+
+- title: Does Medical Imaging learn different Convolution Filters?
+  date: 2022-6-1
+  authors: 
+    - Paul Gavrikov
+    - Janis Keuper
+  link: https://arxiv.org/abs/2210.13799
+  publisher: NeurIPS 22 Workshop - Medical Imaging meets NeurIPS
+  extra-links:
+    - type: preprint
+      link: https://arxiv.org/abs/2210.13799
+  tags:
+    - CNN
+    - medical imaging
+  group: workshop
 
 - title: Robust Models are less Over-Confident
   date: 2022-6-1
@@ -275,6 +290,7 @@
   tags:
     - CNN
     - robustness    
+  group: AAA
 
 - title: Trading off Image Quality for Robustness is not Necessary with Regularized Deterministic Autoencoders
   date: 2022-6-1
@@ -291,6 +307,7 @@
   tags:
     - robustness
     - VAE
+  group: AAA
 
 
 #-------------------------
