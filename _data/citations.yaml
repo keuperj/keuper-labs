@@ -81,6 +81,22 @@
   - VAE
   group: AAA
   _cache: 8e32290ae4d71fefd4e97a15a71bf36832c0bd33249cc5a23086eb9d1244ac40
+- title: An Empirical Investigation of Model-to-Model Distribution Shifts in Trained
+    Convolutional Filters
+  date: '2021-06-01'
+  authors:
+  - Paul Gavrikov
+  - Janis Keuper
+  link: https://arxiv.org/abs/2201.08465
+  publisher: NeurIPS 21 Workshop - Distribution shifts - connecting methods and applications
+    (DistShift)
+  extra-links:
+  - type: preprint
+    link: https://arxiv.org/abs/2201.08465
+  tags:
+  - CNN
+  group: workshop
+  _cache: 0a1a5d72370163446e81357432c187ab91542392d9328b25d785599029b84c40
 - title: Multi-Class Multi-Instance Count Conditioned Adversarial Image Generation
   date: '2021-06-01'
   authors:
@@ -116,22 +132,6 @@
   - CNN
   group: AAA
   _cache: 082d6eac0fefaff3e6437c60fec42e440c1e7f66cd3f3a25b69fa5defeca9864
-- title: An Empirical Investigation of Model-to-Model Distribution Shifts in Trained
-    Convolutional Filters
-  date: '2021-06-01'
-  authors:
-  - Paul Gavrikov
-  - Janis Keuper
-  link: https://arxiv.org/abs/2201.08465
-  publisher: NeurIPS 21 Workshop - Distribution shifts - connecting methods and applications
-    (DistShift)
-  extra-links:
-  - type: preprint
-    link: https://arxiv.org/abs/2201.08465
-  tags:
-  - CNN
-  group: workshop
-  _cache: 0a1a5d72370163446e81357432c187ab91542392d9328b25d785599029b84c40
 - title: Surrogate NAS benchmarks - Going beyond the limited search spaces of tabular
     NAS benchmarks
   date: '2022-06-01'
@@ -171,6 +171,26 @@
   - Segmentation
   group: AAA
   _cache: 4b196193ffa61dfcf76a35012011825a462d707d1ab8665e60048d8087cb72c3
+- title: Adversarial Robustness Through the Lens of Convolutional Filters
+  date: '2022-06-01'
+  authors:
+  - Paul Gavrikov
+  - Janis Keuper
+  link: https://openaccess.thecvf.com/content/CVPR2022W/ArtOfRobust/html/Gavrikov_Adversarial_Robustness_Through_the_Lens_of_Convolutional_Filters_CVPRW_2022_paper.html
+  publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern
+    Recognition Workshops (CVPRW 2022)
+  extra-links:
+  - type: preprint
+    link: https://openaccess.thecvf.com/content/CVPR2022W/ArtOfRobust/html/Gavrikov_Adversarial_Robustness_Through_the_Lens_of_Convolutional_Filters_CVPRW_2022_paper.html
+  - type: source
+    link: https://github.com/paulgavrikov/cvpr22w_RobustnessThroughTheLens
+  - type: website
+    link: https://towardsdatascience.com/what-makes-the-convolutions-of-robust-vision-models-special-5f9c1a0c5bb5
+  tags:
+  - CNN
+  - robustness
+  group: workshop
+  _cache: d14abae779482e383eca6ab4347c86dc4803fe50ddf752b991db762bcdf07f89
 - title: CNN Filter DB - An Empirical Investigation of Trained Convolutional Filters
   date: '2022-06-01'
   authors:
@@ -195,26 +215,6 @@
   - robustness
   group: AAA
   _cache: 5000789afeac3312ccadd53bfa29f67f8051b87f1523d99de9afefc862e43e12
-- title: Adversarial Robustness Through the Lens of Convolutional Filters
-  date: '2022-06-01'
-  authors:
-  - Paul Gavrikov
-  - Janis Keuper
-  link: https://openaccess.thecvf.com/content/CVPR2022W/ArtOfRobust/html/Gavrikov_Adversarial_Robustness_Through_the_Lens_of_Convolutional_Filters_CVPRW_2022_paper.html
-  publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern
-    Recognition Workshops (CVPRW 2022)
-  extra-links:
-  - type: preprint
-    link: https://openaccess.thecvf.com/content/CVPR2022W/ArtOfRobust/html/Gavrikov_Adversarial_Robustness_Through_the_Lens_of_Convolutional_Filters_CVPRW_2022_paper.html
-  - type: source
-    link: https://github.com/paulgavrikov/cvpr22w_RobustnessThroughTheLens
-  - type: website
-    link: https://towardsdatascience.com/what-makes-the-convolutions-of-robust-vision-models-special-5f9c1a0c5bb5
-  tags:
-  - CNN
-  - robustness
-  group: workshop
-  _cache: d14abae779482e383eca6ab4347c86dc4803fe50ddf752b991db762bcdf07f89
 - title: FrequencyLowCut Pooling--Plug & Play against Catastrophic Overfitting
   date: '2022-06-01'
   authors:
