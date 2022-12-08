@@ -93,10 +93,11 @@
   extra-links:
   - type: preprint
     link: https://arxiv.org/abs/2201.08465
+  image: images/neurips_22_w.png
   tags:
   - CNN
   group: workshop
-  _cache: 0a1a5d72370163446e81357432c187ab91542392d9328b25d785599029b84c40
+  _cache: 8e21318b58b253df5e49c503cd6277b9c44b2a1aa551dd3bf83c10637a4571a8
 - title: Multi-Class Multi-Instance Count Conditioned Adversarial Image Generation
   date: '2021-06-01'
   authors:
@@ -186,11 +187,12 @@
     link: https://github.com/paulgavrikov/cvpr22w_RobustnessThroughTheLens
   - type: website
     link: https://towardsdatascience.com/what-makes-the-convolutions-of-robust-vision-models-special-5f9c1a0c5bb5
+  image: images/cvpr_22_w.png
   tags:
   - CNN
   - robustness
   group: workshop
-  _cache: d14abae779482e383eca6ab4347c86dc4803fe50ddf752b991db762bcdf07f89
+  _cache: b5a92fc7f13fe7e2f9497bc33bfa2a6797fea5fd33bc1cc3df70294d12b35e95
 - title: CNN Filter DB - An Empirical Investigation of Trained Convolutional Filters
   date: '2022-06-01'
   authors:
@@ -263,11 +265,12 @@
   extra-links:
   - type: preprint
     link: https://arxiv.org/abs/2210.13799
+  image: images/neurips_22_w.png
   tags:
   - CNN
   - medical imaging
   group: workshop
-  _cache: 235f05b90a6e718fd825536e690557a9847e18a35c27f43cec991019da6d2fca
+  _cache: 19485541a9b2480265b65556579f44d2a0ce60931be255e06193ee8cf3e8858c
 - title: Robust Models are less Over-Confident
   date: '2022-06-01'
   authors:
