@@ -50,7 +50,7 @@ nav:
 {%
   include card.html
   image="images/youtube.png"
-  link="https://www.youtube.com/channel/UC7cACCO3Rv9WAl196pX_3bw"
+  link="https://www.youtube.com/playlist?list=PL4FqEnAZb3YMOTYLpeSaqO2zx-tMgO-oY"
   title="Videos"
   subtitle="on YouTube"
   description="Find videos from our talks and online paper presentations in our [YouTube Channel](https://www.youtube.com/channel/UC7cACCO3Rv9WAl196pX_3bw)"
