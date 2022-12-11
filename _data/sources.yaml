@@ -191,6 +191,8 @@
       link: https://github.com/paulgavrikov/cvpr22w_RobustnessThroughTheLens
     - type: website
       link: https://towardsdatascience.com/what-makes-the-convolutions-of-robust-vision-models-special-5f9c1a0c5bb5
+    - type: youtube
+      link: https://youtu.be/XzEDIMxpm4Y
   image: images/cvpr_22_w.png
   tags:
     - CNN
