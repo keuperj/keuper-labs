@@ -188,13 +188,13 @@
   - type: website
     link: https://towardsdatascience.com/what-makes-the-convolutions-of-robust-vision-models-special-5f9c1a0c5bb5
   - type: youtube
-    link: XzEDIMxpm4Y
+    link: watch?v=XzEDIMxpm4Y
   image: images/cvpr_22_w.png
   tags:
   - CNN
   - robustness
   group: workshop
-  _cache: 0ed65049cd899e346c4847fdaa5245ac60cbb84d341b78f413b3d4ad2847a047
+  _cache: b1ae7fd55229bb6ef5e2027cf905f40d33cb86d45627eebda6e667762789d4b1
 - title: CNN Filter DB - An Empirical Investigation of Trained Convolutional Filters
   date: '2022-06-01'
   authors:
