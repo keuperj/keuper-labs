@@ -208,8 +208,6 @@
     link: https://openaccess.thecvf.com/content/CVPR2022/papers/Gavrikov_CNN_Filter_DB_An_Empirical_Investigation_of_Trained_Convolutional_Filters_CVPR_2022_paper.pdf
   - type: source
     link: https://github.com/paulgavrikov/CNN-Filter-DB
-  - type: youtube
-    link: https://github.com/paulgavrikov/CNN-Filter-DB
   - type: website
     link: https://towardsdatascience.com/what-makes-the-convolutions-of-robust-vision-models-special-5f9c1a0c5bb5
   image: images/cvpr_22_oral.png
@@ -218,7 +216,7 @@
   - CNN
   - robustness
   group: AAA
-  _cache: 5000789afeac3312ccadd53bfa29f67f8051b87f1523d99de9afefc862e43e12
+  _cache: 79982a4c36046bafa05ee1d935c9fb289565b459be9cd2851d3f0ad46bc5a937
 - title: FrequencyLowCut Pooling--Plug & Play against Catastrophic Overfitting
   date: '2022-06-01'
   authors:
