@@ -211,8 +211,6 @@
       link: https://openaccess.thecvf.com/content/CVPR2022/papers/Gavrikov_CNN_Filter_DB_An_Empirical_Investigation_of_Trained_Convolutional_Filters_CVPR_2022_paper.pdf
     - type: source
       link: https://github.com/paulgavrikov/CNN-Filter-DB
-    - type: youtube
-      link: https://github.com/paulgavrikov/CNN-Filter-DB
     - type: website
       link: https://towardsdatascience.com/what-makes-the-convolutions-of-robust-vision-models-special-5f9c1a0c5bb5
   image: images/cvpr_22_oral.png
