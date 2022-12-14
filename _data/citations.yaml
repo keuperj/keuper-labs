@@ -271,6 +271,25 @@
   - medical imaging
   group: workshop
   _cache: 19485541a9b2480265b65556579f44d2a0ce60931be255e06193ee8cf3e8858c
+- title: Impact of realistic properties of the point spread function on classification
+    tasks to reveal a possible distribution shift
+  date: '2022-06-01'
+  authors:
+  - "Patrick M\xFCller"
+  - Alexander Braun
+  - Margret Keuper
+  link: https://pure.mpg.de/rest/items/item_3473172/component/file_3473173/content
+  publisher: NeurIPS 2022 Workshop on Distribution Shifts - Connecting Methods and
+    Applications
+  extra-links:
+  - type: preprint
+    link: https://pure.mpg.de/rest/items/item_3473172/component/file_3473173/content
+  image: images/neurips_22_w.png
+  tags:
+  - CNN
+  - medical imaging
+  group: workshop
+  _cache: 50c624c3192f27b3e65c14fab4f38f4f4dbc5437fbd28716de5ab6fb7e6bd349
 - title: Robust Models are less Over-Confident
   date: '2022-06-01'
   authors:
