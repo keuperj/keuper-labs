@@ -1,6 +1,6 @@
 ---
 name: Julia Grabinski
-image: images/placeholder.jpg
+image: https://scholar.googleusercontent.com/citations?view_op=view_photo&user=V9ry9KcAAAAJ&citpid=2
 description:  at ITWM | Siegen | IMLA
 role: phd
 group: ITWM
