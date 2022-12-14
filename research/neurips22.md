@@ -111,5 +111,17 @@ Recent work has investigated the distributions of learned convolution filters th
   flip=true
 %}
 
+### Workshop on Distribution Shifts: Connecting Methods and Applications
+#### Patrick Müller, Alexander Braun, Margret Keuper
+
+Image classification is a long-standing task in computer vision with deep neural 1 networks (DNN) producing excellent results on various challenges. However, they 2 are required not only to perform highly accurate on benchmarks such as ImageNet, 3 but also to robustly handle images in adverse conditions, such as modified light-4 ing, sharpness, weather conditions and image compression. Various benchmarks 5 aimed to measure robustness show that neural networks perform differently well 6 under distribution shifts. While datasets such as ImageNet-C model for example 7 common corruptions such as blur and adverse weather conditions, we argue that 8 the properties of the optical system and the potentially resulting complex lens blur 9 are insufficiently well studied in the literature. This study evaluates the impact of 10 realistic optical corruptions on the ImageNet classification. The proposed complex 11 corruption kernels are direction and wavelength dependent and include chromatic 12 aberration, which are all to be expected in realistic scenarios such as autonomous 13 driving applications. Our experiments on twelve different DNN models show sig-14 nificant differences of more than 5% in the top1 classification error, when compared 15 to the model performances on matched ImageNet-C blur kernels.
+
+{%
+  include link.html
+  link="https://pure.mpg.de/rest/items/item_3473172/component/file_3473173/content"
+  text="PDF"
+  icon="fa-solid fa-file-pdf"
+  flip=true
+%}
 
 
