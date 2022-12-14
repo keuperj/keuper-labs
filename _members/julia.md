@@ -9,7 +9,8 @@ aliases:
   - Grabinski
 links:
   home-page: mypage.com
-  email: mail@me.de
+  email: julia.grabinski@itwm.fraunhofer.de
+  google-scholar: https://scholar.google.com/citations?hl=de&user=V9ry9KcAAAAJ
   twitter: 
 ---
 
