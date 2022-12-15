@@ -284,6 +284,8 @@
       link: https://github.com/paulgavrikov/CNN-Filter-DB
     - type: website
       link: https://towardsdatascience.com/what-makes-the-convolutions-of-robust-vision-models-special-5f9c1a0c5bb5
+    - type: youtube
+      link: watch?v=4CkDvpr2SD4&list=PL4FqEnAZb3YMOTYLpeSaqO2zx-tMgO-oY&index=2
   image: images/cvpr_22_oral.png
   tags:
     - ORAL
