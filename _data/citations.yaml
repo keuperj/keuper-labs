@@ -133,6 +133,40 @@
   - CNN
   group: AAA
   _cache: 082d6eac0fefaff3e6437c60fec42e440c1e7f66cd3f3a25b69fa5defeca9864
+- title: Aliasing coincides with CNNs vulnerability towards adversarial attacks
+  date: '2022-06-01'
+  authors:
+  - Julia Grabinski
+  - Janis Keuper
+  - Margret Keuper
+  link: https://openreview.net/pdf?id=vKc1mLxBebP
+  publisher: The AAAI-22 Workshop on Adversarial Machine Learning and Beyond
+  extra-links:
+  - type: preprint
+    link: https://openreview.net/pdf?id=vKc1mLxBebP
+  image: images/aaai_w.jpg
+  tags:
+  - robustness
+  - CNN
+  group: workshop
+  _cache: d1b1a59733a942e921e7d444a1643827579766f163943189585bfb274b62f02b
+- title: Is RobustBench/AutoAttack a suitable Benchmark for Adversarial Robustness?
+  date: '2022-06-01'
+  authors:
+  - Peter Lorenz
+  - Dominik Strassel
+  - Margret Keuper
+  - Janis Keuper
+  link: https://openreview.net/forum?id=aLB3FaqoMBs
+  publisher: The AAAI-22 Workshop on Distribution Shifts
+  extra-links:
+  - type: preprint
+    link: https://openreview.net/forum?id=aLB3FaqoMBs
+  image: images/aaai_w.jpg
+  tags:
+  - GAN
+  group: workshop
+  _cache: dc6c94d7ee75424706771221ecff85948dc8cd8f5b86e53c78462d57594118b5
 - title: Surrogate NAS benchmarks - Going beyond the limited search spaces of tabular
     NAS benchmarks
   date: '2022-06-01'
@@ -183,12 +217,12 @@
   extra-links:
   - type: preprint
     link: https://link.springer.com/article/10.1007/s10994-022-06222-8
-  image: images/ml_journal.png
+  image: images/ml_journal.jpg
   tags:
   - rrobbustness
   - CNN
   group: AAA
-  _cache: 500e056daeb3dc3e6b6f5e48cb291f54df21d531e74d0ca04e16572812e6c35f
+  _cache: 2d68325531fcdc8ad6708aac2089b13239aadb2979612e1753ff9b29b9c51a63
 - title: Adversarial Robustness Through the Lens of Convolutional Filters
   date: '2022-06-01'
   authors:
