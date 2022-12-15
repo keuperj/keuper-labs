@@ -186,7 +186,7 @@
   extra-links:
     - type: preprint
       link: https://advml-frontier.github.io/pdf/12/CameraReady/ICML_Workshop_Adv_2022.pdf
-  image: images/ICML_w.jpg
+  image: images/ICML_w.png
   tags:
     - robustness
     - CNN
