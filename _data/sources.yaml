@@ -166,16 +166,33 @@
     - Amirhossein Kardoost
     - Bjoern Andres
     - Margret Keuper
-  link: IEEE Transactions on Pattern Analysis and Machine Intelligence
+  link: https://ieeexplore.ieee.org/iel7/34/9970415/09706260.pdf
   publisher: IEEE Transactions on Pattern Analysis and Machine Intelligence
   extra-links:
     - type: preprint
-      link: IEEE Transactions on Pattern Analysis and Machine Intelligence
+      link: https://ieeexplore.ieee.org/iel7/34/9970415/09706260.pdf
   image: images/tpami.png
   tags:
     - Multicut
     - Segmentation
   group: AAA
+  
+- title: Aliasing and adversarial robust generalization of CNNs
+  date: 2022-6-1
+  authors: 
+    - Julia Grabinski
+    - Janis Keuper
+    - Margret Keuper
+  link:  https://link.springer.com/article/10.1007/s10994-022-06222-8
+  publisher: Machine Learning, Springer 2022
+  extra-links:
+    - type: preprint
+      link: https://link.springer.com/article/10.1007/s10994-022-06222-8
+  image: images/ml_journal.png
+  tags:
+    - rrobbustness
+    - CNN
+  group: AAA  
   
 - title: Adversarial Robustness Through the Lens of Convolutional Filters
   date: 2022-6-1
