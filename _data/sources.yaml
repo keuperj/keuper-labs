@@ -164,11 +164,11 @@
     - Dominik Strassel
     - Margret Keuper
     - Janis Keuper
-  link: https://openreview.net/forum?id=aLB3FaqoMBs
-  publisher: The AAAI-22 Workshop on Distribution Shifts
+  link: https://openreview.net/pdf?id=aLB3FaqoMBs
+  publisher: The AAAI-22 Workshop on Adversarial Machine Learning and Beyond
   extra-links:
     - type: preprint
-      link: https://openreview.net/forum?id=aLB3FaqoMBs
+      link: https://openreview.net/pdf?id=aLB3FaqoMBs
   image: images/aaai_w.jpg
   tags:
     - GAN
