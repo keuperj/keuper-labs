@@ -240,9 +240,11 @@
   extra-links:
     - type: preprint
       link: https://link.springer.com/article/10.1007/s10994-022-06222-8
+    - type: youtube
+      link: watch?v=mM6yhep46R8
   image: images/ml_journal.jpg
   tags:
-    - rrobbustness
+    - robustness
     - CNN
   group: AAA  
   
@@ -305,6 +307,8 @@
       link: https://arxiv.org/pdf/2204.00491
     - type: source
       link: https://github.com/GeJulia/flc_pooling
+    - type: youtube
+      link: watch?v=8mgJAB4il_4
   image: images/eccv_22.png
   tags:
     - CNN
