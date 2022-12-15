@@ -39,7 +39,7 @@ We are currently re-building this site. Hence, content is still missing here and
   image="images/cvpr_22_oral.png"
   link="https://keuperj.github.io/keuper-labs/research/?search=cvpr%2022"
   title="CVPR 22"
-  subtitle="oral paper presentation "
+  subtitle="oral paper presentation and workshop paer "
   style="small"
 %}
 
