@@ -16,12 +16,14 @@
     link: https://openaccess.thecvf.com/content_CVPR_2020/papers/Durall_Watch_Your_Up-Convolution_CNN_Based_Generative_Deep_Neural_Networks_Are_CVPR_2020_paper.pdf
   - type: source
     link: https://github.com/cc-hpc-itwm/UpConv
+  - typer: youtube
+    link: watch?v=s3659tZ4xFs
   image: images/cvpr_20.jpg
   tags:
   - GAN
   - robustness
   group: AAA
-  _cache: 2dd60d3d1de537dfda4add28cec587847cb137ec4b2465b67c64429fb80a82c6
+  _cache: b3b9b77790945b7d48f8bf7804b0505dc9c22cde107425451490e1cfe4b05caa
 - title: Extracting horizon surfaces from 3D seismic data using deep learning
   date: '2020-06-01'
   authors:
