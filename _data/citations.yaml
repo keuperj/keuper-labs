@@ -179,12 +179,12 @@
   extra-links:
   - type: preprint
     link: https://advml-frontier.github.io/pdf/12/CameraReady/ICML_Workshop_Adv_2022.pdf
-  image: images/ICML_w.jpg
+  image: images/ICML_w.png
   tags:
   - robustness
   - CNN
   group: workshop
-  _cache: 0aafc628da845693bbb9a742241058b6d82ab66aa683a0b8beb6d8ad5b203ef4
+  _cache: 619e19f855dff37e2b6262c28968aae08f59955ec105f6260201513f072aef16
 - title: Surrogate NAS benchmarks - Going beyond the limited search spaces of tabular
     NAS benchmarks
   date: '2022-06-01'
