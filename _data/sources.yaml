@@ -18,6 +18,8 @@
       link: https://openaccess.thecvf.com/content_CVPR_2020/papers/Durall_Watch_Your_Up-Convolution_CNN_Based_Generative_Deep_Neural_Networks_Are_CVPR_2020_paper.pdf
     - type: source
       link: https://github.com/cc-hpc-itwm/UpConv
+    - typer: youtube
+      link: watch?v=s3659tZ4xFs
   image: images/cvpr_20.jpg
   tags:
     - GAN
