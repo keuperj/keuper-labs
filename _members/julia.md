@@ -8,10 +8,11 @@ aliases:
   - J. Grabinski
   - Grabinski
 links:
-  home-page: mypage.com
+  home-page: 
   email: julia.grabinski@itwm.fraunhofer.de
   google-scholar: https://scholar.google.com/citations?hl=de&user=V9ry9KcAAAAJ
-  twitter: 
+  twitter: JuliaGrabinski 
+
 ---
 
-PhD Student working on ...
+PhD Student working on robustt CNNs.
