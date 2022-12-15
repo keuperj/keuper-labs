@@ -174,6 +174,24 @@
     - GAN
   group: workshop
 
+- title: Robust Models are less Over-Confident
+  date: 2022-6-1
+  authors: 
+    - Julia Grabinski
+    - Paul Gavrikov
+    - Janis Keuper
+    - Margret Keuper
+  link: https://advml-frontier.github.io/pdf/12/CameraReady/ICML_Workshop_Adv_2022.pdf
+  publisher: ICML 22 Workshop on NEW FRONTIERS IN ADVERSARIAL MACHINE LEARNING
+  extra-links:
+    - type: preprint
+      link: https://advml-frontier.github.io/pdf/12/CameraReady/ICML_Workshop_Adv_2022.pdf
+  image: images/ICML_w.jpg
+  tags:
+    - robustness
+    - CNN
+  group: workshop
+
 - title: Surrogate NAS benchmarks - Going beyond the limited search spaces of tabular NAS benchmarks
   date: 2022-6-1
   authors: 
