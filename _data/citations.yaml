@@ -235,12 +235,14 @@
   extra-links:
   - type: preprint
     link: https://link.springer.com/article/10.1007/s10994-022-06222-8
+  - type: youtube
+    link: watch?v=mM6yhep46R8
   image: images/ml_journal.jpg
   tags:
-  - rrobbustness
+  - robustness
   - CNN
   group: AAA
-  _cache: 2d68325531fcdc8ad6708aac2089b13239aadb2979612e1753ff9b29b9c51a63
+  _cache: cd5beaa362862e971dcc51f54cac95cfa83711a2b0412027d82da9116c014147
 - title: Adversarial Robustness Through the Lens of Convolutional Filters
   date: '2022-06-01'
   authors:
@@ -300,12 +302,14 @@
     link: https://arxiv.org/pdf/2204.00491
   - type: source
     link: https://github.com/GeJulia/flc_pooling
+  - type: youtube
+    link: watch?v=8mgJAB4il_4
   image: images/eccv_22.png
   tags:
   - CNN
   - robustness
   group: AAA
-  _cache: d76dbcddcd1398342333119ac992c6a02f2ea7560908a66d3c3cc2403a53dcbb
+  _cache: 1370c6c09527efd4a7e0e751ecf94b75eb6638740621c038c5b8e0c2dae5b05e
 - title: Learning Where To Look--Generative NAS is Surprisingly Efficient
   date: '2022-06-01'
   authors:
