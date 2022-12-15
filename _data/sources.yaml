@@ -337,6 +337,27 @@
     - NAS  
   group: AAA
 
+- title: Physics-informed learning of aerosol microphysics
+  date: 2022-6-1
+  authors: 
+    - Paula Harder
+    - Duncan Watson-Parris
+    - Philip Stier
+    - Dominik Strassel
+    - Nicolas R Gauger
+    - Janis Keuper
+  link: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C468660D2AEE8E25DC3BF507517FF91A/S263446022200022Xa.pdf/div-class-title-physics-informed-learning-of-aerosol-microphysics-div.pdf
+  publisher: Environmental Data Science Journal
+  extra-links:
+    - type: preprint
+      link: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C468660D2AEE8E25DC3BF507517FF91A/S263446022200022Xa.pdf/div-class-title-physics-informed-learning-of-aerosol-microphysics-div.pdf
+  image: images/environmental_data science.jpg
+  tags:
+    - PINN
+    - climate
+  group: AAA
+
+
 
 - title: Does Medical Imaging learn different Convolution Filters?
   date: 2022-6-1
