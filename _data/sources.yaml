@@ -140,6 +140,40 @@
 # 2022
 #-------------------------
 
+- title: Aliasing coincides with CNNs vulnerability towards adversarial attacks
+  date: 2022-6-1
+  authors: 
+    - Julia Grabinski
+    - Janis Keuper
+    - Margret Keuper
+  link: https://openreview.net/pdf?id=vKc1mLxBebP
+  publisher: The AAAI-22 Workshop on Adversarial Machine Learning and Beyond
+  extra-links:
+    - type: preprint
+      link: https://openreview.net/pdf?id=vKc1mLxBebP
+  image: images/aaai_w.jpg
+  tags:
+    - robustness
+    - CNN
+  group: workshop
+
+- title: Is RobustBench/AutoAttack a suitable Benchmark for Adversarial Robustness?
+  date: 2022-6-1
+  authors: 
+    - Peter Lorenz
+    - Dominik Strassel
+    - Margret Keuper
+    - Janis Keuper
+  link: https://openreview.net/forum?id=aLB3FaqoMBs
+  publisher: The AAAI-22 Workshop on Distribution Shifts
+  extra-links:
+    - type: preprint
+      link: https://openreview.net/forum?id=aLB3FaqoMBs
+  image: images/aaai_w.jpg
+  tags:
+    - GAN
+  group: workshop
+
 - title: Surrogate NAS benchmarks - Going beyond the limited search spaces of tabular NAS benchmarks
   date: 2022-6-1
   authors: 
@@ -188,7 +222,7 @@
   extra-links:
     - type: preprint
       link: https://link.springer.com/article/10.1007/s10994-022-06222-8
-  image: images/ml_journal.png
+  image: images/ml_journal.jpg
   tags:
     - rrobbustness
     - CNN
