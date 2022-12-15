@@ -15,4 +15,4 @@ links:
 
 ---
 
-PhD Student working on robustt CNNs.
+PhD Student working on robust CNNs.
