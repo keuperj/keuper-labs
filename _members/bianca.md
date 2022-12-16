@@ -8,9 +8,8 @@ aliases:
   - B. Lamm
   - Lamm
 links:
-  home-page: mypage.com
-  email: mail@me.de
-  twitter: 
+  email: bianca.lamm@hs-offenburg.de
+  twitter: bianca_lamm
 ---
 
-PhD Student working on ...
+PhD Student working on the creation of a large-scale image dataset. The images come from the retail environment. Furthermore, for computer vision task, e.g. entity matching, on the created dataset is investigated.
