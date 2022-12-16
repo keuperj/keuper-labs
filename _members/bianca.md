@@ -12,4 +12,4 @@ links:
   twitter: bianca_lamm
 ---
 
-PhD Student working on the creation of a large-scale image dataset. The images come from the retail environment. Furthermore, for computer vision task, e.g. entity matching, on the created dataset is investigated.
+PhD Student working on the creation of a large-scale image dataset. The images come from the retail environment. Furthermore, for computer vision task, e.g. entity matching, the created dataset is investigated.
