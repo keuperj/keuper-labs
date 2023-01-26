@@ -427,3 +427,21 @@
   - VAE
   group: AAA
   _cache: d4f0dc3ca6ef9cca84e58e3e3d48cd513b0f2e6eb2e21e552ac5db44f58af2d6
+- title: Neural Architecture Design and Robustness - A Dataset
+  date: '2023-06-01'
+  authors:
+  - Steffen Jung
+  - Jovita Lukasik
+  - Margret Keuper
+  link: https://steffen-jung.github.io/robustness/
+  publisher: Proceedings of the Tenth International Conference on Learning Representations
+    (ICLR 23)
+  extra-links:
+  - type: preprint
+    link: https://steffen-jung.github.io/robustness/
+  image: images/iclr_22.png
+  tags:
+  - NAS
+  - robustness
+  group: AAA
+  _cache: 61ff88bee9d264f129488d8a5ba3c48268559c592a7ced7716374e366ec20808
