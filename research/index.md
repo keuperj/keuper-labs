@@ -18,6 +18,14 @@ nav:
 %}
 {%
   include card.html
+  image="images/iclr_22.png"
+  link="https://keuperj.github.io/keuper-labs/research/?search=ICLR%2023"
+  title="ICLR 23"
+  subtitle="full paper accepted"
+  style="small"
+%}
+{%
+  include card.html
   image="images/neurips_22.png"
   link="https://www.keuper-labs.org/research/neurips22.html"
   title="NeurIPS 22"
