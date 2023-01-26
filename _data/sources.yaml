@@ -433,3 +433,20 @@
 #-------------------------
 # 2023
 #-------------------------
+- title: Neural Architecture Design and Robustness - A Dataset
+  date: 2023-6-1
+  authors: 
+    - Steffen Jung
+    - Jovita Lukasik
+    - Margret Keuper
+  link: https://steffen-jung.github.io/robustness/
+  publisher: Proceedings of the Tenth International Conference on Learning Representations (ICLR 23)
+  extra-links:
+    - type: preprint
+      link: https://steffen-jung.github.io/robustness/
+  image: images/iclr_22.png
+  tags:
+    - NAS
+    - robustness
+  group: AAA
+
