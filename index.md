@@ -19,10 +19,10 @@ We are currently re-building this site. Hence, content is still missing here and
 ### Latest Highlights
 {%
   include card.html
-  image="images/dfg.jpg"
-  link="https://www.learning2sense.de/start"
-  title="New DFG Research Group in Siegen"
-  subtitle="Learning to Sense"
+  image="images/iclr_22.png"
+  link="https://keuperj.github.io/keuper-labs/research/?search=ICLR%2023"
+  title="ICLR 23"
+  subtitle="full paper accepted"
   style="small"
 %}
 {%
