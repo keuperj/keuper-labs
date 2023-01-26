@@ -22,7 +22,7 @@ We are currently re-building this site. Hence, content is still missing here and
   image="images/iclr_22.png"
   link="https://keuperj.github.io/keuper-labs/research/?search=ICLR%2023"
   title="ICLR 23"
-  subtitle="full paper accepted"
+  subtitle="one full paper accepted"
   style="small"
 %}
 {%
