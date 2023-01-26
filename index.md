@@ -19,10 +19,18 @@ We are currently re-building this site. Hence, content is still missing here and
 ### Latest Highlights
 {%
   include card.html
+  image="images/dfg.jpg"
+  link="https://www.learning2sense.de/start"
+  title="New DFG Research Group in Siegen"
+  subtitle="Learning to Sense"
+  style="small"
+%}
+{%
+  include card.html
   image="images/iclr_22.png"
   link="https://keuperj.github.io/keuper-labs/research/?search=ICLR%2023"
   title="ICLR 23"
-  subtitle="one full paper accepted"
+  subtitle="full paper accepted"
   style="small"
 %}
 {%
@@ -36,12 +44,22 @@ We are currently re-building this site. Hence, content is still missing here and
 
 {%
   include card.html
+  image="images/eccv_22.png"
+  link="https://keuperj.github.io/keuper-labs/research/?search=ECCV%2022"
+  title="ECCV 22"
+  subtitle="2 full paper"
+  style="small"
+%}
+
+{%
+  include card.html
   image="images/cvpr_22_oral.png"
   link="https://keuperj.github.io/keuper-labs/research/?search=cvpr%2022"
   title="CVPR 22"
-  subtitle="oral paper presentation and workshop paper "
+  subtitle="oral paper and workshop paper "
   style="small"
 %}
+
 
 {% include section.html %}
 
