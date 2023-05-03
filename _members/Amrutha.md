@@ -2,7 +2,7 @@
 name: Amrutha Saseendran
 image: images/placeholder.jpg
 description:  at Uni Siegen | BCAI
-role: phd
+role: alumni
 group: Siegen
 aliases:
   - A. Saseendran
