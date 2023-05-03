@@ -38,20 +38,21 @@ nav:
   filters="role:phd"
 %}
 
+## Alumni
+
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role:alumni"
+%}
+
 {:.center}
 
 
 ## Open Positions
 
-{%
-  include card.html
-  image="images/siegen_small.jpg"
-  title="Open PhD Position in DFG Research Group"
-  link="https://www.learning2sense.de/open-positions" 
-  subtitle="University of Siegen"
-  description="We have multiple openings in the new DFG reasearch group *Learning to Sense*."
-  style="large"
-%}
+
 
 {%
   include card.html
@@ -63,31 +64,4 @@ nav:
   style="large"
 %}
 
-{%
-  include card.html
-  image="images/itwm_small.jpg"
-  title="Open Position as HPC Research Engineer"
-  link="https://jobs.fraunhofer.de/job/Kaiserslautern-Research-Associate-HPC-Machine-Learning-67663/874127901/" 
-  subtitle="at Fraunhofer ITWM, Kaiserslautern"
-  description="We are looking for people with strong HPC background interested to work on scalable Deep Learning projects."
-  style="large"
-%}
 
-{%
-  include card.html
-  image="images/imla_small.jpg"
-  title="Open Position as ML Research Engineer"
-  subtitle="at IMLA, Offenburg University"
-  description="We are looking to extend our team working on applied ML project with our industrie partners. For details contact [Janis](../members/janis.html)."
-  style="large"
-%}
-
-{%
-  include card.html
-  image="images/imla_small.jpg"
-  link="https://recruitingapp-5458.de.umantis.com/Vacancies/687/Description/1"
-  title="Open Position as Linux Administrator"
-  subtitle="at IMLA, Offenburg University"
-  description="Our research IT is looking for a new team member to build and opperate our compute infrastructure, including HPC-, Hadoop- and Kubernetes-Clusters."
-  style="large"
-%}
