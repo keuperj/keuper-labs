@@ -31,7 +31,7 @@ Neural networks have a number of shortcomings. Amongst the severest ones is the 
 #### Steffen Jung, Jan Christian Schwedhelm, Claudia Schillings, Margret Keuper
 {%
   include figure.html
-  image="CVPRw_Steffen1.png"
+  image="images/CVPRw_Steffen1.png"
   link="https://arxiv.org/pdf/2306.06684"
   width="1000px"
 %}
@@ -63,4 +63,39 @@ In this paper, we describe a first publicly available fine-grained product recog
   icon="fa-solid fa-file-pdf"
   flip=true
 %}
+
+### Neural Architecture Design and Robustness: A Dataset
+#### Steffen Jung1, Jovita Lukasik, Margret Keuper
+{%
+  include figure.html
+  image="images/CVPw_Steffen_2.png"
+  link="https://robustart.github.io/short_paper/33.pdf"
+  width="1000px"
+%}
+Finding architectures that are (more) robust against perturbations requires expensive evaluations. We introduce a
+database on neural architecture design and robustness evaluations to facilitate research in this direction. For this, we
+evaluate a whole neural architecture search space (NASBench-201) on a range of common adversarial attacks and
+corruption types. We further present three exemplary use
+cases of this dataset, in which we (i) benchmark robustness
+measurements based on Jacobian and Hessian matrices for
+their robustness predictability, (ii) perform neural architecture search on robust accuracies, and (iii) provide an initial
+analysis of how architectural design choices affect robustness. We find that carefully crafting the topology of a network can have substantial impact on its robustness, where
+networks with the same parameter count range in mean adversarial robust accuracy from 20% − 41%. Code and data
+is available at http://robustness.vision/.
+
+{%
+  include link.html
+  link="https://robustart.github.io/short_paper/33.pdf"
+  text="PDF"
+  icon="fa-solid fa-file-pdf"
+  flip=true
+%}
+{%
+  include link.html
+  link="https://steffen-jung.github.io/robustness/"
+  text="Source"
+  icon="fa-brands fa-github"
+  flip=true
+%}
+
 
