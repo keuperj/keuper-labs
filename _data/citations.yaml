@@ -445,6 +445,24 @@
   - robustness
   group: AAA
   _cache: 61ff88bee9d264f129488d8a5ba3c48268559c592a7ced7716374e366ec20808
+- title: Deep diffusion models for seismic processing
+  date: '2023-06-01'
+  authors:
+  - Ricard Durall
+  - Ammar Ghanim
+  - Mario Fernandez
+  - Norman Ettrich
+  - Janis Keuper
+  link: null
+  publisher: Computers and Geosciences
+  extra-links:
+  - type: preprint
+    link: https://www.sciencedirect.com/science/article/pii/S009830042300081X
+  image: images/cg_journal.png
+  tags:
+  - geophysics
+  group: journal
+  _cache: 71254fbf3a9a66a050d7eac6b2b71af995ab440eb9e695e558b80ad86469a0b5
 - title: An Extended Study of Human-like Behavior under Adversarial Training
   date: '2023-06-01'
   authors:
