@@ -484,6 +484,7 @@
   tags:
     - GAN
   group: workshop
+  
 - title: Fine-Grained Product Classification on Leaflet Advertisements
   date: 2023-6-1
   authors: 
@@ -498,4 +499,20 @@
   image: images/cvpr_23w.png
   tags:
     - retail
+  group: workshop
+
+- title: Neural Architecture Design and Robustness -- A Dataset
+  date: 2023-6-1
+  authors: 
+    - Steffen Jung1
+    - Jovita Lukasik
+    - Margret Keuper
+  link: 
+  publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW 2023)
+  extra-links:
+    - type: preprint
+      link: https://robustart.github.io/short_paper/33.pdf
+  image: images/cvpr_23w.png
+  tags:
+    - robustness
   group: workshop
