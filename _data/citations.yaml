@@ -498,3 +498,20 @@
   - retail
   group: workshop
   _cache: 156ac6709b1d02f60a22b01f4a6b652782c704f07d324773856da980ac0ca8e0
+- title: Neural Architecture Design and Robustness -- A Dataset
+  date: '2023-06-01'
+  authors:
+  - Steffen Jung1
+  - Jovita Lukasik
+  - Margret Keuper
+  link: null
+  publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern
+    Recognition Workshops (CVPRW 2023)
+  extra-links:
+  - type: preprint
+    link: https://robustart.github.io/short_paper/33.pdf
+  image: images/cvpr_23w.png
+  tags:
+  - robustness
+  group: workshop
+  _cache: 5fd8283aa9fe66bb6d49c83669ac8ca81be4495d349965c60ebce65f74e296c4
