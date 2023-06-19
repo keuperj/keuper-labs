@@ -456,24 +456,9 @@
     Recognition Workshops (CVPRW 2023)
   extra-links:
   - type: preprint
-    link: null
-  image: images/cvpr23w.png
+    link: https://openaccess.thecvf.com/content/CVPR2023W/AML/papers/Gavrikov_An_Extended_Study_of_Human-Like_Behavior_Under_Adversarial_Training_CVPRW_2023_paper.pdf
+  image: images/cvpr_23w.png
   tags:
   - robustness
   group: workshop
-  _cache: 34c7b4920116f0e6d91b99ad6de9eee8e869a610bf2f7272a56d1f959ebf5d78
-- title: null
-  date: '2023-06-01'
-  authors:
-  - null
-  link: null
-  publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern
-    Recognition Workshops (CVPRW 2023)
-  extra-links:
-  - type: preprint
-    link: null
-  image: images/cvpr23w.png
-  tags:
-  - robustness
-  group: workshop
-  _cache: 053c0d3778ee745cac6f484169a262ec0837fad65d4168650bde1009c6c3aaa2
+  _cache: a1e4fb525c29a97c6af78fa8e9975ac2545939bd152035305e52c833d9f043b6
