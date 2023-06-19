@@ -30,7 +30,7 @@ We are currently re-building this site. Hence, content is still missing here and
   image="images/cvpr_23.png"
   link="https://keuperj.github.io/keuper-labs/research/cvpr23.html"
   title="CVPR 23"
-  subtitle="3 workshop paper"
+  subtitle="6 workshop paper"
   style="small"
 %}
 {%
