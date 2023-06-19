@@ -34,3 +34,77 @@ Neural networks have a number of shortcomings. Amongst the severest ones is the 
   flip=true
 %}
 
+### Happy People -- Image Synthesis as Black-Box Optimization Problem in the Discrete Latent Space of Deep Generative Models
+#### Steffen Jung, Jan Christian Schwedhelm, Claudia Schillings, Margret Keuper
+{%
+  include figure.html
+  image="images/CVPRw_Steffen1.png"
+  link="https://arxiv.org/pdf/2306.06684"
+  width="1000px"
+%}
+In recent years, optimization in the learned latent space of deep generative models has been successfully applied to black-box optimization problems such as drug design, image generation or neural architecture search. Existing models thereby leverage the ability of neural models to learn the data distribution from a limited amount of samples such that new samples from the distribution can be drawn. In this work, we propose a novel image generative approach that optimizes the generated sample with respect to a continuously quantifiable property. While we anticipate absolutely no practically meaningful application for the proposed framework, it is theoretically principled and allows to quickly propose samples at the mere boundary of the training data distribution. Specifically, we propose to use tree-based ensemble models as mathematical programs over the discrete latent space of vector quantized VAEs, which can be globally solved. Subsequent weighted retraining on these queries allows to induce a distribution shift. In lack of a practically relevant problem, we consider a visually appealing application: the generation of happily smiling faces (where the training distribution only contains less happy people) - and show the principled behavior of our approach in terms of improved FID and higher smile degree over baseline approaches.
+
+{%
+  include link.html
+  link="https://arxiv.org/pdf/2306.06684"
+  text="PDF"
+  icon="fa-solid fa-file-pdf"
+  flip=true
+%}
+
+## Non-Archival Workshop Paper
+
+### Fine-Grained Product Classification on Leaflet Advertisements
+#### Daniel Ladwig, Bianca Lamm, Janis Keuper
+{%
+  include figure.html
+  image="images/fgvc10_poster.png"
+  link="https://arxiv.org/pdf/2305.03706"
+  width="1000px"
+%}
+In this paper, we describe a first publicly available fine-grained product recognition dataset based on leaflet images. Using advertisement leaflets, collected over several years from different European retailers, we provide a total of 41.6k manually annotated product images in 832 classes. Further, we investigate three different approaches for this fine-grained product classification task, Classification by Image, by Text, as well as by Image and Text. The approach "Classification by Text" uses the text extracted directly from the leaflet product images. We show, that the combination of image and text as input improves the classification of visual difficult to distinguish products. The final model leads to an accuracy of 96.4% with a Top-3 score of 99.2%. We release our code at https://github.com/ladwigd/Leaflet-Product-Classification.
+{%
+  include link.html
+  link="https://arxiv.org/pdf/2305.03706"
+  text="PDF"
+  icon="fa-solid fa-file-pdf"
+  flip=true
+%}
+
+### Neural Architecture Design and Robustness: A Dataset
+#### Steffen Jung1, Jovita Lukasik, Margret Keuper
+{%
+  include figure.html
+  image="images/CVPw_Steffen_2.png"
+  link="https://robustart.github.io/short_paper/33.pdf"
+  width="1000px"
+%}
+Finding architectures that are (more) robust against perturbations requires expensive evaluations. We introduce a
+database on neural architecture design and robustness evaluations to facilitate research in this direction. For this, we
+evaluate a whole neural architecture search space (NASBench-201) on a range of common adversarial attacks and
+corruption types. We further present three exemplary use
+cases of this dataset, in which we (i) benchmark robustness
+measurements based on Jacobian and Hessian matrices for
+their robustness predictability, (ii) perform neural architecture search on robust accuracies, and (iii) provide an initial
+analysis of how architectural design choices affect robustness. We find that carefully crafting the topology of a network can have substantial impact on its robustness, where
+networks with the same parameter count range in mean adversarial robust accuracy from 20% − 41%. Code and data
+is available at http://robustness.vision/.
+
+{%
+  include link.html
+  link="https://robustart.github.io/short_paper/33.pdf"
+  text="PDF"
+  icon="fa-solid fa-file-pdf"
+  flip=true
+%}
+{%
+  include link.html
+  link="https://steffen-jung.github.io/robustness/"
+  text="Source"
+  icon="fa-brands fa-github"
+  flip=true
+%}
+
+
+
+
