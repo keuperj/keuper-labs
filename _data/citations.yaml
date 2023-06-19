@@ -469,7 +469,7 @@
   - Mario Fernandez
   - Norman Ettrich
   - Janis Keuper
-  link: null
+  link: https://www.sciencedirect.com/science/article/pii/S009830042300081X
   publisher: Computers and Geosciences
   extra-links:
   - type: preprint
@@ -478,14 +478,14 @@
   tags:
   - geophysics
   group: journal
-  _cache: 71254fbf3a9a66a050d7eac6b2b71af995ab440eb9e695e558b80ad86469a0b5
+  _cache: 85443309e7710fa5fcb00847723d41f9a7749602513153e24cf4e6a02e334378
 - title: An Extended Study of Human-like Behavior under Adversarial Training
   date: '2023-06-01'
   authors:
   - Paul Gavrikov
   - Janis Keuper
   - Margret Keuper
-  link: null
+  link: https://openaccess.thecvf.com/content/CVPR2023W/AML/papers/Gavrikov_An_Extended_Study_of_Human-Like_Behavior_Under_Adversarial_Training_CVPRW_2023_paper.pdf
   publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern
     Recognition Workshops (CVPRW 2023)
   extra-links:
@@ -495,7 +495,7 @@
   tags:
   - robustness
   group: workshop
-  _cache: a1e4fb525c29a97c6af78fa8e9975ac2545939bd152035305e52c833d9f043b6
+  _cache: d83c8b68cafb20e5005f4aeee5847db19dde3e15bc3145dd59208bcd18508888
 - title: Happy People -- Image Synthesis as Black-Box Optimization Problem in the
     Discrete Latent Space of Deep Generative Models
   date: '2023-06-01'
@@ -504,7 +504,7 @@
   - Jan Christian Schwedhelm
   - Claudia Schillings
   - Margret Keuper
-  link: null
+  link: https://arxiv.org/pdf/2306.06684
   publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern
     Recognition Workshops (CVPRW 2023)
   extra-links:
@@ -514,14 +514,14 @@
   tags:
   - GAN
   group: workshop
-  _cache: 7167c060988ad58f7268ad5835def05bbb0e54d0523e30b05195ff4ddb672ade
+  _cache: d5a7e84a8e161a53d8bd93a08a71f50abc4373b34d9929241d82c2caf981bd3c
 - title: Fine-Grained Product Classification on Leaflet Advertisements
   date: '2023-06-01'
   authors:
   - Daniel Ladwig
   - Bianca Lamm
   - Janis Keuper
-  link: null
+  link: https://arxiv.org/pdf/2305.03706
   publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern
     Recognition Workshops (CVPRW 2023)
   extra-links:
@@ -531,14 +531,14 @@
   tags:
   - retail
   group: workshop
-  _cache: 156ac6709b1d02f60a22b01f4a6b652782c704f07d324773856da980ac0ca8e0
+  _cache: 68395357eec274caa31e27fd94ef3cd77e40a7bfeda3edf172fea923843c715d
 - title: Neural Architecture Design and Robustness -- A Dataset
   date: '2023-06-01'
   authors:
   - Steffen Jung1
   - Jovita Lukasik
   - Margret Keuper
-  link: null
+  link: https://robustart.github.io/short_paper/33.pdf
   publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern
     Recognition Workshops (CVPRW 2023)
   extra-links:
@@ -548,4 +548,4 @@
   tags:
   - robustness
   group: workshop
-  _cache: 5fd8283aa9fe66bb6d49c83669ac8ca81be4495d349965c60ebce65f74e296c4
+  _cache: 161a966c76134637b07f764d73e2660870459874275f2757595993d0ed14bde6
