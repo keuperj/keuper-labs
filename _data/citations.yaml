@@ -445,3 +445,35 @@
   - robustness
   group: AAA
   _cache: 61ff88bee9d264f129488d8a5ba3c48268559c592a7ced7716374e366ec20808
+- title: An Extended Study of Human-like Behavior under Adversarial Training
+  date: '2023-06-01'
+  authors:
+  - Paul Gavrikov
+  - Janis Keuper
+  - Margret Keuper
+  link: null
+  publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern
+    Recognition Workshops (CVPRW 2023)
+  extra-links:
+  - type: preprint
+    link: null
+  image: images/cvpr23w.png
+  tags:
+  - robustness
+  group: workshop
+  _cache: 34c7b4920116f0e6d91b99ad6de9eee8e869a610bf2f7272a56d1f959ebf5d78
+- title: null
+  date: '2023-06-01'
+  authors:
+  - null
+  link: null
+  publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern
+    Recognition Workshops (CVPRW 2023)
+  extra-links:
+  - type: preprint
+    link: null
+  image: images/cvpr23w.png
+  tags:
+  - robustness
+  group: workshop
+  _cache: 053c0d3778ee745cac6f484169a262ec0837fad65d4168650bde1009c6c3aaa2
