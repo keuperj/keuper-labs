@@ -44,6 +44,23 @@
     - CNN
   group: AAA
 
+- title: Detection of point scatterers using diffraction imaging and deep learning
+  date: 2020-6-1
+  authors: 
+    - Valentin Tschannen
+    - Matthias Delescluse
+    - Norman Ettrich
+    - Janis Keuper
+  link: https://www.earthdoc.org/content/journals/10.1111/1365-2478.12889?crawler=true&mimetype=application/pdf
+  publisher: Geophysical Prospecting
+  extra-links:
+    - type: preprint
+      link: https://www.earthdoc.org/content/journals/10.1111/1365-2478.12889?crawler=true&mimetype=application/pdf
+  image: images/gpp_journal.png
+  tags:
+    - Geophysics
+    - CNN
+  group: AAA
 #-------------------------
 # 2021
 #-------------------------
@@ -125,13 +142,12 @@
     - Steffen Jung
     - Margret Keuper
   link: https://ojs.aaai.org/index.php/AAAI/article/view/16267/16074
-  publisher: Geophysics - Journal of the Society of Exploration Geophysicists and American Association of Petroleum Geologists
+  publisher: AAAI
   extra-links:
     - type: preprint
       link: https://ojs.aaai.org/index.php/AAAI/article/view/16267/16074
   image: images/aaai.jpg
   tags:
-    - Geophysics
     - CNN
   group: AAA
 
