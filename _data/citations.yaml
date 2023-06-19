@@ -43,6 +43,24 @@
   - CNN
   group: AAA
   _cache: a8cf41fa569d494c8cb0f32bd30d249e5b233f4f8f6dd6c9c18deba71024fcd0
+- title: Detection of point scatterers using diffraction imaging and deep learning
+  date: '2020-06-01'
+  authors:
+  - Valentin Tschannen
+  - Matthias Delescluse
+  - Norman Ettrich
+  - Janis Keuper
+  link: https://www.earthdoc.org/content/journals/10.1111/1365-2478.12889?crawler=true&mimetype=application/pdf
+  publisher: Geophysical Prospecting
+  extra-links:
+  - type: preprint
+    link: https://www.earthdoc.org/content/journals/10.1111/1365-2478.12889?crawler=true&mimetype=application/pdf
+  image: images/gpp_journal.png
+  tags:
+  - Geophysics
+  - CNN
+  group: AAA
+  _cache: 2d5699517f0cd0d7b18df50f2d372effe196adfc05c5a1aa2cae65324ce90a2a
 - title: Smooth variational graph embeddings for efficient neural architecture search
   date: '2021-06-01'
   authors:
@@ -124,17 +142,15 @@
   - Steffen Jung
   - Margret Keuper
   link: https://ojs.aaai.org/index.php/AAAI/article/view/16267/16074
-  publisher: Geophysics - Journal of the Society of Exploration Geophysicists and
-    American Association of Petroleum Geologists
+  publisher: AAAI
   extra-links:
   - type: preprint
     link: https://ojs.aaai.org/index.php/AAAI/article/view/16267/16074
   image: images/aaai.jpg
   tags:
-  - Geophysics
   - CNN
   group: AAA
-  _cache: 082d6eac0fefaff3e6437c60fec42e440c1e7f66cd3f3a25b69fa5defeca9864
+  _cache: f4ab064b5773337e7d97aa33ccfbe958dc1312716b3b80b4e6c57bf586c6c72f
 - title: Aliasing coincides with CNNs vulnerability towards adversarial attacks
   date: '2022-06-01'
   authors:
