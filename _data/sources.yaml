@@ -468,3 +468,19 @@
     - robustness
   group: workshop
 
+- title: Happy People -- Image Synthesis as Black-Box Optimization Problem in the Discrete Latent Space of Deep Generative Models
+  date: 2023-6-1
+  authors: 
+    - Steffen Jung
+    - Jan Christian Schwedhelm
+    - Claudia Schillings
+    - Margret Keuper
+  link: 
+  publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW 2023)
+  extra-links:
+    - type: preprint
+      link: https://arxiv.org/pdf/2306.06684
+  image: images/cvpr_23w.png
+  tags:
+    - GAN
+  group: workshop
