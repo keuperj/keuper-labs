@@ -450,3 +450,35 @@
     - robustness
   group: AAA
 
+#--------------------------------------------------
+
+- title: An Extended Study of Human-like Behavior under Adversarial Training
+  date: 2023-6-1
+  authors: 
+    - Paul Gavrikov
+    - Janis Keuper
+    - Margret Keuper
+  link: 
+  publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW 2023)
+  extra-links:
+    - type: preprint
+      link: 
+  image: images/cvpr23w.png
+  tags:
+    - robustness
+  group: workshop
+
+- title: 
+  date: 2023-6-1
+  authors: 
+    - 
+  link: 
+  publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW 2023)
+  extra-links:
+    - type: preprint
+      link: 
+  image: images/cvpr23w.png
+  tags:
+    - robustness
+  group: workshop
+

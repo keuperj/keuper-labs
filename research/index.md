@@ -18,6 +18,14 @@ nav:
 %}
 {%
   include card.html
+  image="images/cvpr23.png"
+  link="https://keuperj.github.io/keuper-labs/research/?search=CVPR%2023"
+  title="CVPR 23"
+  subtitle="3 workshop paper"
+  style="small"
+%}
+{%
+  include card.html
   image="images/iclr_22.png"
   link="https://keuperj.github.io/keuper-labs/research/?search=ICLR%2023"
   title="ICLR 23"
@@ -29,7 +37,7 @@ nav:
   image="images/neurips_22.png"
   link="https://www.keuper-labs.org/research/neurips22.html"
   title="NeurIPS 22"
-  subtitle="2 full paper and 2 workshop paper accepted"
+  subtitle="2 full paper and 2 workshop paper"
   style="small"
 %}
 

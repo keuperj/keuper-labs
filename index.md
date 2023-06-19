@@ -27,6 +27,14 @@ We are currently re-building this site. Hence, content is still missing here and
 %}
 {%
   include card.html
+  image="images/cvpr23.png"
+  link="https://keuperj.github.io/keuper-labs/research/?search=CVPR%2023"
+  title="CVPR 23"
+  subtitle="3 workshop paper"
+  style="small"
+%}
+{%
+  include card.html
   image="images/iclr_22.png"
   link="https://keuperj.github.io/keuper-labs/research/?search=ICLR%2023"
   title="ICLR 23"
