@@ -10,7 +10,7 @@ title: Home
 {% include section.html %}
 
 # Keuper Labs
-Joint research pages of the labs run by ***Margret Keuper and Janis Keuper***. We work on the intersections of **Machine Learning, Computer Vision and High Performance Computing**.
+Joint research pages of the labs run by ***Margret Keuper and Janis Keuper***. We work on the intersections of **Machine Learning, Computer Vision, High Performance Computing and Geophysics**.
 
 {:.center}
 ### Under Construction
