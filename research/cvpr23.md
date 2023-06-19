@@ -4,9 +4,16 @@ title: CVPR 23
 ---
 
 # <i class="fas fa-microscope"></i>CVPR 23
-
-
-
+<div style="width: 100%; display: table;">
+<div style="display: table-row">
+<div style="width: 400px; display: table-cell;">
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/CVPR2023?src=hash&amp;ref_src=twsrc%5Etfw">#CVPR2023</a> next Poster Session Up, next paper on shape vs Texture bias... <a href="https://t.co/ez3wfTs0bl">pic.twitter.com/ez3wfTs0bl</a></p>&mdash; Janis Keuper (@JanisKeuper) <a href="https://twitter.com/JanisKeuper/status/1670523223270916097?ref_src=twsrc%5Etfw">June 18, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+<div style="display: table-cell;">
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">And another one... <a href="https://twitter.com/hashtag/CVPR?src=hash&amp;ref_src=twsrc%5Etfw">#CVPR</a>. All in the Same Poster Session, but different Workshops... <a href="https://t.co/TYfj4oTnz8">pic.twitter.com/TYfj4oTnz8</a></p>&mdash; Janis Keuper (@JanisKeuper) <a href="https://twitter.com/JanisKeuper/status/1670526924949684224?ref_src=twsrc%5Etfw">June 18, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+</div>
+</div>  
 ## Archival Workshop Paper (in CVPRw Proceedings)
 
 ### An Extended Study of Human-Like Behavior Under Adversarial Training
