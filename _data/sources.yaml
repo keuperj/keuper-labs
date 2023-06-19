@@ -470,8 +470,12 @@
 
 - title: Happy People -- Image Synthesis as Black-Box Optimization Problem in the Discrete Latent Space of Deep Generative Models
   date: 2023-6-1
-  authors: Steffen Jung, Jan Christian Schwedhelm, Claudia Schillings, Margret Keuper
-    - 
+  authors: 
+    - Steffen Jung
+    - Jan Christian Schwedhelm
+    - Claudia Schillings
+    - Margret Keuper
+  
   link: 
   publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW 2023)
   extra-links:
@@ -484,8 +488,11 @@
 
 - title: Fine-Grained Product Classification on Leaflet Advertisements
   date: 2023-6-1
-  authors: Daniel Ladwig, Bianca Lamm, Janis Keuper
-    - 
+  authors: 
+    - Daniel Ladwig
+    - Bianca Lamm
+    - Janis Keuper
+    
   link: 
   publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW 2023)
   extra-links:
@@ -498,8 +505,11 @@
 
   - title: Neural Architecture Design and Robustness - A Dataset
   date: 2023-6-1
-  authors: Steffen Jung1, Jovita Lukasik, Margret Keuper
-    - 
+  authors: 
+    - Steffen Jung1
+    - Jovita Lukasik
+    - Margret Keuper
+    
   link: 
   publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW 2023)
   extra-links:
