@@ -484,3 +484,18 @@
   tags:
     - GAN
   group: workshop
+- title: Fine-Grained Product Classification on Leaflet Advertisements
+  date: 2023-6-1
+  authors: 
+    - Daniel Ladwig
+    - Bianca Lamm
+    - Janis Keuper    
+  link: 
+  publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW 2023)
+  extra-links:
+    - type: preprint
+      link: https://arxiv.org/pdf/2305.03706
+  image: images/cvpr_23w.png
+  tags:
+    - retail
+  group: workshop
