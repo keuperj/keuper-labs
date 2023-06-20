@@ -52,24 +52,6 @@ In recent years, optimization in the learned latent space of deep generative mod
   flip=true
 %}
 
-### Assessing Domain Generalization of Semantic Segmenters with Synthetic Data
-#### Yumeng Li, Dan Zhang, Margret Keuper, Anna Khoreva
-{%
-  include figure.html
-  image="images/23_06_01_VDU_CVPR23_poster.png"
-  link=""
-  width="1000px"
-%}
-
-
-{%
-  include link.html
-  link=""
-  text="PDF"
-  icon="fa-solid fa-file-pdf"
-  flip=true
-%}
-
 ## Non-Archival Workshop Paper
 
 ### Fine-Grained Product Classification on Leaflet Advertisements
@@ -162,5 +144,20 @@ domain shifts, e.g., adverse weather conditions.
   flip=true
 %}
 
+### Assessing Domain Generalization of Semantic Segmenters with Synthetic Data
+#### Yumeng Li, Dan Zhang, Margret Keuper, Anna Khoreva
+{%
+  include figure.html
+  image="images/23_06_01_VDU_CVPR23_poster.png"
+  link="https://sites.google.com/view/vdu-cvpr23"
+  width="1000px"
+%}
 
+{%
+  include link.html
+  link="https://sites.google.com/view/vdu-cvpr23"
+  text="PDF"
+  icon="fa-solid fa-file-pdf"
+  flip=true
+%}
 
