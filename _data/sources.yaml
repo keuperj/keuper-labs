@@ -549,3 +549,37 @@
   tags:
     - robustness
   group: workshop
+
+- title: Intra-Source Style Augmentation for Improved Domain Generalization
+  date: 2023-6-1
+  authors: 
+    - Yumeng Li
+    - Dan Zhang
+    - Margret Keuper
+    - Anna Khoreva 
+  link: https://generative-vision.github.io/workshop-CVPR-23/data/12.pdf
+  publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW 2023)
+  extra-links:
+    - type: preprint
+      link: https://generative-vision.github.io/workshop-CVPR-23/data/12.pdf
+  image: images/cvpr_23w.png
+  tags:
+    - Generative
+  group: workshop
+
+- title: Assessing Domain Generalization of Semantic Segmenters with Synthetic Data
+  date: 2023-6-1
+  authors: 
+    - Yumeng Li
+    - Dan Zhang
+    - Margret Keuper
+    - Anna Khoreva
+  link: https://sites.google.com/view/vdu-cvpr23
+  publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW 2023)
+  extra-links:
+    - type: preprint
+      link: https://sites.google.com/view/vdu-cvpr23"
+  image: images/cvpr_23w.png
+  tags:
+    - segmentation
+  group: workshop
