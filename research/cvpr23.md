@@ -52,6 +52,24 @@ In recent years, optimization in the learned latent space of deep generative mod
   flip=true
 %}
 
+### Assessing Domain Generalization of Semantic Segmenters with Synthetic Data
+#### Yumeng Li, Dan Zhang, Margret Keuper, Anna Khoreva
+{%
+  include figure.html
+  image="images/23_06_01_VDU_CVPR23_poster.png"
+  link=""
+  width="1000px"
+%}
+
+
+{%
+  include link.html
+  link=""
+  text="PDF"
+  icon="fa-solid fa-file-pdf"
+  flip=true
+%}
+
 ## Non-Archival Workshop Paper
 
 ### Fine-Grained Product Classification on Leaflet Advertisements
@@ -113,6 +131,36 @@ is available at http://robustness.vision/.
   flip=true
 %}
 
+### Intra-Source Style Augmentation for Improved Domain Generalization
+#### Yumeng Li,  Dan Zhang, Margret Keuper, Anna Khoreva 
+{%
+  include figure.html
+  image="images/23_06_01_GCV_CVPR23_poster.png"
+  link="https://generative-vision.github.io/workshop-CVPR-23/data/12.pdf"
+  width="1000px"
+%}
+The generalization with respect to domain shifts, as they
+frequently appear in applications such as autonomous driving, is one of the remaining big challenges for deep learning
+models. Therefore, we propose an intra-source style augmentation (ISSA) method to improve domain generalization
+in semantic segmentation. Our method is based on a novel
+masked noise encoder for StyleGAN2 inversion. The model
+learns to faithfully reconstruct the image, preserving its semantic layout through noise prediction. Random masking
+of the estimated noise enables the style mixing capability
+of our model, i.e. it allows to alter the global appearance
+without affecting the semantic layout of an image. Using
+the proposed masked noise encoder to randomize style and
+content combinations in the training set, ISSA effectively
+increases the diversity of training data and reduces spurious
+correlation. As a result, we achieve up to 11.3% mIoU improvements on driving-scene semantic segmentation under
+domain shifts, e.g., adverse weather conditions.
+
+{%
+  include link.html
+  link="https://generative-vision.github.io/workshop-CVPR-23/data/12.pdf"
+  text="PDF"
+  icon="fa-solid fa-file-pdf"
+  flip=true
+%}
 
 
 
