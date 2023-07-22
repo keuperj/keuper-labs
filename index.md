@@ -141,9 +141,6 @@ Meet our teams and find open positions...
 <!-- Twitter embeds from https://publish.twitter.com/ -->
 <a class="twitter-timeline" href="https://twitter.com/KeuperLabs?ref_src=twsrc%5Etfw">Tweets by KeuperLabs</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<a class="twitter-timeline" data-width="1000" data-height="1200" href="https://twitter.com/KeuperLabs?ref_src=twsrc%5Etfw">Recent Tweets</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-{:.center}
-
 <a href="https://twitter.com/KeuperLabs?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @KeuperLabs</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <a href="https://twitter.com/intent/tweet?screen_name=KeuperLabs&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @KeuperLabs</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 {:.center}
