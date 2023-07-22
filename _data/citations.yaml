@@ -579,9 +579,9 @@
     Recognition Workshops (CVPRW 2023)
   extra-links:
   - type: preprint
-    link: https://sites.google.com/view/vdu-cvpr23"
+    link: https://sites.google.com/view/vdu-cvpr23
   image: images/cvpr_23w.png
   tags:
   - segmentation
   group: workshop
-  _cache: 2e1bf569ee41ee61b80b1c990993b2ad262738ecaa439f6e6250d529d045115b
+  _cache: 1446f5c2ebeda490f76ca1d7309c6a177f394d66276df1b4a7c76eacad049777
