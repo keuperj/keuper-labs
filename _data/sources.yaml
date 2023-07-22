@@ -578,7 +578,7 @@
   publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW 2023)
   extra-links:
     - type: preprint
-      link: https://sites.google.com/view/vdu-cvpr23"
+      link: https://sites.google.com/view/vdu-cvpr23
   image: images/cvpr_23w.png
   tags:
     - segmentation
