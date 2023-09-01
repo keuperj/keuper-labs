@@ -13,9 +13,6 @@ title: Home
 Joint research pages of the labs run by ***Margret Keuper and Janis Keuper***. We work on the intersections of **Machine Learning, Computer Vision, High Performance Computing and Geophysics**.
 
 {:.center}
-### Under Construction
-We are currently re-building this site. Hence, content is still missing here and there ...
-
 ### Latest Highlights
 {%
   include card.html
