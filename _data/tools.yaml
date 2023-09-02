@@ -57,6 +57,15 @@
   tags:
     - BW
 
+- title: DLseis
+  subtitle: Industry Consortium at ITWM
+  group: current
+  image: https://www.itwm.fraunhofer.de/en/departments/hpc/data-analysis-and-machine-learning/dlseis-deep-learning-seismic-applications/jcr:content/contentPar/sectioncomponent_585541017/sectionParsys/textwithasset_1001402456/imageComponent/image.img.4col.jpg/1638172841454/1031x643-DLseis-Training-Data-fig4.jpg
+  link: https://www.itwm.fraunhofer.de/en/departments/hpc/data-analysis-and-machine-learning/dlseis-deep-learning-seismic-applications.html
+  description: Deep Learning in Seismic / Geophysics   
+  tags:
+    - Industry
+
 - title: Deep Topology Learning
   subtitle: with Uni Freiburg, LRZ + Psiori at ITWM and Uni Mannheim
   group: past
