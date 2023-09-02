@@ -583,3 +583,20 @@
   tags:
     - segmentation
   group: workshop
+
+- title: On the Interplay of Convolutional Padding and Adversarial Robustness
+  date: 2023-6-1
+  authors: 
+    - Paul Gavrikov
+    - Janis Keuper
+  link: https://arxiv.org/pdf/2308.06612
+  publisher: Proceedings of the IEEE/CVF International Conference on Computer Vision Workshops (ICCVw 2023)
+  extra-links:
+    - type: preprint
+      link: https://arxiv.org/pdf/2308.06612
+  image: images/ICCVw23.jpg
+  tags:
+    - robustness
+  group: workshop
+
+  
