@@ -8,9 +8,29 @@
 #    - BMBF
 #    - NAS
 
+- title: KI-Bohrer
+  subtitle: IMLA with Herrenknecht AG
+  group: current
+  image: images/BMBF.jpeg
+  link: http://ki-bohrer.de
+  description: Generative Models + Reinforcement Learning for the optimization of geothermal drilling 
+  tags:
+    - BMBF
+    - GAN
+    - DIFFUSION
+    
+- title: ClimateVisions 
+  subtitle: at Uni Siegen with TU Munich 
+  group: current
+  image: images/BMBF.jpeg
+  link: 
+  description: automated image analysis of Reactions and Emotions from Images on Climate Change in Social Media
+  tags:
+    - BMBF
+    - DEEPFAKE
 
 - title: Learning to Sense
-  subtitle: DFG Research Unit 5336
+  subtitle: DFG Research Unit 5336 at Uni Siegen
   group: current
   image: images/dfg.jpg
   link: https://www.learning2sense.de/start
@@ -19,7 +39,7 @@
     - DFG
  
 - title: Gaia-X4KI
-  subtitle: BMWk fundet project
+  subtitle: BMWk fundet project at IMLA and ITWM
   group: current
   image: images/gaiax.png
   width: 50
@@ -29,7 +49,7 @@
     - BMWk
     
 - title: Q-AMeLiA
-  subtitle: fundet by the state of Baden-Würtemberg
+  subtitle: fundet by the state of Baden-Würtemberg at IMLA
   group: current
   image: images/qamelia.jpg
   link: https://q-amelia.in.hs-furtwangen.de/
@@ -38,7 +58,7 @@
     - BW
 
 - title: Deep Topology Learning
-  subtitle: with Uni Freiburg, LRZ + Psiori
+  subtitle: with Uni Freiburg, LRZ + Psiori at ITWM and Uni Mannheim
   group: past
   image: images/BMBF.jpeg
   link: http://detol.de
