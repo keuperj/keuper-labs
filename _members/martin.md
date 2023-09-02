@@ -1,6 +1,6 @@
 ---
 name: Martin Spitznagel
-image: https://github.com/keuperj/keuper-labs/blob/main/images/martin.png
+image: "images/martin.png"
 description:  at IMLA
 role: phd
 group: IMLA
