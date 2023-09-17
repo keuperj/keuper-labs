@@ -615,3 +615,21 @@
   tags:
     - deepfake
   group: workshop  
+
+- title: An In-Depth Study of U-net for Seismic Data Conditioning - Multiple Removal by Move-Out Discrimination
+  date: 2023-6-1
+  authors: 
+    - Ricard Durall
+    - Ammar Ghanim
+    - Norman Ettrich
+    - Janis Keuper
+  link: https://library.seg.org/doi/pdf/10.1190/geo2023-0146.1
+  publisher: Geophysics - Journal of the Society of Exploration Geophysicists and American Association of Petroleum Geologists
+  extra-links:
+    - type: preprint
+      link: https://library.seg.org/doi/pdf/10.1190/geo2023-0146.1
+  image: images/seg.png
+  tags:
+    - Geophysics
+    - CNN
+  group: AAA
