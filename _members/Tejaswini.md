@@ -1,6 +1,6 @@
 ---
 name: Tejaswini Medi
-image: images/placeholder.jpg
+image: https://www.vc.informatik.uni-siegen.de/sites/www.vc.informatik.uni-siegen.de/files/styles/mitarbeiter_foto/public/pictures/photo2.jpg
 description: at Uni Siegen
 role: phd
 group: Siegen
@@ -8,8 +8,8 @@ aliases:
   - T. Medi
   - Medi
 links:
-  home-page: mypage.com
-  email: mail@me.de
+  home-page: https://www.vc.informatik.uni-siegen.de/en/medi-tejaswini
+  email: tejaswini.medi@uni-siegen.de
   twitter: 
 ---
 
