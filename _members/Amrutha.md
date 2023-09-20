@@ -1,6 +1,6 @@
 ---
 name: Amrutha Saseendran
-image: images/placeholder.jpg
+image: https://www.vc.informatik.uni-siegen.de/sites/www.vc.informatik.uni-siegen.de/files/styles/mitarbeiter_foto/public/pictures/amrutha.jpeg?itok=mUljbhJI
 description:  at Uni Siegen | BCAI
 role: alumni
 group: Siegen
@@ -13,4 +13,4 @@ links:
   twitter: 
 ---
 
-PhD Student working on ...
+Former PhD Student
