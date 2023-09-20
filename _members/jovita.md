@@ -1,6 +1,6 @@
 ---
 name: Jovita Lukasik
-image: images/placeholder.jpg
+image: https://www.vc.informatik.uni-siegen.de/sites/www.vc.informatik.uni-siegen.de/files/styles/mitarbeiter_foto/public/pictures/jovita1g.png
 description:  at Uni Siegen | MPI
 role: alumni
 group: MPI
@@ -8,9 +8,9 @@ aliases:
   - J. Lukasik
   - Lukasik
 links:
-  home-page: mypage.com
-  email: mail@me.de
+  home-page: https://www.vc.informatik.uni-siegen.de/en/lukasik-jovita
+  email: jovita.lukasik@uni-siegen.de
   twitter: 
 ---
 
-PhD Student working on ...
+PostDoc at Uni Siegen
