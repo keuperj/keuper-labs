@@ -680,7 +680,7 @@
   extra-links:
      - type: source
       link: https://arxiv.org/abs/2307.13856
-  image: https://github.com/shashankskagnihotri/cospgd/blob/main/assets/sintel_targeted.png
+  image: images/iccvw2023_robustness_ViT_restoration.png
   tags:
     - adversarial robustness
     - robustness
