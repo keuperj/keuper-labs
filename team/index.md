@@ -38,7 +38,7 @@ nav:
   filters="role:phd"
 %}
 
-## Alumni
+## Alumni (since start of this website)
 
 {%
   include list.html
@@ -52,7 +52,7 @@ nav:
 
 ## Open Positions
 
-
+<!---
 
 {%
   include card.html
@@ -63,5 +63,5 @@ nav:
   description="We are constantly looking for talented PhD candidates. Current topics include: *robust DL* and *scalable DL on HPC*. For details contact [Janis](../members/janis.html)."
   style="large"
 %}
-
+---!>
 
