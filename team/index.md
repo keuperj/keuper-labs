@@ -52,16 +52,16 @@ nav:
 
 ## Open Positions
 
-<!---
+
 
 {%
   include card.html
-  image="images/itwm_small.jpg"
+  image="images/imla_small.jpg"
   width="50px"
   title="Open PhD Positions"
-  subtitle="at Fraunhofer ITWM, Kaiserslautern"
-  description="We are constantly looking for talented PhD candidates. Current topics include: *robust DL* and *scalable DL on HPC*. For details contact [Janis](../members/janis.html)."
+  subtitle="at Fraunhofer IMLA, Offenburg"
+  description="We are currently looking for talented PhD candidates in the field of reinforcement learning in our [KI-Bohrer](http://www.ki-bohrer.de/) project. For details contact [Janis](../members/janis.html)."
   style="large"
 %}
----!>
+
 
