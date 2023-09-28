@@ -602,6 +602,43 @@
   - robustness
   group: workshop
   _cache: 1d2b8bd0064f6cb9328a6954a3dad132ce7539c9aba78ea6bd90b475a9b61606
+- title: CosPGD - a unified white-box adversarial attack for pixel-wise prediction
+    tasks
+  date: '2023-06-01'
+  authors:
+  - Shashank Agnihotri
+  - Steffen Jung
+  - Margret Keuper
+  link: https://arxiv.org/abs/2302.02213
+  publisher: Arxiv
+  extra-links:
+  - type: source
+    link: https://github.com/shashankskagnihotri/cospgd
+  image: images/ICCVw23.jpg
+  tags:
+  - robustness
+  group: workshop
+  _cache: fa7d1b63f01d8a24141555fff4e74342a87fb549a8b303c9ae4963e25540720a
+- title: On the unreasonable vulnerability of transformers for image restoration and
+    an easy fix
+  date: '2023-06-01'
+  authors:
+  - Shashank Agnihotri
+  - Kanchana Vaishnavi Gandikota
+  - Julia Grabinski
+  - Paramanand Chandramouli
+  - Margret Keuper
+  link: https://arxiv.org/abs/2307.13856
+  publisher: Proceedings of the IEEE/CVF International Conference on Computer Vision
+    Workshops (ICCVw 2023)
+  extra-links:
+  - type: source
+    link: https://arxiv.org/abs/2307.13856
+  image: images/ICCVw23.jpg
+  tags:
+  - robustness
+  group: workshop
+  _cache: 3872f44ab7a762a3eac280584e0b7e4acaf0cbb9b11d928023b9096baa5594a0
 - title: An In-Depth Study of U-net for Seismic Data Conditioning - Multiple Removal
     by Move-Out Discrimination
   date: '2023-06-01'
@@ -622,73 +659,3 @@
   - CNN
   group: AAA
   _cache: 834fbdcf46886fd37d4be0d822a27d6c3af7a42aa5f012bcc4eda20367b98988
-- title: CosPGD - a unified white-box adversarial attack for pixel-wise prediction
-    tasks
-  date: '2023-06-01'
-  authors:
-  - Shashank Agnihotri
-  - Steffen Jung
-  - Margret Keuper
-  link: https://arxiv.org/abs/2302.02213
-  publisher: Arxiv
-  extra-links:
-  - type: source
-    link: https://github.com/shashankskagnihotri/cospgd
-  image: https://github.com/shashankskagnihotri/cospgd/blob/main/assets/sintel_targeted.png
-  tags:
-  - adversarial robustness
-  - robustness
-  - pixel-wise loss
-  - semantic segmentation
-  - optical flow estimation
-  - image reconstruction
-  - image restoration
-  - image deblurring
-  - image denoising
-  - PCFA
-  - SegPGD
-  - PGD
-  - FGSM
-  - white-box attacks
-  - targeted attacks
-  - untargeted attacks
-  - nontargeted attacks
-  - unified pixel-wise attack
-  group: workshop
-  _cache: f33124af671dba062d145b96d0203b7f9ed94d39ffc3930fdd839d25b233ee9d
-- title: On the unreasonable vulnerability of transformers for image restoration and
-    an easy fix
-  date: '2023-06-01'
-  authors:
-  - Shashank Agnihotri
-  - Kanchana Vaishnavi Gandikota
-  - Julia Grabinski
-  - Paramanand Chandramouli
-  - Margret Keuper
-  link: https://arxiv.org/abs/2307.13856
-  publisher: Proceedings of the IEEE/CVF International Conference on Computer Vision
-    Workshops (ICCVw 2023)
-  extra-links:
-  - type: source
-    link: https://arxiv.org/abs/2307.13856
-  image: images/iccvw2023_robustness_ViT_restoration.png
-  tags:
-  - adversarial robustness
-  - robustness
-  - pixel-wise loss
-  - image reconstruction
-  - image restoration
-  - image deblurring
-  - image denoising
-  - PGD
-  - FGSM
-  - white-box attacks
-  - untargeted attacks
-  - nontargeted attacks
-  - unified pixel-wise attack
-  - adversarial training
-  - FGSM training
-  - vision transformers
-  - transformers for image restoration
-  group: workshop
-  _cache: 5f84ca8d1e13ce5855fb3c98b786e0715939cf57c0454cf6029772b1bd941815
