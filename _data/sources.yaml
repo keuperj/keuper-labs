@@ -650,9 +650,9 @@
     - untargeted attacks
     - nontargeted attacks
     - unified pixel-wise attack
-  group: AAA
+  group: workshop
 
-    - title: On the unreasonable vulnerability of transformers for image restoration--and an easy fix
+    - title: On the unreasonable vulnerability of transformers for image restoration and an easy fix
   date: 2023-6-1 
   authors: 
     - Shashank Agnihotri
