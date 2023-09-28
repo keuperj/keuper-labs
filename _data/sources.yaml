@@ -635,7 +635,7 @@
     - robustness
   group: workshop
 
-  - title: An In-Depth Study of U-net for Seismic Data Conditioning - Multiple Removal by Move-Out Discrimination
+- title: An In-Depth Study of U-net for Seismic Data Conditioning - Multiple Removal by Move-Out Discrimination
   date: 2023-6-1
   authors: 
     - Ricard Durall
