@@ -619,7 +619,7 @@
     - CNN
   group: AAA
 
-  - title: CosPGD - a unified white-box adversarial attack for pixel-wise prediction tasks
+- title: CosPGD - a unified white-box adversarial attack for pixel-wise prediction tasks
   date: 2023-6-1 
   authors: 
     - Shashank Agnihotri
@@ -629,7 +629,7 @@
   publisher: Arxiv
   extra-links:
      - type: source
-      link: https://github.com/shashankskagnihotri/cospgd
+       link: https://github.com/shashankskagnihotri/cospgd
   image: https://github.com/shashankskagnihotri/cospgd/blob/main/assets/sintel_targeted.png
   tags:
     - adversarial robustness
@@ -652,7 +652,7 @@
     - unified pixel-wise attack
   group: workshop
 
-    - title: On the unreasonable vulnerability of transformers for image restoration and an easy fix
+- title: On the unreasonable vulnerability of transformers for image restoration and an easy fix
   date: 2023-6-1 
   authors: 
     - Shashank Agnihotri
@@ -664,7 +664,7 @@
   publisher: Proceedings of the IEEE/CVF International Conference on Computer Vision Workshops (ICCVw 2023)
   extra-links:
      - type: source
-      link: https://arxiv.org/abs/2307.13856
+       link: https://arxiv.org/abs/2307.13856
   image: images/iccvw2023_robustness_ViT_restoration.png
   tags:
     - adversarial robustness
