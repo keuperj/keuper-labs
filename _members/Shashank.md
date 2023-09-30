@@ -11,6 +11,9 @@ links:
   home-page: https://www.vc.informatik.uni-siegen.de/en/agnihotri-shashank
   email: shashank.agnihotri@uni-siegen.de
   twitter: shashankska
+  google-scholar: https://scholar.google.com/citations?user=4CgQ7xwAAAAJ&hl=en
+  github: https://github.com/shashankskagnihotri
+  linkedin: https://www.linkedin.com/in/shashank-agnihotri/
 ---
 
 
