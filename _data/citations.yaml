@@ -614,11 +614,11 @@
   extra-links:
   - type: source
     link: https://github.com/shashankskagnihotri/cospgd
-  image: images/ICCVw23.jpg
+  image: images/cospgd_arxiv_logo.png
   tags:
   - robustness
-  group: workshop
-  _cache: fa7d1b63f01d8a24141555fff4e74342a87fb549a8b303c9ae4963e25540720a
+  group: AAA
+  _cache: 4899fc1a789f48e51ced542358f3c6d930b306abbc253869488dbd455db710ac
 - title: On the unreasonable vulnerability of transformers for image restoration and
     an easy fix
   date: '2023-06-01'
