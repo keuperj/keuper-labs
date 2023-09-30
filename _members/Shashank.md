@@ -23,5 +23,3 @@ My research interests in detail are:
 - Pose Estimation
 - One-shot Neural Architecture Search
 
-Updates:
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Had a great experience at <a href="https://twitter.com/gcpr2023?ref_src=twsrc%5Etfw">@gcpr2023</a> Heidelberg, and met many amazing researchers. <br>Looking forward to GCPR2024 in Munich next year! :D <a href="https://t.co/y6ivi1X28m">pic.twitter.com/y6ivi1X28m</a></p>&mdash; Shashank Agnihotri (@shashankska) <a href="https://twitter.com/shashankska/status/1706257431850897802?ref_src=twsrc%5Etfw">September 25, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
