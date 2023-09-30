@@ -1,6 +1,6 @@
 ---
 name: Shashank Agnihotri
-image: https://www.vc.informatik.uni-siegen.de/sites/www.vc.informatik.uni-siegen.de/files/styles/mitarbeiter_foto/public/pictures/shashank2.jpg
+image: images/Shashank_tedx.jpg
 description:  at Uni Siegen
 role: phd
 group: Siegen
