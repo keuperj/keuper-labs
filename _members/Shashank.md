@@ -23,5 +23,14 @@ My research interests in detail are:
 - Pose Estimation
 - One-shot Neural Architecture Search
 
-Updates
+
+# Updates
+<a class="twitter-timeline" href="https://twitter.com/shashankska?ref_src=twsrc%5Etfw">Tweets by shashankska</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<a href="https://twitter.com/shashankska?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @shashankska</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/intent/tweet?screen_name=shashankska&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @shashankska</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{:.center}
+
+Highlights
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Had a great experience at <a href="https://twitter.com/gcpr2023?ref_src=twsrc%5Etfw">@gcpr2023</a> Heidelberg, and met many amazing researchers. <br>Looking forward to GCPR2024 in Munich next year! :D <a href="https://t.co/y6ivi1X28m">pic.twitter.com/y6ivi1X28m</a></p>&mdash; Shashank Agnihotri (@shashankska) <a href="https://twitter.com/shashankska/status/1706257431850897802?ref_src=twsrc%5Etfw">September 25, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
