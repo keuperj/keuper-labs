@@ -2,6 +2,10 @@
 <h1 align="center">Keuper Labs Website</h1>
 
 ## FAQ
+
+### for group membebers: how to edeti my pages and add papers?
+* fork this repo, edit you changes in your fork and issue a merge request...
+  
 ### How to add a paper
 * edit (in GitLab web UI) ```_data/sources.yaml```
 * copy and edit existing entry
