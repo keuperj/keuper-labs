@@ -30,6 +30,7 @@ nav:
 {% include section.html %}
 
 ## PhD Students 
+Displayed in arbitrary order... 
 
 {%
   include list.html
