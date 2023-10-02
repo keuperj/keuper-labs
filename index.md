@@ -133,7 +133,8 @@ Meet our teams and find open positions...
   text=text
 %}
 
-# News
+# News 
+Twitter feed only visible if logged into Twitter...
 
 <!-- Twitter embeds from https://publish.twitter.com/ -->
 <a class="twitter-timeline" href="https://twitter.com/KeuperLabs?ref_src=twsrc%5Etfw">Tweets by KeuperLabs</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
