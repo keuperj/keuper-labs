@@ -601,22 +601,6 @@
   group: workshop
 
 
-- title: CosPGD - a unified white-box adversarial attack for pixel-wise prediction tasks
-  date: 2023-6-1 
-  authors: 
-    - Shashank Agnihotri
-    - Steffen Jung
-    - Margret Keuper
-  link: https://arxiv.org/abs/2302.02213
-  publisher: Arxiv
-  extra-links:
-     - type: source
-       link: https://github.com/shashankskagnihotri/cospgd
-  image: images/cospgd_arxiv_logo.png
-  tags:
-    - robustness
-  group: AAA
-
 - title: On the unreasonable vulnerability of transformers for image restoration and an easy fix
   date: 2023-6-1 
   authors: 
