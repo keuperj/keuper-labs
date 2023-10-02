@@ -602,23 +602,6 @@
   - robustness
   group: workshop
   _cache: 1d2b8bd0064f6cb9328a6954a3dad132ce7539c9aba78ea6bd90b475a9b61606
-- title: CosPGD - a unified white-box adversarial attack for pixel-wise prediction
-    tasks
-  date: '2023-06-01'
-  authors:
-  - Shashank Agnihotri
-  - Steffen Jung
-  - Margret Keuper
-  link: https://arxiv.org/abs/2302.02213
-  publisher: Arxiv
-  extra-links:
-  - type: source
-    link: https://github.com/shashankskagnihotri/cospgd
-  image: images/cospgd_arxiv_logo.png
-  tags:
-  - robustness
-  group: AAA
-  _cache: 4899fc1a789f48e51ced542358f3c6d930b306abbc253869488dbd455db710ac
 - title: On the unreasonable vulnerability of transformers for image restoration and
     an easy fix
   date: '2023-06-01'
