@@ -1,9 +1,9 @@
 ---
 name: Katharina Prasse
 image: https://www.vc.informatik.uni-siegen.de/sites/www.vc.informatik.uni-siegen.de/files/styles/mitarbeiter_foto/public/pictures/katharinaprasse.jpg
-description:  at Uni Siegen
+description:  at Uni Mannheim
 role: phd
-group: Siegen
+group: Mannheim
 aliases:
   - K. Prasse
   - Prasse
