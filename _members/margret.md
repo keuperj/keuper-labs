@@ -19,7 +19,7 @@ nav:
 {%
   include link.html
   link="https://www.uni-mannheim.de/dws/people/professors/prof-dr-ing-margret-keuper/"
-  text="Official website at University Siegen"
+  text="Official website at Mannheim University"
   icon="fas fa-link"
   flip=true
 %}
