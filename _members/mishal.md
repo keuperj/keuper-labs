@@ -1,9 +1,9 @@
 ---
 name: Mishal Fatima
 image: https://www.vc.informatik.uni-siegen.de/sites/www.vc.informatik.uni-siegen.de/files/styles/mitarbeiter_foto/public/pictures/mf1.jpg
-description:  at Uni Siegen
+description:  at Uni Mannheim
 role: phd
-group: Siegen
+group: Mannheim
 aliases:
   - M. Fatima
   - Fatima
