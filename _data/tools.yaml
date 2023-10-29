@@ -20,7 +20,7 @@
     - DIFFUSION
     
 - title: ClimateVisions 
-  subtitle: at Uni Siegen with TU Munich 
+  subtitle: at Uni Mannheim with TU Munich 
   group: current
   image: images/BMBF.jpeg
   link: https://www.gov.sot.tum.de/gov/projects/climatevisions-project/project/
@@ -50,7 +50,7 @@
     
 - title: Q-AMeLiA
   subtitle: fundet by the state of Baden-Würtemberg at IMLA
-  group: current
+  group: past
   image: images/qamelia.jpg
   link: https://q-amelia.in.hs-furtwangen.de/
   description: Quality Assurance of Machine Learning Applications.   
