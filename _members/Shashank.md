@@ -1,9 +1,9 @@
 ---
 name: Shashank Agnihotri
 image: images/Shashank_tedx.jpg
-description:  at Uni Siegen
+description: at Uni Mannheim
 role: phd
-group: Siegen
+group: Mannheim
 aliases:
   - S. Agnihotri
   - Agnihotri
