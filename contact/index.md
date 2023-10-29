@@ -30,10 +30,10 @@ This private website aggregates research from closely cooperating labs from mult
 {% capture col1 %}
 {%
   include figure.html
-  image="images/logovc.png"
-  link="https://www.vc.informatik.uni-siegen.de/en/keuper-margret"
+  image="https://www.uni-mannheim.de/typo3conf/ext/uma_site/Resources/Public/Images/Icons/logo-fakultaet-wim-en.svg"
+  link="https://www.uni-mannheim.de/dws/people/professors/prof-dr-ing-margret-keuper/"
   height="80px"
-  caption="Visual Computing Group at the University of Siegen"
+  caption="Machine Learning Group at Mannheim University"
 %}
 {%
   include link.html
@@ -78,6 +78,7 @@ This private website aggregates research from closely cooperating labs from mult
   flip=true
 %}
 {% endcapture %}
-
+{% capture col2 %}
+{% endcapture %}
 
 {% include two-col.html col1=col1 col2=col2 %}
