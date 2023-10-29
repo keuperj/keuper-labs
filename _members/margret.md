@@ -7,7 +7,7 @@ nav:
 
 
 {% capture text %}
-**Margret Keuper** is Professor for Visual Computing at the University Siegen and head of the *Robust Visual Learning Group* at MPI Saarbrücken. Her research interests are ...
+**Margret Keuper** is full Professor for Machine Learning at Mannheim University and head of the *Robust Visual Learning Group* at MPI Saarbrücken. Her research interests are ...
 
 {%
   include link.html
@@ -18,7 +18,7 @@ nav:
 %}
 {%
   include link.html
-  link="https://www.vc.informatik.uni-siegen.de/en/keuper-margret"
+  link="https://www.uni-mannheim.de/dws/people/professors/prof-dr-ing-margret-keuper/"
   text="Official website at University Siegen"
   icon="fas fa-link"
   flip=true
