@@ -1,9 +1,9 @@
 ---
 name: Amrutha Saseendran
 image: https://www.vc.informatik.uni-siegen.de/sites/www.vc.informatik.uni-siegen.de/files/styles/mitarbeiter_foto/public/pictures/amrutha.jpeg?itok=mUljbhJI
-description:  at Uni Siegen | BCAI
+description:  at Uni Mannheim | BCAI
 role: alumni
-group: Siegen
+group: Mannheim
 aliases:
   - A. Saseendran
   - Saseendran
