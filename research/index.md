@@ -12,7 +12,7 @@ nav:
   include card.html
   image="images/dfg.jpg"
   link="https://www.learning2sense.de/start"
-  title="New DFG Research Group in Siegen"
+  title="DFG Research Group"
   subtitle="Learning to Sense"
   style="small"
 %}
