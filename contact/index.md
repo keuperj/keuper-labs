@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-This private website aggregates research from several closely cooperating labs from multiple institutions. Please refer to the individual lab sites linked below for contact details or write us a mail... 
+This private website aggregates research from closely cooperating labs from multiple institutions. Please refer to the individual lab sites linked below for contact details or write us a mail... 
 
 
 {:.center}
@@ -37,8 +37,8 @@ This private website aggregates research from several closely cooperating labs f
 %}
 {%
   include link.html
-  link="https://www.vc.informatik.uni-siegen.de/en/keuper-margret"
-  text="Visit group pages in Siegen"
+  link="https://www.uni-mannheim.de/dws/people/professors/prof-dr-ing-margret-keuper/"
+  text="Visit group pages in Mannheim"
   icon="fas fa-arrow-right"
   flip=true
 %}
@@ -78,21 +78,6 @@ This private website aggregates research from several closely cooperating labs f
   flip=true
 %}
 {% endcapture %}
-{% capture col2 %}
-{%
-  include figure.html
-  image="images/itwm.svg"
-  link="https://www.itwm.fraunhofer.de/en/departments/hpc/data-analysis-and-machine-learning.html"
-  height="80px"
-  caption="Machine Learning in HPC group at Fraunhofer ITWM"
-%}
-{%
-  include link.html
-  link="https://www.itwm.fraunhofer.de/en/departments/hpc/data-analysis-and-machine-learning.html"
-  text="visit group pages in Kaiserslautern"
-  icon="fas fa-arrow-right"
-  flip=true
-%}
-{% endcapture %}
+
 
 {% include two-col.html col1=col1 col2=col2 %}
