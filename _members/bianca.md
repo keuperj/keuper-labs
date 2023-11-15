@@ -1,6 +1,6 @@
 ---
 name: Bianca Lamm
-image: images/placeholder.jpg
+image: images/biancalamm.jpg
 description:  at IMLA
 role: phd
 group: IMLA
