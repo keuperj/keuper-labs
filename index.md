@@ -24,6 +24,14 @@ Joint research pages of the labs run by ***Margret Keuper and Janis Keuper***. W
 %}
 {%
   include card.html
+  image="https://jmlr.org/tmlr/img/tmlr.jpg"
+  link="https://www.keuper-labs.org/research/?search=improving%20native%20CNN"
+  title="TMLR"
+  subtitle="journal paper"
+  style="small"
+%}
+{%
+  include card.html
   image="images/cvpr_23.png"
   link="https://keuperj.github.io/keuper-labs/research/cvpr23.html"
   title="CVPR 23"
