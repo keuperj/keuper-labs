@@ -635,4 +635,22 @@
   tags:
     - Geophysics
     - CNN
-  group: AAA
+  group: journal
+
+- title: Improving Native CNN Robustness with Filter Frequency Regularization
+  date: 2023-6-1
+  authors: 
+    - Jovita Lukasik
+    - Paul Gavrikov
+    - Janis Keuper
+    - Margret Keuper
+  link: https://openreview.net/forum?id=2wecNCpZ7Y
+  publisher: Geophysics - Journal of the Society of Exploration Geophysicists and American Association of Petroleum Geologists
+  extra-links:
+    - type: preprint
+      link: https://openreview.net/forum?id=2wecNCpZ7Y
+  image: https://jmlr.org/tmlr/img/tmlr.jpg
+  tags:
+    - Robustness
+    - CNN
+  group: journal 
