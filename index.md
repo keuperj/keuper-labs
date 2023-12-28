@@ -64,15 +64,6 @@ Joint research pages of the labs run by ***Margret Keuper and Janis Keuper***. W
   style="small"
 %}
 
-{%
-  include card.html
-  image="images/cvpr_22_oral.png"
-  link="https://keuperj.github.io/keuper-labs/research/?search=cvpr%2022"
-  title="CVPR 22"
-  subtitle="oral paper and workshop paper "
-  style="small"
-%}
-
 
 {% include section.html %}
 
