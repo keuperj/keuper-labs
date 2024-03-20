@@ -678,7 +678,7 @@
     - Generative
   group: AAA
 
-  - title: Urban Sound Propagation - a Benchmark for 1-Step Generative Modeling of Complex Physical Systems
+- title: Urban Sound Propagation - a Benchmark for 1-Step Generative Modeling of Complex Physical Systems
   date: 2024-6-1
   authors: 
     - Martin Spitznagel
@@ -691,12 +691,12 @@
       link: https://arxiv.org/abs/2403.10904
     - type: source
       link: https://www.urban-sound-data.org/
-  image: images/iclr_22.png
+  image: images/iclr_w.png
   tags:
     - Generative
   group: Workshop
 
-   - title: Retail-786k - a Large-Scale Dataset for Visual Entity Matching
+- title: Retail-786k - a Large-Scale Dataset for Visual Entity Matching
   date: 2024-6-1
   authors: 
     - Bianca Lamm
@@ -709,7 +709,7 @@
       link: https://arxiv.org/abs/2309.17164
     - type: source
       link: https://www.retail-786k.org/
-  image: images/iclr_22.png
+  image: images/iclr_w.png
   tags:
     - Classification
   group: Workshop
