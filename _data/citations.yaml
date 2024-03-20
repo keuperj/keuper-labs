@@ -660,3 +660,60 @@
   - CNN
   group: journal
   _cache: fb2d95046587523a48aece017422c5233c23f2145257a166a4bf82bdd84cb095
+- title: Adversarial Supervision Makes Layout-to-Image Diffusion Models Thrive
+  date: '2024-06-01'
+  authors:
+  - Yumeng Li
+  - Margret Keuper
+  - Dan Zhang
+  - Anna Khoreva1
+  link: https://yumengli007.github.io/ALDM/
+  publisher: Proceedings of the Nineth International Conference on Learning Representations
+    (ICLR 24)
+  extra-links:
+  - type: preprint
+    link: https://arxiv.org/pdf/2401.08815.pdf
+  - type: source
+    link: https://github.com/boschresearch/ALDM
+  image: images/iclr_22.png
+  tags:
+  - Generative
+  group: AAA
+  _cache: 51204c0732f66c1ffe1773c9c7ca02e03a0a76cc5d615ff7dcc81d4378f97f33
+- title: Urban Sound Propagation - a Benchmark for 1-Step Generative Modeling of Complex
+    Physical Systems
+  date: '2024-06-01'
+  authors:
+  - Martin Spitznagel
+  - Janis Keuper
+  link: https://www.urban-sound-data.org/
+  publisher: DMLR Workshop at International Conference on Learning Representations
+    (ICLR 24)
+  extra-links:
+  - type: preprint
+    link: https://arxiv.org/abs/2403.10904
+  - type: source
+    link: https://www.urban-sound-data.org/
+  image: images/iclr_w.png
+  tags:
+  - Generative
+  group: Workshop
+  _cache: cf4c68cb5608644ddb899ac2d92148d80b0dc59992b6021899cf23be42af80f9
+- title: Retail-786k - a Large-Scale Dataset for Visual Entity Matching
+  date: '2024-06-01'
+  authors:
+  - Bianca Lamm
+  - Janis Keuper
+  link: https://www.retail-786k.org/
+  publisher: DMLR Workshop at International Conference on Learning Representations
+    (ICLR 24)
+  extra-links:
+  - type: preprint
+    link: https://arxiv.org/abs/2309.17164
+  - type: source
+    link: https://www.retail-786k.org/
+  image: images/iclr_w.png
+  tags:
+  - Classification
+  group: Workshop
+  _cache: 49fc39e2bcf58a39d8361dd69e8ed3981453211cd5e4a720cd57dccd7121c5fe
