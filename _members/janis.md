@@ -6,7 +6,7 @@ nav:
 ---
 
 {% capture text %}
-**Janis Keuper** is full Professor for Data Science and Head of the *Institute for Machine Learning and Analytics* (IMLA) at Offenburg University. 
+**Janis Keuper** is full Professor for Data Science and Head of the *Institute for Machine Learning and Analytics* (IMLA) at Offenburg University. Since 2024 he is also Associated Professor at the University of Mannheim.
 
 {%
   include link.html
