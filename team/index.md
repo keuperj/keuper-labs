@@ -22,7 +22,7 @@ nav:
   link="members/janis.html"
   title="Janis Keuper"
   subtitle="Large Scale ML + Computer Vision"
-  description="Janis is full Professor for Data Science and Head of the *Institute for Machine Learning and Analytics* (IMLA) at [Offenburg University](https://imla.hs-offenburg.de/). "
+  description="Janis is full Professor for Data Science and Head of the *Institute for Machine Learning and Analytics* (IMLA) at [Offenburg University](https://imla.hs-offenburg.de/). Since 2024 he is also Associated Professor at the University of Mannheim. "
   style="large"
 %}
 
