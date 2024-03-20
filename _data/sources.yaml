@@ -661,10 +661,10 @@
 - title: Adversarial Supervision Makes Layout-to-Image Diffusion Models Thrive
   date: 2024-6-1
   authors: 
-    -  Yumeng Li
-    -  Margret Keuper
-    -  Dan Zhang
-    -  Anna Khoreva1 
+    - Yumeng Li
+    - Margret Keuper
+    - Dan Zhang
+    - Anna Khoreva1 
     
   link: https://yumengli007.github.io/ALDM/
   publisher: Proceedings of the Nineth International Conference on Learning Representations (ICLR 24)
@@ -681,8 +681,8 @@
   - title: Urban Sound Propagation - a Benchmark for 1-Step Generative Modeling of Complex Physical Systems
   date: 2024-6-1
   authors: 
-    -  Martin Spitznagel
-    -  Janis Keuper
+    - Martin Spitznagel
+    - Janis Keuper
     
   link: https://www.urban-sound-data.org/
   publisher: DMLR Workshop at International Conference on Learning Representations (ICLR 24)
@@ -699,8 +699,8 @@
    - title: Retail-786k - a Large-Scale Dataset for Visual Entity Matching
   date: 2024-6-1
   authors: 
-    -  Bianca Lamm
-    -  Janis Keuper
+    - Bianca Lamm
+    - Janis Keuper
     
   link: https://www.retail-786k.org/
   publisher: DMLR Workshop at International Conference on Learning Representations (ICLR 24)
