@@ -18,20 +18,29 @@ nav:
 %}
 {%
   include card.html
+  image="images/iclr_22.png"
+  link="https://keuperj.github.io/keuper-labs/research/?search=ICLR%2024"
+  title="ICLR 24"
+  subtitle="full paper and 2 workshop paper accepted"
+  style="small"
+%}
+{%
+  include card.html
   image="https://jmlr.org/tmlr/img/tmlr.jpg"
   link="https://www.keuper-labs.org/research/?search=improving%20native%20CNN"
-  title="TMLR"
+  title="TMLR 23"
   subtitle="journal paper"
   style="small"
 %}
 {%
   include card.html
-  image="images/cvpr_23.png"
-  link="https://keuperj.github.io/keuper-labs/research/cvpr23.html"
-  title="CVPR 23"
-  subtitle="6 workshop paper"
+  image="images/seg.png"
+  link="https://keuperj.github.io/keuper-labs/research/?search=Geophysics"
+  title="Geophysics 23"
+  subtitle="journal paper"
   style="small"
 %}
+
 {%
   include card.html
   image="images/iclr_22.png"
@@ -45,21 +54,9 @@ nav:
   image="images/neurips_22.png"
   link="https://www.keuper-labs.org/research/neurips22.html"
   title="NeurIPS 22"
-  subtitle="2 full paper and 2 workshop paper"
+  subtitle="2 full paper and 2 workshop paper accepted"
   style="small"
 %}
-
-{%
-  include card.html
-  image="images/eccv_22.png"
-  link="https://keuperj.github.io/keuper-labs/research/?search=ECCV%2022"
-  title="ECCV 22"
-  subtitle="2 full paper"
-  style="small"
-%}
-
-
-
 
 
 ### Resources
