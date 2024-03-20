@@ -27,7 +27,7 @@ Joint research pages of the labs run by ***Margret Keuper and Janis Keuper***. W
   image="images/iclr_22.png"
   link="https://keuperj.github.io/keuper-labs/research/?search=ICLR%2024"
   title="ICLR 24"
-  subtitle="full paper + 2 workshop accepted"
+  subtitle="full paper and 2 workshop paper accepted"
   style="small"
 %}
 {%
