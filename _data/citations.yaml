@@ -717,3 +717,21 @@
   - Classification
   group: Workshop
   _cache: 49fc39e2bcf58a39d8361dd69e8ed3981453211cd5e4a720cd57dccd7121c5fe
+- title: Intra- and extra-source exemplar-based style synthesis for improved domain
+    generalization
+  date: '2024-06-01'
+  authors:
+  - Yumeng Li
+  - Dan Zhang
+  - Margret Keuper
+  - Anna Khoreva
+  link: https://link.springer.com/article/10.1007/s11263-023-01878-8
+  publisher: International Journal of Computer Vision
+  extra-links:
+  - type: preprint
+    link: ttps://link.springer.com/article/10.1007/s11263-023-01878-8
+  image: images/ijcv.jpeg
+  tags:
+  - Generative
+  group: Journal
+  _cache: a9d87d04efde78155d622b0416fd7c754ff681896fa0ccd3a82ae17840000872
