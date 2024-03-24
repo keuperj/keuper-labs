@@ -655,7 +655,7 @@
     - CNN
   group: journal 
 #-------------------------
-# 2020
+# 2024
 #-------------------------
 
 - title: Adversarial Supervision Makes Layout-to-Image Diffusion Models Thrive
@@ -713,3 +713,22 @@
   tags:
     - Classification
   group: Workshop
+
+- title: Intra- and extra-source exemplar-based style synthesis for improved domain generalization
+  date: 2024-6-1
+  authors: 
+    - Yumeng Li
+    - Dan Zhang
+    - Margret Keuper
+    - Anna Khoreva
+    
+  link: https://link.springer.com/article/10.1007/s11263-023-01878-8
+  publisher: International Journal of Computer Vision
+  extra-links:
+    - type: preprint
+      link: ttps://link.springer.com/article/10.1007/s11263-023-01878-8
+    
+  image: images/ijcv.jpeg
+  tags:
+    - Generative 
+  group: Journal
