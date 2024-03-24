@@ -24,6 +24,14 @@ Joint research pages of the labs run by ***Margret Keuper and Janis Keuper***. W
 %}
 {%
   include card.html
+  image="images/ijcv.jpeg"
+  link="https://keuperj.github.io/keuper-labs/research/?search=ijcv"
+  title="IJCV 24"
+  subtitle="journal paper"
+  style="small"
+%}
+{%
+  include card.html
   image="images/iclr_22.png"
   link="https://keuperj.github.io/keuper-labs/research/?search=ICLR%2024"
   title="ICLR 24"
@@ -55,14 +63,7 @@ Joint research pages of the labs run by ***Margret Keuper and Janis Keuper***. W
   subtitle="full paper accepted"
   style="small"
 %}
-{%
-  include card.html
-  image="images/neurips_22.png"
-  link="https://www.keuper-labs.org/research/neurips22.html"
-  title="NeurIPS 22"
-  subtitle="2 full paper and 2 workshop paper accepted"
-  style="small"
-%}
+
 
 
 
