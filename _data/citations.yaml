@@ -726,7 +726,7 @@
   - Margret Keuper
   - Anna Khoreva
   link: https://link.springer.com/article/10.1007/s11263-023-01878-8
-  publisher: International Journal of Computer Vision
+  publisher: International Journal of Computer Vision (IJCV 24)
   extra-links:
   - type: preprint
     link: ttps://link.springer.com/article/10.1007/s11263-023-01878-8
@@ -734,4 +734,4 @@
   tags:
   - Generative
   group: Journal
-  _cache: a9d87d04efde78155d622b0416fd7c754ff681896fa0ccd3a82ae17840000872
+  _cache: 0f40016a2905a9b0a6ddd99a2f1c220646e846bc8b50bdb208edf93dd970a813
