@@ -660,6 +660,25 @@
   - CNN
   group: journal
   _cache: fb2d95046587523a48aece017422c5233c23f2145257a166a4bf82bdd84cb095
+- title: Can Biases in ImageNet Models Explain Generalization?
+  date: '2024-06-01'
+  authors:
+  - Paul Gavrikov
+  - Janis Keuper
+  link: https://arxiv.org/pdf/2404.01509
+  publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern
+    Recognition (CVPR 2024)
+  extra-links:
+  - type: preprint
+    link: https://arxiv.org/pdf/2404.01509
+  - type: source
+    link: https://github.com/paulgavrikov/biases_vs_generalization
+  image: images/cvpr_24.png
+  tags:
+  - Generalization
+  - Bias
+  group: AAA
+  _cache: 58e4c689181b5601c1d1a1a33264fc4aba044d52c3ae23b17acabaacd9123562
 - title: Adversarial Supervision Makes Layout-to-Image Diffusion Models Thrive
   date: '2024-06-01'
   authors:
