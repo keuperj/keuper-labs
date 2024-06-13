@@ -752,3 +752,36 @@
     - Generalization
     - Bias
   group: AAA
+
+- title: As large as it gets-Studying Infinitely Large Convolutions via Neural Implicit Frequency Filters
+  date: 2024-6-1
+  authors: 
+    - Julia Grabinski
+    - Janis Keuper
+    - Margret Keuper
+  link: https://pure.mpg.de/rest/items/item_3592449/component/file_3592451/content
+  publisher: Transactions on Machine Learning Research 
+  extra-links:
+    - type: preprint
+      link: https://pure.mpg.de/rest/items/item_3592449/component/file_3592451/content
+  image: https://jmlr.org/tmlr/img/tmlr.jpg
+  tags:
+    - Robustness
+    - CNN
+  group: journal
+
+- title: CosPGD: an efficient white-box adversarial attack for pixel-wise prediction tasks 
+  date: 2024-6-1
+  authors: 
+    - Shashank Agnihotri,
+    - Stefen Jung, 
+    - Margret Keuper
+  link: https://openreview.net/forum?id=CXZqGJonmt
+  publisher: ICML 24
+  extra-links:
+    - type: preprint
+      link: https://openreview.net/forum?id=CXZqGJonmt
+  image: images/ICML.png
+  tags:
+    - robustness
+  group: AAA
