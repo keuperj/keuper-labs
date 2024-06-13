@@ -785,3 +785,38 @@
   tags:
     - robustness
   group: AAA
+
+- title: MultiMax - Sparse and Multi-Modal Attention Learning  
+  date: 2024-6-1
+  authors: 
+    - Y. Zhou, 
+    - Mario Fritz,
+    - Margret Keuper
+  link: https://openreview.net/forum?id=IC9UZ8lm25
+  publisher: ICML 24
+  extra-links:
+    - type: preprint
+      link: https://openreview.net/forum?id=IC9UZ8lm25
+  image: images/ICML.png
+  tags:
+    - robustness
+  group: AAA
+
+- title: Implicit Representations for Constrained Image Segmentation
+  date: 2024-6-1
+  authors: 
+    - J. P. Schneider, 
+    - M. Fatima, 
+    - J. Lukasik, 
+    - A. Kolb, 
+    - Margret Keuper, 
+    - M. Moeller
+  link: https://openreview.net/forum?id=IaV6AgrTUp
+  publisher: ICML 24
+  extra-links:
+    - type: preprint
+      link: https://openreview.net/forum?id=IaV6AgrTUp
+  image: images/ICML.png
+  tags:
+    - robustness
+  group: AAA
