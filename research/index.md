@@ -10,6 +10,22 @@ nav:
 ### Highlights
 {%
   include card.html
+  image="images/icml.png"
+  link="https://keuperj.github.io/keuper-labs/research/?search=ICML#2024"
+  title="ICML 2024"
+  subtitle="3 full paper"
+  style="small"
+%}
+{%
+  include card.html
+  image="https://jmlr.org/tmlr/img/tmlr.jpg"
+  link="https://www.keuper-labs.org/research/?search=TMLR"
+  title="TMLR 24"
+  subtitle="journal paper"
+  style="small"
+%}
+{%
+  include card.html
   image="images/cvpr_24.png"
   link="https://keuperj.github.io/keuper-labs/research/?search=CVPR#2024"
   title="CVPR 2024"
