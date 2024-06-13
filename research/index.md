@@ -10,7 +10,7 @@ nav:
 ### Highlights
 {%
   include card.html
-  image="images/icml.png"
+  image="images/ICML.png"
   link="https://keuperj.github.io/keuper-labs/research/?search=ICML#2024"
   title="ICML 2024"
   subtitle="3 full paper"
@@ -19,7 +19,7 @@ nav:
 {%
   include card.html
   image="https://jmlr.org/tmlr/img/tmlr.jpg"
-  link="https://www.keuper-labs.org/research/?search=TMLR"
+  link="https://www.keuper-labs.org/research/?search=Frequency#Filters"
   title="TMLR 24"
   subtitle="journal paper"
   style="small"
