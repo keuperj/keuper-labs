@@ -754,3 +754,38 @@
   - Bias
   group: AAA
   _cache: 58e4c689181b5601c1d1a1a33264fc4aba044d52c3ae23b17acabaacd9123562
+- title: As large as it gets-Studying Infinitely Large Convolutions via Neural Implicit
+    Frequency Filters
+  date: '2024-06-01'
+  authors:
+  - Julia Grabinski
+  - Janis Keuper
+  - Margret Keuper
+  link: https://pure.mpg.de/rest/items/item_3592449/component/file_3592451/content
+  publisher: Transactions on Machine Learning Research
+  extra-links:
+  - type: preprint
+    link: https://pure.mpg.de/rest/items/item_3592449/component/file_3592451/content
+  image: https://jmlr.org/tmlr/img/tmlr.jpg
+  tags:
+  - Robustness
+  - CNN
+  group: journal
+  _cache: 56fcf0f9caf691c4dad9b94ee1ffeca59fd6aec874abed1de1dc60baee239e45
+- title: CosPGD - an efficient white-box adversarial attack for pixel-wise prediction
+    tasks
+  date: '2024-06-01'
+  authors:
+  - Shashank Agnihotri,
+  - Stefen Jung,
+  - Margret Keuper
+  link: https://openreview.net/forum?id=CXZqGJonmt
+  publisher: ICML 24
+  extra-links:
+  - type: preprint
+    link: https://openreview.net/forum?id=CXZqGJonmt
+  image: images/ICML.png
+  tags:
+  - robustness
+  group: AAA
+  _cache: 4376f3e57ee9bfe93f63bf643901295e4a6e816295903327384032149f9d381e
