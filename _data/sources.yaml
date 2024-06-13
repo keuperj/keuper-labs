@@ -770,7 +770,7 @@
     - CNN
   group: journal
 
-- title: CosPGD: an efficient white-box adversarial attack for pixel-wise prediction tasks 
+- title: CosPGD - an efficient white-box adversarial attack for pixel-wise prediction tasks 
   date: 2024-6-1
   authors: 
     - Shashank Agnihotri,
