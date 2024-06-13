@@ -50,27 +50,10 @@ nav:
 %}
 {%
   include card.html
-  image="https://jmlr.org/tmlr/img/tmlr.jpg"
-  link="https://www.keuper-labs.org/research/?search=improving%20native%20CNN#2023"
-  title="TMLR 23"
-  subtitle="journal paper"
-  style="small"
-%}
-{%
-  include card.html
   image="images/seg.png"
   link="https://keuperj.github.io/keuper-labs/research/?search=Geophysics#2023"
   title="Geophysics 23"
   subtitle="journal paper"
-  style="small"
-%}
-
-{%
-  include card.html
-  image="images/iclr_22.png"
-  link="https://keuperj.github.io/keuper-labs/research/?search=ICLR%2023#2023"
-  title="ICLR 23"
-  subtitle="full paper accepted"
   style="small"
 %}
 
