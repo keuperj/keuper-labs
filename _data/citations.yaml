@@ -776,8 +776,8 @@
     tasks
   date: '2024-06-01'
   authors:
-  - Shashank Agnihotri,
-  - Stefen Jung,
+  - Shashank Agnihotri
+  - Stefen Jung
   - Margret Keuper
   link: https://openreview.net/forum?id=CXZqGJonmt
   publisher: ICML 24
@@ -788,12 +788,12 @@
   tags:
   - robustness
   group: AAA
-  _cache: 4376f3e57ee9bfe93f63bf643901295e4a6e816295903327384032149f9d381e
+  _cache: 48a52fdd5d8262376303f05eec701630f71e4bee700089b2ab05172e8ffdcf85
 - title: MultiMax - Sparse and Multi-Modal Attention Learning
   date: '2024-06-01'
   authors:
   - Y. Zhou,
-  - Mario Fritz,
+  - Mario Fritz
   - Margret Keuper
   link: https://openreview.net/forum?id=IC9UZ8lm25
   publisher: ICML 24
@@ -801,18 +801,17 @@
   - type: preprint
     link: https://openreview.net/forum?id=IC9UZ8lm25
   image: images/ICML.png
-  tags:
-  - robustness
+  tags: null
   group: AAA
-  _cache: 7e07ba70dbbec08db19a603729e561955434a1b29494cbf5e746a8d0a3b4993f
+  _cache: a0208d0792ab2cb2ee2b396f5a9c8b9135cd4675ad4f2e1dec229a89f5f32afd
 - title: Implicit Representations for Constrained Image Segmentation
   date: '2024-06-01'
   authors:
-  - J. P. Schneider,
-  - M. Fatima,
-  - J. Lukasik,
-  - A. Kolb,
-  - Margret Keuper,
+  - J. P. Schneider
+  - M. Fatima
+  - J. Lukasik
+  - A. Kolb
+  - Margret Keuper
   - M. Moeller
   link: https://openreview.net/forum?id=IaV6AgrTUp
   publisher: ICML 24
@@ -823,4 +822,4 @@
   tags:
   - robustness
   group: AAA
-  _cache: 132220b8bdccf286f6860bb4a635f02d31487f76b95fd4fe14c11498aaf3e355
+  _cache: bf00991dd5cd24c2a9a898baed121801a0fedaf6181bed5ea2d5ab41e9c5a7e1
