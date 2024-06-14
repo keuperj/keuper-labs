@@ -802,9 +802,9 @@
     link: https://openreview.net/forum?id=IC9UZ8lm25
   image: images/ICML.png
   tags:
-  - Multi-Modal
+  - MultiModal
   group: AAA
-  _cache: 2dac49b8e2aa594e9c8d01438f503210a3894eb03e168c3134d3e81db7fbec03
+  _cache: ead0d995db6f5b5e190e3d04b83d6949a70386111d1e4f216762fbb738c1fd95
 - title: Implicit Representations for Constrained Image Segmentation
   date: '2024-06-01'
   authors:
