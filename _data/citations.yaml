@@ -792,7 +792,7 @@
 - title: MultiMax - Sparse and Multi-Modal Attention Learning
   date: '2024-06-01'
   authors:
-  - Y. Zhou,
+  - Y. Zhou
   - Mario Fritz
   - Margret Keuper
   link: https://openreview.net/forum?id=IC9UZ8lm25
@@ -801,8 +801,10 @@
   - type: preprint
     link: https://openreview.net/forum?id=IC9UZ8lm25
   image: images/ICML.png
+  tags:
+  - Multi-Modal
   group: AAA
-  _cache: 210f7d8f1dc519a7a0591cc7c7bfd340dcbd6cd445ae085fac9e9c9786207136
+  _cache: 2dac49b8e2aa594e9c8d01438f503210a3894eb03e168c3134d3e81db7fbec03
 - title: Implicit Representations for Constrained Image Segmentation
   date: '2024-06-01'
   authors:
