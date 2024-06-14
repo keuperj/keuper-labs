@@ -798,7 +798,6 @@
     - type: preprint
       link: https://openreview.net/forum?id=IC9UZ8lm25
   image: images/ICML.png
-  tags:
   group: AAA
 
 - title: Implicit Representations for Constrained Image Segmentation
