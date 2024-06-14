@@ -773,8 +773,8 @@
 - title: CosPGD - an efficient white-box adversarial attack for pixel-wise prediction tasks 
   date: 2024-6-1
   authors: 
-    - Shashank Agnihotri,
-    - Stefen Jung, 
+    - Shashank Agnihotri
+    - Stefen Jung 
     - Margret Keuper
   link: https://openreview.net/forum?id=CXZqGJonmt
   publisher: ICML 24
@@ -790,7 +790,7 @@
   date: 2024-6-1
   authors: 
     - Y. Zhou, 
-    - Mario Fritz,
+    - Mario Fritz
     - Margret Keuper
   link: https://openreview.net/forum?id=IC9UZ8lm25
   publisher: ICML 24
@@ -799,17 +799,16 @@
       link: https://openreview.net/forum?id=IC9UZ8lm25
   image: images/ICML.png
   tags:
-    - robustness
   group: AAA
 
 - title: Implicit Representations for Constrained Image Segmentation
   date: 2024-6-1
   authors: 
-    - J. P. Schneider, 
-    - M. Fatima, 
-    - J. Lukasik, 
-    - A. Kolb, 
-    - Margret Keuper, 
+    - J. P. Schneider 
+    - M. Fatima 
+    - J. Lukasik 
+    - A. Kolb 
+    - Margret Keuper 
     - M. Moeller
   link: https://openreview.net/forum?id=IaV6AgrTUp
   publisher: ICML 24
