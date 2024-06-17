@@ -29,7 +29,7 @@ nav:
   image="images/cvpr_24.png"
   link="https://keuperj.github.io/keuper-labs/research/?search=CVPR#2024"
   title="CVPR 2024"
-  subtitle="full paper"
+  subtitle="full paper + 2 workshop paper"
   style="small"
 %}
 {%
