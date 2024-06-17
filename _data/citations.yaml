@@ -754,6 +754,46 @@
   - Bias
   group: AAA
   _cache: 58e4c689181b5601c1d1a1a33264fc4aba044d52c3ae23b17acabaacd9123562
+- title: Ambiguous Annotations - When is a Pedestrian not a Pedestrian?
+  date: '2024-06-01'
+  authors:
+  - Luisa Schwirten
+  - Jannes Scholz
+  - Daniel Kondermann
+  - Janis Keuper
+  link: https://arxiv.org/pdf/2405.08794
+  publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern
+    Recognition Workshops (CVPRw 2024)
+  extra-links:
+  - type: preprint
+    link: https://arxiv.org/pdf/2405.08794
+  image: images/cvpr_24w.png
+  tags:
+  - Generalization
+  group: Workshop
+  _cache: d823de02f8d4097fe272362d59bf11c4203ae32be1bf892d4e6a1af81cbc0066
+- title: Are Vision Language Models Texture or Shape Biased and Can We Steer Them?
+  date: '2024-06-01'
+  authors:
+  - Paul Gavrikov
+  - Jovita Lukasik
+  - Steffen Jung
+  - Robert Geirhos
+  - Bianca Lamm
+  - Jehanzeb Mirza
+  - Margret Keuper
+  - Janis Keuper
+  link: https://github.com/EliSchwartz/MMFM24/blob/main/52.pdf
+  publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern
+    Recognition Workshops (CVPRw 2024)
+  extra-links:
+  - type: preprint
+    link: https://github.com/EliSchwartz/MMFM24/blob/main/52.pdf
+  image: images/cvpr_24w.png
+  tags:
+  - Generalization
+  group: Workshop
+  _cache: 03f615f854267262e5b053053333776151b0f855388fe1ba4d560536f8ce0fdc
 - title: As large as it gets-Studying Infinitely Large Convolutions via Neural Implicit
     Frequency Filters
   date: '2024-06-01'
