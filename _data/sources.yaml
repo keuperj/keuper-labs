@@ -858,3 +858,22 @@
   tags:
     - robustness
   group: AAA
+
+- title: Learning the essential in less than 2k additional weights - a simple approach to improve image classification stability under corruptions
+  date: 2024-6-1
+  authors: 
+    - Kai Bäuerle
+    - Patrick Müller
+    - Syed Muhammad Kazim
+    - Ivo Ihrke
+    - Margret Keuper
+  link: https://openreview.net/pdf?id=i2SuGWtIIm
+  publisher: Transactions on Machine Learning Research 
+  extra-links:
+    - type: preprint
+      link: https://openreview.net/pdf?id=i2SuGWtIIm
+  image: https://jmlr.org/tmlr/img/tmlr.jpg
+  tags:
+    - Robustness
+    - CNN
+  group: journal
