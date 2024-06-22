@@ -19,9 +19,9 @@ nav:
 {%
   include card.html
   image="https://jmlr.org/tmlr/img/tmlr.jpg"
-  link="https://www.keuper-labs.org/research/?search=Frequency#Filters"
+  link="https://www.keuper-labs.org/research/?search=TMLR"
   title="TMLR 24"
-  subtitle="journal paper"
+  subtitle="2 journal paper"
   style="small"
 %}
 {%
