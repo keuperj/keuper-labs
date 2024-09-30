@@ -658,6 +658,40 @@
 # 2024
 #-------------------------
 
+- title: Improving Feature Stability during Upsampling-Spectral Artifacts and the Importance of Spatial Context
+  date: 2024-6-1
+  authors: 
+    - Shashank Agnihotri
+    - Julia Grabinski
+    - Margret Keuper
+    
+  link: https://pure.mpg.de/rest/items/item_3611850_1/component/file_3611851/content
+  publisher: Proceedings of the 18th European Conference on Computer Vision (ECCV 24)
+  extra-links:
+    - type: preprint
+      link: https://pure.mpg.de/rest/items/item_3611850_1/component/file_3611851/content
+  image: images/eccv24.png
+  tags:
+    - Robustness
+  group: AAA
+
+- title: Fake or JPEG? Revealing Common Biases in Generated Image Detection Datasets
+  date: 2024-6-1
+  authors: 
+    - Patrick Grommelt
+    - Louis Weiss
+    - Franz-Josef Pfreundt
+    - Janis Keuper
+    
+  link: https://arxiv.org/pdf/2403.17608
+  publisher: CEGIS Workshop at ECCV 24
+  extra-links:
+    - type: preprint
+      link: https://arxiv.org/pdf/2403.17608
+  image: images/eccv24w.png
+  tags:
+    - Robustness
+  group: AAA
 
 - title: Adversarial Supervision Makes Layout-to-Image Diffusion Models Thrive
   date: 2024-6-1
