@@ -690,8 +690,42 @@
       link: https://arxiv.org/pdf/2403.17608
   image: images/eccv24w.png
   tags:
+    - DeepFake
+  group: Workshop
+
+- title: Can Visual Language Models Replace OCR-Based Visual Question Answering Pipelines in Production? A Case Study in Retail
+  date: 2024-6-1
+  authors: 
+    - Bianca Lamm
+    - Janis Keuper
+    
+  link: https://arxiv.org/pdf/2408.15626
+  publisher: EVAL-FoMo Workshop at ECCV 24
+  extra-links:
+    - type: preprint
+      link: https://arxiv.org/pdf/2408.15626
+  image: images/eccv24w.png
+  tags:
+    - FoundationModels
+  group: Workshop
+
+- title: Top-GAP - Integrating Size Priors in CNNs for more Interpretability, Robustness, and Bias Mitigation
+  date: 2024-6-1
+  authors: 
+    - Lars Nieradzik
+    - Henrike Stephani
+    - Janis Keuper
+    
+  link: https://arxiv.org/pdf/2409.04819
+  publisher: eCVX Workshop at ECCV 24
+  extra-links:
+    - type: preprint
+      link: https://arxiv.org/pdf/2409.04819
+  image: images/eccv24w.png
+  tags:
     - Robustness
-  group: AAA
+  group: Workshop  
+
 
 - title: Adversarial Supervision Makes Layout-to-Image Diffusion Models Thrive
   date: 2024-6-1
