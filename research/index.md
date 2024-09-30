@@ -10,6 +10,15 @@ nav:
 ### Highlights
 {%
   include card.html
+  image="images/ECCV 24.png"
+  link="https://keuperj.github.io/keuper-labs/research/?search=ECCV"
+  title="ECCV 24"
+  subtitle="Full paper + 3 Workshop paper"
+  style="small"
+%}
+
+{%
+  include card.html
   image="images/ICML.png"
   link="https://keuperj.github.io/keuper-labs/research/?search=ICML#2024"
   title="ICML 2024"
@@ -46,14 +55,6 @@ nav:
   link="https://keuperj.github.io/keuper-labs/research/?search=ICLR%2024#2024"
   title="ICLR 24"
   subtitle="full paper and 2 workshop paper accepted"
-  style="small"
-%}
-{%
-  include card.html
-  image="images/seg.png"
-  link="https://keuperj.github.io/keuper-labs/research/?search=Geophysics#2023"
-  title="Geophysics 23"
-  subtitle="journal paper"
   style="small"
 %}
 
