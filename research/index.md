@@ -10,7 +10,7 @@ nav:
 ### Highlights
 {%
   include card.html
-  image="images/ECCV 24.png"
+  image="images/eccv24.png"
   link="https://keuperj.github.io/keuper-labs/research/?search=ECCV"
   title="ECCV 24"
   subtitle="Full paper + 3 Workshop paper"
