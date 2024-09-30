@@ -660,6 +660,74 @@
   - CNN
   group: journal
   _cache: 4354292ce7fd264fbd701129a54f8b32ce4e391548f7f8da2a4a29eaf4c8851d
+- title: Improving Feature Stability during Upsampling-Spectral Artifacts and the
+    Importance of Spatial Context
+  date: '2024-06-01'
+  authors:
+  - Shashank Agnihotri
+  - Julia Grabinski
+  - Margret Keuper
+  link: https://pure.mpg.de/rest/items/item_3611850_1/component/file_3611851/content
+  publisher: Proceedings of the 18th European Conference on Computer Vision (ECCV
+    24)
+  extra-links:
+  - type: preprint
+    link: https://pure.mpg.de/rest/items/item_3611850_1/component/file_3611851/content
+  image: images/eccv24.png
+  tags:
+  - Robustness
+  group: AAA
+  _cache: a1a2d14f68d4846a0991ff7fe9c56dc6fa71bd4892785851f754169560b8176c
+- title: Fake or JPEG? Revealing Common Biases in Generated Image Detection Datasets
+  date: '2024-06-01'
+  authors:
+  - Patrick Grommelt
+  - Louis Weiss
+  - Franz-Josef Pfreundt
+  - Janis Keuper
+  link: https://arxiv.org/pdf/2403.17608
+  publisher: CEGIS Workshop at ECCV 24
+  extra-links:
+  - type: preprint
+    link: https://arxiv.org/pdf/2403.17608
+  image: images/eccv24w.png
+  tags:
+  - DeepFake
+  group: Workshop
+  _cache: da649540eb26a87befdb7d4c27eff5737bf029c465da3c26b7956aa8870201e9
+- title: Can Visual Language Models Replace  OCR-Based Visual Question Answering Pipelines
+    in Production? A Case Study in Retail
+  date: '2024-06-01'
+  authors:
+  - Bianca Lamm
+  - Janis Keuper
+  link: https://arxiv.org/pdf/2408.15626
+  publisher: EVAL-FoMo Workshop at ECCV 24
+  extra-links:
+  - type: preprint
+    link: https://arxiv.org/pdf/2408.15626
+  image: images/eccv24w.png
+  tags:
+  - FoundationModels
+  group: Workshop
+  _cache: dafa21f2792a43249bcdf3a35a019c87355fa11d4e3bc09ef68960d7814a8e15
+- title: Top-GAP - Integrating Size Priors in CNNs for more Interpretability, Robustness,
+    and Bias Mitigation
+  date: '2024-06-01'
+  authors:
+  - Lars Nieradzik
+  - Henrike Stephani
+  - Janis Keuper
+  link: https://arxiv.org/pdf/2409.04819
+  publisher: eCVX Workshop at ECCV 24
+  extra-links:
+  - type: preprint
+    link: https://arxiv.org/pdf/2409.04819
+  image: images/eccv24w.png
+  tags:
+  - Robustness
+  group: Workshop
+  _cache: 19316a759a8f6208c3fc4bb66852ca5cd2ac8298fda4c77e7b8827436d6180db
 - title: Adversarial Supervision Makes Layout-to-Image Diffusion Models Thrive
   date: '2024-06-01'
   authors:
