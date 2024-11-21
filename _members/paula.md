@@ -2,7 +2,7 @@
 name: Paula Harder
 image: https://www.itwm.fraunhofer.de/content/businesscards/ITWM/hpc/paula_harder/jcr:content/businesscard/image.img.1col.jpg/1683283106996/230x230-itwm-hpc-harder-paula.jpg
 description:  at ITWM
-role: phd
+role: alumni
 group: ITWM
 aliases:
   - P. Harder
