@@ -952,3 +952,19 @@
   - CNN
   group: journal
   _cache: 2eca524c8aa2c228d622bcae76636c6e6680376f47722cf0f88b03c192d631a2
+- title: Reliable Evaluation of Attribution Maps in CNNs - A Perturbation-Based Approach
+  date: '2024-06-01'
+  authors:
+  - Lars Nieradzik
+  - Henrike Stephani
+  - Janis Keuper
+  link: https://link.springer.com/article/10.1007/s11263-024-02282-6
+  publisher: International Journal of Computer Vision (IJCV 24)
+  extra-links:
+  - type: preprint
+    link: https://link.springer.com/article/10.1007/s11263-024-02282-6
+  image: images/ijcv.jpeg
+  tags:
+  - Robustness
+  group: Journal
+  _cache: d2a241c98f54ee0f3662456bbba5603a22862c33a55646d3d3229d343d46070f
