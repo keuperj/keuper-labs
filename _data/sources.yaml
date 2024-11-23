@@ -947,8 +947,7 @@
     - CNN
   group: journal
   
-- title: Reliable Evaluation of Attribution Maps in CNNs: A Perturbation-Based
-Approach
+- title: Reliable Evaluation of Attribution Maps in CNNs - A Perturbation-Based Approach
   date: 2024-6-1
   authors: 
     - Lars Nieradzik
