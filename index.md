@@ -51,7 +51,7 @@ Joint research pages of the labs run by ***Margret Keuper and Janis Keuper***. W
   image="images/ijcv.jpeg"
   link="https://keuperj.github.io/keuper-labs/research/?search=IJCV#2024"
   title="IJCV 24"
-  subtitle="journal paper"
+  subtitle="2 journal paper"
   style="small"
 %}
 {%
