@@ -803,6 +803,7 @@
   group: Journal
 
 
+
 - title: Can Biases in ImageNet Models Explain Generalization?
   date: 2024-6-1 
   authors: 
@@ -945,3 +946,22 @@
     - Robustness
     - CNN
   group: journal
+  
+- title: Reliable Evaluation of Attribution Maps in CNNs: A Perturbation-Based
+Approach
+  date: 2024-6-1
+  authors: 
+    - Lars Nieradzik
+    - Henrike Stephani
+    - Janis Keuper
+    
+  link: https://link.springer.com/article/10.1007/s11263-024-02282-6
+  publisher: International Journal of Computer Vision (IJCV 24)
+  extra-links:
+    - type: preprint
+      link: https://link.springer.com/article/10.1007/s11263-024-02282-6
+    
+  image: images/ijcv.jpeg
+  tags:
+    - Robustness 
+  group: Journal
