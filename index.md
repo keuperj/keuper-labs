@@ -132,7 +132,7 @@ Meet our teams and find open positions...
   text=text
 %}
 
-# News 
+# News (follow us on <a src="https://bsky.app/profile/keuper-labs.bsky.social">BlueSky:@keuper-labs.bsky.social</a>)
 <script type="module" src="https://cdn.jsdelivr.net/npm/bsky-embed/dist/bsky-embed.es.js" async></script>
   <bsky-embed
     username="keuper-labs.bsky.social"
