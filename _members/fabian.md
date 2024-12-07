@@ -1,6 +1,6 @@
 ---
 name: Fabian Fuchs
-image: 
+image: ../images/hpc_fuchs_fabian.jpg
 description: at ITWM
 role: phd
 group: ITWM
