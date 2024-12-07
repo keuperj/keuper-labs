@@ -1,7 +1,7 @@
 ---
 name: Bianca Lamm
 image: images/biancalamm.jpg
-description:  at IMLA
+description:  at IMLA | Markant
 role: phd
 group: IMLA
 aliases:
