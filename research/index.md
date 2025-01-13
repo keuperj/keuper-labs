@@ -46,7 +46,7 @@ nav:
   image="images/ijcv.jpeg"
   link="https://keuperj.github.io/keuper-labs/research/?search=IJCV#2024"
   title="IJCV 24"
-  subtitle="2 journal paper"
+  subtitle="3 journal paper"
   style="small"
 %}
 {%
