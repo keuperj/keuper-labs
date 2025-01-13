@@ -660,41 +660,6 @@
   - CNN
   group: journal
   _cache: 4354292ce7fd264fbd701129a54f8b32ce4e391548f7f8da2a4a29eaf4c8851d
-- title: How Do Training Methods Influence the Utilization of Vision Models?
-  date: '2024-06-01'
-  authors:
-  - Paul Gavrikov
-  - Shashank Agnihotri
-  - Margret Keuper
-  - Janis Keuper
-  link: https://arxiv.org/pdf/2410.14470?
-  publisher: NeurIPS 24 Workshop on InterpretableAI
-  extra-links:
-  - type: preprint
-    link: https://arxiv.org/pdf/2410.14470?
-  image: images/neurips_22_w.png
-  tags:
-  - Robustness
-  group: workshop
-  _cache: ea84e8814ac85a65b9bbf0fbbfe7c73c932c6530a49f2edfba005117329fe4b0
-- title: An evaluation of zero-cost proxies-from neural architecture performance prediction
-    to model robustness
-  date: '2024-06-01'
-  authors:
-  - Jovita Lukasik
-  - Michael Moeller
-  - Margret Keuper
-  link: https://link.springer.com/article/10.1007/s11263-024-02265-7
-  publisher: Transactions on Machine Learning Research (TMLR)
-  extra-links:
-  - type: preprint
-    link: https://link.springer.com/article/10.1007/s11263-024-02265-7
-  image: https://jmlr.org/tmlr/img/tmlr.jpg
-  tags:
-  - Robustness
-  - NAS
-  group: journal
-  _cache: 8e1e8f7c7dc7dd05db32f32baca1d955e63f60194c4a0c7ad4431052b706ac1d
 - title: Improving Feature Stability during Upsampling-Spectral Artifacts and the
     Importance of Spatial Context
   date: '2024-06-01'
@@ -1003,3 +968,38 @@
   - Robustness
   group: Journal
   _cache: d2a241c98f54ee0f3662456bbba5603a22862c33a55646d3d3229d343d46070f
+- title: How Do Training Methods Influence the Utilization of Vision Models?
+  date: '2024-06-01'
+  authors:
+  - Paul Gavrikov
+  - Shashank Agnihotri
+  - Margret Keuper
+  - Janis Keuper
+  link: https://arxiv.org/pdf/2410.14470?
+  publisher: NeurIPS 24 Workshop on InterpretableAI
+  extra-links:
+  - type: preprint
+    link: https://arxiv.org/pdf/2410.14470?
+  image: images/neurips_22_w.png
+  tags:
+  - Robustness
+  group: workshop
+  _cache: ea84e8814ac85a65b9bbf0fbbfe7c73c932c6530a49f2edfba005117329fe4b0
+- title: An evaluation of zero-cost proxies-from neural architecture performance prediction
+    to model robustness
+  date: '2024-06-01'
+  authors:
+  - Jovita Lukasik
+  - Michael Moeller
+  - Margret Keuper
+  link: https://link.springer.com/article/10.1007/s11263-024-02265-7
+  publisher: International Journal of Computer Vision (IJCV 24)
+  extra-links:
+  - type: preprint
+    link: https://link.springer.com/article/10.1007/s11263-024-02265-7
+  image: images/ijcv.jpeg
+  tags:
+  - Robustness
+  - NAS
+  group: journal
+  _cache: 0481382d212e67492c0e52fac6901e664dd93e7e77fb0e5fe63687c33f8bc129
