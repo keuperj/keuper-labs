@@ -657,6 +657,39 @@
 #-------------------------
 # 2024
 #-------------------------
+- title: How Do Training Methods Influence the Utilization of Vision Models?
+  date: 2024-6-1
+  authors: 
+    - Paul Gavrikov
+    - Shashank Agnihotri
+    - Margret Keuper
+    - Janis Keuper
+  link: https://arxiv.org/pdf/2410.14470?
+  publisher: NeurIPS 24 Workshop on InterpretableAI
+  extra-links:
+    - type: preprint
+      link: https://arxiv.org/pdf/2410.14470?
+  image: images/neurips_22_w.png
+  tags:
+    - Robustness
+  group: workshop 
+
+- title: An evaluation of zero-cost proxies-from neural architecture performance prediction to model robustness
+  date: 2024-6-1
+  authors: 
+    - Jovita Lukasik
+    - Michael Moeller
+    - Margret Keuper
+  link: https://link.springer.com/article/10.1007/s11263-024-02265-7
+  publisher: Transactions on Machine Learning Research (TMLR)
+  extra-links:
+    - type: preprint
+      link: https://link.springer.com/article/10.1007/s11263-024-02265-7
+  image: https://jmlr.org/tmlr/img/tmlr.jpg
+  tags:
+    - Robustness
+    - NAS
+  group: journal
 
 - title: Improving Feature Stability during Upsampling-Spectral Artifacts and the Importance of Spatial Context
   date: 2024-6-1
