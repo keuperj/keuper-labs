@@ -998,3 +998,50 @@
     - Robustness
     - NAS
   group: journal
+
+#-------------------------
+# 2025
+#-------------------------
+
+- title: VSTAR Generative Temporal Nursing for Longer Dynamic Video Synthesis
+  date: 2025-6-1
+  authors: 
+    - Yumeng Li
+    - William Beluch
+    - Margret Keuper
+    - Dan Zhang
+    - Anna Khoreva 
+  link: https://yumengli007.github.io/VSTAR/
+  publisher: Proceedings of the Nineth International Conference on Learning Representations (ICLR 25)
+  extra-links:
+    - type: preprint
+      link: https://arxiv.org/pdf/2403.13501.pdf
+    - type: source
+      link: https://yumengli007.github.io/VSTAR/
+  image: images/iclr_22.png
+  tags:
+    - Generative
+  group: AAA
+
+- title: Can we talk models into seeing the world differently?
+  date: 2025-6-1
+  authors: 
+    - Paul Gavrikov
+    - Jovita Lukasik
+    - Steffen Jung
+    - Robert Geirhos
+    - Muhammad Jehanzeb Mirza
+    - Margret Keuper
+    - Janis Keuper
+    
+  link: https://tinyurl.com/bdnmxph9
+  publisher: Proceedings of the Nineth International Conference on Learning Representations (ICLR 25)
+  extra-links:
+    - type: preprint
+      link: https://tinyurl.com/bdnmxph9
+  image: images/iclr_22.png
+  tags:
+    - Generative
+    - LLM
+    - Generalization
+  group: AAA
