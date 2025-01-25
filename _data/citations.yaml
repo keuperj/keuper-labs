@@ -1003,3 +1003,47 @@
   - NAS
   group: journal
   _cache: 0481382d212e67492c0e52fac6901e664dd93e7e77fb0e5fe63687c33f8bc129
+- title: VSTAR Generative Temporal Nursing for Longer Dynamic Video Synthesis
+  date: '2025-06-01'
+  authors:
+  - Yumeng Li
+  - William Beluch
+  - Margret Keuper
+  - Dan Zhang
+  - Anna Khoreva
+  link: https://yumengli007.github.io/VSTAR/
+  publisher: Proceedings of the Nineth International Conference on Learning Representations
+    (ICLR 25)
+  extra-links:
+  - type: preprint
+    link: https://arxiv.org/pdf/2403.13501.pdf
+  - type: source
+    link: https://yumengli007.github.io/VSTAR/
+  image: images/iclr_22.png
+  tags:
+  - Generative
+  group: AAA
+  _cache: a8419dfe83b311bfc1954bae7557f8433087de41b694da307e750be67fff4064
+- title: Can we talk models into seeing the world differently?
+  date: '2025-06-01'
+  authors:
+  - Paul Gavrikov
+  - Jovita Lukasik
+  - Steffen Jung
+  - Robert Geirhos
+  - Muhammad Jehanzeb Mirza
+  - Margret Keuper
+  - Janis Keuper
+  link: https://tinyurl.com/bdnmxph9
+  publisher: Proceedings of the Nineth International Conference on Learning Representations
+    (ICLR 25)
+  extra-links:
+  - type: preprint
+    link: https://tinyurl.com/bdnmxph9
+  image: images/iclr_22.png
+  tags:
+  - Generative
+  - LLM
+  - Generalization
+  group: AAA
+  _cache: b155659d965491718e1b700c84e22557b3f2192fe561d4cb8051d0fcb151c5c5
