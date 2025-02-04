@@ -1003,6 +1003,24 @@
   - NAS
   group: journal
   _cache: 0481382d212e67492c0e52fac6901e664dd93e7e77fb0e5fe63687c33f8bc129
+- title: I Spy With My Little Eye A Minimum Cost Multicut Investigation of Dataset
+    Frames
+  date: '2025-06-01'
+  authors:
+  - Katharina Prasse
+  - Isaac Bravo
+  - Stefanie Walter
+  - Margret Keuper
+  link: https://arxiv.org/pdf/2412.01296
+  publisher: WACV 25
+  extra-links:
+  - type: preprint
+    link: https://arxiv.org/pdf/2412.01296
+  image: images/WACV25.jpg
+  tags:
+  - Multicut
+  group: AAA
+  _cache: 7a054a4f55e7e622004fe98603d5311dcb39f5effa06fe309e75b97b13baabfd
 - title: VSTAR Generative Temporal Nursing for Longer Dynamic Video Synthesis
   date: '2025-06-01'
   authors:
@@ -1047,21 +1065,3 @@
   - Generalization
   group: AAA
   _cache: b155659d965491718e1b700c84e22557b3f2192fe561d4cb8051d0fcb151c5c5
-- title: I Spy With My Little Eye A Minimum Cost Multicut Investigation of Dataset
-    Frames
-  date: '2025-06-01'
-  authors:
-  - Katharina Prasse
-  - Isaac Bravo
-  - Stefanie Walter
-  - Margret Keuper
-  link: https://arxiv.org/pdf/2412.01296
-  publisher: WACV 25
-  extra-links:
-  - type: preprint
-    link: https://arxiv.org/pdf/2412.01296
-  image: images/WACV25.jpeg
-  tags:
-  - Generative
-  group: AAA
-  _cache: 3c113ac91d0693f8f0e6c5eb0c2f23f4f7fcfb58344514b8a86cdf917b312040
