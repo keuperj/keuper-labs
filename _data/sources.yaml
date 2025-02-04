@@ -1019,6 +1019,22 @@
   tags:
     - Multicut
   group: AAA
+
+- title: FAIR-TAT: Improving Model Fairness Using Targeted Adversarial Training
+  date: 2025-6-1
+  authors: 
+    - Tejaswini Medi
+    - Steffen Jung
+    - Margret Keuper
+  link: https://arxiv.org/pdf/2410.23142
+  publisher: WACV 25
+  extra-links:
+    - type: preprint
+      link: https://arxiv.org/pdf/2410.23142
+  image: images/WACV25.jpg
+  tags:
+    - Robustness
+  group: AAA
   
 - title: VSTAR Generative Temporal Nursing for Longer Dynamic Video Synthesis
   date: 2025-6-1
