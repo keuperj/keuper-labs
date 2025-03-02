@@ -1081,3 +1081,22 @@
   - Generalization
   group: AAA
   _cache: b155659d965491718e1b700c84e22557b3f2192fe561d4cb8051d0fcb151c5c5
+- title: Towards deep learning for seismic demultiple
+  date: '2025-06-01'
+  authors:
+  - Mario Fernandez,
+  - Matthias Delescluse,
+  - Alain Rabaute
+  - Norman Ettrich
+  - Janis Keuper
+  link: https://onlinelibrary.wiley.com/doi/full/10.1111/1365-2478.13672
+  publisher: Geophysical Prospecting
+  extra-links:
+  - type: preprint
+    link: https://onlinelibrary.wiley.com/doi/full/10.1111/1365-2478.13672
+  image: images/gpp_journal.png
+  tags:
+  - Geophysics
+  - CNN
+  group: AAA
+  _cache: 5eb17a68f89c00c43944652f1a96807d4db164f6b5d2ea0dba3982024f3d3d9c
