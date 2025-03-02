@@ -1079,4 +1079,23 @@
     - Generalization
   group: AAA
 
+- title: Towards deep learning for seismic demultiple
+  date: 2025-6-1
+  authors: 
+    - Mario Fernandez,
+    - Matthias Delescluse,
+    - Alain Rabaute
+    - Norman Ettrich
+    - Janis Keuper
+  link: https://onlinelibrary.wiley.com/doi/full/10.1111/1365-2478.13672
+  publisher: Geophysical Prospecting
+  extra-links:
+    - type: preprint
+      link: https://onlinelibrary.wiley.com/doi/full/10.1111/1365-2478.13672
+  image: images/gpp_journal.png
+  tags:
+    - Geophysics
+    - CNN
+  group: AAA
+
 
