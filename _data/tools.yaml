@@ -8,6 +8,16 @@
 #    - BMBF
 #    - NAS
 
+- title: LLM-Praxis
+  subtitle: IMLA with 4 Industry Partners
+  group: current
+  image: images/BMBF.jpeg
+  link: http://www.llm-praxis.de
+  description: Large Language Models (LLMs) for practical applications.
+  tags:
+    - BMBF
+    - LLM
+
 - title: KI-Bohrer
   subtitle: IMLA with Herrenknecht AG
   group: current
