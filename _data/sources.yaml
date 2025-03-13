@@ -1098,7 +1098,7 @@
     - CNN
   group: AAA
 
-- title: PhysicsGen: Can Generative Models Learn from Images to Predict Complex Physical Relations?
+- title: PhysicsGen - Can Generative Models Learn from Images to Predict Complex Physical Relations?
   date: 2025-6-1 
   authors: 
     - Martin Spitznagel
