@@ -10,7 +10,7 @@ nav:
 ### Highlights
 {%
   include card.html
-  image="images/cvpr_25.png"
+  image="images/cvpr25.jpg"
   link="https://keuperj.github.io/keuper-labs/research/?search=CVPR#2025"
   title="CVPR 2025"
   subtitle="full paper accepted"
