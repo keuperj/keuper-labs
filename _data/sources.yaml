@@ -1098,4 +1098,22 @@
     - CNN
   group: AAA
 
+- title: PhysicsGen: Can Generative Models Learn from Images to Predict Complex Physical Relations?
+  date: 2025-6-1 
+  authors: 
+    - Martin Spitznagel
+    - Jan Vailant
+    - Janis Keuper
+  link: https://arxiv.org/abs/2503.05333
+  publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2025)
+  extra-links:
+    - type: preprint
+      link: https://arxiv.org/abs/2503.05333
+    - type: source
+      link: http://www.physics-gen.org/
+  image: images/cvpr25.jpg
+  tags:
+    - Generative
+    - Physics
+  group: AAA
 
