@@ -2,7 +2,7 @@
 name: Paul Gavrikov
 image: https://scholar.googleusercontent.com/citations?view_op=view_photo&user=cshJtrQAAAAJ&citpid=1
 description:  at IMLA
-role: phd
+role: alumni
 group: IMLA
 aliases:
   - P. Gavrikov
