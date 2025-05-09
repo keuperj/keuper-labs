@@ -10,6 +10,14 @@ nav:
 ### Highlights
 {%
   include card.html
+  image="images/ICML.png"
+  link="https://keuperj.github.io/keuper-labs/research/?search=ICML#2025"
+  title="ICML 2025"
+  subtitle="full paper accepted"
+  style="small"
+%}
+{%
+  include card.html
   image="images/cvpr25.jpg"
   link="https://keuperj.github.io/keuper-labs/research/?search=CVPR#2025"
   title="CVPR 2025"
