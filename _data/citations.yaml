@@ -1121,3 +1121,21 @@
   - Physics
   group: AAA
   _cache: 7b136a3c148c940ecdeff5c41592f50a111e99fe655012589e7469232fcbb633
+- title: DCBM - Data-Efficient Visual Concept Bottleneck Models
+  date: '2025-06-01'
+  authors:
+  - Katharina Prasse
+  - Patrick Knab
+  - Sascha Marton
+  - Christian Bartelt
+  - Margret Keuper
+  link: https://arxiv.org/pdf/2412.11576
+  publisher: ICML 25
+  extra-links:
+  - type: preprint
+    link: https://arxiv.org/pdf/2412.11576
+  image: images/ICML.png
+  tags:
+  - robustness
+  group: AAA
+  _cache: 4457d50f07ce93fc06df5ac6ccbc02d5108ea5ba75878d98b61037e4e08e562d
