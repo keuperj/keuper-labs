@@ -1111,6 +1111,8 @@
       link: https://arxiv.org/abs/2503.05333
     - type: source
       link: http://www.physics-gen.org/
+    - typer: youtube
+      link: watch?v=GbRoFIk-9Xc
   image: images/cvpr25.jpg
   tags:
     - Generative
