@@ -1115,12 +1115,14 @@
     link: https://arxiv.org/abs/2503.05333
   - type: source
     link: http://www.physics-gen.org/
+  - typer: youtube
+    link: watch?v=GbRoFIk-9Xc
   image: images/cvpr25.jpg
   tags:
   - Generative
   - Physics
   group: AAA
-  _cache: 7b136a3c148c940ecdeff5c41592f50a111e99fe655012589e7469232fcbb633
+  _cache: 09d67a9ca7da9b7f0c3b2227cb8dc72c4f6553e3c42ad7515c1e939b34df8758
 - title: DCBM - Data-Efficient Visual Concept Bottleneck Models
   date: '2025-06-01'
   authors:
