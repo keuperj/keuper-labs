@@ -1247,3 +1247,20 @@
   - XAI
   group: AAA
   _cache: b4e010eddcd8914f8d39130abe6187b79772be9ab65e08cb19043cc429f80cb0
+- title: Balancing Diversity and Risk in LLM Sampling - How to Select Your Method
+    and Parameter for Open-Ended Text Generation
+  date: '2025-06-01'
+  authors:
+  - Yuxuan Zhou
+  - Margret Keuper
+  - Mario Fritz
+  link: https://openreview.net/forum?id=7bwwDHoDU4
+  publisher: ACL 25
+  extra-links:
+  - type: preprint
+    link: https://openreview.net/forum?id=7bwwDHoDU4
+  image: images/ACL.jpg
+  tags:
+  - LLM
+  group: AAA
+  _cache: 386213ba69abd434661ab25c28642974a4791d54ff42224ec0a6d4178d33147d
