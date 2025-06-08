@@ -16,6 +16,14 @@ Joint research pages of the labs run by ***Margret Keuper and Janis Keuper***. W
 ### Latest Highlights
 {%
   include card.html
+  image="images/ACL.jpg"
+  link="https://keuperj.github.io/keuper-labs/research/?search=ACL#2025"
+  title="ACL 2025"
+  subtitle="full paper accepted"
+  style="small"
+%}
+{%
+  include card.html
   image="images/ICML.png"
   link="https://keuperj.github.io/keuper-labs/research/?search=ICML#2025"
   title="ICML 2025"
@@ -27,7 +35,7 @@ Joint research pages of the labs run by ***Margret Keuper and Janis Keuper***. W
   image="images/cvpr25.jpg"
   link="https://keuperj.github.io/keuper-labs/research/?search=CVPR#2025"
   title="CVPR 2025"
-  subtitle="full paper + 3 workshop accepted"
+  subtitle="full paper + 6 workshop accepted"
   style="small"
 %}
 {%
@@ -45,14 +53,6 @@ Joint research pages of the labs run by ***Margret Keuper and Janis Keuper***. W
   link="https://keuperj.github.io/keuper-labs/research/?search=ECCV"
   title="ECCV 24"
   subtitle="Full paper + 3 Workshop paper"
-  style="small"
-%}
-{%
-  include card.html
-  image="images/ICML.png"
-  link="https://keuperj.github.io/keuper-labs/research/?search=ICML#2024"
-  title="ICML 2024"
-  subtitle="3 full paper"
   style="small"
 %}
 {%
