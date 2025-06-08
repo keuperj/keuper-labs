@@ -1100,6 +1100,112 @@
   - CNN
   group: AAA
   _cache: 5eb17a68f89c00c43944652f1a96807d4db164f6b5d2ea0dba3982024f3d3d9c
+- title: DispBench - Benchmarking Disparity Estimation to Synthetic Corruptions
+  date: '2025-06-01'
+  authors:
+  - S. Agnihotri
+  - A. Ansari
+  - A. Dackermann
+  - "F. R\xF6sch"
+  - M. Keuper
+  link: https://openreview.net/forum?id=yIEInigSp9
+  publisher: Synthetic Data for Computer Vision Workshop@ CVPR 2025
+  extra-links:
+  - type: preprint
+    link: https://openreview.net/forum?id=yIEInigSp9
+  image: images/cvpr25w.jpg
+  tags:
+  - Robustness
+  group: Workshop
+  _cache: 7c9de2e27d3da7e00643499aebd70fe89937bd24341016a35952d22409366197
+- title: Corner Cases - How Size and Position of Objects Challenge ImageNet-Trained
+    Models
+  date: '2025-06-01'
+  authors:
+  - M. Fatima
+  - S. Jung
+  - M. Keuper
+  link: https://openreview.net/forum?id=B6l94JAyKr
+  publisher: Synthetic Data for Computer Vision Workshop@ CVPR 2025
+  extra-links:
+  - type: preprint
+    link: https://openreview.net/forum?id=B6l94JAyKr
+  image: images/cvpr25w.jpg
+  tags:
+  - Robustness
+  group: Workshop
+  _cache: 8de2d16e4e838cc5f697355b1f6ffe5291706f3eed69e24cf4a97fa982e4e136
+- title: Are Synthetic Corruptions A Reliable Proxy For Real-World Corruptions?
+  date: '2025-06-01'
+  authors:
+  - S. Agnihotri
+  - D. Schader
+  - N. Sharei
+  - M. Keuper
+  link: https://openreview.net/forum?id=mPqVEApjIw
+  publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern
+    Recognition Workshops (CVPRw 2025)
+  extra-links:
+  - type: preprint
+    link: https://openreview.net/forum?id=mPqVEApjIw
+  image: images/cvpr25w.jpg
+  tags:
+  - Robustness
+  group: Workshop
+  _cache: 486c6a93e935e8859cb515b5a37d113305d408ed064466daa2976945206c9666
+- title: "Data-E\uFB03cient Visual Concept Bottleneck Models"
+  date: '2025-06-01'
+  authors:
+  - Katharina Prasse
+  - Patrick Knab
+  - Sascha Marton
+  - Christian Bartelt
+  - Margret Keuper
+  link: https://arxiv.org/abs/2412.11576
+  publisher: 4th Explainable AI for Computer Vision (XAI4CV) Workshop @ CVPR 2025
+  extra-links:
+  - type: preprint
+    link: https://arxiv.org/abs/2412.11576
+  image: images/cvpr25w.jpg
+  tags:
+  - XAI
+  group: Workshop
+  _cache: 4138d44eb40b456166fff2bde6363eb1bbdd18d9aa47fdd379d785f5a66556e6
+- title: 3D-WAG - Wavelet-Guided Autoregressive Generation for 3D Shapes
+  date: '2025-06-01'
+  authors:
+  - Tejaswini Medi
+  - Arianna Rampini
+  - Pradyumna Reddy
+  - Pradeep Kumar Jayaraman
+  - Margret Keuper
+  link: https://arxiv.org/abs/2411.19037
+  publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern
+    Recognition Workshops (CVPRw 2025)
+  extra-links:
+  - type: preprint
+    link: https://arxiv.org/abs/2411.19037
+  image: images/cvpr25w.jpg
+  tags:
+  - Generative
+  group: Workshop
+  _cache: 41961ab1a6ef40524ce9e3ceb8c31e94540a0d6c0b59f2f547c440a8d2718ad6
+- title: A Visual RAG Pipeline for Few-Shot Fine-Grained Product Classification
+  date: '2025-06-01'
+  authors:
+  - Bianca Lamm
+  - Janis Keuper
+  link: https://arxiv.org/pdf/2504.11838?
+  publisher: Fine-Grained Visual Categorization Workshop at CVPR 2025
+  extra-links:
+  - type: preprint
+    link: https://arxiv.org/pdf/2504.11838?
+  image: images/cvpr25w.jpg
+  tags:
+  - RAG
+  - Fine-Grained
+  group: Workshop
+  _cache: 3936262bb9bfcb3565b7bfaeb7c44feee86ab6a6e709067327321c4276246af3
 - title: PhysicsGen - Can Generative Models Learn from Images to Predict Complex Physical
     Relations?
   date: '2025-06-01'
