@@ -2,7 +2,7 @@
 name: Lars Nieradzik
 image: https://www.itwm.fraunhofer.de/content/businesscards/ITWM/bv/lars_nieradzik/jcr:content/businesscard/image.img.1col.jpg/1677510693562/230x230-itwm-bv-nieradzik-lars.jpg
 description:  at ITWM
-role: phd
+role: alumni
 group: ITWM
 aliases:
   - L. Nieradzik
