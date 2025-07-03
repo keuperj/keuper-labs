@@ -10,6 +10,14 @@ nav:
 ### Highlights
 {%
   include card.html
+  image="images/ICCV-2025.png"
+  link=""
+  title="ICCV 2025"
+  subtitle="2 full paper accepted"
+  style="small"
+%}
+{%
+  include card.html
   image="images/ACL.jpg"
   link="https://keuperj.github.io/keuper-labs/research/?search=ACL#2025"
   title="ACL 2025"
