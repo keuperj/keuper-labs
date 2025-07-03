@@ -2,7 +2,7 @@
 name: Julia Grabinski
 image: https://scholar.googleusercontent.com/citations?view_op=view_photo&user=V9ry9KcAAAAJ&citpid=2
 description:  at ITWM | Mannheim | IMLA
-role: phd
+role: alumni
 group: ITWM
 aliases:
   - J. Grabinski
