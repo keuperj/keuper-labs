@@ -16,9 +16,9 @@ Joint research pages of the labs run by ***Margret Keuper and Janis Keuper***. W
 ### Latest Highlights
 {%
   include card.html
-  image="images/ICCV"
+  image="images/ICCV-2025.png"
   link=""
-  title="ICCV-2025.png"
+  title="ICCV 2025"
   subtitle="2 full paper accepted"
   style="small"
 %}
