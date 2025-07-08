@@ -11,7 +11,7 @@
 - title: LLM-Praxis
   subtitle: IMLA with 4 Industry Partners
   group: current
-  image: images/BMBF.jpeg
+  image: images/BMFTR.png
   link: http://www.llm-praxis.de
   description: Large Language Models (LLMs) for practical applications.
   tags:
@@ -21,7 +21,7 @@
 - title: KI-Bohrer
   subtitle: IMLA with Herrenknecht AG
   group: current
-  image: images/BMBF.jpeg
+  image: images/BMFTR.png
   link: http://www.ki-bohrer.de
   description: Generative Models + Reinforcement Learning for the optimization of geothermal drilling 
   tags:
@@ -32,7 +32,7 @@
 - title: ClimateVisions 
   subtitle: at Uni Mannheim with TU Munich 
   group: current
-  image: images/BMBF.jpeg
+  image: images/BMFTR.png
   link: https://www.gov.sot.tum.de/gov/projects/climatevisions-project/project/
   description: automated image analysis of Reactions and Emotions from Images on Climate Change in Social Media
   tags:
