@@ -1264,3 +1264,29 @@
   - LLM
   group: AAA
   _cache: 386213ba69abd434661ab25c28642974a4791d54ff42224ec0a6d4178d33147d
+- title: FlowBench - Benchmarking Optical Flow Estimation Methods for Reliability
+    and Generalization
+  date: '2025-06-01'
+  authors:
+  - Shashank Agnihotri
+  - Julian Yuya Caspary
+  - Luca Schwarz
+  - Xinyan Gao
+  - Jenny Schmalfuss
+  - "Andr\xE9s Bruhn"
+  - Margret Keuper
+  link: https://openreview.net/forum?id=Kh4bj6YDNm
+  publisher: Transactions on Machine Learning Research (TMLR)
+  extra-links:
+  - type: preprint
+    link: https://openreview.net/forum?id=Kh4bj6YDNm
+  - type: source
+    link: https://github.com/shashankskagnihotri/FlowBench
+  - type: youtube
+    link: watch?v=_AUKi_48vmc
+  image: https://jmlr.org/tmlr/img/tmlr.jpg
+  tags:
+  - Robustness
+  - Optical Flow
+  group: journal
+  _cache: f5551627f5b4603514f27bec1c7daa47ee13391ada4b7c8d06d451d57204e7c2
