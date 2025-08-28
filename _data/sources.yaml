@@ -1256,7 +1256,7 @@
     - LLM
   group: AAA
 
-- title: FlowBench: Benchmarking Optical Flow Estimation Methods for Reliability and Generalization
+- title: FlowBench - Benchmarking Optical Flow Estimation Methods for Reliability and Generalization
   date: 2025-6-1
   authors: 
     - Shashank Agnihotri
@@ -1278,5 +1278,5 @@
   image: https://jmlr.org/tmlr/img/tmlr.jpg
   tags:
     - Robustness
-    - CNN
+    - Optical Flow
   group: journal 
