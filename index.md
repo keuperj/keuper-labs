@@ -25,7 +25,7 @@ Joint research pages of the labs run by ***Margret Keuper and Janis Keuper***. W
 {%
   include card.html
   image="images/ICCV-2025.png"
-  link=""
+  link="https://keuperj.github.io/keuper-labs/research/?search=ICCV#2025"
   title="ICCV 2025"
   subtitle="2 full paper accepted"
   style="small"
