@@ -10,6 +10,14 @@ nav:
 ### Highlights
 {%
   include card.html
+  image="https://jmlr.org/tmlr/img/tmlr.jpg"
+  link="https://www.keuper-labs.org/research/?search=TMLR"
+  title="TMLR 25"
+  subtitle="journal paper"
+  style="small"
+%}
+{%
+  include card.html
   image="images/ICCV-2025.png"
   link=""
   title="ICCV 2025"
@@ -63,14 +71,6 @@ nav:
   link="https://keuperj.github.io/keuper-labs/research/?search=ICML#2024"
   title="ICML 2024"
   subtitle="3 full paper"
-  style="small"
-%}
-{%
-  include card.html
-  image="https://jmlr.org/tmlr/img/tmlr.jpg"
-  link="https://www.keuper-labs.org/research/?search=TMLR"
-  title="TMLR 24"
-  subtitle="2 journal paper"
   style="small"
 %}
 {%
