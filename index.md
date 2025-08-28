@@ -16,6 +16,14 @@ Joint research pages of the labs run by ***Margret Keuper and Janis Keuper***. W
 ### Latest Highlights
 {%
   include card.html
+  image="https://jmlr.org/tmlr/img/tmlr.jpg"
+  link="https://www.keuper-labs.org/research/?search=TMLR"
+  title="TMLR 25"
+  subtitle="journal paper"
+  style="small"
+%}
+{%
+  include card.html
   image="images/ICCV-2025.png"
   link=""
   title="ICCV 2025"
@@ -55,14 +63,6 @@ Joint research pages of the labs run by ***Margret Keuper and Janis Keuper***. W
   style="small"
 %}
 
-{%
-  include card.html
-  image="images/eccv24.png"
-  link="https://keuperj.github.io/keuper-labs/research/?search=ECCV"
-  title="ECCV 24"
-  subtitle="Full paper + 3 Workshop paper"
-  style="small"
-%}
 
 
 
