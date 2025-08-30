@@ -1290,3 +1290,43 @@
   - Optical Flow
   group: journal
   _cache: f5551627f5b4603514f27bec1c7daa47ee13391ada4b7c8d06d451d57204e7c2
+- title: TikZero - Zero-Shot Text-Guided Graphics Program Synthesis
+  date: '2025-06-01'
+  authors:
+  - Jonas Belouadi
+  - Eddy Ilg
+  - Margret Keuper
+  - Hideki Tanaka
+  - Masao Utiyama
+  - Raj Dabre
+  - Steffen Eger
+  - Simone Paolo Ponzetto
+  link: https://arxiv.org/abs/2503.11509
+  publisher: Proceedings of the IEEE/CVF International Conference on Computer Vision
+    (ICCV 2025)
+  extra-links:
+  - type: preprint
+    link: https://arxiv.org/abs/2503.11509
+  image: images/ICCV-2025.png
+  tags:
+  - generative
+  group: AAA
+  _cache: 91683ec0d99010da5115252301c6c6f01863b51278a5f94abb01e3ef0478ed50
+- title: AIM - Amending Inherent Interpretability via Self-Supervised Masking
+  date: '2025-06-01'
+  authors:
+  - Eyad Alshami
+  - Shashank Agnihotri
+  - Bernt Schiele
+  - Margret Keuper
+  link: https://arxiv.org/abs/2508.11502
+  publisher: Proceedings of the IEEE/CVF International Conference on Computer Vision
+    (ICCV 2025)
+  extra-links:
+  - type: preprint
+    link: https://arxiv.org/abs/2508.11502
+  image: images/ICCV-2025.png
+  tags:
+  - generative
+  group: AAA
+  _cache: f094b0c3767363f60be81ce4d942c5baf0d21caebc590c8d83e71d359da0fa01
