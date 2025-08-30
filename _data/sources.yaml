@@ -1280,3 +1280,41 @@
     - Robustness
     - Optical Flow
   group: journal 
+
+- title: TikZero - Zero-Shot Text-Guided Graphics Program Synthesis
+  date: 2025-6-1
+  authors: 
+    - Jonas Belouadi
+    - Eddy Ilg
+    - Margret Keuper
+    - Hideki Tanaka
+    - Masao Utiyama
+    - Raj Dabre
+    - Steffen Eger
+    - Simone Paolo Ponzetto
+  link: https://arxiv.org/abs/2503.11509
+  publisher:  Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV 2025)
+  extra-links:
+    - type: preprint
+      link: https://arxiv.org/abs/2503.11509
+  image: images/ICCV-2025.png
+  tags:
+    - generative
+  group: AAA
+
+- title: AIM - Amending Inherent Interpretability via Self-Supervised Masking
+  date: 2025-6-1
+  authors: 
+    - Eyad Alshami
+    - Shashank Agnihotri
+    - Bernt Schiele
+    - Margret Keuper
+  link: https://arxiv.org/abs/2508.11502
+  publisher:  Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV 2025)
+  extra-links:
+    - type: preprint
+      link: https://arxiv.org/abs/2508.11502
+  image: images/ICCV-2025.png
+  tags:
+    - generative
+  group: AAA
