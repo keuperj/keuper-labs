@@ -1327,6 +1327,6 @@
     link: https://arxiv.org/abs/2508.11502
   image: images/ICCV-2025.png
   tags:
-  - generative
+  - interpretability
   group: AAA
-  _cache: f094b0c3767363f60be81ce4d942c5baf0d21caebc590c8d83e71d359da0fa01
+  _cache: 35fe6af094b65c8ffd9a93d09c5326b15a7c1c1563ff4f53b6e05bb6a086a0e4
