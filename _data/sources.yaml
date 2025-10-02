@@ -1318,3 +1318,23 @@
   tags:
     - interpretability
   group: AAA
+
+- title: MaxSup - Overcoming Representation Collapse in Label Smoothing
+  date: 2025-6-1
+  authors: 
+    - Yuxuan Zhou
+    - Heng Li
+    - Zhi-Qi Cheng
+    - Xudong Yan
+    - Yifei Dong
+    - Mario Fritz
+    - Margret Keuper
+  link: https://arxiv.org/pdf/2502.15798
+  publisher:  NeurIPS 25, proceedings of the thirty-sixth Conference on Neural Information Processing Systems
+  extra-links:
+    - type: preprint
+      link: https://arxiv.org/pdf/2502.15798
+  image: images/neurips_oral.png
+  tags:
+    - interpretability
+  group: AAA
