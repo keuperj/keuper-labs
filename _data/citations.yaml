@@ -1351,3 +1351,20 @@
   - interpretability
   group: AAA
   _cache: 344e3e31c6ecf3bacc276644a022151fc2c99b840ba86dcec03e40bb56c72db9
+- title: Real-time Prediction of Urban Sound Propagation with Conditioned Normalizing
+    Flows
+  date: '2024-06-01'
+  authors:
+  - Achim Eckerle
+  - Martin Spitznage
+  - Janis Keuper
+  link: https://arxiv.org/pdf/2510.04510
+  publisher: NeurIPS 25 Workshop on UrbanAI
+  extra-links:
+  - type: preprint
+    link: https://arxiv.org/pdf/2510.04510
+  image: images/neurips_22_w.png
+  tags:
+  - Robustness
+  group: workshop
+  _cache: 349f8e6abb642300203bc1ea09bca7c7fe404823d1ceffd564d022d18f98dee6
