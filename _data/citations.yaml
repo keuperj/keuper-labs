@@ -1365,6 +1365,7 @@
     link: https://arxiv.org/pdf/2510.04510
   image: images/neurips_22_w.png
   tags:
-  - Robustness
+  - Generative
+  - Physics
   group: workshop
-  _cache: 335d309b63b4383fbad0a0053991af6524ade391234c8dac1bbcd98ffde19186
+  _cache: 8c3f4e06e382b199f8fbb4f94733375e263b2f142d7a90417e03840d5f8e0ad2
