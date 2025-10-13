@@ -1290,6 +1290,61 @@
   - Optical Flow
   group: journal
   _cache: f5551627f5b4603514f27bec1c7daa47ee13391ada4b7c8d06d451d57204e7c2
+- title: Smart Eyes for Silent Threats - VLMs and In-Context Learning for THz Imaging
+  date: '2025-06-01'
+  authors:
+  - Nicolas Poggi
+  - Shashank Agnihotri
+  - Margret Keuper
+  link: https://arxiv.org/pdf/2507.15576?
+  publisher: Proceedings of the IEEE/CVF International Conference on Computer Vision
+    Workshops (ICCVw 2025)
+  extra-links:
+  - type: preprint
+    link: https://arxiv.org/pdf/2507.15576?
+  image: images/ICCV-2025w.png
+  tags:
+  - applications
+  group: Workshop
+  _cache: 8c1abea120e4ce635660a408e120d8c13d28cd3503ed2a4e2f1fc83793d415fb
+- title: Missing Fine Details in Images - Last Seen in High Frequencies
+  date: '2025-06-01'
+  authors:
+  - Tejaswini Medi
+  - Hsien-Yi Wang
+  - Arianna Rampini
+  - Margret Keuper
+  link: https://arxiv.org/pdf/2509.05441?
+  publisher: Proceedings of the IEEE/CVF International Conference on Computer Vision
+    Workshops (ICCVw 2025)
+  extra-links:
+  - type: preprint
+    link: https://arxiv.org/pdf/2509.05441?
+  image: images/ICCV-2025w.png
+  tags:
+  - robustness
+  group: Workshop
+  _cache: a3b9c8f17dc968a8c1e779cf9ffa83b289cc9a3f23425f9d9e707db90b5fe06a
+- title: Vision At Night - Exploring Biologically Inspired Preprocessing For Improved
+    Robustness Via Color And Contrast Transformations
+  date: '2025-06-01'
+  authors:
+  - Lorena Stracke
+  - Lia Nimmermann
+  - Shashank Agnihotri
+  - Margret Keuper
+  - Volker Blanz
+  link: https://arxiv.org/pdf/2509.24863
+  publisher: Proceedings of the IEEE/CVF International Conference on Computer Vision
+    Workshops (ICCVw 2025)
+  extra-links:
+  - type: preprint
+    link: https://arxiv.org/pdf/2509.24863
+  image: images/ICCV-2025w.png
+  tags:
+  - robustness
+  group: Workshop
+  _cache: 32ce4e0507a7280301fb1a2f3289ddf1360ffb396bce5f6a8da45413d9b43c98
 - title: TikZero - Zero-Shot Text-Guided Graphics Program Synthesis
   date: '2025-06-01'
   authors:
