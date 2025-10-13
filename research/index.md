@@ -29,7 +29,7 @@ nav:
   image="images/ICCV-2025.png"
   link="https://keuperj.github.io/keuper-labs/research/?search=ICCV#2025"
   title="ICCV 2025"
-  subtitle="2 full paper accepted"
+  subtitle="2 full  + 3 workshop paper accepted"
   style="small"
 %}
 {%
