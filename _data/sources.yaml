@@ -1281,6 +1281,58 @@
     - Optical Flow
   group: journal 
 
+- title: Smart Eyes for Silent Threats - VLMs and In-Context Learning for THz Imaging
+  date: 2025-6-1
+  authors: 
+    - Nicolas Poggi
+    - Shashank Agnihotri
+    - Margret Keuper
+  link: https://arxiv.org/pdf/2507.15576?
+  publisher:  Proceedings of the IEEE/CVF International Conference on Computer Vision Workshops (ICCVw 2025)
+  extra-links:
+    - type: preprint
+      link: https://arxiv.org/pdf/2507.15576?
+  image: images/ICCV-2025w.png
+  tags:
+    - applications
+  group: Workshop
+
+- title: Missing Fine Details in Images - Last Seen in High Frequencies
+  date: 2025-6-1
+  authors: 
+    - Tejaswini Medi
+    - Hsien-Yi Wang
+    - Arianna Rampini
+    - Margret Keuper
+  link: https://arxiv.org/pdf/2509.05441?
+  publisher:  Proceedings of the IEEE/CVF International Conference on Computer Vision Workshops (ICCVw 2025)
+  extra-links:
+    - type: preprint
+      link: https://arxiv.org/pdf/2509.05441?
+  image: images/ICCV-2025w.png
+  tags:
+    - robustness
+  group: Workshop
+
+- title: Vision At Night - Exploring Biologically Inspired Preprocessing For Improved
+Robustness Via Color And Contrast Transformations
+  date: 2025-6-1
+  authors: 
+    - Lorena Stracke
+    - Lia Nimmermann
+    - Shashank Agnihotri
+    - Margret Keuper
+    - Volker Blanz
+  link: https://arxiv.org/pdf/2509.24863
+  publisher:  Proceedings of the IEEE/CVF International Conference on Computer Vision Workshops (ICCVw 2025)
+  extra-links:
+    - type: preprint
+      link: https://arxiv.org/pdf/2509.24863
+  image: images/ICCV-2025w.png
+  tags:
+    - robustness
+  group: Workshop
+  
 - title: TikZero - Zero-Shot Text-Guided Graphics Program Synthesis
   date: 2025-6-1
   authors: 
