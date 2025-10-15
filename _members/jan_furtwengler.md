@@ -1,6 +1,6 @@
 ---
 name: Jan Furtwengler
-image: 
+image: images/jan.png
 description: at IMLA | Bosch Research
 role: phd
 group: IMLA
