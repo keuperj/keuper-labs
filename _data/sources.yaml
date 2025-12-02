@@ -1406,3 +1406,24 @@
     - Generative
     - Physics 
   group: workshop 
+
+- title: A Granular Study of Safety Pretraining under Model Abliteration
+  date: 2025-6-1
+  authors: 
+    - Shashank Agnihotri
+    - Jonas Jakubassa
+    - Priyam Dey
+    - Sachin Goyal
+    - Bernt Schiele
+    - Venkatesh Babu Radhakrishnan
+    - Margret Keuper
+  link: https://arxiv.org/pdf/2510.02768?
+  publisher: NeurIPS 25 Lock-LLM  Workshop
+  extra-links:
+    - type: preprint
+      link: https://arxiv.org/pdf/2510.02768?
+  image: images/neurips_22_w.png
+  tags:
+    - Generative
+    - LLM 
+  group: workshop 
