@@ -13,7 +13,7 @@ nav:
   image="images/neurips_oral.png"
   link="https://www.keuper-labs.org/research/?search=Neurips"
   title="NeurIPs 25"
-  subtitle="paper accepted for oral presentation"
+  subtitle="oral presentation and 2 workshop paper"
   style="small"
 %}
 {%
