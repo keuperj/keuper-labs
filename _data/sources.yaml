@@ -871,7 +871,7 @@
   extra-links:
     - type: preprint
       link: https://pure.mpg.de/rest/items/item_3592449/component/file_3592451/content
-  image: https://jmlr.org/tmlr/img/tmlr.jpg
+  image: images/TMLR_J2C.png
   tags:
     - Robustness
     - CNN
@@ -1427,3 +1427,23 @@
     - Generative
     - LLM 
   group: workshop 
+
+  # ------------
+  # 2026
+  # ------------
+
+- title: mSOP-765k - A Benchmark For Multi-Modal Structured Output Predictions
+  date: 2026-6-1
+  authors: 
+    - Bianca Lamm
+    - Janis Keuper
+  link: https://openreview.net/forum?id=H7eYL4yFZS
+  publisher: Transactions on Machine Learning Research (TMLR)
+  extra-links:
+    - type: preprint
+      link: https://openreview.net/forum?id=H7eYL4yFZS
+  image: images/TMLR_J2C.png
+  tags:
+    - Visual RAG
+    - Retail
+  group: journal
