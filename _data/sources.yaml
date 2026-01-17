@@ -1442,6 +1442,8 @@
   extra-links:
     - type: preprint
       link: https://openreview.net/forum?id=H7eYL4yFZS
+    - type: source
+      link: https://www.msop-765k.org/
   image: images/TMLR_J2C.png
   tags:
     - Visual RAG
