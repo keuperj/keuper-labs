@@ -78,6 +78,14 @@ Joint research pages of the labs run by ***Margret Keuper and Janis Keuper***. W
   subtitle="2 full paper accepted"
   style="small"
 %}
+{%
+  include card.html
+  image="images/eccv24.png"
+  link="https://keuperj.github.io/keuper-labs/research/?search=ECCV"
+  title="ECCV 24"
+  subtitle="Full paper + 3 Workshop paper"
+  style="small"
+%}
 
 
 
