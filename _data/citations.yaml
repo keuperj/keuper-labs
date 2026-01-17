@@ -874,12 +874,12 @@
   extra-links:
   - type: preprint
     link: https://pure.mpg.de/rest/items/item_3592449/component/file_3592451/content
-  image: https://jmlr.org/tmlr/img/tmlr.jpg
+  image: images/TMLR_J2C.png
   tags:
   - Robustness
   - CNN
   group: journal
-  _cache: 8bf80d6d1f2a3bd3a9a0fe99847090d43603ae1d42ab9f630ae8172613ba163b
+  _cache: 8bd06d6d0e891a85195ea11907924fc4d8de86a850dfeea88a4f902248d2b858
 - title: CosPGD - an efficient white-box adversarial attack for pixel-wise prediction
     tasks
   date: '2024-06-01'
@@ -1445,3 +1445,19 @@
   - LLM
   group: workshop
   _cache: 0209c786389e35a7b0b8ccd386e9e19f09136468d5ffa0a7c49708f15e693422
+- title: mSOP-765k - A Benchmark For Multi-Modal Structured Output Predictions
+  date: '2026-06-01'
+  authors:
+  - Bianca Lamm
+  - Janis Keuper
+  link: https://openreview.net/forum?id=H7eYL4yFZS
+  publisher: Transactions on Machine Learning Research (TMLR)
+  extra-links:
+  - type: preprint
+    link: https://openreview.net/forum?id=H7eYL4yFZS
+  image: images/TMLR_J2C.png
+  tags:
+  - Visual RAG
+  - Retail
+  group: journal
+  _cache: 96ea4dc6b2206d8817503cbc0537af4b89a42cfd94e76fecafdd1745bf364505
