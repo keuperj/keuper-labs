@@ -10,6 +10,14 @@ nav:
 ### Highlights
 {%
   include card.html
+  image="images/TMLR_J2C.png"
+  link="https://www.keuper-labs.org/research/?search=TMLR"
+  title="TMLR 26"
+  subtitle="with J2C Certification (top 10%)"
+  style="small"
+%}
+{%
+  include card.html
   image="images/neurips_oral.png"
   link="https://www.keuper-labs.org/research/?search=Neurips"
   title="NeurIPs 25"
@@ -73,14 +81,6 @@ nav:
   style="small"
 %}
 
-{%
-  include card.html
-  image="images/ICML.png"
-  link="https://keuperj.github.io/keuper-labs/research/?search=ICML#2024"
-  title="ICML 2024"
-  subtitle="3 full paper"
-  style="small"
-%}
 
 
 
