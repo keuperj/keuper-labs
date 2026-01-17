@@ -16,6 +16,14 @@ Joint research pages of the labs run by ***Margret Keuper and Janis Keuper***. W
 ### Latest Highlights
 {%
   include card.html
+  image="images/TMLR_J2C.png"
+  link="https://www.keuper-labs.org/research/?search=TMLR"
+  title="TMLR 25"
+  subtitle="with J2C Certification (top 10%)"
+  style="small"
+%}
+{%
+  include card.html
   image="images/neurips_oral.png"
   link="https://www.keuper-labs.org/research/?search=Neurips"
   title="NeurIPs 25"
