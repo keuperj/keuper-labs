@@ -1455,9 +1455,11 @@
   extra-links:
   - type: preprint
     link: https://openreview.net/forum?id=H7eYL4yFZS
+  - type: source
+    link: https://www.msop-765k.org/
   image: images/TMLR_J2C.png
   tags:
   - Visual RAG
   - Retail
   group: journal
-  _cache: 96ea4dc6b2206d8817503cbc0537af4b89a42cfd94e76fecafdd1745bf364505
+  _cache: c4dc0ba33f623ed8355f80bddabe865eab9118b75b4530bb302efbcf4a921b92
