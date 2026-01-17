@@ -18,7 +18,7 @@ Joint research pages of the labs run by ***Margret Keuper and Janis Keuper***. W
   include card.html
   image="images/TMLR_J2C.png"
   link="https://www.keuper-labs.org/research/?search=TMLR"
-  title="TMLR 25"
+  title="TMLR 26"
   subtitle="with J2C Certification (top 10%)"
   style="small"
 %}
