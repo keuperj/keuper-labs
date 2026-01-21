@@ -52,6 +52,7 @@ Displayed in arbitrary order...
 
 
 ## Open Positions
+
 {%
   include card.html
   image="images/czs.png"
