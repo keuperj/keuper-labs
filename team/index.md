@@ -52,7 +52,16 @@ Displayed in arbitrary order...
 
 
 ## Open Positions
-- TBA -
+{%
+  include card.html
+  image="images/czs.png"
+  link="images/CZS_PostDoc-1.pdf"
+  title="PostDoc Position"
+  subtitle="Efficient Embedded AI (Project Lab2Device)"
+  description="Join the "Lab2Device" project, funded by the Carl-Zeiss-Stiftung. Our goal is to bridge the gap between high-performance prototyping and resource-constrained embedded devices. The project  focuses on transferring prototypical AI models into sustainable, energy-efficient products by optimizing for accuracy, energy consumption, memory footprint, robustness, and trustworthiness. We validate  these methods in real-world use cases: Humanoid Robotics and Battery Diagnostics. "
+  style="large"
+%}
+
 
 
 
