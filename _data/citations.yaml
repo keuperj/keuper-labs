@@ -216,15 +216,15 @@
   - Frank Hutter
   link: https://pure.mpg.de/rest/items/item_3404264/component/file_3404265/content
   publisher: Proceedings of the Tenth International Conference on Learning Representations
-    (ICLR 22)
+    ( 22)
   extra-links:
   - type: preprint
     link: https://pure.mpg.de/rest/items/item_3404264/component/file_3404265/content
-  image: images/iclr_22.png
+  image: images/_22.png
   tags:
   - NAS
   group: AAA
-  _cache: 51c3fc613384381b34b89fc020bb4ea44fea51aa90f8045e6fd9b6e31c8a370c
+  _cache: e19233c13d45f1e53a7d84ef875a34075b7cd2e625d0cde38e0e52d6da7f1e69
 - title: Higher-Order Multicuts for Geometric Model Fitting and Motion Segmentation
   date: '2022-06-01'
   authors:
@@ -452,16 +452,16 @@
   - Margret Keuper
   link: https://steffen-jung.github.io/robustness/
   publisher: Proceedings of the Tenth International Conference on Learning Representations
-    (ICLR 23)
+    ( 23)
   extra-links:
   - type: preprint
     link: https://steffen-jung.github.io/robustness/
-  image: images/iclr_22.png
+  image: images/_22.png
   tags:
   - NAS
   - robustness
   group: AAA
-  _cache: 61ff88bee9d264f129488d8a5ba3c48268559c592a7ced7716374e366ec20808
+  _cache: 1bb75db4af174c63000505b5578b8875f5819e38fa8e1cc8638b5f7199781dd6
 - title: Deep diffusion models for seismic processing
   date: '2023-06-01'
   authors:
@@ -737,17 +737,17 @@
   - Anna Khoreva1
   link: https://yumengli007.github.io/ALDM/
   publisher: Proceedings of the Nineth International Conference on Learning Representations
-    (ICLR 24)
+    ( 24)
   extra-links:
   - type: preprint
     link: https://arxiv.org/pdf/2401.08815.pdf
   - type: source
     link: https://github.com/boschresearch/ALDM
-  image: images/iclr_22.png
+  image: images/_22.png
   tags:
   - Generative
   group: AAA
-  _cache: 51204c0732f66c1ffe1773c9c7ca02e03a0a76cc5d615ff7dcc81d4378f97f33
+  _cache: 6bc7cbf76116d880255393a70bcbb970c047160fdf3fbf053aac6c6debb72cd6
 - title: Urban Sound Propagation - a Benchmark for 1-Step Generative Modeling of Complex
     Physical Systems
   date: '2024-06-01'
@@ -756,7 +756,7 @@
   - Janis Keuper
   link: https://www.urban-sound-data.org/
   publisher: DMLR Workshop at International Conference on Learning Representations
-    (ICLR 24)
+    ( 24)
   extra-links:
   - type: preprint
     link: https://arxiv.org/abs/2403.10904
@@ -766,7 +766,7 @@
   tags:
   - Generative
   group: Workshop
-  _cache: cf4c68cb5608644ddb899ac2d92148d80b0dc59992b6021899cf23be42af80f9
+  _cache: 811ca8f395d4801e8df3f15e25df4e78662826f0c755441a91a1838d23828c4b
 - title: Retail-786k - a Large-Scale Dataset for Visual Entity Matching
   date: '2024-06-01'
   authors:
@@ -1463,3 +1463,47 @@
   - Retail
   group: journal
   _cache: c4dc0ba33f623ed8355f80bddabe865eab9118b75b4530bb302efbcf4a921b92
+- title: GeoDiv - Framework for Measuring Geographical Diversity in Text-to-Image
+    Models
+  date: '2025-06-01'
+  authors:
+  - Abhipsa Basu
+  - Mohana Singh
+  - Shashank Agnihotri
+  - Margret Keuper
+  - Venkatesh Babu Radhakrishnan
+  link: https://openreview.net/forum?id=WliHWqTfAb
+  publisher: Proceedings of the Nineth International Conference on Learning Representations
+    (ICLR 26)
+  extra-links:
+  - type: preprint
+    link: https://openreview.net/forum?id=WliHWqTfAb
+  image: images/iclr_22.png
+  tags:
+  - Generative
+  group: AAA
+  _cache: e5889cbd70e23869ce40e4f54b48380bcd99d59991d95642f447df4c933dad0c
+- title: RobustSpring - Benchmarking Robustness to Image Corruptions for Optical Flow,
+    Scene Flow and Stereo
+  date: '2025-06-01'
+  authors:
+  - Victor Oei
+  - Jenny Schmalfuss
+  - Lukas Mehl
+  - Madlen Bartsch
+  - Shashank Agnihotri
+  - Margret Keuper
+  - Andreas Bulling
+  - Andres Bruhn
+  link: https://openreview.net/forum?id=RebPBMrMmk
+  publisher: Proceedings of the Nineth International Conference on Learning Representations
+    (ICLR 26)
+  extra-links:
+  - type: preprint
+    link: https://openreview.net/forum?id=RebPBMrMmk
+  image: images/iclr_22.png
+  tags:
+  - Robustness
+  - Optical Flow
+  group: AAA
+  _cache: f433515c670b251f896f1b6742717f66b830b14115f3d96450959ecc3421ecec
