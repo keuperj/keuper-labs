@@ -221,11 +221,11 @@
     - Margret Keuper
     - Frank Hutter
   link: https://pure.mpg.de/rest/items/item_3404264/component/file_3404265/content
-  publisher: Proceedings of the Tenth International Conference on Learning Representations (ICLR 22)
+  publisher: Proceedings of the Tenth International Conference on Learning Representations ( 22)
   extra-links:
     - type: preprint
       link: https://pure.mpg.de/rest/items/item_3404264/component/file_3404265/content
-  image: images/iclr_22.png
+  image: images/_22.png
   tags:
     - NAS
   group: AAA
@@ -457,11 +457,11 @@
     - Jovita Lukasik
     - Margret Keuper
   link: https://steffen-jung.github.io/robustness/
-  publisher: Proceedings of the Tenth International Conference on Learning Representations (ICLR 23)
+  publisher: Proceedings of the Tenth International Conference on Learning Representations ( 23)
   extra-links:
     - type: preprint
       link: https://steffen-jung.github.io/robustness/
-  image: images/iclr_22.png
+  image: images/_22.png
   tags:
     - NAS
     - robustness
@@ -736,13 +736,13 @@
     - Anna Khoreva1 
     
   link: https://yumengli007.github.io/ALDM/
-  publisher: Proceedings of the Nineth International Conference on Learning Representations (ICLR 24)
+  publisher: Proceedings of the Nineth International Conference on Learning Representations ( 24)
   extra-links:
     - type: preprint
       link: https://arxiv.org/pdf/2401.08815.pdf
     - type: source
       link: https://github.com/boschresearch/ALDM
-  image: images/iclr_22.png
+  image: images/_22.png
   tags:
     - Generative
   group: AAA
@@ -754,7 +754,7 @@
     - Janis Keuper
     
   link: https://www.urban-sound-data.org/
-  publisher: DMLR Workshop at International Conference on Learning Representations (ICLR 24)
+  publisher: DMLR Workshop at International Conference on Learning Representations ( 24)
   extra-links:
     - type: preprint
       link: https://arxiv.org/abs/2403.10904
@@ -1449,3 +1449,43 @@
     - Visual RAG
     - Retail
   group: journal
+
+- title: GeoDiv - Framework for Measuring Geographical Diversity in Text-to-Image Models 
+  date: 2025-6-1
+  authors: 
+    - Abhipsa Basu
+    - Mohana Singh
+    - Shashank Agnihotri
+    - Margret Keuper
+    - Venkatesh Babu Radhakrishnan
+  link: https://openreview.net/forum?id=WliHWqTfAb
+  publisher: Proceedings of the Nineth International Conference on Learning Representations (ICLR 26)
+  extra-links:
+    - type: preprint
+      link: https://openreview.net/forum?id=WliHWqTfAb
+  image: images/iclr_22.png
+  tags:
+    - Generative
+  group: AAA
+
+- title: RobustSpring - Benchmarking Robustness to Image Corruptions for Optical Flow, Scene Flow and Stereo
+  date: 2025-6-1
+  authors: 
+    - Victor Oei
+    - Jenny Schmalfuss
+    - Lukas Mehl
+    - Madlen Bartsch
+    - Shashank Agnihotri
+    - Margret Keuper
+    - Andreas Bulling
+    - Andres Bruhn
+  link: https://openreview.net/forum?id=RebPBMrMmk
+  publisher: Proceedings of the Nineth International Conference on Learning Representations (ICLR 26)
+  extra-links:
+    - type: preprint
+      link: https://openreview.net/forum?id=RebPBMrMmk
+  image: images/iclr_22.png
+  tags:
+    - Robustness
+    - Optical Flow
+  group: AAA  
