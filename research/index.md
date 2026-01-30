@@ -10,6 +10,14 @@ nav:
 ### Highlights
 {%
   include card.html
+  image="images/iclr_22.png"
+  link="https://keuperj.github.io/keuper-labs/research/?search=ICLR%2026#2026"
+  title="ICLR 26"
+  subtitle="2 full paper accepted"
+  style="small"
+%}
+{%
+  include card.html
   image="images/TMLR_J2C.png"
   link="https://www.keuper-labs.org/research/?search=TMLR"
   title="TMLR 26"
@@ -72,14 +80,7 @@ nav:
   subtitle="2 full paper accepted"
   style="small"
 %}
-{%
-  include card.html
-  image="images/eccv24.png"
-  link="https://keuperj.github.io/keuper-labs/research/?search=ECCV"
-  title="ECCV 24"
-  subtitle="Full paper + 3 Workshop paper"
-  style="small"
-%}
+
 
 
 
