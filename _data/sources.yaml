@@ -225,7 +225,7 @@
   extra-links:
     - type: preprint
       link: https://pure.mpg.de/rest/items/item_3404264/component/file_3404265/content
-  image: images/_22.png
+  image: images/iclr_22.png
   tags:
     - NAS
   group: AAA
@@ -461,7 +461,7 @@
   extra-links:
     - type: preprint
       link: https://steffen-jung.github.io/robustness/
-  image: images/_22.png
+  image: images/iclr_22.png
   tags:
     - NAS
     - robustness
@@ -742,7 +742,7 @@
       link: https://arxiv.org/pdf/2401.08815.pdf
     - type: source
       link: https://github.com/boschresearch/ALDM
-  image: images/_22.png
+  image: images/iclr_22.png
   tags:
     - Generative
   group: AAA
