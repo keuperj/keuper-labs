@@ -19,7 +19,7 @@ Joint research pages of the labs run by ***Margret Keuper and Janis Keuper***. W
   image="images/ellis.png"
   link="https://ellis.eu/"
   title="We are part of Ellis"
-  subtitle="Margret is a ***Fellow*** and Janis a *Member* of Ellis, the pan-European AI network of excellence."
+  subtitle="Margret is a Fellow and Janis a Member of Ellis, the pan-European AI network of excellence."
   style="small"
 %}
 {%
