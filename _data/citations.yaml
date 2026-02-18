@@ -220,11 +220,11 @@
   extra-links:
   - type: preprint
     link: https://pure.mpg.de/rest/items/item_3404264/component/file_3404265/content
-  image: images/_22.png
+  image: images/iclr_22.png
   tags:
   - NAS
   group: AAA
-  _cache: e19233c13d45f1e53a7d84ef875a34075b7cd2e625d0cde38e0e52d6da7f1e69
+  _cache: 95ff93345c7252108841a9c8f23772e2b0b368ba4a9f6f89337937bcad33ef44
 - title: Higher-Order Multicuts for Geometric Model Fitting and Motion Segmentation
   date: '2022-06-01'
   authors:
@@ -456,12 +456,12 @@
   extra-links:
   - type: preprint
     link: https://steffen-jung.github.io/robustness/
-  image: images/_22.png
+  image: images/iclr_22.png
   tags:
   - NAS
   - robustness
   group: AAA
-  _cache: 1bb75db4af174c63000505b5578b8875f5819e38fa8e1cc8638b5f7199781dd6
+  _cache: 07579b373efa173fa7d3d849ed7e01ba137f8b0cd33b9e3fe233e06e3c8df245
 - title: Deep diffusion models for seismic processing
   date: '2023-06-01'
   authors:
@@ -743,11 +743,11 @@
     link: https://arxiv.org/pdf/2401.08815.pdf
   - type: source
     link: https://github.com/boschresearch/ALDM
-  image: images/_22.png
+  image: images/iclr_22.png
   tags:
   - Generative
   group: AAA
-  _cache: 6bc7cbf76116d880255393a70bcbb970c047160fdf3fbf053aac6c6debb72cd6
+  _cache: 22f4acad777058d003aaf1d3ffb28c0da412df3b1b4c7a673ca45ba4ef373241
 - title: Urban Sound Propagation - a Benchmark for 1-Step Generative Modeling of Complex
     Physical Systems
   date: '2024-06-01'
