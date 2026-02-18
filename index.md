@@ -16,6 +16,14 @@ Joint research pages of the labs run by ***Margret Keuper and Janis Keuper***. W
 ### Latest Highlights
 {%
   include card.html
+  image="images/ellis.png"
+  link="https://ellis.eu/"
+  title="We are part of Ellis"
+  subtitle="Margret is a ***Fellow*** and Janis a *Member* of Ellis, the pan-European AI network of excellence."
+  style="small"
+%}
+{%
+  include card.html
   image="images/iclr_22.png"
   link="https://keuperj.github.io/keuper-labs/research/?search=ICLR%2026#2026"
   title="ICLR 26"
@@ -78,14 +86,7 @@ Joint research pages of the labs run by ***Margret Keuper and Janis Keuper***. W
   subtitle="full paper + 6 workshop accepted"
   style="small"
 %}
-{%
-  include card.html
-  image="images/iclr_22.png"
-  link="https://keuperj.github.io/keuper-labs/research/?search=ICLR%2025#2025"
-  title="ICLR 25"
-  subtitle="2 full paper accepted"
-  style="small"
-%}
+
 
 
 
