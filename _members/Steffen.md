@@ -2,7 +2,7 @@
 name: Steffen Jung
 image: https://www.vc.informatik.uni-siegen.de/sites/www.vc.informatik.uni-siegen.de/files/styles/mitarbeiter_foto/public/pictures/steffen.jpg
 description:  at MPI
-role: phd
+role: postdoc
 group: MPI
 aliases:
   - S. Jung
