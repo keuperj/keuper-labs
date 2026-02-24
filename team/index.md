@@ -29,6 +29,15 @@ nav:
 
 {% include section.html %}
 
+## PostDocs 
+
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role:postdoc"
+%}
+
 ## PhD Students 
 Displayed in arbitrary order... 
 
