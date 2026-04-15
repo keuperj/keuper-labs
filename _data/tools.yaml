@@ -16,7 +16,15 @@
   description: Multi-Objective NAS for Embedded Hardware
   tags:
     - CZS
-
+    
+- title: TrackOpt
+  subtitle: Uni Mannheim
+  group: current
+  image: images/BMFTR.png
+  link: https://www.uni-mannheim.de/dws/research/projects/machine-learning/trackopt/trackopt-projectpage/
+  description: Learning to Optimize Physically Constrained Sparse-to-Dense Point Tracking.
+  tags:
+    - BMBF
 
 - title: LLM-Praxis
   subtitle: IMLA with 4 Industry Partners
