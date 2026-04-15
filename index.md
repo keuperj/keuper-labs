@@ -16,6 +16,14 @@ Joint research pages of the labs run by ***Margret Keuper and Janis Keuper***. W
 ### Latest Highlights
 {%
   include card.html
+  image="images/czs_logo.png"
+  link="https://www.lab2device.de"
+  title="New Project: Lab2Device"
+  subtitle="Multi-Objective NAS for Embedded Devices."
+  style="small"
+%}
+{%
+  include card.html
   image="images/ellis.png"
   link="https://ellis.eu/"
   title="We are part of Ellis"
@@ -76,14 +84,6 @@ Joint research pages of the labs run by ***Margret Keuper and Janis Keuper***. W
   link="https://keuperj.github.io/keuper-labs/research/?search=ICML#2025"
   title="ICML 2025"
   subtitle="full paper accepted"
-  style="small"
-%}
-{%
-  include card.html
-  image="images/cvpr25.jpg"
-  link="https://keuperj.github.io/keuper-labs/research/?search=CVPR#2025"
-  title="CVPR 2025"
-  subtitle="full paper + 6 workshop accepted"
   style="small"
 %}
 
