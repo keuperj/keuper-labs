@@ -1465,7 +1465,7 @@
   _cache: c4dc0ba33f623ed8355f80bddabe865eab9118b75b4530bb302efbcf4a921b92
 - title: GeoDiv - Framework for Measuring Geographical Diversity in Text-to-Image
     Models
-  date: '2025-06-01'
+  date: '2026-06-01'
   authors:
   - Abhipsa Basu
   - Mohana Singh
@@ -1482,10 +1482,10 @@
   tags:
   - Generative
   group: AAA
-  _cache: e5889cbd70e23869ce40e4f54b48380bcd99d59991d95642f447df4c933dad0c
+  _cache: e52b22d3d2f06fe3bab5a2e3637e00ae850619cd02d80712cb6bc38d698a0855
 - title: RobustSpring - Benchmarking Robustness to Image Corruptions for Optical Flow,
     Scene Flow and Stereo
-  date: '2025-06-01'
+  date: '2026-06-01'
   authors:
   - Victor Oei
   - Jenny Schmalfuss
@@ -1506,4 +1506,4 @@
   - Robustness
   - Optical Flow
   group: AAA
-  _cache: f433515c670b251f896f1b6742717f66b830b14115f3d96450959ecc3421ecec
+  _cache: 8b8b7577196291c71f81c6c2797d50678f58911c2f55eccec37702067c49e550
