@@ -8,6 +8,16 @@
 #    - BMBF
 #    - NAS
 
+- title: Lab2Device
+  subtitle: IMLA
+  group: current
+  image: images/czs_logo.png
+  link: https://www.lab2device.de
+  description: Multi-Objective NAS for Embedded Hardware
+  tags:
+    - CZS
+
+
 - title: LLM-Praxis
   subtitle: IMLA with 4 Industry Partners
   group: current
@@ -31,7 +41,7 @@
     
 - title: ClimateVisions 
   subtitle: at Uni Mannheim with TU Munich 
-  group: current
+  group: past
   image: images/BMFTR.png
   link: https://www.gov.sot.tum.de/gov/projects/climatevisions-project/project/
   description: automated image analysis of Reactions and Emotions from Images on Climate Change in Social Media
@@ -70,7 +80,7 @@
 - title: DLseis
   subtitle: Industry Consortium at ITWM
   group: current
-  image: https://www.itwm.fraunhofer.de/en/departments/hpc/data-analysis-and-machine-learning/dlseis-deep-learning-seismic-applications/jcr:content/contentPar/sectioncomponent_585541017/sectionParsys/textwithasset_1001402456/imageComponent/image.img.4col.jpg/1638172841454/1031x643-DLseis-Training-Data-fig4.jpg
+  image: https://www.itwm.fraunhofer.de/en/departments/analytics-computing-en/seismic-imaging/dlseis-deep-learning-seismic-applications/jcr:content/contentPar/sectioncomponent_585541017/sectionParsys/textwithasset_654983361/imageComponent/image.img.4col.large.jpg/1651580553571/1143x682-DLseis-seismic-fig3.jpg
   link: https://www.itwm.fraunhofer.de/en/departments/hpc/data-analysis-and-machine-learning/dlseis-deep-learning-seismic-applications.html
   description: Deep Learning in Seismic / Geophysics   
   tags:
