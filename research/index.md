@@ -11,7 +11,7 @@ nav:
 {%
   include card.html
   image="images/iclr_22.png"
-  link="https://keuperj.github.io/keuper-labs/research/?search=ICLR%2026#2026"
+  link="https://keuperj.github.io/keuper-labs/research/?search=ICLR"
   title="ICLR 26"
   subtitle="2 full paper accepted"
   style="small"
