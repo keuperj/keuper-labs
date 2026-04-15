@@ -1451,7 +1451,7 @@
   group: journal
 
 - title: GeoDiv - Framework for Measuring Geographical Diversity in Text-to-Image Models 
-  date: 2025-6-1
+  date: 2026-6-1
   authors: 
     - Abhipsa Basu
     - Mohana Singh
@@ -1469,7 +1469,7 @@
   group: AAA
 
 - title: RobustSpring - Benchmarking Robustness to Image Corruptions for Optical Flow, Scene Flow and Stereo
-  date: 2025-6-1
+  date: 2026-6-1
   authors: 
     - Victor Oei
     - Jenny Schmalfuss
