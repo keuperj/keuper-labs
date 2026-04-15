@@ -61,17 +61,8 @@ Displayed in arbitrary order...
 
 
 ## Open Positions
+* TBA
 
-
-{%
-  include card.html
-  image="images/czs.png"
-  link="images/CZS_PostDoc-1.pdf"
-  title="PostDoc Position"
-  subtitle="Efficient Embedded AI (Project Lab2Device)"
-  description=""
-  style="large"
-%}
 
 
 
