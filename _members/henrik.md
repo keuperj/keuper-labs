@@ -1,6 +1,6 @@
 ---
 name: Henrik Pichler
-image: "images/henrik.png"
+image: "images/Henrik.png"
 description:  at IMLA
 role: phd
 group: IMLA
