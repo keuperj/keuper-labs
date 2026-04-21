@@ -10,8 +10,9 @@ aliases:
 links:
   home-page: nn
   email: henrik.pichler@hs-offenburg.de
-  google-scholar: nn
-  twitter: nn
+  google-scholar: https://scholar.google.com/citations?hl=de&user=znzvehwAAAAJ
+  linkedin: www.linkedin.com/in/henrik-pichler-999209234
+  github: https://github.com/henrikpichler
 ---
 
-PhD Student working on NAS.
+I am a PhD Student at IMLA, supervised by Janis Keuper, working on NAS for tiny and embedded devices.
