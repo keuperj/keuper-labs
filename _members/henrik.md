@@ -5,8 +5,8 @@ description:  at IMLA
 role: phd
 group: IMLA
 aliases:
-  - M. Spitznagel
-  - Spitznagel
+  - H. Pichler
+  - Pichler
 links:
   home-page: nn
   email: henrik.pichler@hs-offenburg.de
