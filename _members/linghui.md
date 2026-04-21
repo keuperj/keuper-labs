@@ -1,6 +1,6 @@
 ---
 name: Linghui Liu
-image: "images/linghui.jpg"
+image: "images/Linghui.jpg"
 description:  at ITWM
 role: phd
 group: IMLA
