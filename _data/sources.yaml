@@ -1490,7 +1490,7 @@
     - Optical Flow
   group: AAA  
 
-  - title: We need to re-think the concept of “real” images 
+- title: We need to re-think the concept of “real” images 
   date: 2026-6-1
   authors: 
     - Janis Keuper
