@@ -1451,7 +1451,8 @@
   - Bianca Lamm
   - Janis Keuper
   link: https://openreview.net/forum?id=H7eYL4yFZS
-  publisher: Transactions on Machine Learning Research (TMLR)
+  publisher: Transactions on Machine Learning Research (TMLR) / presented at ICML
+    26
   extra-links:
   - type: preprint
     link: https://openreview.net/forum?id=H7eYL4yFZS
@@ -1462,7 +1463,7 @@
   - Visual RAG
   - Retail
   group: journal
-  _cache: c4dc0ba33f623ed8355f80bddabe865eab9118b75b4530bb302efbcf4a921b92
+  _cache: ad09937546944d6e62a07ea9452926ca9a627c20adbe20f51c5e4d6626889c1e
 - title: GeoDiv - Framework for Measuring Geographical Diversity in Text-to-Image
     Models
   date: '2026-06-01'
@@ -1507,3 +1508,18 @@
   - Optical Flow
   group: AAA
   _cache: 8b8b7577196291c71f81c6c2797d50678f58911c2f55eccec37702067c49e550
+- title: "We need to re-think the concept of \u201Creal\u201D images"
+  date: '2026-06-01'
+  authors:
+  - Janis Keuper
+  - Margret Keuper
+  link: https://icml.cc/virtual/2026/poster/67151
+  publisher: ICML 26
+  extra-links:
+  - type: preprint
+    link: https://icml.cc/virtual/2026/poster/67151
+  image: images/ICML.png
+  tags:
+  - deep fake
+  group: AAA
+  _cache: ac50137226aeb788f460617529d653be5076016209528485c345de36588c1af4
