@@ -1438,7 +1438,7 @@
     - Bianca Lamm
     - Janis Keuper
   link: https://openreview.net/forum?id=H7eYL4yFZS
-  publisher: Transactions on Machine Learning Research (TMLR)
+  publisher: Transactions on Machine Learning Research (TMLR) / presented at ICML 26
   extra-links:
     - type: preprint
       link: https://openreview.net/forum?id=H7eYL4yFZS
@@ -1489,3 +1489,18 @@
     - Robustness
     - Optical Flow
   group: AAA  
+
+  - title: We need to re-think the concept of “real” images 
+  date: 2026-6-1
+  authors: 
+    - Janis Keuper
+    - Margret Keuper
+  link: https://icml.cc/virtual/2026/poster/67151
+  publisher: ICML 26
+  extra-links:
+    - type: preprint
+      link: https://icml.cc/virtual/2026/poster/67151
+  image: images/ICML.png
+  tags:
+    - deep fake
+  group: AAA
