@@ -10,6 +10,22 @@ nav:
 ### Highlights
 {%
   include card.html
+  image="https://github.com/mspitzna/NCAtorch/raw/main/figures/nca_torch_logo.png"
+  link="https://www.neural-cellular-automata.org/"
+  title="Neu Open Source Lib "
+  subtitle="NCATorch"
+  style="small"
+%}
+{%
+  include card.html
+  image="https://jmlr.org/tmlr/img/tmlr.jpg"
+  link="https://www.keuper-labs.org/research/?search=TMLR"
+  title="TMLR 26"
+  subtitle="journal paper"
+  style="small"
+%}
+{%
+  include card.html
   image="images/ICML.png"
   link="https://keuperj.github.io/keuper-labs/research/?search=ICML#2026"
   title="ICML 2026"
@@ -64,25 +80,6 @@ nav:
   subtitle="full paper accepted"
   style="small"
 %}
-{%
-  include card.html
-  image="images/ICML.png"
-  link="https://keuperj.github.io/keuper-labs/research/?search=ICML#2025"
-  title="ICML 2025"
-  subtitle="full paper accepted"
-  style="small"
-%}
-{%
-  include card.html
-  image="images/cvpr25.jpg"
-  link="https://keuperj.github.io/keuper-labs/research/?search=CVPR#2025"
-  title="CVPR 2025"
-  subtitle="full paper accepted"
-  style="small"
-%}
-
-
-
 
 
 
