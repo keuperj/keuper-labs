@@ -1517,7 +1517,7 @@
       link: https://openreview.net/pdf?id=NRwjj0ZLq0
     - type: source
       link: https://www.neural-cellular-automata.org/
-  image: images/TMLR.png
+  image: https://jmlr.org/tmlr/img/tmlr.jpg
   tags:
     - NCA
   group: journal
