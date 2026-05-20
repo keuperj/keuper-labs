@@ -16,6 +16,22 @@ Joint research pages of the labs run by ***Margret Keuper and Janis Keuper***. W
 ### Latest Highlights
 {%
   include card.html
+  image="https://github.com/mspitzna/NCAtorch/raw/main/figures/nca_torch_logo.png"
+  link="https://www.neural-cellular-automata.org/"
+  title="Neu Open Source Lib "
+  subtitle="NCATorch"
+  style="small"
+%}
+{%
+  include card.html
+  image="https://jmlr.org/tmlr/img/tmlr.jpg"
+  link="https://www.keuper-labs.org/research/?search=TMLR"
+  title="TMLR 26"
+  subtitle="journal paper"
+  style="small"
+%}
+{%
+  include card.html
   image="images/czs_logo.png"
   link="https://www.lab2device.de"
   title="New Project: Lab2Device"
@@ -70,23 +86,6 @@ Joint research pages of the labs run by ***Margret Keuper and Janis Keuper***. W
   subtitle="journal paper"
   style="small"
 %}
-{%
-  include card.html
-  image="images/ICCV-2025.png"
-  link="https://keuperj.github.io/keuper-labs/research/?search=ICCV#2025"
-  title="ICCV 2025"
-  subtitle="2 full + 3 workshop paper accepted"
-  style="small"
-%}
-{%
-  include card.html
-  image="images/ACL.jpg"
-  link="https://keuperj.github.io/keuper-labs/research/?search=ACL#2025"
-  title="ACL 2025"
-  subtitle="full paper accepted"
-  style="small"
-%}
-
 
 
 
