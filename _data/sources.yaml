@@ -1504,3 +1504,20 @@
   tags:
     - deep fake
   group: AAA
+
+- title: mSOP-765k - A Benchmark For Multi-Modal Structured Output Predictions
+  date: 2026-6-1
+  authors: 
+    - Martin Spitznagel
+    - Janis Keuper
+  link: https://openreview.net/pdf?id=NRwjj0ZLq0
+  publisher: Transactions on Machine Learning Research (TMLR) 
+  extra-links:
+    - type: preprint
+      link: https://openreview.net/pdf?id=NRwjj0ZLq0
+    - type: source
+      link: https://www.neural-cellular-automata.org/
+  image: images/TMLR.png
+  tags:
+    - NCA
+  group: journal
