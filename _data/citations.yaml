@@ -1573,6 +1573,6 @@
     link: https://openreview.net/pdf?id=jWqcKaZdTS
   image: images/cvpr26w.jpg
   tags:
-  - null
+  - generators
   group: Workshop
-  _cache: 3a9de7a1dc41d1c26623ed31c7c6e37df380fd48946634e1a565a0592548c469
+  _cache: 11ae9b68ba1a5ac37cff76f81b095769a3d1c08d81381d9ceae814a475382fac
