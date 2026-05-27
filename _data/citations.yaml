@@ -1554,11 +1554,11 @@
   extra-links:
   - type: preprint
     link: https://sites.google.com/view/fgvc13
-  image: images/cvpr25w.jpg
+  image: images/cvpr26w.jpg
   tags:
   - fine-grain
   group: Workshop
-  _cache: ca078ffd87205ab8a26295efb52e0bba82f8d117ecb96d066ef2c926005b461c
+  _cache: 9c41bcd54ff36f7d1f285d67f18b4cd17f0370fa6a1cee2d30664f51e68adbd8
 - title: "Fr\xE9chet Inception Distance is Failing to Preserve Rank Consistency for\
     \ Synthetic Out-of-Distribution Samples"
   date: '2026-06-01'
@@ -1571,8 +1571,8 @@
   extra-links:
   - type: preprint
     link: https://openreview.net/pdf?id=jWqcKaZdTS
-  image: images/cvpr25w.jpg
+  image: images/cvpr26w.jpg
   tags:
   - null
   group: Workshop
-  _cache: 1fe58b918107426f3c70c2455c0281f0867f0a7297479fde8b91d12e141b3c76
+  _cache: 3a9de7a1dc41d1c26623ed31c7c6e37df380fd48946634e1a565a0592548c469
