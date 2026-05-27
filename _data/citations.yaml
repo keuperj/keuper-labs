@@ -1540,3 +1540,39 @@
   - NCA
   group: journal
   _cache: 1a13743f3552cce68b446a810ec855ee1f29a75eb733030cd0bda2c04cae560b
+- title: Efficient Fine-grained Image Retrieval with Vision Foundation Models for
+    Industrial Objects
+  date: '2026-06-01'
+  authors:
+  - Yushi Liu
+  - Christian Graf
+  - Markus Spies
+  - Margret Keuper
+  link: https://sites.google.com/view/fgvc13
+  publisher: FGVC13 workshop Efficient Fine-grained Image Retrieval with Vision Foundation
+    Models for Industrial Objects at CVPR 2026
+  extra-links:
+  - type: preprint
+    link: https://sites.google.com/view/fgvc13
+  image: images/cvpr25w.jpg
+  tags:
+  - fine-grain
+  group: Workshop
+  _cache: ca078ffd87205ab8a26295efb52e0bba82f8d117ecb96d066ef2c926005b461c
+- title: "Fr\xE9chet Inception Distance is Failing to Preserve Rank Consistency for\
+    \ Synthetic Out-of-Distribution Samples"
+  date: '2026-06-01'
+  authors:
+  - Linghui Liu
+  - Henrike Stephani
+  - Janis Keuper
+  link: https://openreview.net/pdf?id=jWqcKaZdTS
+  publisher: Synthetic Data for Computer Vision Workshop at CVPR 2026
+  extra-links:
+  - type: preprint
+    link: https://openreview.net/pdf?id=jWqcKaZdTS
+  image: images/cvpr25w.jpg
+  tags:
+  - null
+  group: Workshop
+  _cache: 1fe58b918107426f3c70c2455c0281f0867f0a7297479fde8b91d12e141b3c76
