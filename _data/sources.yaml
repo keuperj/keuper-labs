@@ -1534,7 +1534,7 @@
   extra-links:
     - type: preprint
       link: https://sites.google.com/view/fgvc13
-  image: images/cvpr25w.jpg
+  image: images/cvpr26w.jpg
   tags:
     - fine-grain
   group: Workshop
@@ -1550,7 +1550,7 @@
   extra-links:
     - type: preprint
       link: https://openreview.net/pdf?id=jWqcKaZdTS
-  image: images/cvpr25w.jpg
+  image: images/cvpr26w.jpg
   tags:
     - 
   group: Workshop
