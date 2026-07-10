@@ -1576,3 +1576,32 @@
   - generators
   group: Workshop
   _cache: 11ae9b68ba1a5ac37cff76f81b095769a3d1c08d81381d9ceae814a475382fac
+- title: Prompt injection attacks on llm generated reviews of scientific publications
+  date: '2026-06-01'
+  authors:
+  - Janis Keuper
+  link: https://arxiv.org/pdf/2509.10248
+  publisher: ICPR 2026
+  extra-links:
+  - type: preprint
+    link: https://arxiv.org/pdf/2509.10248
+  image: images/icpr26.png
+  tags:
+  - security
+  group: A
+  _cache: b46589e18998bd61c612bb0f65869e72c41686066f8a860911be1b1705d2eea3
+- title: Benchmarking Document Parsers on Mathematical Formula Extraction from PDFs
+  date: '2026-06-01'
+  authors:
+  - Pius Horn
+  - Janis Keuper
+  link: https://arxiv.org/pdf/2512.09874
+  publisher: ICPR 2026
+  extra-links:
+  - type: preprint
+    link: https://arxiv.org/pdf/2512.09874
+  image: images/icpr26.png
+  tags:
+  - document parsing
+  group: A
+  _cache: cbb4c44b185bf48cae7623aab47eb1697709ad774c988da2a2103cebef75b363
