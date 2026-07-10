@@ -1523,6 +1523,23 @@
   - deep fake
   group: AAA
   _cache: ac50137226aeb788f460617529d653be5076016209528485c345de36588c1af4
+- title: Images as Tables - In-Context Learning with TabPFN for Low-Data Detection
+    of AI-Generated Images
+  date: '2026-06-01'
+  authors:
+  - Jan Philip Walter
+  - Shashank Agnihotri
+  - Margret Keuper
+  link: https://arxiv.org/pdf/2606.00872
+  publisher: ICML Workshops 26
+  extra-links:
+  - type: preprint
+    link: https://arxiv.org/pdf/2606.00872
+  image: images/ICMLw.png
+  tags:
+  - deep fake
+  group: workshop
+  _cache: edbad1bf759ed980884cd6c0e4f0fe0174dd7bbdfb652408c1c523e00a770f5b
 - title: mSOP-765k - A Benchmark For Multi-Modal Structured Output Predictions
   date: '2026-06-01'
   authors:
