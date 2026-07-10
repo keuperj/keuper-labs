@@ -1535,11 +1535,11 @@
   extra-links:
   - type: preprint
     link: https://arxiv.org/pdf/2606.00872
-  image: images/ICMLw.png
+  image: images/ICML_w.png
   tags:
   - deep fake
   group: workshop
-  _cache: edbad1bf759ed980884cd6c0e4f0fe0174dd7bbdfb652408c1c523e00a770f5b
+  _cache: c7ca882e252fa9c99992c8570fed46b86625f1a9b539b13a2c12de6bd053e721
 - title: mSOP-765k - A Benchmark For Multi-Modal Structured Output Predictions
   date: '2026-06-01'
   authors:
