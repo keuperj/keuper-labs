@@ -1516,7 +1516,7 @@
   extra-links:
     - type: preprint
       link: https://arxiv.org/pdf/2606.00872
-  image: images/ICMLw.png
+  image: images/ICML_w.png
   tags:
     - deep fake
   group: workshop
