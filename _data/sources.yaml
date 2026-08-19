@@ -1650,4 +1650,22 @@
   tags:
     - Object Detection
   group: journal
+
+  
+- title: Decoupling High and Low Frequencies for Faithful Image Generation with Fine Details 
+  date: 2026-6-1
+  authors: 
+    - Tejaswini Medi
+    - Hsien-Yi Wang
+    - Arianna Rampini
+    - Margret Keuper
+  #link: https://icml.cc/virtual/2026/poster/67151
+  publisher: ECCV 26
+  #extra-links:
+  #  - type: preprint
+  #    link: https://icml.cc/virtual/2026/poster/67151
+  image: images/ECCV26.jgg
+  tags:
+    - Image Generation
+  group: AAA
   
