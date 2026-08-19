@@ -1712,7 +1712,7 @@
       link: https://openreview.net/pdf?id=H4fdIUP8Jd
   image: images/ECCV26w.jpg
   tags:
-    - XAI
+    - RAG
   group: Workshop
 
 - title: Unsupervised Visual Concept Bottlenecks for Interpretable Bioimage Classification
@@ -1731,7 +1731,7 @@
       link: https://openreview.net/pdf?id=hois3HoeYg
   image: images/ECCV26w.jpg
   tags:
-    - XAI
+    - CBNM
   group: Workshop
 
 - title: LAION-Mobile - Evaluating Deepfake Detectors On One Million Smartphone Photos
@@ -1746,5 +1746,37 @@
       link: https://openreview.net/pdf?id=nKXIRrwFYp
   image: images/ECCV26w.jpg
   tags:
-    - XAI
+    - Deep Fake
   group: Workshop
+
+- title: Beyond String Matching: Semantic Evaluation of PDF Table Extraction
+  date: 2026-6-1
+  authors: 
+    - Pius Horn
+    - Janis Keuper
+  link: https://openreview.net/pdf?id=8KZckKjivl
+  publisher: BMVC 26 
+  extra-links:
+    - type: preprint
+      link: https://openreview.net/pdf?id=8KZckKjivl
+  image: images/bmvj_26.png
+  tags:
+    - Document Parsing
+  group: A
+
+- title: Reinforcement Learning Based Fair Adversarial Training
+  date: 2026-6-1
+  authors: 
+    - Tejaswini Medi
+    - Levan Mikeladze
+    - Margret Keuper
+  #link: https://openreview.net/pdf?id=8KZckKjivl
+  publisher: BMVC 26 
+  #extra-links:
+  #  - type: preprint
+  #    link: https://openreview.net/pdf?id=8KZckKjivl
+  image: images/bmvj_26.png
+  tags:
+    - Adversarial Training
+  group: A
+  
