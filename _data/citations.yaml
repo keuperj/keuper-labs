@@ -1777,11 +1777,11 @@
   extra-links:
   - type: preprint
     link: https://openreview.net/pdf?id=8KZckKjivl
-  image: images/bmvj_26.png
+  image: images/bmvc_26.png
   tags:
   - Document Parsing
   group: A
-  _cache: 7163c60e67ca0621b3bdac26ff042a8a2055d2d77af4960602d4684b4dc23da7
+  _cache: a93b7c7de2bd6c6551f2817d3aeec0c280301b0fa0fbad387fbd07b77462d696
 - title: Reinforcement Learning Based Fair Adversarial Training
   date: '2026-06-01'
   authors:
@@ -1789,8 +1789,8 @@
   - Levan Mikeladze
   - Margret Keuper
   publisher: BMVC 26
-  image: images/bmvj_26.png
+  image: images/bmvc_26.png
   tags:
   - Adversarial Training
   group: A
-  _cache: ef99f9a70b080d1e165adc1353acf0e8dce41c8e4bdfba36b0fd4ff0409355e0
+  _cache: 415255428e97338e00fcc310b7c32f9b7c4a468badc2100ddc00a3e990e11998
