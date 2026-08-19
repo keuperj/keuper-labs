@@ -1540,7 +1540,8 @@
   - deep fake
   group: workshop
   _cache: c7ca882e252fa9c99992c8570fed46b86625f1a9b539b13a2c12de6bd053e721
-- title: mSOP-765k - A Benchmark For Multi-Modal Structured Output Predictions
+- title: A New Kind of Network? Review and Reference Implementation of Neural Cellular
+    Automata
   date: '2026-06-01'
   authors:
   - Martin Spitznagel
@@ -1556,7 +1557,7 @@
   tags:
   - NCA
   group: journal
-  _cache: 1a13743f3552cce68b446a810ec855ee1f29a75eb733030cd0bda2c04cae560b
+  _cache: 5f0ffdebb71d5fa49f925901778b142e3601e996e7d04f190113c460b7657f18
 - title: Efficient Fine-grained Image Retrieval with Vision Foundation Models for
     Industrial Objects
   date: '2026-06-01'
@@ -1622,3 +1623,57 @@
   - document parsing
   group: A
   _cache: cbb4c44b185bf48cae7623aab47eb1697709ad774c988da2a2103cebef75b363
+- title: Examining the Impact of Optical Aberrations to Image Classification and Object
+    Detection Models
+  date: '2026-06-01'
+  authors:
+  - "Patrick M\xFCller"
+  - Alexander Braun
+  - Margret Keuper
+  link: https://www.computer.org/csdl/journal/tp/2026/03/11205303/2aRi0yIwjS
+  publisher: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+  extra-links:
+  - type: preprint
+    link: https://www.computer.org/csdl/journal/tp/2026/03/11205303/2aRi0yIwjSw
+  image: images/tpami.png
+  tags:
+  - Optics
+  group: journal
+  _cache: 5283e37c62f3020ce21506c541e31c9697cd67c82e38598baf42d4e751e5e448
+- title: Parameterized Adverse Lens Corruptions to Probe Model Robustness to Optical
+    Tolerances
+  date: '2026-06-01'
+  authors:
+  - "K. B\xE4uerle"
+  - "P. M\xFCller"
+  - I. Ihrke
+  - Margret Keuper
+  link: https://openreview.net/pdf?id=a93BmQRNxC
+  publisher: Transactions on Machine Learning Research (TMLR)
+  extra-links:
+  - type: preprint
+    link: https://openreview.net/pdf?id=a93BmQRNxC
+  image: https://jmlr.org/tmlr/img/tmlr.jpg
+  tags:
+  - Optics
+  group: journal
+  _cache: a62f4d1f6e1284c5993794982fe0f94efe325a301a211c46e1aa15f5be4b36ec
+- title: RAWDet-7 A Multi-Scenario Benchmark for Object Detection and Description
+    on Quantized RAW Images
+  date: '2026-06-01'
+  authors:
+  - M. Fatima
+  - S. Agnihotri
+  - K. V. Gandikota
+  - M. Moeller
+  - Margret Keuper
+  link: https://openreview.net/forum?id=UHTJrsYieo
+  publisher: Transactions on Machine Learning Research (TMLR)
+  extra-links:
+  - type: preprint
+    link: https://openreview.net/forum?id=UHTJrsYieo
+  image: https://jmlr.org/tmlr/img/tmlr.jpg
+  tags:
+  - Object Detection
+  group: journal
+  _cache: 3a0dc0d9f24659ed6eefaea9b3ee8d91f5cf5841040e696a8621ca0d438438c1
