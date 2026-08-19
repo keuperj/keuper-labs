@@ -16,6 +16,30 @@ Joint research pages of the labs run by ***Margret Keuper and Janis Keuper***. W
 ### Latest Highlights
 {%
   include card.html
+  image="images/bmvc_26.png"
+  link="https://www.keuper-labs.org/research/?search=BMVC"
+  title="BMVC 26"
+  subtitle="2 paper accepted"
+  style="small"
+%}
+{%
+  include card.html
+  image="images/ECCV26.jpg"
+  link="https://keuperj.github.io/keuper-labs/research/?search=ECCV#2026"
+  title="ECCV 2026"
+  subtitle="full paper  + 5 workshop paper accepted"
+  style="small"
+%}
+{%
+  include card.html
+  image="images/tpami.png"
+  link="https://keuperj.github.io/keuper-labs/research/?search=TPAMI"
+  title="TPAMI 2026"
+  subtitle="full paper accepted"
+  style="small"
+%}
+{%
+  include card.html
   image="https://github.com/mspitzna/NCAtorch/raw/main/figures/nca_torch_logo.png"
   link="https://www.neural-cellular-automata.org/"
   title="Neu Open Source Lib "
@@ -62,30 +86,7 @@ Joint research pages of the labs run by ***Margret Keuper and Janis Keuper***. W
   subtitle="2 full paper accepted"
   style="small"
 %}
-{%
-  include card.html
-  image="images/TMLR_J2C.png"
-  link="https://www.keuper-labs.org/research/?search=TMLR"
-  title="TMLR 26"
-  subtitle="with J2C Certification (top 10%)"
-  style="small"
-%}
-{%
-  include card.html
-  image="images/neurips_oral.png"
-  link="https://www.keuper-labs.org/research/?search=Neurips"
-  title="NeurIPs 25"
-  subtitle="oral presentation and 2 workshop paper"
-  style="small"
-%}
-{%
-  include card.html
-  image="https://jmlr.org/tmlr/img/tmlr.jpg"
-  link="https://www.keuper-labs.org/research/?search=TMLR"
-  title="TMLR 25"
-  subtitle="journal paper"
-  style="small"
-%}
+
 
 
 
