@@ -1677,3 +1677,17 @@
   - Object Detection
   group: journal
   _cache: 3a0dc0d9f24659ed6eefaea9b3ee8d91f5cf5841040e696a8621ca0d438438c1
+- title: Decoupling High and Low Frequencies for Faithful Image Generation with Fine
+    Details
+  date: '2026-06-01'
+  authors:
+  - Tejaswini Medi
+  - Hsien-Yi Wang
+  - Arianna Rampini
+  - Margret Keuper
+  publisher: ECCV 26
+  image: images/ECCV26.jgg
+  tags:
+  - Image Generation
+  group: AAA
+  _cache: 253a9443a6cb6b59839dcf7cc94a921a36c7241e62577ec64d983649e4590345
