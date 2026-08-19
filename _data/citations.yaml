@@ -1729,9 +1729,9 @@
     link: https://openreview.net/pdf?id=H4fdIUP8Jd
   image: images/ECCV26w.jpg
   tags:
-  - XAI
+  - RAG
   group: Workshop
-  _cache: e810a323097ca034d52bf21a5fc450640e3c9bc94e20c980c83ea26cc140e925
+  _cache: eea94ea1ebc10ca32241d2391b656fc5ca2f54e2fb631341f63793d9e7c32830
 - title: Unsupervised Visual Concept Bottlenecks for Interpretable Bioimage Classification
   date: '2026-06-01'
   authors:
@@ -1748,9 +1748,9 @@
     link: https://openreview.net/pdf?id=hois3HoeYg
   image: images/ECCV26w.jpg
   tags:
-  - XAI
+  - CBNM
   group: Workshop
-  _cache: 5bbeadfae89a46d767136f95472fcba1302a5083003a327fe40a3405b76d6450
+  _cache: e09d974c1245eed3116523a54bbf36b0a3cb906f10158aa9bc4ac0883d69a424
 - title: LAION-Mobile - Evaluating Deepfake Detectors On One Million Smartphone Photos
   date: '2026-06-01'
   authors:
@@ -1764,6 +1764,33 @@
     link: https://openreview.net/pdf?id=nKXIRrwFYp
   image: images/ECCV26w.jpg
   tags:
-  - XAI
+  - Deep Fake
   group: Workshop
-  _cache: 1307974cddefc68cd226c8907e5bb4346500b3c4f9c2c5199fd2c014e6cc9870
+  _cache: 030da43cf8c89c508a510a4051c82ef34b88c4c19681ec27a5ea771c8e2b011c
+- title: Beyond String Matching - Semantic Evaluation of PDF Table Extraction
+  date: '2026-06-01'
+  authors:
+  - Pius Horn
+  - Janis Keuper
+  link: https://openreview.net/pdf?id=8KZckKjivl
+  publisher: BMVC 26
+  extra-links:
+  - type: preprint
+    link: https://openreview.net/pdf?id=8KZckKjivl
+  image: images/bmvj_26.png
+  tags:
+  - Document Parsing
+  group: A
+  _cache: 7163c60e67ca0621b3bdac26ff042a8a2055d2d77af4960602d4684b4dc23da7
+- title: Reinforcement Learning Based Fair Adversarial Training
+  date: '2026-06-01'
+  authors:
+  - Tejaswini Medi
+  - Levan Mikeladze
+  - Margret Keuper
+  publisher: BMVC 26
+  image: images/bmvj_26.png
+  tags:
+  - Adversarial Training
+  group: A
+  _cache: ef99f9a70b080d1e165adc1353acf0e8dce41c8e4bdfba36b0fd4ff0409355e0
