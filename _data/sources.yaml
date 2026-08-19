@@ -1651,7 +1651,44 @@
     - Object Detection
   group: journal
 
-  
+
+- title: STELLA a modular framework for SpatioTemporal Event-based Lagrangian particLe trAcking
+  date: 2026-6-1
+  authors: 
+    - Sebastian Sachs
+    - Steffen Jung
+    - Max Kahl
+    - Margret Keuper
+    - Christian Willert
+    - Christian Cierpka
+  link: https://link.springer.com/article/10.1007/s00348-026-04253-8
+  publisher:  Experiments in Fluids 
+  extra-links:
+    - type: preprint
+      link: https://link.springer.com/article/10.1007/s00348-026-04253-8
+  #image: https://jmlr.org/tmlr/img/tmlr.jpg
+  tags:
+    - Tracking
+  group: journal
+
+- title: CROC Evaluating and Training T2I Metrics with Pseudo- and Human-Labeled Contrastive Robustness Checks
+  date: 2026-6-1
+  authors: 
+    - Christoph Leiter
+    - Yuki M. Asano
+    - Margret Keuper
+    - Steffen Eger
+  link: http://hdl.handle.net/21.11116/0000-0013-3F33-C
+  publisher:  Transactions of the Association for Computational Linguistics
+
+  extra-links:
+    - type: preprint
+      link: http://hdl.handle.net/21.11116/0000-0013-3F33-C
+  #image: https://jmlr.org/tmlr/img/tmlr.jpg
+  tags:
+    - Robustness
+  group: journal
+
 - title: Decoupling High and Low Frequencies for Faithful Image Generation with Fine Details 
   date: 2026-6-1
   authors: 
