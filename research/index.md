@@ -10,6 +10,30 @@ nav:
 ### Highlights
 {%
   include card.html
+  image="images/bmvc_26.png"
+  link="https://www.keuper-labs.org/research/?search=BMVC"
+  title="BMVC 26"
+  subtitle="2 paper accepted"
+  style="small"
+%}
+{%
+  include card.html
+  image="images/ECCV26.jpg"
+  link="https://keuperj.github.io/keuper-labs/research/?search=ECCV#2026"
+  title="ECCV 2026"
+  subtitle="full paper  + 4 workshop paper accepted"
+  style="small"
+%}
+{%
+  include card.html
+  image="images/tpami.png"
+  link="https://keuperj.github.io/keuper-labs/research/?search=TPAMI"
+  title="TPAMI 2026"
+  subtitle="full paper accepted"
+  style="small"
+%}
+{%
+  include card.html
   image="https://github.com/mspitzna/NCAtorch/raw/main/figures/nca_torch_logo.png"
   link="https://www.neural-cellular-automata.org/"
   title="Neu Open Source Lib "
@@ -21,7 +45,7 @@ nav:
   image="https://jmlr.org/tmlr/img/tmlr.jpg"
   link="https://www.keuper-labs.org/research/?search=TMLR"
   title="TMLR 26"
-  subtitle="journal paper"
+  subtitle="3 journal paper"
   style="small"
 %}
 {%
@@ -56,30 +80,7 @@ nav:
   subtitle="oral presentation and 2 workshop paper"
   style="small"
 %}
-{%
-  include card.html
-  image="https://jmlr.org/tmlr/img/tmlr.jpg"
-  link="https://www.keuper-labs.org/research/?search=TMLR"
-  title="TMLR 25"
-  subtitle="journal paper"
-  style="small"
-%}
-{%
-  include card.html
-  image="images/ICCV-2025.png"
-  link="https://keuperj.github.io/keuper-labs/research/?search=ICCV#2025"
-  title="ICCV 2025"
-  subtitle="2 full  + 3 workshop paper accepted"
-  style="small"
-%}
-{%
-  include card.html
-  image="images/ACL.jpg"
-  link="https://keuperj.github.io/keuper-labs/research/?search=ACL#2025"
-  title="ACL 2025"
-  subtitle="full paper accepted"
-  style="small"
-%}
+
 
 
 
