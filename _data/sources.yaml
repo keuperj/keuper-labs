@@ -1664,8 +1664,87 @@
   #extra-links:
   #  - type: preprint
   #    link: https://icml.cc/virtual/2026/poster/67151
-  image: images/ECCV26.jgg
+  image: images/ECCV26.jpg
   tags:
     - Image Generation
   group: AAA
   
+- title: Failure or Drift? Evaluating Monocular SLAM under Synthetic and Real-World Corruptions
+  date: 2026-6-1
+  authors: 
+    - Abhay Skaria Thomas
+    - Shashank Agnihotri
+    - Margret Keuper
+  #link: https://icml.cc/virtual/2026/poster/67151
+  publisher: NeuSLAM Workshop at ECCV 26 
+  #extra-links:
+  #  - type: preprint
+  #    link: https://icml.cc/virtual/2026/poster/67151
+  image: images/ECCV26w.jpg
+  tags:
+    - SLAM
+  group: Workshop
+
+- title: We need theory-grounded explainability for abstract tasks to quantify model bias
+  date: 2026-6-1
+  authors: 
+    - Katharina Prasse
+    - Margret Keuper
+  #link: https://icml.cc/virtual/2026/poster/67151
+  publisher: exCV Workshop at ECCV 26 
+  #extra-links:
+  #  - type: preprint
+  #    link: https://icml.cc/virtual/2026/poster/67151
+  image: images/ECCV26w.jpg
+  tags:
+    - XAI
+  group: Workshop
+
+- title: Combining Finetuning and RAG for Structured Output Prediction on a Multimodal High Velocity Retail Dataset
+  date: 2026-6-1
+  authors: 
+    - Bianca Lamm
+    - Janis Keuper
+  link: https://openreview.net/pdf?id=H4fdIUP8Jd
+  publisher: MUCG Workshop at ECCV 26 
+  extra-links:
+    - type: preprint
+      link: https://openreview.net/pdf?id=H4fdIUP8Jd
+  image: images/ECCV26w.jpg
+  tags:
+    - XAI
+  group: Workshop
+
+- title: Unsupervised Visual Concept Bottlenecks for Interpretable Bioimage Classification
+  date: 2026-6-1
+  authors: 
+    - Linghui Liu
+    - Henrike Stephani
+    - Jördis Sieburg-Rockel
+    - Stephanie Helmling
+    - Andrea Olbrich
+    - Janis Keuper
+  link: https://openreview.net/pdf?id=hois3HoeYg
+  publisher: BioImage Computing Workshop at ECCV 26 
+  extra-links:
+    - type: preprint
+      link: https://openreview.net/pdf?id=hois3HoeYg
+  image: images/ECCV26w.jpg
+  tags:
+    - XAI
+  group: Workshop
+
+- title: LAION-Mobile - Evaluating Deepfake Detectors On One Million Smartphone Photos
+  date: 2026-6-1
+  authors: 
+    - Achim von Stryk
+    - Janis Keuper
+  link: https://openreview.net/pdf?id=nKXIRrwFYp
+  publisher: AI for Multimedia Forensics & Disinformation Detection Workshop at ECCV 26 
+  extra-links:
+    - type: preprint
+      link: https://openreview.net/pdf?id=nKXIRrwFYp
+  image: images/ECCV26w.jpg
+  tags:
+    - XAI
+  group: Workshop
