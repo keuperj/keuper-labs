@@ -1759,7 +1759,7 @@
   extra-links:
     - type: preprint
       link: https://openreview.net/pdf?id=8KZckKjivl
-  image: images/bmvj_26.png
+  image: images/bmvc_26.png
   tags:
     - Document Parsing
   group: A
@@ -1775,7 +1775,7 @@
   #extra-links:
   #  - type: preprint
   #    link: https://openreview.net/pdf?id=8KZckKjivl
-  image: images/bmvj_26.png
+  image: images/bmvc_26.png
   tags:
     - Adversarial Training
   group: A
