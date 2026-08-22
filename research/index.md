@@ -10,6 +10,14 @@ nav:
 ### Highlights
 {%
   include card.html
+  image="images/icpr_bestpaper.png"
+  link="https://www.keuper-labs.org/research/?search=ICPR"
+  title="ICPR 20206"
+  subtitle="Best Paper Award for our work on document parsing..."
+  style="small"
+%}
+{%
+  include card.html
   image="images/bmvc_26.png"
   link="https://www.keuper-labs.org/research/?search=BMVC"
   title="BMVC 26"
