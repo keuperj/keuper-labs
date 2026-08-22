@@ -1618,11 +1618,11 @@
   extra-links:
   - type: preprint
     link: https://arxiv.org/pdf/2512.09874
-  image: images/icpr26.png
+  image: images/icpr26_bestpaper.png
   tags:
   - document parsing
   group: A
-  _cache: cbb4c44b185bf48cae7623aab47eb1697709ad774c988da2a2103cebef75b363
+  _cache: 6a2b343edbc1ccb2bf30c8031c1b0506b4e94307ea8dc48b09feceea4dfec87b
 - title: Examining the Impact of Optical Aberrations to Image Classification and Object
     Detection Models
   date: '2026-06-01'
