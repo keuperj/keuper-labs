@@ -1595,7 +1595,7 @@
   extra-links:
     - type: preprint
       link: https://arxiv.org/pdf/2512.09874
-  image: images/icpr26.png
+  image: images/icpr26_bestpaper.png
   tags:
     - document parsing
   group: A
