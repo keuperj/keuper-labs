@@ -16,7 +16,7 @@ Joint research pages of the labs run by ***Margret Keuper and Janis Keuper***. W
 ### Latest Highlights
 {%
   include card.html
-  image="images/icpr_bestpaper.png"
+  image="images/icpr26_bestpaper.png"
   link="https://www.keuper-labs.org/research/?search=ICPR"
   title="ICPR 20206"
   subtitle="Best Paper Award for our work on document parsing..."
