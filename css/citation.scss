@@ -9,7 +9,7 @@
   display: flex;
   justify-content: flex-start;
   align-items: flex-start;
-  gap: 40px;
+  gap: 24px;
   width: 100%;
   max-width: 100%;
   margin: 30px 0;
@@ -24,18 +24,40 @@
     border: none;
   }
 
-  .citation_image {
-    width: 200px;
-    height: 120px;
+  .citation_media {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    width: 340px;
     max-width: 100%;
     flex-shrink: 0;
-    overflow: hidden;
-    box-shadow: $shadow;
+  }
+
+  .citation_image {
+    width: 76px;
+    flex-shrink: 0;
 
     img {
-      object-fit: cover;
+      object-fit: contain;
       width: 100%;
-      height: 100%;
+      height: 76px;
+    }
+  }
+
+  .citation_teaser {
+    display: block;
+    flex: 1;
+    min-width: 0;
+    padding: 6px;
+    background: white;
+    border: 1px solid $gray-300;
+    border-radius: $rounded;
+
+    img {
+      display: block;
+      width: 100%;
+      height: 160px;
+      object-fit: contain;
     }
   }
 
@@ -50,6 +72,12 @@
 
     .citation_title {
       font-weight: $semi-bold;
+    }
+
+    .citation_description {
+      margin: 0;
+      line-height: 1.6;
+      text-align: left;
     }
 
     .tags {
@@ -68,13 +96,12 @@
     }
   }
 
-  @media (max-width: $phone) {
-    align-items: center;
+  @media (max-width: 900px) {
+    align-items: flex-start;
     flex-direction: column;
 
-    .citation_image {
-      width: 200px;
-      height: 200px;
+    .citation_media {
+      width: 420px;
     }
 
     .citation_text {

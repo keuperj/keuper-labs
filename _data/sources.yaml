@@ -14,18 +14,24 @@
   link: https://openaccess.thecvf.com/content_CVPR_2020/papers/Durall_Watch_Your_Up-Convolution_CNN_Based_Generative_Deep_Neural_Networks_Are_CVPR_2020_paper.pdf
   publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2020)
   extra-links:
-    - type: preprint
-      link: https://openaccess.thecvf.com/content_CVPR_2020/papers/Durall_Watch_Your_Up-Convolution_CNN_Based_Generative_Deep_Neural_Networks_Are_CVPR_2020_paper.pdf
-    - type: source
-      link: https://github.com/cc-hpc-itwm/UpConv
-    - type: youtube
-      link: watch?v=s3659tZ4xFs
+  - type: preprint
+    link: https://openaccess.thecvf.com/content_CVPR_2020/papers/Durall_Watch_Your_Up-Convolution_CNN_Based_Generative_Deep_Neural_Networks_Are_CVPR_2020_paper.pdf
+  - type: youtube
+    link: watch?v=s3659tZ4xFs
+  - type: source
+    text: Code
+    link: https://github.com/cc-hpc-itwm/UpConv
   image: images/cvpr_20.jpg
   tags:
-    - GAN
-    - robustness
-    - deepfake
+  - Generative Models
+  - GANs
+  - Frequency Analysis
+  - Deepfake Detection
   group: AAA
+  description: Why do generated images leave detectable frequency fingerprints? We trace these artifacts to common upsampling operations and introduce spectral regularization that helps generators better reproduce natural-image statistics.
+  teaser: images/publications/001-watch-your-up-convolution-cnn-based-generative-deep-neural-networks-are-failing-to-reproduce-spectral-distribu.webp
+  teaser-alt: Power spectra of real and generated images before and after spectral regularization.
+  teaser-source: https://openaccess.thecvf.com/content_CVPR_2020/papers/Durall_Watch_Your_Up-Convolution_CNN_Based_Generative_Deep_Neural_Networks_Are_CVPR_2020_paper.pdf#page=1
 
 - title: Extracting horizon surfaces from 3D seismic data using deep learning
   date: 2020-6-1
@@ -41,9 +47,15 @@
       link: https://library.seg.org/doi/pdf/10.1190/geo2019-0569.1
   image: images/seg.png
   tags:
-    - Geophysics
-    - CNN
+  - Geophysics
+  - Seismic Interpretation
+  - Semantic Segmentation
+  - 3D Vision
   group: AAA
+  description: Picking geological horizons becomes more manageable when it is treated as a 3D segmentation problem. Our network learns from sparse interpreter annotations and can be refined interactively to trace complex reflection surfaces in seismic volumes.
+  teaser: images/publications/002-extracting-horizon-surfaces-from-3d-seismic-data-using-deep-learning.webp
+  teaser-alt: 3D convolutional network mapping seismic input and sparse horizon labels to horizon predictions.
+  teaser-source: https://hal.science/hal-02560737/document#page=5
 
 - title: Detection of point scatterers using diffraction imaging and deep learning
   date: 2020-6-1
@@ -59,12 +71,18 @@
       link: https://www.earthdoc.org/content/journals/10.1111/1365-2478.12889?crawler=true&mimetype=application/pdf
   image: images/gpp_journal.png
   tags:
-    - Geophysics
-    - CNN
+  - Geophysics
+  - Seismic Imaging
+  - CNNs
+  - Object Detection
   group: AAA
 #-------------------------
 # 2021
 #-------------------------
+  description: Weak diffraction signals can reveal geological details that conventional reflections miss. This work combines diffraction imaging with a CNN trained on synthetic examples to locate subsurface scattering points, including challenging signals in field data.
+  teaser: images/publications/003-detection-of-point-scatterers-using-diffraction-imaging-and-deep-learning.webp
+  teaser-alt: Ray-pair geometry for local-angle-domain seismic diffraction imaging.
+  teaser-source: https://hal.science/hal-02354803/document#page=4
 
 - title: Smooth variational graph embeddings for efficient neural architecture search
   date: 2021-6-1
@@ -78,14 +96,21 @@
   link: https://arxiv.org/pdf/2010.04683
   publisher: Proceedings of the Nineth International Conference on Learning Representations (ICLR 21)
   extra-links:
-    - type: preprint
-      link: https://arxiv.org/pdf/2010.04683
-    - type: source
-      link: https://github.com/jovitalukasik/SVGe
+  - type: preprint
+    link: https://arxiv.org/pdf/2010.04683
+  - type: source
+    text: Code
+    link: https://github.com/jovitalukasik/SVGe
   image: images/iclr_22.png
   tags:
-    - NAS
+  - Neural Architecture Search
+  - Graph Neural Networks
+  - Representation Learning
   group: AAA
+  description: Searching for better networks starts with a useful representation of their architectures. SVGe learns a smooth graph embedding that reconstructs architectures accurately and supports efficient performance prediction and search.
+  teaser: images/publications/004-smooth-variational-graph-embeddings-for-efficient-neural-architecture-search.webp
+  teaser-alt: Graph decoder generating a neural network architecture from a latent representation.
+  teaser-source: https://arxiv.org/pdf/2010.04683v1#page=11
 
 - title: Shape your Space - A Gaussian Mixture Regularization Approach to Deterministic Autoencoders
   date: 2021-6-1
@@ -97,12 +122,21 @@
   link: https://proceedings.neurips.cc/paper/2021/file/3c057cb2b41f22c0e740974d7a428918-Paper.pdf
   publisher: NeurIPS 21, proceedings of the thirty-sixth Conference on Neural Information Processing Systems 
   extra-links:
-    - type: preprint
-      link: https://proceedings.neurips.cc/paper/2021/file/3c057cb2b41f22c0e740974d7a428918-Paper.pdf
+  - type: preprint
+    link: https://proceedings.neurips.cc/paper/2021/file/3c057cb2b41f22c0e740974d7a428918-Paper.pdf
+  - type: source
+    text: Code
+    link: https://github.com/boschresearch/GMM_DAE
   image: images/neurips_22.png
   tags:
-    - VAE
+  - Generative Models
+  - Autoencoders
+  - Representation Learning
   group: AAA
+  description: Shape your Space gives deterministic autoencoders an expressive, multimodal latent distribution during training. This makes sampling straightforward while avoiding a separate density-fitting step after training.
+  teaser: images/publications/005-shape-your-space-a-gaussian-mixture-regularization-approach-to-deterministic-autoencoders.webp
+  teaser-alt: Training curves comparing latent-distribution matching and reconstruction.
+  teaser-source: https://proceedings.neurips.cc/paper/2021/file/3c057cb2b41f22c0e740974d7a428918-Paper.pdf#page=5
 
 - title: An Empirical Investigation of Model-to-Model Distribution Shifts in Trained Convolutional Filters
   date: 2021-6-1
@@ -112,13 +146,23 @@
   link: https://arxiv.org/abs/2201.08465
   publisher: NeurIPS 21 Workshop - Distribution shifts - connecting methods and applications (DistShift)
   extra-links:
-    - type: preprint
-      link: https://arxiv.org/abs/2201.08465
+  - type: preprint
+    link: https://arxiv.org/abs/2201.08465
+  - type: source
+    text: Code
+    link: https://github.com/paulgavrikov/CNN-Filter-DB
   image: images/neurips_22_w.png
   tags:
-    - CNN
-  group: workshop 
-  
+  - CNNs
+  - Frequency Analysis
+  - Distribution Shift
+  - Representation Learning
+  group: workshop
+  description: What changes inside a CNN when its training data or task changes? This early study compares more than half a billion learned convolution filters, opening a new window onto transfer learning and distribution shifts through model weights.
+  teaser: images/publications/006-an-empirical-investigation-of-model-to-model-distribution-shifts-in-trained-convolutional-filters.webp
+  teaser-alt: Learned convolution filters and their distribution across network depths.
+  teaser-source: https://arxiv.org/pdf/2201.08465#page=2
+
 - title: Multi-Class Multi-Instance Count Conditioned Adversarial Image Generation
   date: 2021-6-1
   authors: 
@@ -128,14 +172,22 @@
   link: https://openaccess.thecvf.com/content/ICCV2021/papers/Saseendran_Multi-Class_Multi-Instance_Count_Conditioned_Adversarial_Image_Generation_ICCV_2021_paper.pdf
   publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2021)
   extra-links:
-    - type: preprint
-      link: https://openaccess.thecvf.com/content/ICCV2021/papers/Saseendran_Multi-Class_Multi-Instance_Count_Conditioned_Adversarial_Image_Generation_ICCV_2021_paper.pdf
+  - type: preprint
+    link: https://openaccess.thecvf.com/content/ICCV2021/papers/Saseendran_Multi-Class_Multi-Instance_Count_Conditioned_Adversarial_Image_Generation_ICCV_2021_paper.pdf
+  - type: source
+    text: Code
+    link: https://github.com/boschresearch/MCCGAN
   image: images/cvpr_21.jpg
   tags:
-    - VAE
-    - robustness
+  - Generative Models
+  - GANs
+  - Controllable Generation
+  - Datasets
   group: AAA
-
+  description: Tell a generator how many objects of each class to include. Our count-conditioned GAN combines image synthesis with object counting, enabling explicit control over scene composition even against complex backgrounds.
+  teaser: images/publications/007-multi-class-multi-instance-count-conditioned-adversarial-image-generation.webp
+  teaser-alt: CityCount street scenes and generated images with specified numbers of cars and people.
+  teaser-source: https://openaccess.thecvf.com/content/ICCV2021/papers/Saseendran_Multi-Class_Multi-Instance_Count_Conditioned_Adversarial_Image_Generation_ICCV_2021_paper.pdf#page=1
 
 - title: Spectral distribution aware image generation
   date: 2021-6-1
@@ -145,11 +197,16 @@
   link: https://ojs.aaai.org/index.php/AAAI/article/view/16267/16074
   publisher: AAAI
   extra-links:
-    - type: preprint
-      link: https://ojs.aaai.org/index.php/AAAI/article/view/16267/16074
+  - type: preprint
+    link: https://ojs.aaai.org/index.php/AAAI/article/view/16267/16074
+  - type: source
+    text: Code
+    link: https://github.com/steffen-jung/SpectralGAN
   image: images/aaai.jpg
   tags:
-    - CNN
+  - Generative Models
+  - GANs
+  - Frequency Analysis
   group: AAA
 
 
@@ -158,6 +215,10 @@
 #-------------------------
 # 2022
 #-------------------------
+  description: Convincing images should have convincing frequency statistics, too. A lightweight spectral discriminator helps GANs match real-image spectra and reduces the frequency artifacts that can expose generated content.
+  teaser: images/publications/008-spectral-distribution-aware-image-generation.webp
+  teaser-alt: Generated portraits and comparisons of their frequency spectra.
+  teaser-source: https://arxiv.org/pdf/2012.03110#page=2
 
 - title: Aliasing coincides with CNNs vulnerability towards adversarial attacks
   date: 2022-6-1
@@ -172,9 +233,15 @@
       link: https://openreview.net/pdf?id=vKc1mLxBebP
   image: images/aaai_w.jpg
   tags:
-    - robustness
-    - CNN
+  - Adversarial Robustness
+  - CNNs
+  - Aliasing
+  - Signal Processing
   group: workshop
+  description: Downsampling artifacts offer a revealing clue to adversarial vulnerability. This study shows that robust CNNs learn to downsample more accurately and exhibit less aliasing than their standard counterparts.
+  teaser: images/publications/009-aliasing-coincides-with-cnns-vulnerability-towards-adversarial-attacks.webp
+  teaser-alt: A cat image after correct downsampling, aliased downsampling, and an adversarial attack.
+  teaser-source: https://openreview.net/references/pdf?id=Cdlz1Q74s6#page=1
 
 - title: Is RobustBench/AutoAttack a suitable Benchmark for Adversarial Robustness?
   date: 2022-6-1
@@ -186,12 +253,21 @@
   link: https://openreview.net/pdf?id=aLB3FaqoMBs
   publisher: The AAAI-22 Workshop on Adversarial Machine Learning and Beyond
   extra-links:
-    - type: preprint
-      link: https://openreview.net/pdf?id=aLB3FaqoMBs
+  - type: preprint
+    link: https://openreview.net/pdf?id=aLB3FaqoMBs
+  - type: source
+    text: Code
+    link: https://github.com/adverML/SpectralDef_Framework
   image: images/aaai_w.jpg
   tags:
-    - GAN
+  - Adversarial Robustness
+  - Benchmarking
+  - Deep Learning Evaluation
   group: workshop
+  description: A high robustness score is only useful when the benchmark reflects the intended threat. We examine the detectability and resolution dependence of AutoAttack perturbations, questioning how far common benchmark rankings transfer to practical settings.
+  teaser: images/publications/010-is-robustbench-autoattack-a-suitable-benchmark-for-adversarial-robustness.webp
+  teaser-alt: Detection rates for different adversarial attacks across image datasets.
+  teaser-source: https://arxiv.org/pdf/2112.01601#page=1
 
 - title: Robust Models are less Over-Confident
   date: 2022-6-1
@@ -203,13 +279,21 @@
   link: https://advml-frontier.github.io/pdf/12/CameraReady/ICML_Workshop_Adv_2022.pdf
   publisher: ICML 22 Workshop on NEW FRONTIERS IN ADVERSARIAL MACHINE LEARNING
   extra-links:
-    - type: preprint
-      link: https://advml-frontier.github.io/pdf/12/CameraReady/ICML_Workshop_Adv_2022.pdf
+  - type: preprint
+    link: https://advml-frontier.github.io/pdf/12/CameraReady/ICML_Workshop_Adv_2022.pdf
+  - type: source
+    text: Code
+    link: https://github.com/GeJulia/robustness_confidences_evaluation
   image: images/ICML_w.png
   tags:
-    - robustness
-    - CNN
+  - Adversarial Robustness
+  - Uncertainty
+  - Calibration
   group: workshop
+  description: Adversarial training changes more than resistance to attacks. Our experiments show that robust models can also be less overconfident on clean inputs, with architecture choices influencing their prediction confidence.
+  teaser: images/publications/011-robust-models-are-less-over-confident.webp
+  teaser-alt: Prediction confidence distributions for standard and robust classifiers.
+  teaser-source: https://arxiv.org/pdf/2210.05938#page=5
 
 - title: Surrogate NAS benchmarks - Going beyond the limited search spaces of tabular NAS benchmarks
   date: 2022-6-1
@@ -223,12 +307,21 @@
   link: https://pure.mpg.de/rest/items/item_3404264/component/file_3404265/content
   publisher: Proceedings of the Tenth International Conference on Learning Representations ( 22)
   extra-links:
-    - type: preprint
-      link: https://pure.mpg.de/rest/items/item_3404264/component/file_3404265/content
+  - type: preprint
+    link: https://pure.mpg.de/rest/items/item_3404264/component/file_3404265/content
+  - type: source
+    text: Code
+    link: https://github.com/automl/nasbench301
   image: images/iclr_22.png
   tags:
-    - NAS
+  - Neural Architecture Search
+  - Surrogate Models
+  - Benchmarking
   group: AAA
+  description: Evaluating architecture-search methods need not require training every candidate network. Learned surrogate benchmarks make large search spaces accessible at a fraction of the cost, supporting more realistic and reproducible NAS comparisons.
+  teaser: images/publications/012-surrogate-nas-benchmarks-going-beyond-the-limited-search-spaces-of-tabular-nas-benchmarks.webp
+  teaser-alt: Surrogate performance-prediction error as the number of training architectures increases.
+  teaser-source: https://pure.mpg.de/rest/items/item_3404264/component/file_3404265/content#page=3
 
 - title: Higher-Order Multicuts for Geometric Model Fitting and Motion Segmentation
   date: 2022-6-1
@@ -244,10 +337,16 @@
       link: https://ieeexplore.ieee.org/iel7/34/9970415/09706260.pdf
   image: images/tpami.png
   tags:
-    - Multicut
-    - Segmentation
+  - Graph Clustering
+  - Combinatorial Optimization
+  - Motion Segmentation
+  - Geometric Model Fitting
   group: AAA
-  
+  description: Grouping points into lines, motions, or geometric transformations requires relationships beyond pairs. Our higher-order multicut formulation captures these relationships and provides an efficient local-search solver without fixing the number of groups in advance.
+  teaser: images/publications/013-higher-order-multicuts-for-geometric-model-fitting-and-motion-segmentation.webp
+  teaser-alt: Graphs illustrating a partition, multicut edges, and lifted relationships.
+  teaser-source: https://pure.mpg.de/rest/items/item_3367293_6/component/file_3367904/content#page=4
+
 - title: Aliasing and adversarial robust generalization of CNNs
   date: 2022-6-1
   authors: 
@@ -263,10 +362,16 @@
       link: watch?v=mM6yhep46R8
   image: images/ml_journal.jpg
   tags:
-    - robustness
-    - CNN
-  group: AAA  
-  
+  - Adversarial Robustness
+  - CNNs
+  - Aliasing
+  - Signal Processing
+  group: AAA
+  description: Aliasing reveals when adversarial training starts to lose its robustness. This extended study connects downsampling artifacts to robust overfitting and proposes an aliasing-based early-stopping criterion.
+  teaser: images/publications/014-aliasing-and-adversarial-robust-generalization-of-cnns.webp
+  teaser-alt: Original, correctly downsampled, aliased, and adversarially perturbed cat images.
+  teaser-source: https://link.springer.com/content/pdf/10.1007/s10994-022-06222-8.pdf#page=2
+
 - title: Adversarial Robustness Through the Lens of Convolutional Filters
   date: 2022-6-1
   authors: 
@@ -275,19 +380,25 @@
   link: https://openaccess.thecvf.com/content/CVPR2022W/ArtOfRobust/html/Gavrikov_Adversarial_Robustness_Through_the_Lens_of_Convolutional_Filters_CVPRW_2022_paper.html
   publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW 2022)
   extra-links:
-    - type: preprint
-      link: https://openaccess.thecvf.com/content/CVPR2022W/ArtOfRobust/html/Gavrikov_Adversarial_Robustness_Through_the_Lens_of_Convolutional_Filters_CVPRW_2022_paper.html
-    - type: source
-      link: https://github.com/paulgavrikov/cvpr22w_RobustnessThroughTheLens
-    - type: website
-      link: https://towardsdatascience.com/what-makes-the-convolutions-of-robust-vision-models-special-5f9c1a0c5bb5
-    - type: youtube
-      link: watch?v=XzEDIMxpm4Y
+  - type: preprint
+    link: https://openaccess.thecvf.com/content/CVPR2022W/ArtOfRobust/html/Gavrikov_Adversarial_Robustness_Through_the_Lens_of_Convolutional_Filters_CVPRW_2022_paper.html
+  - type: website
+    link: https://towardsdatascience.com/what-makes-the-convolutions-of-robust-vision-models-special-5f9c1a0c5bb5
+  - type: youtube
+    link: watch?v=XzEDIMxpm4Y
+  - type: source
+    text: Code
+    link: https://github.com/paulgavrikov/cvpr22w_RobustnessThroughTheLens
   image: images/cvpr_22_w.png
   tags:
-    - CNN
-    - robustness
+  - Adversarial Robustness
+  - CNNs
+  - Representation Learning
   group: workshop
+  description: Robustness leaves a signature in learned convolution filters. By comparing adversarially trained networks with standard models, we uncover changes in filter diversity, sparsity, and early-layer filtering that help explain their different behavior.
+  teaser: images/publications/015-adversarial-robustness-through-the-lens-of-convolutional-filters.webp
+  teaser-alt: Distribution of convolution-filter differences across network depth.
+  teaser-source: https://openaccess.thecvf.com/content/CVPR2022W/ArtOfRobust/papers/Gavrikov_Adversarial_Robustness_Through_the_Lens_of_Convolutional_Filters_CVPRW_2022_paper.pdf#page=1
 
 - title: CNN Filter DB - An Empirical Investigation of Trained Convolutional Filters
   date: 2022-6-1
@@ -297,23 +408,27 @@
   link: https://openaccess.thecvf.com/content/CVPR2022/papers/Gavrikov_CNN_Filter_DB_An_Empirical_Investigation_of_Trained_Convolutional_Filters_CVPR_2022_paper.pdf
   publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2022)
   extra-links:
-    - type: preprint
-      link: https://openaccess.thecvf.com/content/CVPR2022/papers/Gavrikov_CNN_Filter_DB_An_Empirical_Investigation_of_Trained_Convolutional_Filters_CVPR_2022_paper.pdf
-    - type: source
-      link: https://github.com/paulgavrikov/CNN-Filter-DB
-    - type: website
-      link: https://towardsdatascience.com/what-makes-the-convolutions-of-robust-vision-models-special-5f9c1a0c5bb5
-    - type: youtube
-      link: watch?v=4CkDvpr2SD4&list=PL4FqEnAZb3YMOTYLpeSaqO2zx-tMgO-oY&index=2
+  - type: preprint
+    link: https://openaccess.thecvf.com/content/CVPR2022/papers/Gavrikov_CNN_Filter_DB_An_Empirical_Investigation_of_Trained_Convolutional_Filters_CVPR_2022_paper.pdf
+  - type: website
+    link: https://towardsdatascience.com/what-makes-the-convolutions-of-robust-vision-models-special-5f9c1a0c5bb5
+  - type: youtube
+    link: watch?v=4CkDvpr2SD4&list=PL4FqEnAZb3YMOTYLpeSaqO2zx-tMgO-oY&index=2
+  - type: source
+    text: Code
+    link: https://github.com/paulgavrikov/CNN-Filter-DB
   image: images/cvpr_22_oral.png
   tags:
-    - ORAL
-    - CNN
-    - robustness
+  - CNNs
+  - Datasets
+  - Transfer Learning
+  - Representation Learning
   group: AAA
+  description: CNN Filter DB makes more than a billion learned filters available for studying what neural networks learn. Its analysis reveals both shared filter statistics across tasks and degenerate filters that can undermine robustness and transfer learning.
+  teaser: images/publications/016-cnn-filter-db-an-empirical-investigation-of-trained-convolutional-filters.webp
+  teaser-alt: A collection of learned convolution kernels from CNN Filter DB.
+  teaser-source: https://openaccess.thecvf.com/content/CVPR2022/papers/Gavrikov_CNN_Filter_DB_An_Empirical_Investigation_of_Trained_Convolutional_Filters_CVPR_2022_paper.pdf#page=1
 
-
-    
 - title: FrequencyLowCut Pooling--Plug & Play against Catastrophic Overfitting
   date: 2022-6-1
   authors: 
@@ -324,17 +439,24 @@
   link: https://arxiv.org/pdf/2204.00491
   publisher: ECCV 2022 - Proceedings of the 17th European Conference, Tel Aviv, Israel
   extra-links:
-    - type: preprint
-      link: https://arxiv.org/pdf/2204.00491
-    - type: source
-      link: https://github.com/GeJulia/flc_pooling
-    - type: youtube
-      link: watch?v=8mgJAB4il_4
+  - type: preprint
+    link: https://arxiv.org/pdf/2204.00491
+  - type: youtube
+    link: watch?v=8mgJAB4il_4
+  - type: source
+    text: Code
+    link: https://github.com/GeJulia/flc_pooling
   image: images/eccv_22.png
   tags:
-    - CNN
-    - robustness    
+  - Adversarial Robustness
+  - Aliasing
+  - Signal Processing
+  - CNNs
   group: AAA
+  description: A small change to downsampling can make adversarial training more stable. FrequencyLowCut pooling removes aliasing and helps prevent catastrophic overfitting during fast, single-step adversarial training.
+  teaser: images/publications/017-frequencylowcut-pooling-plug-play-against-catastrophic-overfitting.webp
+  teaser-alt: Comparison of CNN downsampling architectures with FrequencyLowCut pooling.
+  teaser-source: https://arxiv.org/pdf/2204.00491#page=5
 
 - title: Learning Where To Look--Generative NAS is Surprisingly Efficient
   date: 2022-6-1
@@ -345,14 +467,21 @@
   link: https://arxiv.org/pdf/2203.08734.pdf
   publisher: ECCV 2022 - Proceedings of the 17th European Conference, Tel Aviv, Israel
   extra-links:
-    - type: preprint
-      link: https://arxiv.org/pdf/2203.08734.pdf
-    - type: source
-      link: https://github.com/jovitalukasik/AG-Net
+  - type: preprint
+    link: https://arxiv.org/pdf/2203.08734.pdf
+  - type: source
+    text: Code
+    link: https://github.com/jovitalukasik/AG-Net
   image: images/eccv_22.png
   tags:
-    - NAS  
+  - Neural Architecture Search
+  - Generative Models
+  - Efficient Deep Learning
   group: AAA
+  description: Instead of repeatedly searching unpromising architectures, learn where good candidates are likely to be. AG-Net combines a generator with a performance predictor to guide efficient search, including joint optimization of accuracy and hardware latency.
+  teaser: images/publications/018-learning-where-to-look-generative-nas-is-surprisingly-efficient.webp
+  teaser-alt: Generative architecture search with a performance predictor and iterative retraining.
+  teaser-source: https://arxiv.org/pdf/2203.08734#page=2
 
 - title: Physics-informed learning of aerosol microphysics
   date: 2022-6-1
@@ -366,15 +495,21 @@
   link: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C468660D2AEE8E25DC3BF507517FF91A/S263446022200022Xa.pdf/div-class-title-physics-informed-learning-of-aerosol-microphysics-div.pdf
   publisher: Environmental Data Science Journal
   extra-links:
-    - type: preprint
-      link: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C468660D2AEE8E25DC3BF507517FF91A/S263446022200022Xa.pdf/div-class-title-physics-informed-learning-of-aerosol-microphysics-div.pdf
+  - type: preprint
+    link: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C468660D2AEE8E25DC3BF507517FF91A/S263446022200022Xa.pdf/div-class-title-physics-informed-learning-of-aerosol-microphysics-div.pdf
+  - type: source
+    text: Code
+    link: https://github.com/paulaharder/aerosol-microphysics-emulation
   image: images/environmental_data science.jpg
   tags:
-    - PINN
-    - climate
+  - Scientific Machine Learning
+  - Climate Modeling
+  - Physics-Informed Learning
   group: AAA
-
-
+  description: Climate models need detailed aerosol physics without prohibitive simulation costs. Our neural emulator accelerates aerosol microphysics while incorporating physical constraints to improve mass conservation and positivity.
+  teaser: images/publications/019-physics-informed-learning-of-aerosol-microphysics.webp
+  teaser-alt: Maps comparing simulated and predicted aerosol concentration changes.
+  teaser-source: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C468660D2AEE8E25DC3BF507517FF91A/S263446022200022Xa.pdf/div-class-title-physics-informed-learning-of-aerosol-microphysics-div.pdf#page=3
 
 - title: Does Medical Imaging learn different Convolution Filters?
   date: 2022-6-1
@@ -384,13 +519,21 @@
   link: https://arxiv.org/abs/2210.13799
   publisher: NeurIPS 22 Workshop - Medical Imaging meets NeurIPS
   extra-links:
-    - type: preprint
-      link: https://arxiv.org/abs/2210.13799
+  - type: preprint
+    link: https://arxiv.org/abs/2210.13799
+  - type: source
+    text: Code
+    link: https://github.com/paulgavrikov/neurips22w_medical_conv_filters
   image: images/neurips_22_w.png
   tags:
-    - CNN
-    - medical imaging
+  - Medical Imaging
+  - CNNs
+  - Transfer Learning
   group: workshop
+  description: Do medical images require fundamentally different convolution filters? A closer look shows that apparent outliers largely reflect architectural processing choices, supporting the value of diverse pretraining data across image domains.
+  teaser: images/publications/020-does-medical-imaging-learn-different-convolution-filters.webp
+  teaser-alt: Distributions of learned filter coefficients across medical imaging networks.
+  teaser-source: https://arxiv.org/pdf/2210.13799#page=2
 
 - title: Impact of realistic properties of the point spread function on classification tasks to reveal a possible distribution shift
   date: 2022-6-1
@@ -405,9 +548,15 @@
       link: https://pure.mpg.de/rest/items/item_3473172/component/file_3473173/content
   image: images/neurips_22_w.png
   tags:
-    - CNN
-    - medical imaging
+  - Computational Imaging
+  - Optics
+  - Robustness
+  - Distribution Shift
   group: workshop
+  description: Real lenses produce more complex blur than standard corruption benchmarks assume. We evaluate direction- and wavelength-dependent optical effects, exposing classification changes that simpler blur tests can miss.
+  teaser: images/publications/021-impact-of-realistic-properties-of-the-point-spread-function-on-classification-tasks-to-reveal-a-possible-distr.webp
+  teaser-alt: Optical blur kernels and the resulting image distortions.
+  teaser-source: https://pure.mpg.de/rest/items/item_3473172/component/file_3473173/content#page=4
 
 - title: Robust Models are less Over-Confident
   date: 2022-6-1
@@ -419,15 +568,21 @@
   link: https://arxiv.org/pdf/2210.05938
   publisher: NeurIPS 22, proceedings of the thirty-sixth Conference on Neural Information Processing Systems 
   extra-links:
-    - type: preprint
-      link: https://arxiv.org/pdf/2210.05938
-    - type: source
-      link: https://github.com/GeJulia/robustness_confidences_evaluation
+  - type: preprint
+    link: https://arxiv.org/pdf/2210.05938
+  - type: source
+    text: Code
+    link: https://github.com/GeJulia/robustness_confidences_evaluation
   image: images/neurips_22.png
   tags:
-    - CNN
-    - robustness    
+  - Adversarial Robustness
+  - Uncertainty
+  - Calibration
   group: AAA
+  description: Robustness training can also improve how cautiously a model makes predictions. This study examines the lower overconfidence of adversarially trained networks and the influence of activation functions and pooling on confidence.
+  teaser: images/publications/022-robust-models-are-less-over-confident.webp
+  teaser-alt: Prediction confidence distributions for standard and robust classifiers.
+  teaser-source: https://arxiv.org/pdf/2210.05938#page=5
 
 - title: Trading off Image Quality for Robustness is not Necessary with Regularized Deterministic Autoencoders
   date: 2022-6-1
@@ -438,18 +593,27 @@
   link: https://pure.mpg.de/rest/items/item_3473164/component/file_3473165/content
   publisher: NeurIPS 22, proceedings of the thirty-sixth Conference on Neural Information Processing Systems 
   extra-links:
-    - type: preprint
-      link: https://pure.mpg.de/rest/items/item_3473164/component/file_3473165/content
+  - type: preprint
+    link: https://pure.mpg.de/rest/items/item_3473164/component/file_3473165/content
+  - type: source
+    text: Code
+    link: https://github.com/boschresearch/Robust_GMM_DAE
   image: images/neurips_22.png
   tags:
-    - robustness
-    - VAE
+  - Generative Models
+  - Autoencoders
+  - Adversarial Robustness
   group: AAA
 
 
 #-------------------------
 # 2023
 #-------------------------
+  description: Better robustness does not have to come at the expense of generated-image quality. We regularize deterministic autoencoders using perturbed examples and latent-distribution comparisons to improve both representation stability and synthesis fidelity.
+  teaser: images/publications/023-trading-off-image-quality-for-robustness-is-not-necessary-with-regularized-deterministic-autoencoders.webp
+  teaser-alt: Latent-space distributions under adversarial perturbations and regularization.
+  teaser-source: https://pure.mpg.de/rest/items/item_3473164/component/file_3473165/content#page=5
+
 - title: Neural Architecture Design and Robustness - A Dataset
   date: 2023-6-1
   authors: 
@@ -459,13 +623,22 @@
   link: https://steffen-jung.github.io/robustness/
   publisher: Proceedings of the Tenth International Conference on Learning Representations ( 23)
   extra-links:
-    - type: preprint
-      link: https://steffen-jung.github.io/robustness/
+  - type: preprint
+    link: https://steffen-jung.github.io/robustness/
+  - type: source
+    text: Code
+    link: https://github.com/steffen-jung/robustness-dataset
   image: images/iclr_22.png
   tags:
-    - NAS
-    - robustness
+  - Neural Architecture Search
+  - Adversarial Robustness
+  - Datasets
+  - Benchmarking
   group: AAA
+  description: Architecture design has a measurable impact on robustness, even at similar parameter counts. This dataset evaluates NAS-Bench-201 architectures under attacks and corruptions, enabling repeatable searches for networks that are both accurate and resilient.
+  teaser: images/publications/024-neural-architecture-design-and-robustness-a-dataset.webp
+  teaser-alt: Neural architecture search space and its cell operations.
+  teaser-source: https://arxiv.org/pdf/2306.06712#page=3
 
 - title: Deep diffusion models for seismic processing
   date: 2023-6-1
@@ -478,13 +651,22 @@
   link: https://www.sciencedirect.com/science/article/pii/S009830042300081X
   publisher: Computers and Geosciences
   extra-links:
-    - type: preprint
-      link: https://www.sciencedirect.com/science/article/pii/S009830042300081X
+  - type: preprint
+    link: https://www.sciencedirect.com/science/article/pii/S009830042300081X
+  - type: source
+    text: Code
+    link: https://github.com/dlseis/diffseis
   image: images/cg_journal.png
   tags:
-    - geophysics
+  - Geophysics
+  - Diffusion Models
+  - Image Restoration
+  - Scientific Machine Learning
   group: journal
-
+  description: Can a generative model become a versatile seismic-processing tool? We investigate diffusion models for multiple removal, denoising, and interpolation, comparing their behavior on synthetic and field data with established methods.
+  teaser: images/publications/025-deep-diffusion-models-for-seismic-processing.webp
+  teaser-alt: Graphical representations of latent-variable and diffusion models.
+  teaser-source: https://opus.hs-offenburg.de/frontdoor/deliver/index/docId/8238/file/1-s2.0-S009830042300081X-main.pdf#page=3
 
 - title: An Extended Study of Human-like Behavior under Adversarial Training
   date: 2023-6-1
@@ -495,12 +677,21 @@
   link: https://openaccess.thecvf.com/content/CVPR2023W/AML/papers/Gavrikov_An_Extended_Study_of_Human-Like_Behavior_Under_Adversarial_Training_CVPRW_2023_paper.pdf
   publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW 2023)
   extra-links:
-    - type: preprint
-      link: https://openaccess.thecvf.com/content/CVPR2023W/AML/papers/Gavrikov_An_Extended_Study_of_Human-Like_Behavior_Under_Adversarial_Training_CVPRW_2023_paper.pdf
+  - type: preprint
+    link: https://openaccess.thecvf.com/content/CVPR2023W/AML/papers/Gavrikov_An_Extended_Study_of_Human-Like_Behavior_Under_Adversarial_Training_CVPRW_2023_paper.pdf
+  - type: source
+    text: Code
+    link: https://github.com/paulgavrikov/adversarial_training_vs_humans
   image: images/cvpr_23w.png
   tags:
-    - robustness
+  - Adversarial Robustness
+  - Shape Bias
+  - Human-Aligned Vision
   group: workshop
+  description: Adversarial training can shift image recognition toward the shapes that humans rely on. We examine this effect across architectures and attack settings, using frequency analysis to investigate why more human-like visual preferences emerge.
+  teaser: images/publications/026-an-extended-study-of-human-like-behavior-under-adversarial-training.webp
+  teaser-alt: Images illustrating appearance and shape changes in the robustness evaluation.
+  teaser-source: https://openaccess.thecvf.com/content/CVPR2023W/AML/papers/Gavrikov_An_Extended_Study_of_Human-Like_Behavior_Under_Adversarial_Training_CVPRW_2023_paper.pdf#page=2
 
 - title: Happy People -- Image Synthesis as Black-Box Optimization Problem in the Discrete Latent Space of Deep Generative Models
   date: 2023-6-1
@@ -516,9 +707,15 @@
       link: https://arxiv.org/pdf/2306.06684
   image: images/cvpr_23w.png
   tags:
-    - GAN
+  - Generative Models
+  - Black-Box Optimization
+  - Latent-Space Optimization
   group: workshop
-  
+  description: Explore the edge of a generator's training distribution by optimizing its discrete latent space. Using smiling faces as an illustrative test case, our approach combines tree-based optimization with weighted retraining to produce samples with stronger target attributes.
+  teaser: images/publications/027-happy-people-image-synthesis-as-black-box-optimization-problem-in-the-discrete-latent-space-of-deep-generative.webp
+  teaser-alt: Generated faces with increasingly strong smiles compared with the training examples.
+  teaser-source: https://arxiv.org/pdf/2306.06684#page=1
+
 - title: Fine-Grained Product Classification on Leaflet Advertisements
   date: 2023-6-1
   authors: 
@@ -528,12 +725,22 @@
   link: https://arxiv.org/pdf/2305.03706
   publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW 2023)
   extra-links:
-    - type: preprint
-      link: https://arxiv.org/pdf/2305.03706
+  - type: preprint
+    link: https://arxiv.org/pdf/2305.03706
+  - type: source
+    text: Code
+    link: https://github.com/ladwigd/Leaflet-Product-Classification
   image: images/cvpr_23w.png
   tags:
-    - retail
+  - Retail
+  - Fine-Grained Recognition
+  - Multimodal Learning
+  - Datasets
   group: workshop
+  description: Nearly identical products are hard to distinguish from pictures alone. Our leaflet dataset and multimodal classifier show how combining product imagery with extracted text improves fine-grained retail recognition.
+  teaser: images/publications/028-fine-grained-product-classification-on-leaflet-advertisements.webp
+  teaser-alt: Product crops from retail leaflets grouped across prices and retailers.
+  teaser-source: https://arxiv.org/pdf/2305.03706#page=1
 
 - title: Neural Architecture Design and Robustness -- A Dataset
   date: 2023-6-1
@@ -544,12 +751,22 @@
   link: https://robustart.github.io/short_paper/33.pdf
   publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW 2023)
   extra-links:
-    - type: preprint
-      link: https://robustart.github.io/short_paper/33.pdf
+  - type: preprint
+    link: https://robustart.github.io/short_paper/33.pdf
+  - type: source
+    text: Code
+    link: https://github.com/steffen-jung/robustness-dataset
   image: images/cvpr_23w.png
   tags:
-    - robustness
+  - Neural Architecture Search
+  - Adversarial Robustness
+  - Datasets
+  - Benchmarking
   group: workshop
+  description: What makes one neural architecture more robust than another? This workshop study introduces robustness evaluations across NAS-Bench-201 and demonstrates their use for architecture search, robustness prediction, and analysis of design choices.
+  teaser: images/publications/029-neural-architecture-design-and-robustness-a-dataset.webp
+  teaser-alt: NAS-Bench-201 macro architecture and candidate cell operations.
+  teaser-source: https://robustart.github.io/short_paper/33.pdf#page=1
 
 - title: Intra-Source Style Augmentation for Improved Domain Generalization
   date: 2023-6-1
@@ -561,12 +778,22 @@
   link: https://generative-vision.github.io/workshop-CVPR-23/data/12.pdf
   publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW 2023)
   extra-links:
-    - type: preprint
-      link: https://generative-vision.github.io/workshop-CVPR-23/data/12.pdf
+  - type: preprint
+    link: https://generative-vision.github.io/workshop-CVPR-23/data/12.pdf
+  - type: source
+    text: Code
+    link: https://github.com/boschresearch/ISSA
   image: images/cvpr_23w.png
   tags:
-    - Generative
+  - Domain Generalization
+  - Semantic Segmentation
+  - Data Augmentation
+  - GANs
   group: workshop
+  description: Change an image's style without changing its semantic layout. Intra-source style augmentation uses a masked-noise StyleGAN encoder to diversify training scenes and improve segmentation under unfamiliar weather and appearance conditions.
+  teaser: images/publications/030-intra-source-style-augmentation-for-improved-domain-generalization.webp
+  teaser-alt: Snowy driving scene segmented by the baseline and style-augmented model.
+  teaser-source: https://generative-vision.github.io/workshop-CVPR-23/data/12.pdf#page=1
 
 - title: Assessing Domain Generalization of Semantic Segmenters with Synthetic Data
   date: 2023-6-1
@@ -582,8 +809,12 @@
       link: https://sites.google.com/view/vdu-cvpr23
   image: images/cvpr_23w.png
   tags:
-    - segmentation
+  - Domain Generalization
+  - Semantic Segmentation
+  - Synthetic Data
+  - Deep Learning Evaluation
   group: workshop
+  description: How can synthetic imagery help assess a segmenter's behavior beyond its training domain? This work investigates synthetic data as a tool for evaluating domain generalization in semantic segmentation.
 
 - title: On the Interplay of Convolutional Padding and Adversarial Robustness
   date: 2023-6-1
@@ -593,13 +824,21 @@
   link: https://arxiv.org/pdf/2308.06612
   publisher: Proceedings of the IEEE/CVF International Conference on Computer Vision Workshops (ICCVw 2023)
   extra-links:
-    - type: preprint
-      link: https://arxiv.org/pdf/2308.06612
+  - type: preprint
+    link: https://arxiv.org/pdf/2308.06612
+  - type: source
+    text: Code
+    link: https://github.com/paulgavrikov/padding_robustness
   image: images/ICCVw23.jpg
   tags:
-    - robustness
+  - Adversarial Robustness
+  - CNNs
+  - Signal Processing
   group: workshop
-
+  description: The border of an image can expose a hidden architectural weakness. We analyze how convolutional padding shapes adversarial perturbations and how alternative padding choices affect robustness.
+  teaser: images/publications/032-on-the-interplay-of-convolutional-padding-and-adversarial-robustness.webp
+  teaser-alt: Spatial distribution of adversarial perturbations for different padding methods.
+  teaser-source: https://arxiv.org/pdf/2308.06612#page=1
 
 - title: On the unreasonable vulnerability of transformers for image restoration and an easy fix
   date: 2023-6-1 
@@ -611,13 +850,17 @@
     - Margret Keuper
   link: https://arxiv.org/abs/2307.13856
   publisher: Proceedings of the IEEE/CVF International Conference on Computer Vision Workshops (ICCVw 2023)
-  extra-links:
-     - type: source
-       link: https://arxiv.org/abs/2307.13856
+  extra-links: []
   image: images/ICCVw23.jpg
   tags:
-    - robustness
+  - Image Restoration
+  - Vision Transformers
+  - Adversarial Robustness
   group: workshop
+  description: Strong image-restoration accuracy can conceal severe adversarial vulnerability. We examine restoration transformers and related architectures, then investigate training and design changes that improve their resistance to attacks.
+  teaser: images/publications/033-on-the-unreasonable-vulnerability-of-transformers-for-image-restoration-and-an-easy-fix.webp
+  teaser-alt: Image-restoration outputs corrupted by adversarial attacks.
+  teaser-source: https://arxiv.org/pdf/2307.13856#page=1
 
 - title: An In-Depth Study of U-net for Seismic Data Conditioning - Multiple Removal by Move-Out Discrimination
   date: 2023-6-1
@@ -633,9 +876,15 @@
       link: https://library.seg.org/doi/pdf/10.1190/geo2023-0146.1
   image: images/seg.png
   tags:
-    - Geophysics
-    - CNN
+  - Geophysics
+  - Image Restoration
+  - U-Net
+  - Uncertainty
   group: journal
+  description: Seismic multiple removal can be simplified with a U-Net trained entirely on synthetic data. Alongside field-data experiments, this study examines hyperparameters and uncertainty to make the model's behavior easier to understand and use.
+  teaser: images/publications/034-an-in-depth-study-of-u-net-for-seismic-data-conditioning-multiple-removal-by-move-out-discrimination.webp
+  teaser-alt: U-Net encoder and decoder architecture for seismic multiple removal.
+  teaser-source: https://opus.hs-offenburg.de/frontdoor/deliver/index/docId/8245/file/durall-et-al-2023.pdf#page=4
 
 - title: Improving Native CNN Robustness with Filter Frequency Regularization
   date: 2023-6-1
@@ -647,16 +896,25 @@
   link: https://openreview.net/forum?id=2wecNCpZ7Y
   publisher: Transactions on Machine Learning Research (TMLR)
   extra-links:
-    - type: preprint
-      link: https://openreview.net/forum?id=2wecNCpZ7Y
+  - type: preprint
+    link: https://openreview.net/forum?id=2wecNCpZ7Y
+  - type: source
+    text: Code
+    link: https://github.com/jovitalukasik/filter_freq_reg
   image: https://jmlr.org/tmlr/img/tmlr.jpg
   tags:
-    - Robustness
-    - CNN
+  - Adversarial Robustness
+  - Frequency Analysis
+  - Regularization
+  - CNNs
   group: journal 
 #-------------------------
 # 2024
 #-------------------------
+  description: Encourage robustness directly through the filters a CNN learns. Frequency regularization promotes lower-frequency representations and improves resilience to attacks and distribution shifts without requiring adversarial examples during training.
+  teaser: images/publications/035-improving-native-cnn-robustness-with-filter-frequency-regularization.webp
+  teaser-alt: Frequency distributions in convolution filters and the first convolutional layer.
+  teaser-source: https://pure.mpg.de/rest/items/item_3583280/component/file_3583281/content#page=2
 
 - title: Improving Feature Stability during Upsampling-Spectral Artifacts and the Importance of Spatial Context
   date: 2024-6-1
@@ -672,8 +930,15 @@
       link: https://pure.mpg.de/rest/items/item_3611850_1/component/file_3611851/content
   image: images/eccv24.png
   tags:
-    - Robustness
+  - Image Restoration
+  - Upsampling
+  - Aliasing
+  - Robustness
   group: AAA
+  description: Upsampling must recover fine detail while keeping predictions stable. We investigate spectral artifacts and show why access to a larger spatial context matters for robust, high-quality pixel-wise outputs.
+  teaser: images/publications/036-improving-feature-stability-during-upsampling-spectral-artifacts-and-the-importance-of-spatial-context.webp
+  teaser-alt: Restoration outputs and frequency spectra illustrating upsampling artifacts.
+  teaser-source: https://pure.mpg.de/rest/items/item_3611850_1/component/file_3611851/content#page=2
 
 - title: Fake or JPEG? Revealing Common Biases in Generated Image Detection Datasets
   date: 2024-6-1
@@ -686,12 +951,22 @@
   link: https://arxiv.org/pdf/2403.17608
   publisher: CEGIS Workshop at ECCV 24
   extra-links:
-    - type: preprint
-      link: https://arxiv.org/pdf/2403.17608
+  - type: preprint
+    link: https://arxiv.org/pdf/2403.17608
+  - type: source
+    text: Code
+    link: https://github.com/gendetection/UnbiasedGenImage
   image: images/eccv24w.png
   tags:
-    - DeepFake
+  - Deepfake Detection
+  - Dataset Bias
+  - JPEG Compression
+  - Benchmarking
   group: Workshop
+  description: Is an image detector learning synthetic content, or just JPEG compression? We uncover compression and image-size shortcuts in generation-detection datasets and show how removing them changes robustness and cross-generator evaluation.
+  teaser: images/publications/037-fake-or-jpeg-revealing-common-biases-in-generated-image-detection-datasets.webp
+  teaser-alt: Cross-generator detection results before and after correcting dataset biases.
+  teaser-source: https://arxiv.org/pdf/2403.17608#page=4
 
 - title: Can Visual Language Models Replace  OCR-Based Visual Question Answering Pipelines in Production? A Case Study in Retail
   date: 2024-6-1
@@ -706,8 +981,15 @@
       link: https://arxiv.org/pdf/2408.15626
   image: images/eccv24w.png
   tags:
-    - FoundationModels
+  - Vision-Language Models
+  - Visual Question Answering
+  - OCR
+  - Retail
   group: Workshop
+  description: Can one vision-language model replace a carefully engineered retail extraction pipeline? Our case study finds strong performance on some attributes but substantial gaps on fine-grained product identity and discounts, identifying where production challenges remain.
+  teaser: images/publications/038-can-visual-language-models-replace-ocr-based-visual-question-answering-pipelines-in-production-a-case-study-in.webp
+  teaser-alt: A vision-language model answers a price question about a retail advertisement.
+  teaser-source: https://arxiv.org/pdf/2408.15626#page=1
 
 - title: Top-GAP - Integrating Size Priors in CNNs for more Interpretability, Robustness, and Bias Mitigation
   date: 2024-6-1
@@ -723,9 +1005,15 @@
       link: https://arxiv.org/pdf/2409.04819
   image: images/eccv24w.png
   tags:
-    - Robustness
-  group: Workshop  
-
+  - Explainable AI
+  - CNNs
+  - Robustness
+  - Spurious Correlations
+  group: Workshop
+  description: Top-GAP encourages a classifier to focus on compact, informative image regions. The resulting representations reduce background dependence while improving interpretability, localization, and robustness.
+  teaser: images/publications/039-top-gap-integrating-size-priors-in-cnns-for-more-interpretability-robustness-and-bias-mitigation.webp
+  teaser-alt: Localization maps produced with different spatial size priors.
+  teaser-source: https://arxiv.org/pdf/2409.04819#page=2
 
 - title: Adversarial Supervision Makes Layout-to-Image Diffusion Models Thrive
   date: 2024-6-1
@@ -738,14 +1026,22 @@
   link: https://yumengli007.github.io/ALDM/
   publisher: Proceedings of the Nineth International Conference on Learning Representations ( 24)
   extra-links:
-    - type: preprint
-      link: https://arxiv.org/pdf/2401.08815.pdf
-    - type: source
-      link: https://github.com/boschresearch/ALDM
+  - type: preprint
+    link: https://arxiv.org/pdf/2401.08815.pdf
+  - type: source
+    text: Code
+    link: https://github.com/boschresearch/ALDM
   image: images/iclr_22.png
   tags:
-    - Generative
+  - Diffusion Models
+  - Controllable Generation
+  - Semantic Segmentation
+  - Domain Generalization
   group: AAA
+  description: Generate images that follow a scene layout and remain editable through text. ALDM adds adversarial supervision to diffusion training, improving layout fidelity and making generated scenes useful for segmentation data augmentation.
+  teaser: images/publications/040-adversarial-supervision-makes-layout-to-image-diffusion-models-thrive.webp
+  teaser-alt: Layout-conditioned image generation under different text descriptions and weather conditions.
+  teaser-source: https://arxiv.org/pdf/2401.08815#page=1
 
 - title: Urban Sound Propagation - a Benchmark for 1-Step Generative Modeling of Complex Physical Systems
   date: 2024-6-1
@@ -756,14 +1052,22 @@
   link: https://www.urban-sound-data.org/
   publisher: DMLR Workshop at International Conference on Learning Representations ( 24)
   extra-links:
-    - type: preprint
-      link: https://arxiv.org/abs/2403.10904
-    - type: source
-      link: https://www.urban-sound-data.org/
+  - type: preprint
+    link: https://arxiv.org/abs/2403.10904
+  - type: source
+    text: Code
+    link: https://github.com/urban-sound-data/urban-sound-data
   image: images/iclr_w.png
   tags:
-    - Generative
+  - Scientific Machine Learning
+  - Generative Models
+  - Acoustics
+  - Datasets
   group: Workshop
+  description: Urban sound propagation turns a complex physical process into a concrete test for generative models. This benchmark pairs city layouts with simulated sound maps, revealing where fast learned predictions capture physics and where they fall short.
+  teaser: images/publications/041-urban-sound-propagation-a-benchmark-for-1-step-generative-modeling-of-complex-physical-systems.webp
+  teaser-alt: Urban map processing from satellite imagery to simulated sound propagation.
+  teaser-source: https://arxiv.org/pdf/2403.10904#page=3
 
 - title: Retail-786k - a Large-Scale Dataset for Visual Entity Matching
   date: 2024-6-1
@@ -774,14 +1078,22 @@
   link: https://www.retail-786k.org/
   publisher: DMLR Workshop at International Conference on Learning Representations (ICLR 24)
   extra-links:
-    - type: preprint
-      link: https://arxiv.org/abs/2309.17164
-    - type: source
-      link: https://www.retail-786k.org/
+  - type: preprint
+    link: https://arxiv.org/abs/2309.17164
+  - type: source
+    text: Code
+    link: https://github.com/retail786k/retail786k-dataset
   image: images/iclr_w.png
   tags:
-    - Classification
+  - Retail
+  - Visual Entity Matching
+  - Datasets
+  - Image Retrieval
   group: Workshop
+  description: Recognizing the same product is different from finding products that serve the same purpose. Retail-786k introduces large-scale visual entity matching with real advertisement images, challenging models to transfer product-equivalence concepts to unseen examples.
+  teaser: images/publications/042-retail-786k-a-large-scale-dataset-for-visual-entity-matching.webp
+  teaser-alt: Retail advertisement crops showing visually similar products and their prices.
+  teaser-source: https://arxiv.org/pdf/2309.17164#page=2
 
 - title: Intra- and extra-source exemplar-based style synthesis for improved domain generalization
   date: 2024-6-1
@@ -794,15 +1106,23 @@
   link: https://link.springer.com/article/10.1007/s11263-023-01878-8
   publisher: International Journal of Computer Vision (IJCV 24)
   extra-links:
-    - type: preprint
-      link: ttps://link.springer.com/article/10.1007/s11263-023-01878-8
+  - type: preprint
+    link: ttps://link.springer.com/article/10.1007/s11263-023-01878-8
+  - type: source
+    text: Code
+    link: https://github.com/boschresearch/ISSA
     
   image: images/ijcv.jpeg
   tags:
-    - Generative 
+  - Domain Generalization
+  - Semantic Segmentation
+  - Data Augmentation
+  - GANs
   group: Journal
-
-
+  description: Style synthesis can prepare segmentation models for places and conditions they have never seen. This extended framework mixes content with styles from both training images and external exemplars, and explores stylized validation data for model selection.
+  teaser: images/publications/043-intra-and-extra-source-exemplar-based-style-synthesis-for-improved-domain-generalization.webp
+  teaser-alt: Segmentation of an unfamiliar snowy scene with and without style augmentation.
+  teaser-source: https://link.springer.com/content/pdf/10.1007/s11263-023-01878-8.pdf#page=2
 
 - title: Can Biases in ImageNet Models Explain Generalization?
   date: 2024-6-1 
@@ -812,15 +1132,22 @@
   link: https://arxiv.org/pdf/2404.01509
   publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2024)
   extra-links:
-    - type: preprint
-      link: https://arxiv.org/pdf/2404.01509
-    - type: source
-      link: https://github.com/paulgavrikov/biases_vs_generalization
+  - type: preprint
+    link: https://arxiv.org/pdf/2404.01509
+  - type: source
+    text: Code
+    link: https://github.com/paulgavrikov/biases_vs_generalization
   image: images/cvpr_24.png
   tags:
-    - Generalization
-    - Bias
+  - Deep Learning Evaluation
+  - Generalization
+  - Shape Bias
+  - Frequency Analysis
   group: AAA
+  description: Do familiar visual biases explain why some models generalize better? A controlled study of ImageNet models finds that shape and spectral biases alone cannot reliably predict performance across diverse distribution shifts.
+  teaser: images/publications/044-can-biases-in-imagenet-models-explain-generalization.webp
+  teaser-alt: Visual biases compared against different measures of generalization.
+  teaser-source: https://arxiv.org/pdf/2404.01509#page=1
 
 - title: Ambiguous Annotations - When is a Pedestrian not a Pedestrian?
   date: 2024-6-1 
@@ -836,8 +1163,15 @@
       link: https://arxiv.org/pdf/2405.08794
   image: images/cvpr_24w.png
   tags:
-    - Generalization
+  - Dataset Quality
+  - Object Detection
+  - Autonomous Driving
+  - Annotation
   group: Workshop
+  description: Sometimes a difficult label is ambiguous rather than simply wrong. By studying pedestrian annotations, we show how identifying such cases can improve training efficiency and detection performance while preserving dataset representativeness.
+  teaser: images/publications/045-ambiguous-annotations-when-is-a-pedestrian-not-a-pedestrian.webp
+  teaser-alt: Pedestrian examples with low, medium, and high annotation ambiguity.
+  teaser-source: https://arxiv.org/pdf/2405.08794#page=3
 
 - title: Are Vision Language Models Texture or Shape Biased and Can We Steer Them?
   date: 2024-6-1 
@@ -853,29 +1187,48 @@
   link: https://github.com/EliSchwartz/MMFM24/blob/main/52.pdf
   publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRw 2024)
   extra-links:
-    - type: preprint
-      link: https://github.com/EliSchwartz/MMFM24/blob/main/52.pdf
+  - type: preprint
+    link: https://github.com/EliSchwartz/MMFM24/blob/main/52.pdf
+  - type: source
+    text: Code
+    link: https://github.com/paulgavrikov/vlm_shapebias
   image: images/cvpr_24w.png
   tags:
-    - Generalization
+  - Vision-Language Models
+  - Shape Bias
+  - Prompting
+  - Human-Aligned Vision
   group: Workshop
-  
+  description: Language can change which visual cues a multimodal model follows. We measure texture and shape preferences across vision-language models and explore how prompting steers their decisions.
+  teaser: images/publications/046-are-vision-language-models-texture-or-shape-biased-and-can-we-steer-them.webp
+  teaser-alt: Texture and shape preferences under visual and language steering.
+  teaser-source: https://raw.githubusercontent.com/EliSchwartz/MMFM24/main/52.pdf#page=1
+
 - title: As large as it gets-Studying Infinitely Large Convolutions via Neural Implicit Frequency Filters
   date: 2024-6-1
   authors: 
     - Julia Grabinski
     - Janis Keuper
     - Margret Keuper
-  link: https://pure.mpg.de/rest/items/item_3592449/component/file_3592451/content
+  link: https://arxiv.org/abs/2307.10001
   publisher: Transactions on Machine Learning Research (TMLR)
   extra-links:
-    - type: preprint
-      link: https://pure.mpg.de/rest/items/item_3592449/component/file_3592451/content
+  - type: preprint
+    link: https://arxiv.org/abs/2307.10001
+  - type: source
+    text: Code
+    link: https://github.com/GeJulia/NIFF
   image: images/TMLR_J2C.png
   tags:
-    - Robustness
-    - CNN
+  - CNNs
+  - Implicit Neural Representations
+  - Frequency Analysis
+  - Efficient Deep Learning
   group: journal
+  description: How large would convolution filters grow if their size were no longer expensive? Neural Implicit Frequency Filters make this question testable and reveal that many learned filters remain spatially compact even when much larger ones are available.
+  teaser: images/publications/047-as-large-as-it-gets-studying-infinitely-large-convolutions-via-neural-implicit-frequency-filters.webp
+  teaser-alt: Learned convolution kernels and their spatial extent.
+  teaser-source: https://arxiv.org/pdf/2307.10001#page=2
 
 - title: CosPGD - an efficient white-box adversarial attack for pixel-wise prediction tasks 
   date: 2024-6-1
@@ -886,12 +1239,22 @@
   link: https://openreview.net/forum?id=CXZqGJonmt
   publisher: ICML 24
   extra-links:
-    - type: preprint
-      link: https://openreview.net/forum?id=CXZqGJonmt
+  - type: preprint
+    link: https://openreview.net/forum?id=CXZqGJonmt
+  - type: source
+    text: Code
+    link: https://github.com/shashankskagnihotri/cospgd
   image: images/ICML.png
   tags:
-    - robustness
+  - Adversarial Robustness
+  - Optical Flow
+  - Semantic Segmentation
+  - Image Restoration
   group: AAA
+  description: CosPGD provides a common adversarial test for pixel-wise prediction tasks. Its smooth, prediction-alignment weighting produces effective attacks across both classification and regression outputs, from segmentation to optical flow.
+  teaser: images/publications/048-cospgd-an-efficient-white-box-adversarial-attack-for-pixel-wise-prediction-tasks.webp
+  teaser-alt: Optical-flow predictions before and after PGD and CosPGD attacks.
+  teaser-source: https://arxiv.org/pdf/2302.02213#page=1
 
 - title: MultiMax - Sparse and Multi-Modal Attention Learning  
   date: 2024-6-1
@@ -902,12 +1265,22 @@
   link: https://openreview.net/forum?id=IC9UZ8lm25
   publisher: ICML 24
   extra-links:
-    - type: preprint
-      link: https://openreview.net/forum?id=IC9UZ8lm25
+  - type: preprint
+    link: https://openreview.net/forum?id=IC9UZ8lm25
+  - type: source
+    text: Code
+    link: https://github.com/ZhouYuxuanYX/MultiMax
   image: images/ICML.png
   tags:
-    - MultiModal
+  - Attention
+  - Efficient Deep Learning
+  - Language Modeling
+  - Image Classification
   group: AAA
+  description: Attention should suppress irrelevant entries without losing several useful alternatives. MultiMax addresses this balance with an adaptive normalization function that preserves multiple modes while encouraging sparsity.
+  teaser: images/publications/049-multimax-sparse-and-multi-modal-attention-learning.webp
+  teaser-alt: Attention distributions illustrating sparsity and preservation of multiple modes.
+  teaser-source: https://arxiv.org/pdf/2406.01189#page=2
 
 - title: Implicit Representations for Constrained Image Segmentation
   date: 2024-6-1
@@ -921,12 +1294,21 @@
   link: https://openreview.net/forum?id=IaV6AgrTUp
   publisher: ICML 24
   extra-links:
-    - type: preprint
-      link: https://openreview.net/forum?id=IaV6AgrTUp
+  - type: preprint
+    link: https://openreview.net/forum?id=IaV6AgrTUp
+  - type: source
+    text: Code
+    link: https://github.com/jp-schneider/awesome
   image: images/ICML.png
   tags:
-    - robustness
+  - Semantic Segmentation
+  - Implicit Neural Representations
+  - Shape Constraints
   group: AAA
+  description: Build geometric knowledge directly into an image segmentation. Carefully parameterized implicit representations can enforce properties such as convexity, symmetry, and connectedness, helping resolve difficult or occluded boundaries.
+  teaser: images/publications/050-implicit-representations-for-constrained-image-segmentation.webp
+  teaser-alt: Image segmentations with convexity, symmetry, star-shape, and connectedness constraints.
+  teaser-source: https://raw.githubusercontent.com/mlresearch/v235/main/assets/schneider24a/schneider24a.pdf#page=3
 
 - title: Learning the essential in less than 2k additional weights - a simple approach to improve image classification stability under corruptions
   date: 2024-6-1
@@ -943,10 +1325,16 @@
       link: https://openreview.net/pdf?id=i2SuGWtIIm
   image: https://jmlr.org/tmlr/img/tmlr.jpg
   tags:
-    - Robustness
-    - CNN
+  - Robustness
+  - Image Classification
+  - Signal Processing
+  - Efficient Deep Learning
   group: journal
-  
+  description: A single preprocessing layer can recover information that remains useful under image corruptions. With fewer than 2,000 additional weights, this approach learns a simple linear transformation that improves classification stability at low cost.
+  teaser: images/publications/051-learning-the-essential-in-less-than-2k-additional-weights-a-simple-approach-to-improve-image-classification-st.webp
+  teaser-alt: Classification accuracy across optical corruptions with and without the preprocessing layer.
+  teaser-source: https://pure.mpg.de/rest/items/item_3625007/component/file_3625008/content#page=2
+
 - title: Reliable Evaluation of Attribution Maps in CNNs - A Perturbation-Based Approach
   date: 2024-6-1
   authors: 
@@ -962,8 +1350,14 @@
     
   image: images/ijcv.jpeg
   tags:
-    - Robustness 
+  - Explainable AI
+  - Attribution Maps
+  - Deep Learning Evaluation
   group: Journal
+  description: Explanations need reliable evaluation, too. We replace disruptive pixel deletion with adversarial perturbations to assess attribution maps more consistently and reduce the distribution shifts that can distort their rankings.
+  teaser: images/publications/052-reliable-evaluation-of-attribution-maps-in-cnns-a-perturbation-based-approach.webp
+  teaser-alt: Attribution maps with different insertion and deletion evaluation scores.
+  teaser-source: https://link.springer.com/content/pdf/10.1007/s11263-024-02282-6.pdf#page=2
 
 - title: How Do Training Methods Influence the Utilization of Vision Models?
   date: 2024-6-1
@@ -975,12 +1369,22 @@
   link: https://arxiv.org/pdf/2410.14470?
   publisher: NeurIPS 24 Workshop on InterpretableAI
   extra-links:
-    - type: preprint
-      link: https://arxiv.org/pdf/2410.14470?
+  - type: preprint
+    link: https://arxiv.org/pdf/2410.14470?
+  - type: source
+    text: Code
+    link: https://github.com/paulgavrikov/layer_criticality
   image: images/neurips_22_w.png
   tags:
-    - Robustness
-  group: workshop 
+  - Representation Learning
+  - Training Dynamics
+  - CNNs
+  - Self-Supervised Learning
+  group: workshop
+  description: Which layers a network actually needs depends on how it was trained. By resetting layers across differently trained ImageNet models, we reveal substantial changes in where decision-critical information resides.
+  teaser: images/publications/053-how-do-training-methods-influence-the-utilization-of-vision-models.webp
+  teaser-alt: Layer criticality across differently trained vision models.
+  teaser-source: https://arxiv.org/pdf/2410.14470#page=2
 
 - title: An evaluation of zero-cost proxies-from neural architecture performance prediction to model robustness
   date: 2024-6-1
@@ -991,17 +1395,26 @@
   link: https://link.springer.com/article/10.1007/s11263-024-02265-7
   publisher: International Journal of Computer Vision (IJCV 24)
   extra-links:
-    - type: preprint
-      link: https://link.springer.com/article/10.1007/s11263-024-02265-7
+  - type: preprint
+    link: https://link.springer.com/article/10.1007/s11263-024-02265-7
+  - type: source
+    text: Code
+    link: https://github.com/jovitalukasik/zcp_eval
   image: images/ijcv.jpeg
   tags:
-    - Robustness
-    - NAS
+  - Neural Architecture Search
+  - Zero-Cost Proxies
+  - Robustness
+  - Benchmarking
   group: journal
 
 #-------------------------
 # 2025
 #-------------------------
+  description: Can an untrained network reveal how robust it will become? This evaluation finds that robustness prediction is harder than clean-accuracy prediction and benefits from combining several zero-cost architecture proxies.
+  teaser: images/publications/054-an-evaluation-of-zero-cost-proxies-from-neural-architecture-performance-prediction-to-model-robustness.webp
+  teaser-alt: Correlations between zero-cost proxies and architecture accuracies.
+  teaser-source: https://link.springer.com/content/pdf/10.1007/s11263-024-02265-7.pdf#page=5
 
 - title: I Spy With My Little Eye A Minimum Cost Multicut Investigation of Dataset Frames
   date: 2025-6-1
@@ -1013,12 +1426,21 @@
   link: https://arxiv.org/pdf/2412.01296
   publisher: WACV 25
   extra-links:
-    - type: preprint
-      link: https://arxiv.org/pdf/2412.01296
+  - type: preprint
+    link: https://arxiv.org/pdf/2412.01296
+  - type: source
+    text: Code
+    link: https://github.com/KathPra/MP4VisualFrameDetection
   image: images/WACV25.jpg
   tags:
-    - Multicut
+  - Graph Clustering
+  - Explainable AI
+  - Computational Social Science
   group: AAA
+  description: Discover recurring visual themes without fixing the number of clusters beforehand. A minimum-cost multicut approach groups images for visual framing analysis and shows how embedding choices expose different levels of thematic detail.
+  teaser: images/publications/055-i-spy-with-my-little-eye-a-minimum-cost-multicut-investigation-of-dataset-frames.webp
+  teaser-alt: Mapping pairs of image embeddings to clustering decisions.
+  teaser-source: https://arxiv.org/pdf/2412.01296#page=3
 
 - title: FAIR-TAT - Improving Model Fairness Using Targeted Adversarial Training
   date: 2025-6-1
@@ -1029,13 +1451,22 @@
   link: https://arxiv.org/pdf/2410.23142
   publisher: WACV 25
   extra-links:
-    - type: preprint
-      link: https://arxiv.org/pdf/2410.23142
+  - type: preprint
+    link: https://arxiv.org/pdf/2410.23142
+  - type: source
+    text: Code
+    link: https://github.com/TejaswiniMedi/FAIR-TAT
   image: images/WACV25.jpg
   tags:
-    - Robustness
+  - Adversarial Robustness
+  - Fairness
+  - Adversarial Training
   group: AAA
-  
+  description: Average robustness can hide large differences between classes. FAIR-TAT uses targeted adversarial training to improve the balance of class-wise performance and explore fairer trade-offs on clean and perturbed inputs.
+  teaser: images/publications/056-fair-tat-improving-model-fairness-using-targeted-adversarial-training.webp
+  teaser-alt: Class-wise confusion scores for several image-classification architectures.
+  teaser-source: https://arxiv.org/pdf/2410.23142#page=4
+
 - title: VSTAR Generative Temporal Nursing for Longer Dynamic Video Synthesis
   date: 2025-6-1
   authors: 
@@ -1047,14 +1478,21 @@
   link: https://yumengli007.github.io/VSTAR/
   publisher: Proceedings of the Nineth International Conference on Learning Representations (ICLR 25)
   extra-links:
-    - type: preprint
-      link: https://arxiv.org/pdf/2403.13501.pdf
-    - type: source
-      link: https://yumengli007.github.io/VSTAR/
+  - type: preprint
+    link: https://arxiv.org/pdf/2403.13501.pdf
+  - type: source
+    text: Code
+    link: https://github.com/boschresearch/VSTAR
   image: images/iclr_22.png
   tags:
-    - Generative
+  - Video Generation
+  - Diffusion Models
+  - Controllable Generation
   group: AAA
+  description: Longer generated videos need meaningful change over time. VSTAR combines a sequence of text prompts with temporal-attention regularization to guide pretrained video models toward more dynamic, evolving scenes.
+  teaser: images/publications/057-vstar-generative-temporal-nursing-for-longer-dynamic-video-synthesis.webp
+  teaser-alt: Generated video frames comparing temporal evolution with and without VSTAR.
+  teaser-source: https://arxiv.org/pdf/2403.13501#page=2
 
 - title: Can we talk models into seeing the world differently?
   date: 2025-6-1
@@ -1070,14 +1508,22 @@
   link: https://tinyurl.com/bdnmxph9
   publisher: Proceedings of the Nineth International Conference on Learning Representations (ICLR 25)
   extra-links:
-    - type: preprint
-      link: https://tinyurl.com/bdnmxph9
+  - type: preprint
+    link: https://tinyurl.com/bdnmxph9
+  - type: source
+    text: Code
+    link: https://github.com/paulgavrikov/vlm_shapebias
   image: images/iclr_22.png
   tags:
-    - Generative
-    - LLM
-    - Generalization
+  - Vision-Language Models
+  - Shape Bias
+  - Prompting
+  - Human-Aligned Vision
   group: AAA
+  description: Can instructions change how a model sees an object? We study texture and shape preferences in vision-language models, revealing both the influence of multimodal training and the limits of steering perception with language.
+  teaser: images/publications/058-can-we-talk-models-into-seeing-the-world-differently.webp
+  teaser-alt: Vision-language model preferences under texture and shape steering.
+  teaser-source: https://arxiv.org/pdf/2403.09193#page=1
 
 - title: Towards deep learning for seismic demultiple
   date: 2025-6-1
@@ -1094,9 +1540,15 @@
       link: https://onlinelibrary.wiley.com/doi/full/10.1111/1365-2478.13672
   image: images/gpp_journal.png
   tags:
-    - Geophysics
-    - CNN
+  - Geophysics
+  - Image Restoration
+  - U-Net
+  - Synthetic Data
   group: AAA
+  description: Train on simulated seismic data, then remove unwanted multiples in field recordings. This study compares training objectives and shows the value of predicting multiples before subtracting them, including under noisy conditions.
+  teaser: images/publications/059-towards-deep-learning-for-seismic-demultiple.webp
+  teaser-alt: Synthetic seismic training-data generation from wavelets and reflectivity to mixed traces.
+  teaser-source: https://opus.hs-offenburg.de/frontdoor/deliver/index/docId/10963/file/GPR_GPR13672.pdf#page=5
 
 - title: DispBench - Benchmarking Disparity Estimation to Synthetic Corruptions
   date: 2025-6-1 
@@ -1109,12 +1561,22 @@
   link: https://openreview.net/forum?id=yIEInigSp9
   publisher: Synthetic Data for Computer Vision Workshop@ CVPR 2025
   extra-links:
-    - type: preprint
-      link: https://openreview.net/forum?id=yIEInigSp9
+  - type: preprint
+    link: https://openreview.net/forum?id=yIEInigSp9
+  - type: source
+    text: Code
+    link: https://github.com/shashankskagnihotri/DispBench
   image: images/cvpr25w.jpg
   tags:
-    - Robustness
+  - Stereo Vision
+  - Robustness
+  - Benchmarking
+  - Adversarial Robustness
   group: Workshop
+  description: Accurate stereo matching is only part of dependable depth perception. DispBench systematically evaluates disparity models under adversarial attacks and image corruptions, making reliability and generalization easier to compare.
+  teaser: images/publications/060-dispbench-benchmarking-disparity-estimation-to-synthetic-corruptions.webp
+  teaser-alt: Disparity-estimation error across increasing corruption severity.
+  teaser-source: https://arxiv.org/pdf/2505.05091#page=1
 
 - title: Corner Cases - How Size and Position of Objects Challenge ImageNet-Trained Models
   date: 2025-6-1 
@@ -1125,12 +1587,22 @@
   link: https://openreview.net/forum?id=B6l94JAyKr
   publisher: Synthetic Data for Computer Vision Workshop@ CVPR 2025
   extra-links:
-    - type: preprint
-      link: https://openreview.net/forum?id=B6l94JAyKr
+  - type: preprint
+    link: https://openreview.net/forum?id=B6l94JAyKr
+  - type: source
+    text: Code
+    link: https://github.com/Mishalfatima/Corner_Cases
   image: images/cvpr25w.jpg
   tags:
-    - Robustness
+  - Dataset Bias
+  - Spurious Correlations
+  - Image Classification
+  - Benchmarking
   group: Workshop
+  description: Move an object away from the center or make it smaller, and a classifier may lean more heavily on its background. Hard-Spurious-ImageNet exposes these interactions and tests whether existing bias-mitigation methods cope with them.
+  teaser: images/publications/061-corner-cases-how-size-and-position-of-objects-challenge-imagenet-trained-models.webp
+  teaser-alt: Object localization examples under changes in position and background.
+  teaser-source: https://arxiv.org/pdf/2505.03569#page=2
 
 - title: Are Synthetic Corruptions A Reliable Proxy For Real-World Corruptions?
   date: 2025-6-1 
@@ -1142,12 +1614,22 @@
   link: https://openreview.net/forum?id=mPqVEApjIw
   publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRw 2025)
   extra-links:
-    - type: preprint
-      link: https://openreview.net/forum?id=mPqVEApjIw
+  - type: preprint
+    link: https://openreview.net/forum?id=mPqVEApjIw
+  - type: source
+    text: Code
+    link: https://github.com/shashankskagnihotri/benchmarking_robustness/tree/segmentation_david/semantic_segmentation
   image: images/cvpr25w.jpg
   tags:
-    - Robustness
+  - Robustness
+  - Semantic Segmentation
+  - Synthetic Data
+  - Benchmarking
   group: Workshop
+  description: Do artificial corruptions tell us how models will behave in real adverse conditions? This large segmentation study finds useful aggregate correlations while showing why individual corruption types still need careful interpretation.
+  teaser: images/publications/062-are-synthetic-corruptions-a-reliable-proxy-for-real-world-corruptions.webp
+  teaser-alt: Semantic segmentation under matched synthetic and real adverse conditions.
+  teaser-source: https://arxiv.org/pdf/2505.04835#page=1
 
 - title: Data-Eﬃcient Visual Concept Bottleneck Models
   date: 2025-6-1 
@@ -1160,12 +1642,21 @@
   link: https://arxiv.org/abs/2412.11576
   publisher:  4th Explainable AI for Computer Vision (XAI4CV) Workshop @ CVPR 2025
   extra-links:
-    - type: preprint
-      link: https://arxiv.org/abs/2412.11576
+  - type: preprint
+    link: https://arxiv.org/abs/2412.11576
+  - type: source
+    text: Code
+    link: https://github.com/KathPra/DCBM
   image: images/cvpr25w.jpg
   tags:
-    - XAI
+  - Explainable AI
+  - Concept Bottleneck Models
+  - Few-Shot Learning
   group: Workshop
+  description: Interpretable classifiers should not need enormous concept collections. Data-efficient visual concept bottlenecks derive concepts from image regions, supporting fine-grained recognition with concepts that can be localized in new images.
+  teaser: images/publications/063-data-efficient-visual-concept-bottleneck-models.webp
+  teaser-alt: Visual concepts extracted from training-image regions and used for an interpretable prediction.
+  teaser-source: https://arxiv.org/pdf/2412.11576#page=1
 
 - title:  3D-WAG - Wavelet-Guided Autoregressive Generation for 3D Shapes
   date: 2025-6-1 
@@ -1182,8 +1673,15 @@
       link: https://arxiv.org/abs/2411.19037
   image: images/cvpr25w.jpg
   tags:
-    - Generative
+  - 3D Generation
+  - Autoregressive Models
+  - Wavelets
+  - Generative Models
   group: Workshop
+  description: Generate detailed 3D shapes through compact, multiscale wavelet representations. 3D-WAG predicts progressively finer token maps, reducing the long sequences that make conventional autoregressive 3D generation expensive.
+  teaser: images/publications/064-3d-wag-wavelet-guided-autoregressive-generation-for-3d-shapes.webp
+  teaser-alt: Examples of generated 3D shapes spanning furniture, vehicles, and clothing.
+  teaser-source: https://arxiv.org/pdf/2411.19037#page=2
 
 - title: A Visual RAG Pipeline for Few-Shot Fine-Grained Product Classification
   date: 2025-6-1 
@@ -1193,13 +1691,22 @@
   link: https://arxiv.org/pdf/2504.11838?
   publisher: Fine-Grained Visual Categorization Workshop at CVPR 2025
   extra-links:
-    - type: preprint
-      link: https://arxiv.org/pdf/2504.11838?
+  - type: preprint
+    link: https://arxiv.org/pdf/2504.11838?
+  - type: source
+    text: Code
+    link: https://huggingface.co/datasets/blamm/retail_visual_rag_pipeline/tree/main
   image: images/cvpr25w.jpg
   tags:
-    - RAG
-    - Fine-Grained
+  - Retrieval-Augmented Generation
+  - Vision-Language Models
+  - Fine-Grained Recognition
+  - Retail
   group: Workshop
+  description: Add new retail products without retraining the classifier. Our visual RAG pipeline retrieves a few relevant examples to guide a vision-language model in predicting product identity, price, and promotion details.
+  teaser: images/publications/065-a-visual-rag-pipeline-for-few-shot-fine-grained-product-classification.webp
+  teaser-alt: Visual retrieval-augmented generation pipeline for structured retail information.
+  teaser-source: https://arxiv.org/pdf/2504.11838#page=2
 
 - title: PhysicsGen - Can Generative Models Learn from Images to Predict Complex Physical Relations?
   date: 2025-6-1 
@@ -1210,17 +1717,24 @@
   link: https://arxiv.org/abs/2503.05333
   publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2025)
   extra-links:
-    - type: preprint
-      link: https://arxiv.org/abs/2503.05333
-    - type: source
-      link: http://www.physics-gen.org/
-    - type: youtube
-      link: watch?v=GbRoFIk-9Xc
+  - type: preprint
+    link: https://arxiv.org/abs/2503.05333
+  - type: youtube
+    link: watch?v=GbRoFIk-9Xc
+  - type: source
+    text: Code
+    link: https://github.com/physicsgen/physicsgen
   image: images/cvpr25.jpg
   tags:
-    - Generative
-    - Physics
+  - Scientific Machine Learning
+  - Generative Models
+  - Physics Simulation
+  - Datasets
   group: AAA
+  description: Fast predictions are not enough if a learned simulator gets the physics wrong. PhysicsGen benchmarks generative models on three image-based simulation tasks, making both their speed potential and physical limitations visible.
+  teaser: images/publications/066-physicsgen-can-generative-models-learn-from-images-to-predict-complex-physical-relations.webp
+  teaser-alt: Physical simulations, image-pair prediction, and physics-based evaluation in PhysicsGen.
+  teaser-source: https://arxiv.org/pdf/2503.05333#page=1
 
 - title: DCBM - Data-Efficient Visual Concept Bottleneck Models 
   date: 2025-6-1
@@ -1233,12 +1747,21 @@
   link: https://arxiv.org/pdf/2412.11576
   publisher: ICML 25
   extra-links:
-    - type: preprint
-      link: https://arxiv.org/pdf/2412.11576
+  - type: preprint
+    link: https://arxiv.org/pdf/2412.11576
+  - type: source
+    text: Code
+    link: https://github.com/KathPra/DCBM
   image: images/ICML.png
   tags:
-    - XAI
+  - Explainable AI
+  - Concept Bottleneck Models
+  - Few-Shot Learning
   group: AAA
+  description: DCBM builds interpretable classifiers from dataset-specific visual concepts. Foundation-model region extraction makes efficient use of limited examples, while localized concepts help explain predictions in fine-grained and unfamiliar domains.
+  teaser: images/publications/067-dcbm-data-efficient-visual-concept-bottleneck-models.webp
+  teaser-alt: Visual concepts extracted from training-image regions and used for an interpretable prediction.
+  teaser-source: https://arxiv.org/pdf/2412.11576#page=1
 
 - title: Balancing Diversity and Risk in LLM Sampling - How to Select Your Method and Parameter for Open-Ended Text Generation 
   date: 2025-6-1
@@ -1249,12 +1772,22 @@
   link: https://openreview.net/forum?id=7bwwDHoDU4
   publisher: ACL 25
   extra-links:
-    - type: preprint
-      link: https://openreview.net/forum?id=7bwwDHoDU4
+  - type: preprint
+    link: https://openreview.net/forum?id=7bwwDHoDU4
+  - type: source
+    text: Code
+    link: https://github.com/ZhouYuxuanYX/Benchmarking-and-Guiding-Adaptive-Sampling-Decoding-for-LLMs
   image: images/ACL.jpg
   tags:
-    - LLM
+  - Large Language Models
+  - Text Generation
+  - Sampling
+  - Deep Learning Evaluation
   group: AAA
+  description: Choosing a text-sampling method means balancing variety against unreliable continuations. This framework evaluates that trade-off at individual decoding steps and offers practical guidance for selecting truncation methods and parameters.
+  teaser: images/publications/068-balancing-diversity-and-risk-in-llm-sampling-how-to-select-your-method-and-parameter-for-open-ended-text-gener.webp
+  teaser-alt: Sentence prefixes illustrating why valid next-token choices depend on context.
+  teaser-source: https://arxiv.org/pdf/2408.13586#page=2
 
 - title: FlowBench - Benchmarking Optical Flow Estimation Methods for Reliability and Generalization
   date: 2025-6-1
@@ -1269,17 +1802,24 @@
   link: https://openreview.net/forum?id=Kh4bj6YDNm
   publisher: Transactions on Machine Learning Research (TMLR)
   extra-links:
-    - type: preprint
-      link: https://openreview.net/forum?id=Kh4bj6YDNm
-    - type: source
-      link: https://github.com/shashankskagnihotri/FlowBench
-    - type: youtube
-      link: watch?v=_AUKi_48vmc
+  - type: preprint
+    link: https://openreview.net/forum?id=Kh4bj6YDNm
+  - type: youtube
+    link: watch?v=_AUKi_48vmc
+  - type: source
+    text: Code
+    link: https://github.com/shashankskagnihotri/FlowBench
   image: https://jmlr.org/tmlr/img/tmlr.jpg
   tags:
-    - Robustness
-    - Optical Flow
-  group: journal 
+  - Optical Flow
+  - Robustness
+  - Benchmarking
+  - Adversarial Robustness
+  group: journal
+  description: FlowBench brings systematic robustness testing to optical-flow estimation. Its shared evaluation tools compare models under attacks and distribution shifts, helping researchers assess reliability beyond clean benchmark accuracy.
+  teaser: images/publications/069-flowbench-benchmarking-optical-flow-estimation-methods-for-reliability-and-generalization.webp
+  teaser-alt: Optical-flow accuracy, reliability, and generalization compared across model release dates.
+  teaser-source: https://pure.mpg.de/rest/items/item_3673945/component/file_3673946/content#page=2
 
 - title: Smart Eyes for Silent Threats - VLMs and In-Context Learning for THz Imaging
   date: 2025-6-1
@@ -1290,12 +1830,22 @@
   link: https://arxiv.org/pdf/2507.15576?
   publisher:  Proceedings of the IEEE/CVF International Conference on Computer Vision Workshops (ICCVw 2025)
   extra-links:
-    - type: preprint
-      link: https://arxiv.org/pdf/2507.15576?
+  - type: preprint
+    link: https://arxiv.org/pdf/2507.15576?
+  - type: source
+    text: Code
+    link: https://github.com/Nicolas-Poggi/Project_THz_Classification
   image: images/ICCV-2025w.png
   tags:
-    - applications
+  - Vision-Language Models
+  - In-Context Learning
+  - Terahertz Imaging
+  - Few-Shot Learning
   group: Workshop
+  description: Specialist imaging tasks often have too few labels for conventional training. We adapt vision-language models to terahertz imagery through modality-aware prompts and in-context examples, exploring classification and interpretation without fine-tuning.
+  teaser: images/publications/070-smart-eyes-for-silent-threats-vlms-and-in-context-learning-for-thz-imaging.webp
+  teaser-alt: Amplitude and phase images of a terahertz sample.
+  teaser-source: https://arxiv.org/pdf/2507.15576#page=2
 
 - title: Missing Fine Details in Images - Last Seen in High Frequencies
   date: 2025-6-1
@@ -1311,8 +1861,15 @@
       link: https://arxiv.org/pdf/2509.05441?
   image: images/ICCV-2025w.png
   tags:
-    - robustness
+  - Generative Models
+  - Autoencoders
+  - Frequency Analysis
+  - Wavelets
   group: Workshop
+  description: Fine textures can disappear when image tokenizers favor low-frequency structure. This study diagnoses that imbalance and explores separate optimization of frequency bands to preserve sharper details in reconstructed images.
+  teaser: images/publications/071-missing-fine-details-in-images-last-seen-in-high-frequencies.webp
+  teaser-alt: Fine-detail reconstructions comparing input images, a baseline tokenizer, and the proposed method.
+  teaser-source: https://arxiv.org/pdf/2509.05441v1#page=2
 
 - title: Vision At Night - Exploring Biologically Inspired Preprocessing For Improved Robustness Via Color And Contrast Transformations
   date: 2025-6-1
@@ -1329,9 +1886,16 @@
       link: https://arxiv.org/pdf/2509.24863
   image: images/ICCV-2025w.png
   tags:
-    - robustness
+  - Robustness
+  - Semantic Segmentation
+  - Biologically Inspired Vision
+  - Image Preprocessing
   group: Workshop
-  
+  description: A different input representation can help vision models cope with darkness. Inspired by retinal processing, fixed color and contrast transformations emphasize structural cues and improve segmentation under difficult lighting.
+  teaser: images/publications/072-vision-at-night-exploring-biologically-inspired-preprocessing-for-improved-robustness-via-color-and-contrast-t.webp
+  teaser-alt: Nighttime segmentation using alternative color and contrast representations.
+  teaser-source: https://arxiv.org/pdf/2509.24863#page=1
+
 - title: TikZero - Zero-Shot Text-Guided Graphics Program Synthesis
   date: 2025-6-1
   authors: 
@@ -1346,12 +1910,22 @@
   link: https://arxiv.org/abs/2503.11509
   publisher:  Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV 2025)
   extra-links:
-    - type: preprint
-      link: https://arxiv.org/abs/2503.11509
+  - type: preprint
+    link: https://arxiv.org/abs/2503.11509
+  - type: source
+    text: Code
+    link: https://github.com/potamides/DeTikZify
   image: images/ICCV-2025.png
   tags:
-    - generative
+  - Program Synthesis
+  - Generative Models
+  - Scientific Graphics
+  - Multimodal Learning
   group: AAA
+  description: Turn a caption into editable graphics code without requiring aligned caption-program pairs for training. TikZero uses image representations as a bridge between text understanding and graphics-program synthesis, enabling precise, reusable figures.
+  teaser: images/publications/073-tikzero-zero-shot-text-guided-graphics-program-synthesis.webp
+  teaser-alt: Scientific graphics synthesized as editable programs from text descriptions.
+  teaser-source: https://arxiv.org/pdf/2503.11509#page=1
 
 - title: AIM - Amending Inherent Interpretability via Self-Supervised Masking
   date: 2025-6-1
@@ -1367,8 +1941,15 @@
       link: https://arxiv.org/abs/2508.11502
   image: images/ICCV-2025.png
   tags:
-    - interpretability
+  - Explainable AI
+  - Self-Supervised Learning
+  - Spurious Correlations
+  - Image Classification
   group: AAA
+  description: AIM encourages models to rely on meaningful object features through self-supervised masking. It improves inherent interpretability alongside classification performance without requiring extra region annotations.
+  teaser: images/publications/074-aim-amending-inherent-interpretability-via-self-supervised-masking.webp
+  teaser-alt: Attribution maps showing where different image classifiers focus.
+  teaser-source: https://arxiv.org/pdf/2508.11502#page=1
 
 - title: MaxSup - Overcoming Representation Collapse in Label Smoothing
   date: 2025-6-1
@@ -1383,12 +1964,21 @@
   link: https://arxiv.org/pdf/2502.15798
   publisher:  NeurIPS 25, proceedings of the thirty-sixth Conference on Neural Information Processing Systems
   extra-links:
-    - type: preprint
-      link: https://arxiv.org/pdf/2502.15798
+  - type: preprint
+    link: https://arxiv.org/pdf/2502.15798
+  - type: source
+    text: Code
+    link: https://github.com/ZhouYuxuanYX/Maximum-Suppression-Regularization
   image: images/neurips_oral.png
   tags:
-    - interpretability
+  - Regularization
+  - Representation Learning
+  - Image Classification
   group: AAA
+  description: Label smoothing can unintentionally reinforce mistakes and collapse feature diversity. MaxSup targets the largest prediction logit instead, preserving richer representations while reducing overconfidence more consistently.
+  teaser: images/publications/075-maxsup-overcoming-representation-collapse-in-label-smoothing.webp
+  teaser-alt: Feature distributions and attribution maps under different regularization methods.
+  teaser-source: https://arxiv.org/pdf/2502.15798#page=2
 
 - title: Real-time Prediction of Urban Sound Propagation with Conditioned Normalizing Flows
   date: 2025-6-1
@@ -1403,9 +1993,15 @@
       link: https://arxiv.org/pdf/2510.04510
   image: images/neurips_22_w.png
   tags:
-    - Generative
-    - Physics 
-  group: workshop 
+  - Scientific Machine Learning
+  - Normalizing Flows
+  - Acoustics
+  - Generative Models
+  group: workshop
+  description: Explore changes to an urban sound map in a fraction of a second. Conditioned normalizing flows learn to predict sound propagation from city layouts, enabling rapid comparison of source and geometry changes.
+  teaser: images/publications/076-real-time-prediction-of-urban-sound-propagation-with-conditioned-normalizing-flows.webp
+  teaser-alt: City layout with sound maps for baseline, diffraction, and reflection simulation regimes.
+  teaser-source: https://arxiv.org/pdf/2510.04510#page=3
 
 - title: A Granular Study of Safety Pretraining under Model Abliteration
   date: 2025-6-1
@@ -1420,17 +2016,26 @@
   link: https://arxiv.org/pdf/2510.02768?
   publisher: NeurIPS 25 Lock-LLM  Workshop
   extra-links:
-    - type: preprint
-      link: https://arxiv.org/pdf/2510.02768?
+  - type: preprint
+    link: https://arxiv.org/pdf/2510.02768?
+  - type: source
+    text: Code
+    link: https://github.com/shashankskagnihotri/safety_pretraining
   image: images/neurips_22_w.png
   tags:
-    - Generative
-    - LLM 
+  - Large Language Models
+  - AI Safety
+  - Robustness
+  - Deep Learning Evaluation
   group: workshop 
 
   # ------------
   # 2026
   # ------------
+  description: Do safety-training gains survive edits to a model's internal activations? This checkpoint-level study tests refusal behavior before and after abliteration and examines how evaluation judges affect the conclusions.
+  teaser: images/publications/077-a-granular-study-of-safety-pretraining-under-model-abliteration.webp
+  teaser-alt: Evaluation pipeline comparing original and abliterated language-model responses.
+  teaser-source: https://arxiv.org/pdf/2510.02768#page=4
 
 - title: mSOP-765k - A Benchmark For Multi-Modal Structured Output Predictions
   date: 2026-6-1
@@ -1440,15 +2045,22 @@
   link: https://openreview.net/forum?id=H7eYL4yFZS
   publisher: Transactions on Machine Learning Research (TMLR) / presented at ICML 26
   extra-links:
-    - type: preprint
-      link: https://openreview.net/forum?id=H7eYL4yFZS
-    - type: source
-      link: https://www.msop-765k.org/
+  - type: preprint
+    link: https://openreview.net/forum?id=H7eYL4yFZS
+  - type: source
+    text: Code
+    link: https://huggingface.co/datasets/retail-product-promotion/mSOP-765k/tree/main/code
   image: images/TMLR_J2C.png
   tags:
-    - Visual RAG
-    - Retail
+  - Vision-Language Models
+  - Structured Prediction
+  - Retail
+  - Datasets
   group: journal
+  description: Extracting structured product information demands more than reading text. mSOP-765k supplies over 765,000 annotated advertisement images and evaluation tools for comparing multimodal models, including retrieval-augmented approaches.
+  teaser: images/publications/078-msop-765k-a-benchmark-for-multi-modal-structured-output-predictions.webp
+  teaser-alt: A retail advertisement mapped to structured product and promotion attributes.
+  teaser-source: https://www.msop-765k.org/figures/abstract_mSOP765k.png
 
 - title: GeoDiv - Framework for Measuring Geographical Diversity in Text-to-Image Models 
   date: 2026-6-1
@@ -1461,12 +2073,22 @@
   link: https://openreview.net/forum?id=WliHWqTfAb
   publisher: Proceedings of the Nineth International Conference on Learning Representations (ICLR 26)
   extra-links:
-    - type: preprint
-      link: https://openreview.net/forum?id=WliHWqTfAb
+  - type: preprint
+    link: https://openreview.net/forum?id=WliHWqTfAb
+  - type: source
+    text: Code
+    link: https://github.com/moha23/geodiv
   image: images/iclr_22.png
   tags:
-    - Generative
+  - Text-to-Image Generation
+  - Fairness
+  - Geographical Diversity
+  - Benchmarking
   group: AAA
+  description: Generative models can show the world through a narrow set of geographic stereotypes. GeoDiv measures socioeconomic portrayal and visual diversity separately, making these biases more interpretable across countries and image generators.
+  teaser: images/publications/079-geodiv-framework-for-measuring-geographical-diversity-in-text-to-image-models.webp
+  teaser-alt: Generated images illustrating geographical diversity and socioeconomic portrayal.
+  teaser-source: https://arxiv.org/pdf/2602.22120#page=2
 
 - title: RobustSpring - Benchmarking Robustness to Image Corruptions for Optical Flow, Scene Flow and Stereo
   date: 2026-6-1
@@ -1486,9 +2108,15 @@
       link: https://openreview.net/forum?id=RebPBMrMmk
   image: images/iclr_22.png
   tags:
-    - Robustness
-    - Optical Flow
-  group: AAA  
+  - Optical Flow
+  - Stereo Vision
+  - Scene Flow
+  - Robustness
+  group: AAA
+  description: RobustSpring tests motion and depth estimation under corruptions that remain consistent across time, viewpoints, and scene depth. Its benchmark complements accuracy scores with robustness measurements, exposing weaknesses that clean images can conceal.
+  teaser: images/publications/080-robustspring-benchmarking-robustness-to-image-corruptions-for-optical-flow-scene-flow-and-stereo.webp
+  teaser-alt: Consistent scene corruptions for optical-flow, stereo, and scene-flow evaluation.
+  teaser-source: https://www.collaborative-ai.org/publications/oei26_iclr.pdf#page=1
 
 - title: We need to re-think the concept of “real” images 
   date: 2026-6-1
@@ -1502,8 +2130,14 @@
       link: https://icml.cc/virtual/2026/poster/67151
   image: images/ICML.png
   tags:
-    - deep fake
+  - Deepfake Detection
+  - Computational Photography
+  - Dataset Bias
   group: AAA
+  description: Modern phone photographs already contain substantial algorithmic processing. This position paper asks what a "real" image means for deepfake detection and calls for definitions and benchmarks that reflect contemporary photography.
+  teaser: images/publications/081-we-need-to-re-think-the-concept-of-real-images.webp
+  teaser-alt: Camera-model and capture-date distributions in EXIF-tagged LAION images.
+  teaser-source: https://arxiv.org/pdf/2509.21864#page=5
 
 - title: Images as Tables - In-Context Learning with TabPFN for Low-Data Detection of AI-Generated Images 
   date: 2026-6-1
@@ -1514,12 +2148,22 @@
   link: https://arxiv.org/pdf/2606.00872
   publisher: ICML Workshops 26
   extra-links:
-    - type: preprint
-      link: https://arxiv.org/pdf/2606.00872
+  - type: preprint
+    link: https://arxiv.org/pdf/2606.00872
+  - type: source
+    text: Code
+    link: https://github.com/jpwalter30/Towards-Generalizable-Detection-of-AI-Generated-Images
   image: images/ICML_w.png
   tags:
-    - deep fake
+  - Deepfake Detection
+  - Tabular Foundation Models
+  - In-Context Learning
+  - Few-Shot Learning
   group: workshop
+  description: Treat image features as a table and adapt a detector through examples rather than retraining. This approach combines frozen visual features with TabPFN, showing promise when only a few labeled images from a new generator are available.
+  teaser: images/publications/082-images-as-tables-in-context-learning-with-tabpfn-for-low-data-detection-of-ai-generated-images.webp
+  teaser-alt: AI-image detection accuracy as the number of labeled examples increases.
+  teaser-source: https://arxiv.org/pdf/2606.00872#page=1
 
 - title: A New Kind of Network? Review and Reference Implementation of Neural Cellular Automata
   date: 2026-6-1
@@ -1529,14 +2173,22 @@
   link: https://openreview.net/pdf?id=NRwjj0ZLq0
   publisher: Transactions on Machine Learning Research (TMLR) 
   extra-links:
-    - type: preprint
-      link: https://openreview.net/pdf?id=NRwjj0ZLq0
-    - type: source
-      link: https://www.neural-cellular-automata.org/
+  - type: preprint
+    link: https://openreview.net/pdf?id=NRwjj0ZLq0
+  - type: source
+    text: Code
+    link: https://github.com/mspitzna/NCAtorch
   image: https://jmlr.org/tmlr/img/tmlr.jpg
   tags:
-    - NCA
+  - Neural Cellular Automata
+  - Generative Models
+  - Dynamical Systems
+  - Open Source
   group: journal
+  description: Simple local update rules can produce complex learned behavior. This review organizes neural cellular automata into a unified framework and introduces NCAtorch as a modular reference implementation for reproducible experimentation.
+  teaser: images/publications/083-a-new-kind-of-network-review-and-reference-implementation-of-neural-cellular-automata.webp
+  teaser-alt: A cellular automaton evolving through local update rules over time.
+  teaser-source: https://arxiv.org/pdf/2604.24990#page=1
 
 - title: Efficient Fine-grained Image Retrieval with Vision Foundation Models for Industrial Objects
   date: 2026-6-1 
@@ -1545,15 +2197,22 @@
     - Christian Graf
     - Markus Spies
     - Margret Keuper
-  link: https://sites.google.com/view/fgvc13
+  link: https://openaccess.thecvf.com/content/CVPR2026W/FGVC13/html/Liu_Efficient_Fine-grained_Image_Retrieval_with_Vision_Foundation_Models_for_Industrial_CVPRW_2026_paper.html
   publisher: FGVC13 workshop Efficient Fine-grained Image Retrieval with Vision Foundation Models for Industrial Objects at CVPR 2026
   extra-links:
-    - type: preprint
-      link: https://sites.google.com/view/fgvc13
+  - type: preprint
+    link: https://openaccess.thecvf.com/content/CVPR2026W/FGVC13/html/Liu_Efficient_Fine-grained_Image_Retrieval_with_Vision_Foundation_Models_for_Industrial_CVPRW_2026_paper.html
   image: images/cvpr26w.jpg
   tags:
-    - fine-grain
+  - Image Retrieval
+  - Foundation Models
+  - Fine-Grained Recognition
+  - Industrial Vision
   group: Workshop
+  description: Finding the right spare part requires distinguishing nearly identical objects across viewpoints and backgrounds. A new industrial dataset and lightweight adaptation framework test how foundation-model features can improve this demanding retrieval task.
+  teaser: images/publications/084-efficient-fine-grained-image-retrieval-with-vision-foundation-models-for-industrial-objects.webp
+  teaser-alt: Retrieval performance of foundation-model embeddings on random and challenging spare-part galleries.
+  teaser-source: https://openaccess.thecvf.com/content/CVPR2026W/FGVC13/papers/Liu_Efficient_Fine-grained_Image_Retrieval_with_Vision_Foundation_Models_for_Industrial_CVPRW_2026_paper.pdf#page=1
 
 - title: Fréchet Inception Distance is Failing to Preserve Rank Consistency for Synthetic Out-of-Distribution Samples
   date: 2026-6-1 
@@ -1568,8 +2227,11 @@
       link: https://openreview.net/pdf?id=jWqcKaZdTS
   image: images/cvpr26w.jpg
   tags:
-    - generators
+  - Generative Models
+  - Evaluation Metrics
+  - Distribution Shift
   group: Workshop
+  description: Does Fréchet Inception Distance preserve a trustworthy ordering outside familiar image distributions? This work examines rank consistency for synthetic out-of-distribution samples, focusing attention on the reliability of generator evaluation.
 
 - title: Prompt injection attacks on llm generated reviews of scientific publications
   date: 2026-6-1 
@@ -1582,8 +2244,15 @@
       link: https://arxiv.org/pdf/2509.10248
   image: images/icpr26.png
   tags:
-    - security
+  - Large Language Models
+  - Prompt Injection
+  - Peer Review
+  - AI Safety
   group: A
+  description: Hidden instructions in a paper can distort an automated review. Our experiments examine both prompt-injection susceptibility and acceptance bias in LLM-generated reviews, exposing weaknesses in using these systems for scientific evaluation.
+  teaser: images/publications/086-prompt-injection-attacks-on-llm-generated-reviews-of-scientific-publications.webp
+  teaser-alt: Example of a hidden prompt injection embedded in a scientific manuscript.
+  teaser-source: https://arxiv.org/pdf/2509.10248#page=1
 
 - title: Benchmarking Document Parsers on Mathematical Formula Extraction from PDFs
   date: 2026-6-1 
@@ -1593,12 +2262,22 @@
   link: https://arxiv.org/pdf/2512.09874
   publisher: ICPR 2026
   extra-links:
-    - type: preprint
-      link: https://arxiv.org/pdf/2512.09874
+  - type: preprint
+    link: https://arxiv.org/pdf/2512.09874
+  - type: source
+    text: Code
+    link: https://github.com/phorn1/pdf-parse-bench
   image: images/icpr26_bestpaper.png
   tags:
-    - document parsing
+  - Document Parsing
+  - Mathematical OCR
+  - Benchmarking
+  - Large Language Models
   group: A
+  description: A formula can be written differently while retaining exactly the same meaning. This benchmark uses controlled PDF generation and semantic evaluation to compare formula extraction, with human judgments validating the assessment approach.
+  teaser: images/publications/087-benchmarking-document-parsers-on-mathematical-formula-extraction-from-pdfs.webp
+  teaser-alt: PDF formula-generation, extraction, matching, and semantic-evaluation pipeline.
+  teaser-source: https://arxiv.org/pdf/2512.09874#page=5
 
 - title: Examining the Impact of Optical Aberrations to Image Classification and Object Detection Models 
   date: 2026-6-1
@@ -1609,12 +2288,22 @@
   link: https://www.computer.org/csdl/journal/tp/2026/03/11205303/2aRi0yIwjS
   publisher:  IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
   extra-links:
-    - type: preprint
-      link: https://www.computer.org/csdl/journal/tp/2026/03/11205303/2aRi0yIwjSw
+  - type: preprint
+    link: https://www.computer.org/csdl/journal/tp/2026/03/11205303/2aRi0yIwjSw
+  - type: source
+    text: Code
+    link: https://github.com/PatMue/classification_robustness
   image: images/tpami.png
   tags:
-    - Optics
+  - Computational Imaging
+  - Optics
+  - Robustness
+  - Object Detection
   group: journal
+  description: Camera optics introduce blur that simple synthetic kernels do not capture. OpticsBench and LensCorruptions probe realistic aberrations across classification and detection models, supporting more representative robustness evaluation.
+  teaser: images/publications/088-examining-the-impact-of-optical-aberrations-to-image-classification-and-object-detection-models.webp
+  teaser-alt: A flower image under different optical aberrations, including astigmatism and coma.
+  teaser-source: https://arxiv.org/pdf/2504.18510#page=1
 
 - title: Parameterized Adverse Lens Corruptions to Probe Model Robustness to Optical Tolerances
   date: 2026-6-1
@@ -1630,8 +2319,11 @@
       link: https://openreview.net/pdf?id=a93BmQRNxC
   image: https://jmlr.org/tmlr/img/tmlr.jpg
   tags:
-    - Optics
+  - Computational Imaging
+  - Optics
+  - Adversarial Robustness
   group: journal
+  description: Lens blur is not always a harmless image degradation. Adverse Lens Corruption optimizes physically parameterized aberrations to find difficult optical conditions and test a model's sensitivity to lens tolerances.
 
 - title: RAWDet-7 A Multi-Scenario Benchmark for Object Detection and Description on Quantized RAW Images
   date: 2026-6-1
@@ -1648,9 +2340,15 @@
       link: https://openreview.net/forum?id=UHTJrsYieo
   image: https://jmlr.org/tmlr/img/tmlr.jpg
   tags:
-    - Object Detection
+  - Object Detection
+  - RAW Imaging
+  - Quantization
+  - Datasets
   group: journal
-
+  description: What useful visual information survives directly in low-bit RAW sensor data? RAWDet-7 benchmarks object detection and description across cameras, environments, and quantization levels, bringing sensor constraints into model evaluation.
+  teaser: images/publications/090-rawdet-7-a-multi-scenario-benchmark-for-object-detection-and-description-on-quantized-raw-images.webp
+  teaser-alt: RAW image scenes with object detections and region-level descriptions.
+  teaser-source: https://arxiv.org/pdf/2602.03760#page=2
 
 - title: STELLA a modular framework for SpatioTemporal Event-based Lagrangian particLe trAcking
   date: 2026-6-1
@@ -1664,12 +2362,21 @@
   link: https://link.springer.com/article/10.1007/s00348-026-04253-8
   publisher:  Experiments in Fluids 
   extra-links:
-    - type: preprint
-      link: https://link.springer.com/article/10.1007/s00348-026-04253-8
-  #image: https://jmlr.org/tmlr/img/tmlr.jpg
+  - type: preprint
+    link: https://link.springer.com/article/10.1007/s00348-026-04253-8
+  - type: source
+    text: Code
+    link: https://github.com/sesa1504/STELLA
   tags:
-    - Tracking
+  - Event-Based Vision
+  - Particle Tracking
+  - Scientific Machine Learning
+  - Fluid Dynamics
   group: journal
+  description: Event cameras offer a fast, sparse view of moving particles. STELLA unifies alternative detection and tracking pipelines with synthetic and experimental benchmarks for studying detailed motion in fluid flows.
+  teaser: images/publications/091-stella-a-modular-framework-for-spatiotemporal-event-based-lagrangian-particle-tracking.webp
+  teaser-alt: STELLA event-camera detection and particle-tracking pipelines.
+  teaser-source: https://link.springer.com/content/pdf/10.1007/s00348-026-04253-8.pdf#page=3
 
 - title: CROC Evaluating and Training T2I Metrics with Pseudo- and Human-Labeled Contrastive Robustness Checks
   date: 2026-6-1
@@ -1682,12 +2389,20 @@
   publisher:  Transactions of the Association for Computational Linguistics
 
   extra-links:
-    - type: preprint
-      link: http://hdl.handle.net/21.11116/0000-0013-3F33-C
-  #image: https://jmlr.org/tmlr/img/tmlr.jpg
+  - type: preprint
+    link: http://hdl.handle.net/21.11116/0000-0013-3F33-C
+  - type: source
+    text: Code
+    link: https://github.com/NL2G/CROC
   tags:
-    - Robustness
+  - Text-to-Image Generation
+  - Evaluation Metrics
+  - Benchmarking
   group: journal
+  description: An image-quality metric should notice when a small prompt change changes the intended meaning. CROC generates contrastive checks at scale, adds a human-supervised benchmark, and uses the resulting data to train a more capable evaluation metric.
+  teaser: images/publications/092-croc-evaluating-and-training-t2i-metrics-with-pseudo-and-human-labeled-contrastive-robustness-checks.webp
+  teaser-alt: Contrastive prompt-image pairs testing text-image evaluation metrics.
+  teaser-source: https://pure.mpg.de/rest/items/item_3656558_3/component/file_3717264/content#page=2
 
 - title: Decoupling High and Low Frequencies for Faithful Image Generation with Fine Details 
   date: 2026-6-1
@@ -1703,9 +2418,23 @@
   #    link: https://icml.cc/virtual/2026/poster/67151
   image: images/ECCV26.jpg
   tags:
-    - Image Generation
+  - Generative Models
+  - Autoencoders
+  - Frequency Analysis
+  - Diffusion Models
   group: AAA
-  
+  description: Sharp details should survive compression into a generative model's latent space. DeBaT learns low- and high-frequency representations separately, improving fine-detail reconstruction while retaining coherent global structure.
+  link: https://arxiv.org/abs/2509.05441v4
+  extra-links:
+  - type: preprint
+    link: https://arxiv.org/abs/2509.05441v4
+  - type: source
+    text: Code
+    link: https://github.com/TejaswiniMedi/DeBaT
+  teaser: images/publications/093-decoupling-high-and-low-frequencies-for-faithful-image-generation-with-fine-details.webp
+  teaser-alt: Fine-detail reconstruction crops comparing DeBaT with a baseline tokenizer.
+  teaser-source: https://arxiv.org/pdf/2509.05441v4#page=2
+
 - title: Failure or Drift? Evaluating Monocular SLAM under Synthetic and Real-World Corruptions
   date: 2026-6-1
   authors: 
@@ -1719,8 +2448,22 @@
   #    link: https://icml.cc/virtual/2026/poster/67151
   image: images/ECCV26w.jpg
   tags:
-    - SLAM
+  - Visual SLAM
+  - Robustness
+  - Distribution Shift
+  - Benchmarking
   group: Workshop
+  description: A tracker that keeps running may still accumulate serious drift. This study separates tracking failure from trajectory degradation and tests when synthetic corruptions reproduce conclusions drawn from real adverse conditions.
+  link: https://arxiv.org/abs/2608.30690
+  extra-links:
+  - type: preprint
+    link: https://arxiv.org/abs/2608.30690
+  - type: source
+    text: Code
+    link: https://github.com/abhaythomas/master_thesis_vslamlab_robustness
+  teaser: images/publications/094-failure-or-drift-evaluating-monocular-slam-under-synthetic-and-real-world-corruptions.webp
+  teaser-alt: Tracking completion and trajectory drift for classical and learned SLAM systems.
+  teaser-source: https://arxiv.org/pdf/2608.30690#page=7
 
 - title: We need theory-grounded explainability for abstract tasks to quantify model bias
   date: 2026-6-1
@@ -1734,8 +2477,15 @@
   #    link: https://icml.cc/virtual/2026/poster/67151
   image: images/ECCV26w.jpg
   tags:
-    - XAI
+  - Explainable AI
+  - Model Bias
+  - Theory-Grounded Evaluation
   group: Workshop
+  description: Explanations of abstract classifications need a clear theoretical reference. This position argues for evaluating model explanations against validated, context-specific constructs to make model bias measurable.
+  link: https://openreview.net/forum?id=Oz2id4l0SX
+  extra-links:
+  - type: preprint
+    link: https://openreview.net/forum?id=Oz2id4l0SX
 
 - title: Combining Finetuning and RAG for Structured Output Prediction on a Multimodal High Velocity Retail Dataset
   date: 2026-6-1
@@ -1745,12 +2495,19 @@
   link: https://openreview.net/pdf?id=H4fdIUP8Jd
   publisher: MUCG Workshop at ECCV 26 
   extra-links:
-    - type: preprint
-      link: https://openreview.net/pdf?id=H4fdIUP8Jd
+  - type: preprint
+    link: https://openreview.net/pdf?id=H4fdIUP8Jd
+  - type: source
+    text: Code
+    link: https://huggingface.co/datasets/retail-product-promotion/mSOP-765k/tree/main/code
   image: images/ECCV26w.jpg
   tags:
-    - RAG
+  - Retrieval-Augmented Generation
+  - Vision-Language Models
+  - Structured Prediction
+  - Retail
   group: Workshop
+  description: Rapidly changing product catalogs challenge static prediction models. This work studies how fine-tuning and retrieval-augmented generation can be combined to extract structured information from multimodal retail data.
 
 - title: Unsupervised Visual Concept Bottlenecks for Interpretable Bioimage Classification
   date: 2026-6-1
@@ -1768,8 +2525,12 @@
       link: https://openreview.net/pdf?id=hois3HoeYg
   image: images/ECCV26w.jpg
   tags:
-    - CBNM
+  - Concept Bottleneck Models
+  - Explainable AI
+  - Bioimage Analysis
+  - Unsupervised Learning
   group: Workshop
+  description: Visual concepts can make biological image classification easier to interpret. This work investigates unsupervised concept bottlenecks as a way to connect bioimage predictions with intermediate visual evidence.
 
 - title: LAION-Mobile - Evaluating Deepfake Detectors On One Million Smartphone Photos
   date: 2026-6-1
@@ -1783,8 +2544,15 @@
       link: https://openreview.net/pdf?id=nKXIRrwFYp
   image: images/ECCV26w.jpg
   tags:
-    - Deep Fake
+  - Deepfake Detection
+  - Computational Photography
+  - Datasets
+  - Robustness
   group: Workshop
+  description: Ordinary smartphone photos are a demanding test for deepfake detectors. LAION-Mobile assembles roughly one million images with camera metadata and reveals serious generalization and threshold-calibration problems in existing detectors.
+  teaser: images/publications/098-laion-mobile-evaluating-deepfake-detectors-on-one-million-smartphone-photos.webp
+  teaser-alt: Detector operating points showing trade-offs between detection and false alarms.
+  teaser-source: https://arxiv.org/pdf/2609.11134#page=2
 
 - title: Beyond String Matching - Semantic Evaluation of PDF Table Extraction
   date: 2026-6-1
@@ -1794,12 +2562,22 @@
   link: https://openreview.net/pdf?id=8KZckKjivl
   publisher: BMVC 26 
   extra-links:
-    - type: preprint
-      link: https://openreview.net/pdf?id=8KZckKjivl
+  - type: preprint
+    link: https://openreview.net/pdf?id=8KZckKjivl
+  - type: source
+    text: Code
+    link: https://github.com/phorn1/pdf-parse-bench
   image: images/bmvc_26.png
   tags:
-    - Document Parsing
+  - Document Parsing
+  - Table Extraction
+  - Evaluation Metrics
+  - Large Language Models
   group: A
+  description: Table extraction should preserve meaning, not just matching strings. This benchmark combines controlled PDFs with an LLM-based semantic assessment that aligns more closely with human judgments than conventional structural metrics.
+  teaser: images/publications/099-beyond-string-matching-semantic-evaluation-of-pdf-table-extraction.webp
+  teaser-alt: Semantic table-evaluation examples, human-judgment correlations, and the synthetic PDF benchmark.
+  teaser-source: https://arxiv.org/pdf/2603.18652#page=2
 
 - title: Reinforcement Learning Based Fair Adversarial Training
   date: 2026-6-1
@@ -1814,6 +2592,16 @@
   #    link: https://openreview.net/pdf?id=8KZckKjivl
   image: images/bmvc_26.png
   tags:
-    - Adversarial Training
+  - Adversarial Robustness
+  - Fairness
+  - Reinforcement Learning
   group: A
-  
+  description: Robustness should extend across classes, rather than concentrating on the easiest ones. RL-FAT combines reinforcement-learning-inspired feedback with a fairness-focused loss to reduce class-wise disparities during adversarial training.
+  link: https://arxiv.org/abs/2608.29247
+  extra-links:
+  - type: preprint
+    link: https://arxiv.org/abs/2608.29247
+  teaser: images/publications/100-reinforcement-learning-based-fair-adversarial-training.webp
+  teaser-alt: Class-wise clean and robust accuracies illustrating fairness gaps.
+  teaser-source: https://arxiv.org/pdf/2608.29247#page=2
+

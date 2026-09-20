@@ -26,25 +26,32 @@
   {%- assign link = citation.link | default: "" -%}
   {%- assign image = citation.image | default: "" -%}
   {%- if rich -%}
-    <div class="citation_image">
-      <a href="{{ link }}">
-        <img
-          src="{{ image | relative_url }}"
-          onerror="this.src = '{{ placeholder }}'; this.onerror = null;"
-          data-tooltip="{{ id }}"
-          loading="lazy"
-          alt="Citation thumbnail"
-        >
-      </a>
+    <div class="citation_media">
+      <div class="citation_image">
+        {%- if link != "" -%}<a href="{{ link | escape }}">{%- endif -%}
+          <img
+            src="{{ image | relative_url }}"
+            onerror="this.src = '{{ placeholder }}'; this.onerror = null;"
+            data-tooltip="{{ id }}"
+            loading="lazy"
+            alt="{{ citation.publisher | escape }} logo"
+          >
+        {%- if link != "" -%}</a>{%- endif -%}
+      </div>
+      {%- if citation.teaser -%}
+        <a class="citation_teaser" href="{{ citation.teaser-source | default: link | escape }}" aria-label="View figure in {{ citation.title | escape }}">
+          <img src="{{ citation.teaser | relative_url }}" alt="{{ citation.teaser-alt | escape }}" loading="lazy" decoding="async" width="640" height="400">
+        </a>
+      {%- endif -%}
     </div>
   {%- endif -%}
 
   <div class="citation_text">
     {%- assign title = citation.title | default: "" -%}
     <div class="citation_title">
-      <a href="{{ link }}">
+      {%- if link != "" -%}<a href="{{ link | escape }}">{%- endif -%}
         {{ title }}
-      </a>
+      {%- if link != "" -%}</a>{%- endif -%}
     </div>
 
     {%- assign authors = citation.authors | default: emptyarray -%}
@@ -62,6 +69,10 @@
     </div>
 
     {%- if rich -%}
+
+      {%- if citation.description -%}
+        <p class="citation_description">{{ citation.description | escape }}</p>
+      {%- endif -%}
 
       {%- assign tags = citation.tags | default: emptyarray -%}
       {%- assign repo = citation.repo | default: "" -%}
