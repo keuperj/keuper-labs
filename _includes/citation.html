@@ -48,10 +48,14 @@
 
   <div class="citation_text">
     {%- assign title = citation.title | default: "" -%}
+    {%- assign title-link = link -%}
+    {%- if citation.detail-page -%}
+      {%- assign title-link = citation.detail-page | relative_url -%}
+    {%- endif -%}
     <div class="citation_title">
-      {%- if link != "" -%}<a href="{{ link | escape }}">{%- endif -%}
+      {%- if title-link != "" -%}<a href="{{ title-link | escape }}">{%- endif -%}
         {{ title }}
-      {%- if link != "" -%}</a>{%- endif -%}
+      {%- if title-link != "" -%}</a>{%- endif -%}
     </div>
 
     {%- assign authors = citation.authors | default: emptyarray -%}
@@ -80,6 +84,9 @@
 
       {%- include tags.html tags=tags repo=repo -%}
       <div class="citation_links">
+        {%- if citation.detail-page -%}
+          <a class="link" href="{{ citation.detail-page | relative_url }}">About this paper</a>
+        {%- endif -%}
         {%- for extra in extra-links -%}
           {%- assign type = extra.type | default: "" -%}
           {%- assign icon = extra.icon | default: "" -%}

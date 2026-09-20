@@ -29,3 +29,15 @@ Edit `_data/sources.yaml`, then run `python auto-cite/auto-cite.py` with the dep
 | Unsupervised Visual Concept Bottlenecks for Interpretable Bioimage Classification | OpenReview download blocked. Verify the scope-only description and add a figure. |
 
 These entries retain their venue logo. No substitute figure or unverified result is presented as coming from the paper.
+
+## Publication detail pages
+
+Each source entry now has a `detail-page` URL pointing to its document in `_publications/`. The research list links to these pages; the original external `link` remains the paper resource. The `publications` collection uses the shared `_layouts/publication.html` layout and works with GitHub Pages without a custom Jekyll plugin.
+
+The detail documents contain the original abstract and its source, an editorial `why` section written for a general audience, figures with captions and source-page links, and BibTeX. `images/publications/details/` contains 186 larger, optimized WebP figures: two for each of the 93 accessible PDFs. The mSOP-765k page additionally uses its existing official project illustration and abstract. Full-size figure links allow readers to inspect small labels.
+
+Abstracts and captions were extracted from the linked sources, with PDF line breaks, ligatures, and broken word spacing normalized. The equation-heavy caption for “Trading off Image Quality for Robustness…” Figure 1 is a prose adaptation, recorded in the review data. Figure crops and abstract sources are documented in `_data/publication-review.yaml`.
+
+BibTeX uses known author, title, year, venue, and URL metadata. Unknown volume, page, and identifier fields are omitted. Keep a document's `bibtex` field and its corresponding `assets/bibtex/*.bib` download synchronized when editing a citation. The copy button falls back to selecting the citation if clipboard access is unavailable; the text and download remain available without JavaScript.
+
+For the complete list of **seven full PDFs needed to finish the detail pages**, including suggested filenames, see [Papers needing PDFs](../../docs/publications-needing-pdfs.md). This includes mSOP-765k: its project page is accessible, but its complete PDF is still needed for additional figures.

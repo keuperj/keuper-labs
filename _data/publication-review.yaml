@@ -1,4 +1,4 @@
-# Research and figure provenance; reviewed 2026-09-20. Not rendered on the website.
+# Research and figure provenance; reviewed 2026-09-20.
 - title: Watch your Up-Convolution - CNN Based Generative Deep Neural Networks are Failing to Reproduce Spectral
     Distributions
   year: '2020'
@@ -12,6 +12,26 @@
   - 540.987548828125
   summary_source: https://openaccess.thecvf.com/content_CVPR_2020/papers/Durall_Watch_Your_Up-Convolution_CNN_Based_Generative_Deep_Neural_Networks_Are_CVPR_2020_paper.pdf
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://openaccess.thecvf.com/content_CVPR_2020/papers/Durall_Watch_Your_Up-Convolution_CNN_Based_Generative_Deep_Neural_Networks_Are_CVPR_2020_paper.pdf#page=1
+    crop:
+    - 303.86199951171875
+    - 263.77398681640625
+    - 550.1158447265625
+    - 540.987548828125
+    caption_adapted: false
+  - number: 2
+    source: https://openaccess.thecvf.com/content_CVPR_2020/papers/Durall_Watch_Your_Up-Convolution_CNN_Based_Generative_Deep_Neural_Networks_Are_CVPR_2020_paper.pdf#page=3
+    crop:
+    - 45.112098693847656
+    - 275.31591796875
+    - 291.36529541015625
+    - 374.6585693359375
+    caption_adapted: false
+  detail_page: /research/2020-watch-your-up-convolution-cnn-based-generative-deep-neural-networks-are-failing-to-reproduce-spectral-distributions/
+  detail_status: complete
+  abstract_source: https://openaccess.thecvf.com/content_CVPR_2020/papers/Durall_Watch_Your_Up-Convolution_CNN_Based_Generative_Deep_Neural_Networks_Are_CVPR_2020_paper.pdf
 - title: Extracting horizon surfaces from 3D seismic data using deep learning
   year: '2020'
   figure: images/publications/002-extracting-horizon-surfaces-from-3d-seismic-data-using-deep-learning.webp
@@ -23,6 +43,26 @@
   - 305
   summary_source: https://publica.fraunhofer.de/entities/publication/cd36bffe-7f1e-4786-87cd-d7698a9da90b
   review_status: Paper reviewed in the authors’ HAL archive.
+  detail_figures:
+  - number: 1
+    source: https://hal.science/hal-02560737/document#page=5
+    crop:
+    - 238.0
+    - 139.0
+    - 556.0
+    - 305.0
+    caption_adapted: false
+  - number: 2
+    source: https://hal.science/hal-02560737/document#page=6
+    crop:
+    - 35.0
+    - 552.7860107421875
+    - 558.9719848632812
+    - 680.6663818359375
+    caption_adapted: false
+  detail_page: /research/2020-extracting-horizon-surfaces-from-3d-seismic-data-using-deep-learning/
+  detail_status: complete
+  abstract_source: https://hal.science/hal-02560737/document
 - title: Detection of point scatterers using diffraction imaging and deep learning
   year: '2020'
   figure: images/publications/003-detection-of-point-scatterers-using-diffraction-imaging-and-deep-learning.webp
@@ -34,6 +74,26 @@
   - 249
   summary_source: https://onlinelibrary.wiley.com/doi/abs/10.1111/1365-2478.12889
   review_status: Paper reviewed in the authors’ HAL archive.
+  detail_figures:
+  - number: 1
+    source: https://hal.science/hal-02354803/document#page=4
+    crop:
+    - 307.0
+    - 65.0
+    - 545.0
+    - 249.0
+    caption_adapted: false
+  - number: 2
+    source: https://hal.science/hal-02354803/document#page=5
+    crop:
+    - 35.0
+    - 62.925018310546875
+    - 560.2739868164062
+    - 447.8438720703125
+    caption_adapted: false
+  detail_page: /research/2020-detection-of-point-scatterers-using-diffraction-imaging-and-deep-learning/
+  detail_status: complete
+  abstract_source: https://hal.science/hal-02354803/document
 - title: Smooth variational graph embeddings for efficient neural architecture search
   year: '2021'
   code: https://github.com/jovitalukasik/SVGe
@@ -46,6 +106,26 @@
   - 169.85548400878906
   summary_source: https://arxiv.org/pdf/2010.04683v1
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://arxiv.org/pdf/2010.04683v1#page=11
+    crop:
+    - 35.0
+    - 47.13822937011719
+    - 577.0
+    - 169.85548400878906
+    caption_adapted: false
+  - number: 2
+    source: https://arxiv.org/pdf/2010.04683v1#page=12
+    crop:
+    - 314.5
+    - 304.5821228027344
+    - 563.0045776367188
+    - 410.67645263671875
+    caption_adapted: false
+  detail_page: /research/2021-smooth-variational-graph-embeddings-for-efficient-neural-architecture-search/
+  detail_status: complete
+  abstract_source: https://arxiv.org/pdf/2010.04683v1
 - title: Shape your Space - A Gaussian Mixture Regularization Approach to Deterministic Autoencoders
   year: '2021'
   code: https://github.com/boschresearch/GMM_DAE
@@ -58,6 +138,26 @@
   - 217.36460876464844
   summary_source: https://proceedings.neurips.cc/paper/2021/file/3c057cb2b41f22c0e740974d7a428918-Paper.pdf
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://proceedings.neurips.cc/paper/2021/file/3c057cb2b41f22c0e740974d7a428918-Paper.pdf#page=5
+    crop:
+    - 102.6709976196289
+    - 62.826881408691406
+    - 509.0036926269531
+    - 217.36460876464844
+    caption_adapted: false
+  - number: 2
+    source: https://proceedings.neurips.cc/paper/2021/file/3c057cb2b41f22c0e740974d7a428918-Paper.pdf#page=7
+    crop:
+    - 103.0
+    - 82.62454223632812
+    - 510.7452392578125
+    - 544.0692749023438
+    caption_adapted: false
+  detail_page: /research/2021-shape-your-space-a-gaussian-mixture-regularization-approach-to-deterministic-autoencoders/
+  detail_status: complete
+  abstract_source: https://proceedings.neurips.cc/paper/2021/file/3c057cb2b41f22c0e740974d7a428918-Paper.pdf
 - title: An Empirical Investigation of Model-to-Model Distribution Shifts in Trained Convolutional Filters
   year: '2021'
   code: https://github.com/paulgavrikov/CNN-Filter-DB
@@ -70,6 +170,26 @@
   - 548.671875
   summary_source: https://arxiv.org/pdf/2201.08465
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://arxiv.org/pdf/2201.08465#page=2
+    crop:
+    - 103.0
+    - 401.99322509765625
+    - 509.00286865234375
+    - 548.671875
+    caption_adapted: false
+  - number: 2
+    source: https://arxiv.org/pdf/2201.08465#page=2
+    crop:
+    - 103.0
+    - 581.6829833984375
+    - 508.99749755859375
+    - 688.938232421875
+    caption_adapted: false
+  detail_page: /research/2021-an-empirical-investigation-of-model-to-model-distribution-shifts-in-trained-convolutional-filters/
+  detail_status: complete
+  abstract_source: https://arxiv.org/pdf/2201.08465
 - title: Multi-Class Multi-Instance Count Conditioned Adversarial Image Generation
   year: '2021'
   code: https://github.com/boschresearch/MCCGAN
@@ -82,6 +202,26 @@
   - 403.1854553222656
   summary_source: https://openaccess.thecvf.com/content/ICCV2021/papers/Saseendran_Multi-Class_Multi-Instance_Count_Conditioned_Adversarial_Image_Generation_ICCV_2021_paper.pdf
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://openaccess.thecvf.com/content/ICCV2021/papers/Saseendran_Multi-Class_Multi-Instance_Count_Conditioned_Adversarial_Image_Generation_ICCV_2021_paper.pdf#page=1
+    crop:
+    - 303.862060546875
+    - 215.72579956054688
+    - 550.1151733398438
+    - 403.1854553222656
+    caption_adapted: false
+  - number: 2
+    source: https://openaccess.thecvf.com/content/ICCV2021/papers/Saseendran_Multi-Class_Multi-Instance_Count_Conditioned_Adversarial_Image_Generation_ICCV_2021_paper.pdf#page=3
+    crop:
+    - 45.11199951171875
+    - 63.000579833984375
+    - 291.3651123046875
+    - 224.9357452392578
+    caption_adapted: false
+  detail_page: /research/2021-multi-class-multi-instance-count-conditioned-adversarial-image-generation/
+  detail_status: complete
+  abstract_source: https://openaccess.thecvf.com/content/ICCV2021/papers/Saseendran_Multi-Class_Multi-Instance_Count_Conditioned_Adversarial_Image_Generation_ICCV_2021_paper.pdf
 - title: Spectral distribution aware image generation
   year: '2021'
   code: https://github.com/steffen-jung/SpectralGAN
@@ -94,6 +234,26 @@
   - 342.58563232421875
   summary_source: https://arxiv.org/pdf/2012.03110
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://arxiv.org/pdf/2012.03110#page=2
+    crop:
+    - 314.50616455078125
+    - 43.840240478515625
+    - 563.1228637695312
+    - 342.58563232421875
+    caption_adapted: false
+  - number: 2
+    source: https://arxiv.org/pdf/2012.03110#page=3
+    crop:
+    - 314.50616455078125
+    - 44.83844757080078
+    - 563.1229248046875
+    - 177.32008361816406
+    caption_adapted: false
+  detail_page: /research/2021-spectral-distribution-aware-image-generation/
+  detail_status: complete
+  abstract_source: https://arxiv.org/pdf/2012.03110
 - title: Aliasing coincides with CNNs vulnerability towards adversarial attacks
   year: '2022'
   figure: images/publications/009-aliasing-coincides-with-cnns-vulnerability-towards-adversarial-attacks.webp
@@ -105,6 +265,26 @@
   - 407.26947021484375
   summary_source: https://openreview.net/references/pdf?id=Cdlz1Q74s6
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://openreview.net/references/pdf?id=Cdlz1Q74s6#page=1
+    crop:
+    - 314.5
+    - 205.99609375
+    - 563.004638671875
+    - 407.26947021484375
+    caption_adapted: false
+  - number: 2
+    source: https://openreview.net/references/pdf?id=Cdlz1Q74s6#page=3
+    crop:
+    - 35.0
+    - 45.00306701660156
+    - 577.0
+    - 147.61549377441406
+    caption_adapted: false
+  detail_page: /research/2022-aliasing-coincides-with-cnns-vulnerability-towards-adversarial-attacks/
+  detail_status: complete
+  abstract_source: https://openreview.net/references/pdf?id=Cdlz1Q74s6
 - title: Is RobustBench/AutoAttack a suitable Benchmark for Adversarial Robustness?
   year: '2022'
   code: https://github.com/adverML/SpectralDef_Framework
@@ -117,6 +297,26 @@
   - 386.9124450683594
   summary_source: https://arxiv.org/pdf/2112.01601
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://arxiv.org/pdf/2112.01601#page=1
+    crop:
+    - 314.5
+    - 206.00222778320312
+    - 563.0046997070312
+    - 386.9124450683594
+    caption_adapted: false
+  - number: 2
+    source: https://arxiv.org/pdf/2112.01601#page=3
+    crop:
+    - 314.5
+    - 450.8292236328125
+    - 563.0045776367188
+    - 630.740478515625
+    caption_adapted: false
+  detail_page: /research/2022-is-robustbench-autoattack-a-suitable-benchmark-for-adversarial-robustness/
+  detail_status: complete
+  abstract_source: https://arxiv.org/pdf/2112.01601
 - title: Robust Models are less Over-Confident
   year: '2022'
   code: https://github.com/GeJulia/robustness_confidences_evaluation
@@ -129,6 +329,28 @@
   - 365.4884033203125
   summary_source: https://arxiv.org/pdf/2210.05938
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://arxiv.org/pdf/2210.05938#page=5
+    crop:
+    - 35.0
+    - 133.91506958007812
+    - 577.0
+    - 365.4884033203125
+    caption_adapted: false
+  - number: 2
+    source: https://arxiv.org/pdf/2210.05938#page=5
+    crop:
+    - 103.00003051757812
+    - 530.0870361328125
+    - 510.64947509765625
+    - 650.217529296875
+    caption_adapted: false
+  detail_page: /research/2022-robust-models-are-less-over-confident/
+  detail_status: complete
+  abstract_source: https://arxiv.org/pdf/2210.05938
+  detail_note: Uses the linked public preprint shared with the later full-conference entry; the workshop version
+    may differ.
 - title: Surrogate NAS benchmarks - Going beyond the limited search spaces of tabular NAS benchmarks
   year: '2022'
   code: https://github.com/automl/nasbench301
@@ -141,6 +363,26 @@
   - 325
   summary_source: https://pure.mpg.de/rest/items/item_3404264/component/file_3404265/content
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://pure.mpg.de/rest/items/item_3404264/component/file_3404265/content#page=3
+    crop:
+    - 360.0
+    - 239.0
+    - 516.0
+    - 325.0
+    caption_adapted: false
+  - number: 2
+    source: https://pure.mpg.de/rest/items/item_3404264/component/file_3404265/content#page=7
+    crop:
+    - 103.0
+    - 72.86100006103516
+    - 509.0014343261719
+    - 192.99037170410156
+    caption_adapted: false
+  detail_page: /research/2022-surrogate-nas-benchmarks-going-beyond-the-limited-search-spaces-of-tabular-nas-benchmarks/
+  detail_status: complete
+  abstract_source: https://pure.mpg.de/rest/items/item_3404264/component/file_3404265/content
 - title: Higher-Order Multicuts for Geometric Model Fitting and Motion Segmentation
   year: '2022'
   figure: images/publications/013-higher-order-multicuts-for-geometric-model-fitting-and-motion-segmentation.webp
@@ -152,6 +394,26 @@
   - 164.49017333984375
   summary_source: https://pure.mpg.de/rest/items/item_3367293_6/component/file_3367904/content
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://pure.mpg.de/rest/items/item_3367293_6/component/file_3367904/content#page=4
+    crop:
+    - 43.0
+    - 33.897037506103516
+    - 305.0
+    - 164.49017333984375
+    caption_adapted: false
+  - number: 2
+    source: https://pure.mpg.de/rest/items/item_3367293_6/component/file_3367904/content#page=6
+    crop:
+    - 307.0
+    - 34.69761657714844
+    - 569.0000610351562
+    - 169.919189453125
+    caption_adapted: false
+  detail_page: /research/2022-higher-order-multicuts-for-geometric-model-fitting-and-motion-segmentation/
+  detail_status: complete
+  abstract_source: https://pure.mpg.de/rest/items/item_3367293_6/component/file_3367904/content
 - title: Aliasing and adversarial robust generalization of CNNs
   year: '2022'
   figure: images/publications/014-aliasing-and-adversarial-robust-generalization-of-cnns.webp
@@ -163,6 +425,26 @@
   - 620
   summary_source: https://link.springer.com/content/pdf/10.1007/s10994-022-06222-8.pdf
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://link.springer.com/content/pdf/10.1007/s10994-022-06222-8.pdf#page=2
+    crop:
+    - 166.0
+    - 419.0
+    - 397.0
+    - 620.0
+    caption_adapted: false
+  - number: 2
+    source: https://link.springer.com/content/pdf/10.1007/s10994-022-06222-8.pdf#page=6
+    crop:
+    - 35.0
+    - 461.1490173339844
+    - 404.3699951171875
+    - 568.2056274414062
+    caption_adapted: false
+  detail_page: /research/2022-aliasing-and-adversarial-robust-generalization-of-cnns/
+  detail_status: complete
+  abstract_source: https://link.springer.com/content/pdf/10.1007/s10994-022-06222-8.pdf
 - title: Adversarial Robustness Through the Lens of Convolutional Filters
   year: '2022'
   code: https://github.com/paulgavrikov/cvpr22w_RobustnessThroughTheLens
@@ -175,6 +457,26 @@
   - 381.5452880859375
   summary_source: https://openaccess.thecvf.com/content/CVPR2022W/ArtOfRobust/papers/Gavrikov_Adversarial_Robustness_Through_the_Lens_of_Convolutional_Filters_CVPRW_2022_paper.pdf
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://openaccess.thecvf.com/content/CVPR2022W/ArtOfRobust/papers/Gavrikov_Adversarial_Robustness_Through_the_Lens_of_Convolutional_Filters_CVPRW_2022_paper.pdf#page=1
+    crop:
+    - 303.86199951171875
+    - 203.75521850585938
+    - 550.112548828125
+    - 381.5452880859375
+    caption_adapted: false
+  - number: 2
+    source: https://openaccess.thecvf.com/content/CVPR2022W/ArtOfRobust/papers/Gavrikov_Adversarial_Robustness_Through_the_Lens_of_Convolutional_Filters_CVPRW_2022_paper.pdf#page=3
+    crop:
+    - 45.11199951171875
+    - 72.41581726074219
+    - 291.3586730957031
+    - 235.42398071289062
+    caption_adapted: false
+  detail_page: /research/2022-adversarial-robustness-through-the-lens-of-convolutional-filters/
+  detail_status: complete
+  abstract_source: https://openaccess.thecvf.com/content/CVPR2022W/ArtOfRobust/papers/Gavrikov_Adversarial_Robustness_Through_the_Lens_of_Convolutional_Filters_CVPRW_2022_paper.pdf
 - title: CNN Filter DB - An Empirical Investigation of Trained Convolutional Filters
   year: '2022'
   code: https://github.com/paulgavrikov/CNN-Filter-DB
@@ -187,6 +489,26 @@
   - 365.2442932128906
   summary_source: https://openaccess.thecvf.com/content/CVPR2022/papers/Gavrikov_CNN_Filter_DB_An_Empirical_Investigation_of_Trained_Convolutional_Filters_CVPR_2022_paper.pdf
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://openaccess.thecvf.com/content/CVPR2022/papers/Gavrikov_CNN_Filter_DB_An_Empirical_Investigation_of_Trained_Convolutional_Filters_CVPR_2022_paper.pdf#page=1
+    crop:
+    - 303.8619689941406
+    - 203.76914978027344
+    - 550.1157836914062
+    - 365.2442932128906
+    caption_adapted: false
+  - number: 2
+    source: https://openaccess.thecvf.com/content/CVPR2022/papers/Gavrikov_CNN_Filter_DB_An_Empirical_Investigation_of_Trained_Convolutional_Filters_CVPR_2022_paper.pdf#page=4
+    crop:
+    - 35.0
+    - 63.00037384033203
+    - 577.0
+    - 297.333984375
+    caption_adapted: false
+  detail_page: /research/2022-cnn-filter-db-an-empirical-investigation-of-trained-convolutional-filters/
+  detail_status: complete
+  abstract_source: https://openaccess.thecvf.com/content/CVPR2022/papers/Gavrikov_CNN_Filter_DB_An_Empirical_Investigation_of_Trained_Convolutional_Filters_CVPR_2022_paper.pdf
 - title: FrequencyLowCut Pooling--Plug & Play against Catastrophic Overfitting
   year: '2022'
   code: https://github.com/GeJulia/flc_pooling
@@ -199,6 +521,26 @@
   - 213.3975067138672
   summary_source: https://arxiv.org/pdf/2204.00491
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://arxiv.org/pdf/2204.00491#page=5
+    crop:
+    - 129.7649688720703
+    - 114.58305358886719
+    - 485.66180419921875
+    - 213.3975067138672
+    caption_adapted: false
+  - number: 2
+    source: https://arxiv.org/pdf/2204.00491#page=5
+    crop:
+    - 130
+    - 335
+    - 486
+    - 440
+    caption_adapted: false
+  detail_page: /research/2022-frequencylowcut-pooling-plug-play-against-catastrophic-overfitting/
+  detail_status: complete
+  abstract_source: https://arxiv.org/pdf/2204.00491
 - title: Learning Where To Look--Generative NAS is Surprisingly Efficient
   year: '2022'
   code: https://github.com/jovitalukasik/AG-Net
@@ -211,6 +553,26 @@
   - 203.2039031982422
   summary_source: https://arxiv.org/pdf/2203.08734
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://arxiv.org/pdf/2203.08734#page=2
+    crop:
+    - 129.76499938964844
+    - 105.83387756347656
+    - 485.626708984375
+    - 203.2039031982422
+    caption_adapted: false
+  - number: 2
+    source: https://arxiv.org/pdf/2203.08734#page=5
+    crop:
+    - 129.76499938964844
+    - 106.83511352539062
+    - 485.66510009765625
+    - 208.41990661621094
+    caption_adapted: false
+  detail_page: /research/2022-learning-where-to-look-generative-nas-is-surprisingly-efficient/
+  detail_status: complete
+  abstract_source: https://arxiv.org/pdf/2203.08734
 - title: Physics-informed learning of aerosol microphysics
   year: '2022'
   code: https://github.com/paulaharder/aerosol-microphysics-emulation
@@ -223,6 +585,26 @@
   - 217.0154571533203
   summary_source: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C468660D2AEE8E25DC3BF507517FF91A/S263446022200022Xa.pdf/div-class-title-physics-informed-learning-of-aerosol-microphysics-div.pdf
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C468660D2AEE8E25DC3BF507517FF91A/S263446022200022Xa.pdf/div-class-title-physics-informed-learning-of-aerosol-microphysics-div.pdf#page=3
+    crop:
+    - 35.0
+    - 65.30497741699219
+    - 458.2279968261719
+    - 217.0154571533203
+    caption_adapted: false
+  - number: 2
+    source: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C468660D2AEE8E25DC3BF507517FF91A/S263446022200022Xa.pdf/div-class-title-physics-informed-learning-of-aerosol-microphysics-div.pdf#page=6
+    crop:
+    - 35.0
+    - 269.37933349609375
+    - 458.2279968261719
+    - 366.9681701660156
+    caption_adapted: false
+  detail_page: /research/2022-physics-informed-learning-of-aerosol-microphysics/
+  detail_status: complete
+  abstract_source: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C468660D2AEE8E25DC3BF507517FF91A/S263446022200022Xa.pdf/div-class-title-physics-informed-learning-of-aerosol-microphysics-div.pdf
 - title: Does Medical Imaging learn different Convolution Filters?
   year: '2022'
   code: https://github.com/paulgavrikov/neurips22w_medical_conv_filters
@@ -235,6 +617,26 @@
   - 180.16128540039062
   summary_source: https://arxiv.org/pdf/2210.13799
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://arxiv.org/pdf/2210.13799#page=2
+    crop:
+    - 103.0
+    - 61.99870300292969
+    - 508.9973449707031
+    - 180.16128540039062
+    caption_adapted: false
+  - number: 2
+    source: https://arxiv.org/pdf/2210.13799#page=2
+    crop:
+    - 382
+    - 458
+    - 510
+    - 582
+    caption_adapted: false
+  detail_page: /research/2022-does-medical-imaging-learn-different-convolution-filters/
+  detail_status: complete
+  abstract_source: https://arxiv.org/pdf/2210.13799
 - title: Impact of realistic properties of the point spread function on classification tasks to reveal a possible
     distribution shift
   year: '2022'
@@ -247,6 +649,26 @@
   - 170.23410034179688
   summary_source: https://pure.mpg.de/rest/items/item_3473172/component/file_3473173/content
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://pure.mpg.de/rest/items/item_3473172/component/file_3473173/content#page=4
+    crop:
+    - 102.64099884033203
+    - 58.517669677734375
+    - 516.460205078125
+    - 170.23410034179688
+    caption_adapted: false
+  - number: 2
+    source: https://pure.mpg.de/rest/items/item_3473172/component/file_3473173/content#page=4
+    crop:
+    - 103.0
+    - 235.68099975585938
+    - 509.66796875
+    - 355.82073974609375
+    caption_adapted: false
+  detail_page: /research/2022-impact-of-realistic-properties-of-the-point-spread-function-on-classification-tasks-to-reveal-a-possible-distributi/
+  detail_status: complete
+  abstract_source: https://pure.mpg.de/rest/items/item_3473172/component/file_3473173/content
 - title: Robust Models are less Over-Confident
   year: '2022'
   code: https://github.com/GeJulia/robustness_confidences_evaluation
@@ -259,6 +681,26 @@
   - 365.4884033203125
   summary_source: https://arxiv.org/pdf/2210.05938
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://arxiv.org/pdf/2210.05938#page=5
+    crop:
+    - 35.0
+    - 133.91506958007812
+    - 577.0
+    - 365.4884033203125
+    caption_adapted: false
+  - number: 2
+    source: https://arxiv.org/pdf/2210.05938#page=5
+    crop:
+    - 103.00003051757812
+    - 530.0870361328125
+    - 510.64947509765625
+    - 650.217529296875
+    caption_adapted: false
+  detail_page: /research/2022-robust-models-are-less-over-confident-22/
+  detail_status: complete
+  abstract_source: https://arxiv.org/pdf/2210.05938
 - title: Trading off Image Quality for Robustness is not Necessary with Regularized Deterministic Autoencoders
   year: '2022'
   code: https://github.com/boschresearch/Robust_GMM_DAE
@@ -271,6 +713,26 @@
   - 180.6787567138672
   summary_source: https://pure.mpg.de/rest/items/item_3473164/component/file_3473165/content
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://pure.mpg.de/rest/items/item_3473164/component/file_3473165/content#page=5
+    crop:
+    - 102.6709976196289
+    - 62.00030517578125
+    - 509.0045166015625
+    - 180.6787567138672
+    caption_adapted: true
+  - number: 2
+    source: https://pure.mpg.de/rest/items/item_3473164/component/file_3473165/content#page=7
+    crop:
+    - 103
+    - 68
+    - 509
+    - 275
+    caption_adapted: false
+  detail_page: /research/2022-trading-off-image-quality-for-robustness-is-not-necessary-with-regularized-deterministic-autoencoders/
+  detail_status: complete
+  abstract_source: https://pure.mpg.de/rest/items/item_3473164/component/file_3473165/content
 - title: Neural Architecture Design and Robustness - A Dataset
   year: '2023'
   code: https://github.com/steffen-jung/robustness-dataset
@@ -283,6 +745,26 @@
   - 176.61558532714844
   summary_source: https://arxiv.org/pdf/2306.06712
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://arxiv.org/pdf/2306.06712#page=3
+    crop:
+    - 102.67098999023438
+    - 71.86038208007812
+    - 509.00018310546875
+    - 176.61558532714844
+    caption_adapted: false
+  - number: 2
+    source: https://arxiv.org/pdf/2306.06712#page=4
+    crop:
+    - 102.99996948242188
+    - 80.60100555419922
+    - 509.7720642089844
+    - 188.12193298339844
+    caption_adapted: false
+  detail_page: /research/2023-neural-architecture-design-and-robustness-a-dataset/
+  detail_status: complete
+  abstract_source: https://arxiv.org/pdf/2306.06712
 - title: Deep diffusion models for seismic processing
   year: '2023'
   code: https://github.com/dlseis/diffseis
@@ -295,6 +777,26 @@
   - 298.9388732910156
   summary_source: https://opus.hs-offenburg.de/frontdoor/deliver/index/docId/8238/file/1-s2.0-S009830042300081X-main.pdf
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://opus.hs-offenburg.de/frontdoor/deliver/index/docId/8238/file/1-s2.0-S009830042300081X-main.pdf#page=3
+    crop:
+    - 301.60400390625
+    - 45.78898620605469
+    - 562.6826782226562
+    - 298.9388732910156
+    caption_adapted: false
+  - number: 2
+    source: https://opus.hs-offenburg.de/frontdoor/deliver/index/docId/8238/file/1-s2.0-S009830042300081X-main.pdf#page=4
+    crop:
+    - 32.58700180053711
+    - 46.78899383544922
+    - 293.67144775390625
+    - 153.04888916015625
+    caption_adapted: false
+  detail_page: /research/2023-deep-diffusion-models-for-seismic-processing/
+  detail_status: complete
+  abstract_source: https://opus.hs-offenburg.de/frontdoor/deliver/index/docId/8238/file/1-s2.0-S009830042300081X-main.pdf
 - title: An Extended Study of Human-like Behavior under Adversarial Training
   year: '2023'
   code: https://github.com/paulgavrikov/adversarial_training_vs_humans
@@ -307,6 +809,26 @@
   - 277.3359680175781
   summary_source: https://openaccess.thecvf.com/content/CVPR2023W/AML/papers/Gavrikov_An_Extended_Study_of_Human-Like_Behavior_Under_Adversarial_Training_CVPRW_2023_paper.pdf
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://openaccess.thecvf.com/content/CVPR2023W/AML/papers/Gavrikov_An_Extended_Study_of_Human-Like_Behavior_Under_Adversarial_Training_CVPRW_2023_paper.pdf#page=2
+    crop:
+    - 303.86199951171875
+    - 68.4764633178711
+    - 550.1087646484375
+    - 277.3359680175781
+    caption_adapted: false
+  - number: 2
+    source: https://openaccess.thecvf.com/content/CVPR2023W/AML/papers/Gavrikov_An_Extended_Study_of_Human-Like_Behavior_Under_Adversarial_Training_CVPRW_2023_paper.pdf#page=3
+    crop:
+    - 45.11199951171875
+    - 63.334075927734375
+    - 291.358642578125
+    - 179.00698852539062
+    caption_adapted: false
+  detail_page: /research/2023-an-extended-study-of-human-like-behavior-under-adversarial-training/
+  detail_status: complete
+  abstract_source: https://openaccess.thecvf.com/content/CVPR2023W/AML/papers/Gavrikov_An_Extended_Study_of_Human-Like_Behavior_Under_Adversarial_Training_CVPRW_2023_paper.pdf
 - title: Happy People -- Image Synthesis as Black-Box Optimization Problem in the Discrete Latent Space of Deep
     Generative Models
   year: '2023'
@@ -319,6 +841,26 @@
   - 334
   summary_source: https://arxiv.org/pdf/2306.06684
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://arxiv.org/pdf/2306.06684#page=1
+    crop:
+    - 80.0
+    - 225.0
+    - 540.0
+    - 334.0
+    caption_adapted: false
+  - number: 2
+    source: https://arxiv.org/pdf/2306.06684#page=3
+    crop:
+    - 35.0
+    - 65.0225830078125
+    - 577.0
+    - 266.651123046875
+    caption_adapted: false
+  detail_page: /research/2023-happy-people-image-synthesis-as-black-box-optimization-problem-in-the-discrete-latent-space-of-deep-generative-mode/
+  detail_status: complete
+  abstract_source: https://arxiv.org/pdf/2306.06684
 - title: Fine-Grained Product Classification on Leaflet Advertisements
   year: '2023'
   code: https://github.com/ladwigd/Leaflet-Product-Classification
@@ -331,6 +873,26 @@
   - 326.6899719238281
   summary_source: https://arxiv.org/pdf/2305.03706
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://arxiv.org/pdf/2305.03706#page=1
+    crop:
+    - 303.86199951171875
+    - 204.71878051757812
+    - 550.1087646484375
+    - 326.6899719238281
+    caption_adapted: false
+  - number: 2
+    source: https://arxiv.org/pdf/2305.03706#page=2
+    crop:
+    - 316.40899658203125
+    - 63.000396728515625
+    - 537.567626953125
+    - 316.6099853515625
+    caption_adapted: false
+  detail_page: /research/2023-fine-grained-product-classification-on-leaflet-advertisements/
+  detail_status: complete
+  abstract_source: https://arxiv.org/pdf/2305.03706
 - title: Neural Architecture Design and Robustness -- A Dataset
   year: '2023'
   code: https://github.com/steffen-jung/robustness-dataset
@@ -343,6 +905,26 @@
   - 327.19110107421875
   summary_source: https://robustart.github.io/short_paper/33.pdf
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://robustart.github.io/short_paper/33.pdf#page=1
+    crop:
+    - 303.8619689941406
+    - 217.73928833007812
+    - 550.1134643554688
+    - 327.19110107421875
+    caption_adapted: false
+  - number: 2
+    source: https://robustart.github.io/short_paper/33.pdf#page=2
+    crop:
+    - 45.11198425292969
+    - 72.42518615722656
+    - 291.3594970703125
+    - 314.9211120605469
+    caption_adapted: false
+  detail_page: /research/2023-neural-architecture-design-and-robustness-a-dataset-29/
+  detail_status: complete
+  abstract_source: https://robustart.github.io/short_paper/33.pdf
 - title: Intra-Source Style Augmentation for Improved Domain Generalization
   year: '2023'
   code: https://github.com/boschresearch/ISSA
@@ -355,11 +937,34 @@
   - 365.8089904785156
   summary_source: https://generative-vision.github.io/workshop-CVPR-23/data/12.pdf
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://generative-vision.github.io/workshop-CVPR-23/data/12.pdf#page=1
+    crop:
+    - 303.583984375
+    - 210.74459838867188
+    - 551.6807861328125
+    - 365.8089904785156
+    caption_adapted: false
+  - number: 2
+    source: https://generative-vision.github.io/workshop-CVPR-23/data/12.pdf#page=2
+    crop:
+    - 45
+    - 55
+    - 550
+    - 209
+    caption_adapted: false
+  detail_page: /research/2023-intra-source-style-augmentation-for-improved-domain-generalization/
+  detail_status: complete
+  abstract_source: https://generative-vision.github.io/workshop-CVPR-23/data/12.pdf
 - title: Assessing Domain Generalization of Semantic Segmenters with Synthetic Data
   year: '2023'
   figure_status: Needs an accessible PDF or author-supplied figure.
   summary_source: https://sites.google.com/view/vdu-cvpr23
   review_status: Title-based scope description only; full text required to verify contributions.
+  detail_page: /research/2023-assessing-domain-generalization-of-semantic-segmenters-with-synthetic-data/
+  detail_status: needs-pdf
+  abstract_source: null
 - title: On the Interplay of Convolutional Padding and Adversarial Robustness
   year: '2023'
   code: https://github.com/paulgavrikov/padding_robustness
@@ -372,6 +977,26 @@
   - 334.8170166015625
   summary_source: https://arxiv.org/pdf/2308.06612
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://arxiv.org/pdf/2308.06612#page=1
+    crop:
+    - 303.8619689941406
+    - 203.76914978027344
+    - 550.1151123046875
+    - 334.8170166015625
+    caption_adapted: false
+  - number: 2
+    source: https://arxiv.org/pdf/2308.06612#page=2
+    crop:
+    - 45.11199951171875
+    - 62.999664306640625
+    - 291.3663330078125
+    - 140.5780029296875
+    caption_adapted: false
+  detail_page: /research/2023-on-the-interplay-of-convolutional-padding-and-adversarial-robustness/
+  detail_status: complete
+  abstract_source: https://arxiv.org/pdf/2308.06612
 - title: On the unreasonable vulnerability of transformers for image restoration and an easy fix
   year: '2023'
   figure: images/publications/033-on-the-unreasonable-vulnerability-of-transformers-for-image-restoration-and-an-easy-fix.webp
@@ -383,6 +1008,26 @@
   - 583.3169555664062
   summary_source: https://arxiv.org/pdf/2307.13856
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://arxiv.org/pdf/2307.13856#page=1
+    crop:
+    - 303.86199951171875
+    - 426.64520263671875
+    - 550.1087036132812
+    - 583.3169555664062
+    caption_adapted: false
+  - number: 2
+    source: https://arxiv.org/pdf/2307.13856#page=4
+    crop:
+    - 35.0
+    - 63.002777099609375
+    - 577.0
+    - 358.358154296875
+    caption_adapted: false
+  detail_page: /research/2023-on-the-unreasonable-vulnerability-of-transformers-for-image-restoration-and-an-easy-fix/
+  detail_status: complete
+  abstract_source: https://arxiv.org/pdf/2307.13856
 - title: An In-Depth Study of U-net for Seismic Data Conditioning - Multiple Removal by Move-Out Discrimination
   year: '2023'
   figure: images/publications/034-an-in-depth-study-of-u-net-for-seismic-data-conditioning-multiple-removal-by-move-out-discrimination.webp
@@ -394,6 +1039,26 @@
   - 306.8333435058594
   summary_source: https://opus.hs-offenburg.de/frontdoor/deliver/index/docId/8245/file/durall-et-al-2023.pdf
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://opus.hs-offenburg.de/frontdoor/deliver/index/docId/8245/file/durall-et-al-2023.pdf#page=4
+    crop:
+    - 307.8880920410156
+    - 163.4810333251953
+    - 556.965576171875
+    - 306.8333435058594
+    caption_adapted: false
+  - number: 2
+    source: https://opus.hs-offenburg.de/frontdoor/deliver/index/docId/8245/file/durall-et-al-2023.pdf#page=4
+    crop:
+    - 236
+    - 354
+    - 557
+    - 654
+    caption_adapted: false
+  detail_page: /research/2023-an-in-depth-study-of-u-net-for-seismic-data-conditioning-multiple-removal-by-move-out-discrimination/
+  detail_status: complete
+  abstract_source: https://opus.hs-offenburg.de/frontdoor/deliver/index/docId/8245/file/durall-et-al-2023.pdf
 - title: Improving Native CNN Robustness with Filter Frequency Regularization
   year: '2023'
   code: https://github.com/jovitalukasik/filter_freq_reg
@@ -406,6 +1071,26 @@
   - 230.6582489013672
   summary_source: https://pure.mpg.de/rest/items/item_3583280/component/file_3583281/content
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://pure.mpg.de/rest/items/item_3583280/component/file_3583281/content#page=2
+    crop:
+    - 35.0
+    - 72.21289825439453
+    - 577.0
+    - 230.6582489013672
+    caption_adapted: false
+  - number: 2
+    source: https://pure.mpg.de/rest/items/item_3583280/component/file_3583281/content#page=5
+    crop:
+    - 177.96202087402344
+    - 227.27020263671875
+    - 434.14776611328125
+    - 342.2492370605469
+    caption_adapted: false
+  detail_page: /research/2023-improving-native-cnn-robustness-with-filter-frequency-regularization/
+  detail_status: complete
+  abstract_source: https://pure.mpg.de/rest/items/item_3583280/component/file_3583281/content
 - title: Improving Feature Stability during Upsampling-Spectral Artifacts and the Importance of Spatial Context
   year: '2024'
   figure: images/publications/036-improving-feature-stability-during-upsampling-spectral-artifacts-and-the-importance-of-spatial-context.webp
@@ -417,6 +1102,26 @@
   - 312.76910400390625
   summary_source: https://pure.mpg.de/rest/items/item_3611850_1/component/file_3611851/content
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://pure.mpg.de/rest/items/item_3611850_1/component/file_3611851/content#page=2
+    crop:
+    - 129.76499938964844
+    - 105.83616638183594
+    - 485.5947570800781
+    - 312.76910400390625
+    caption_adapted: false
+  - number: 2
+    source: https://pure.mpg.de/rest/items/item_3611850_1/component/file_3611851/content#page=6
+    crop:
+    - 130
+    - 112
+    - 486
+    - 186
+    caption_adapted: false
+  detail_page: /research/2024-improving-feature-stability-during-upsampling-spectral-artifacts-and-the-importance-of-spatial-context/
+  detail_status: complete
+  abstract_source: https://pure.mpg.de/rest/items/item_3611850_1/component/file_3611851/content
 - title: Fake or JPEG? Revealing Common Biases in Generated Image Detection Datasets
   year: '2024'
   code: https://github.com/gendetection/UnbiasedGenImage
@@ -429,6 +1134,26 @@
   - 273.5948791503906
   summary_source: https://arxiv.org/pdf/2403.17608
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://arxiv.org/pdf/2403.17608#page=4
+    crop:
+    - 35.0
+    - 61.99647521972656
+    - 577.0
+    - 273.5948791503906
+    caption_adapted: false
+  - number: 2
+    source: https://arxiv.org/pdf/2403.17608#page=5
+    crop:
+    - 35.0
+    - 62.999847412109375
+    - 577.0
+    - 403.8481140136719
+    caption_adapted: false
+  detail_page: /research/2024-fake-or-jpeg-revealing-common-biases-in-generated-image-detection-datasets/
+  detail_status: complete
+  abstract_source: https://arxiv.org/pdf/2403.17608
 - title: Can Visual Language Models Replace  OCR-Based Visual Question Answering Pipelines in Production? A Case
     Study in Retail
   year: '2024'
@@ -441,6 +1166,26 @@
   - 383.06298828125
   summary_source: https://arxiv.org/pdf/2408.15626
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://arxiv.org/pdf/2408.15626#page=1
+    crop:
+    - 303.86199951171875
+    - 236.296875
+    - 550.1087036132812
+    - 383.06298828125
+    caption_adapted: false
+  - number: 2
+    source: https://arxiv.org/pdf/2408.15626#page=3
+    crop:
+    - 45.11199951171875
+    - 280.4171142578125
+    - 291.35870361328125
+    - 426.1299743652344
+    caption_adapted: false
+  detail_page: /research/2024-can-visual-language-models-replace-ocr-based-visual-question-answering-pipelines-in-production-a-case-study-in-reta/
+  detail_status: complete
+  abstract_source: https://arxiv.org/pdf/2408.15626
 - title: Top-GAP - Integrating Size Priors in CNNs for more Interpretability, Robustness, and Bias Mitigation
   year: '2024'
   figure: images/publications/039-top-gap-integrating-size-priors-in-cnns-for-more-interpretability-robustness-and-bias-mitigation.webp
@@ -452,6 +1197,26 @@
   - 277.35589599609375
   summary_source: https://arxiv.org/pdf/2409.04819
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://arxiv.org/pdf/2409.04819#page=2
+    crop:
+    - 129.76499938964844
+    - 105.83268737792969
+    - 485.6437683105469
+    - 277.35589599609375
+    caption_adapted: false
+  - number: 2
+    source: https://arxiv.org/pdf/2409.04819#page=6
+    crop:
+    - 129.76499938964844
+    - 435.39984130859375
+    - 485.6438903808594
+    - 551.4208984375
+    caption_adapted: false
+  detail_page: /research/2024-top-gap-integrating-size-priors-in-cnns-for-more-interpretability-robustness-and-bias-mitigation/
+  detail_status: complete
+  abstract_source: https://arxiv.org/pdf/2409.04819
 - title: Adversarial Supervision Makes Layout-to-Image Diffusion Models Thrive
   year: '2024'
   code: https://github.com/boschresearch/ALDM
@@ -464,6 +1229,26 @@
   - 673.3134765625
   summary_source: https://arxiv.org/pdf/2401.08815
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://arxiv.org/pdf/2401.08815#page=1
+    crop:
+    - 102.99996948242188
+    - 430.17340087890625
+    - 509.0038757324219
+    - 673.3134765625
+    caption_adapted: false
+  - number: 2
+    source: https://arxiv.org/pdf/2401.08815#page=4
+    crop:
+    - 103.0
+    - 62.89686584472656
+    - 509.0031433105469
+    - 283.82452392578125
+    caption_adapted: false
+  detail_page: /research/2024-adversarial-supervision-makes-layout-to-image-diffusion-models-thrive/
+  detail_status: complete
+  abstract_source: https://arxiv.org/pdf/2401.08815
 - title: Urban Sound Propagation - a Benchmark for 1-Step Generative Modeling of Complex Physical Systems
   year: '2024'
   code: https://github.com/urban-sound-data/urban-sound-data
@@ -476,6 +1261,26 @@
   - 385.7154235839844
   summary_source: https://arxiv.org/pdf/2403.10904
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://arxiv.org/pdf/2403.10904#page=3
+    crop:
+    - 35.0
+    - 250.34237670898438
+    - 577.0
+    - 385.7154235839844
+    caption_adapted: false
+  - number: 2
+    source: https://arxiv.org/pdf/2403.10904#page=4
+    crop:
+    - 35.0
+    - 553.1737060546875
+    - 577.0
+    - 695.187255859375
+    caption_adapted: false
+  detail_page: /research/2024-urban-sound-propagation-a-benchmark-for-1-step-generative-modeling-of-complex-physical-systems/
+  detail_status: complete
+  abstract_source: https://arxiv.org/pdf/2403.10904
 - title: Retail-786k - a Large-Scale Dataset for Visual Entity Matching
   year: '2024'
   code: https://github.com/retail786k/retail786k-dataset
@@ -488,6 +1293,26 @@
   - 240.71829223632812
   summary_source: https://arxiv.org/pdf/2309.17164
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://arxiv.org/pdf/2309.17164#page=2
+    crop:
+    - 35.0
+    - 61.993797302246094
+    - 577.0
+    - 240.71829223632812
+    caption_adapted: false
+  - number: 2
+    source: https://arxiv.org/pdf/2309.17164#page=4
+    crop:
+    - 301.0
+    - 531.5379028320312
+    - 546.6515502929688
+    - 665.6787719726562
+    caption_adapted: false
+  detail_page: /research/2024-retail-786k-a-large-scale-dataset-for-visual-entity-matching/
+  detail_status: complete
+  abstract_source: https://arxiv.org/pdf/2309.17164
 - title: Intra- and extra-source exemplar-based style synthesis for improved domain generalization
   year: '2024'
   code: https://github.com/boschresearch/ISSA
@@ -500,6 +1325,26 @@
   - 209.08010864257812
   summary_source: https://link.springer.com/content/pdf/10.1007/s11263-023-01878-8.pdf
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://link.springer.com/content/pdf/10.1007/s11263-023-01878-8.pdf#page=2
+    crop:
+    - 46.03599548339844
+    - 46.35801696777344
+    - 294.15924072265625
+    - 209.08010864257812
+    caption_adapted: false
+  - number: 2
+    source: https://link.springer.com/content/pdf/10.1007/s11263-023-01878-8.pdf#page=4
+    crop:
+    - 47
+    - 52
+    - 548
+    - 369
+    caption_adapted: false
+  detail_page: /research/2024-intra-and-extra-source-exemplar-based-style-synthesis-for-improved-domain-generalization/
+  detail_status: complete
+  abstract_source: https://link.springer.com/content/pdf/10.1007/s11263-023-01878-8.pdf
 - title: Can Biases in ImageNet Models Explain Generalization?
   year: '2024'
   code: https://github.com/paulgavrikov/biases_vs_generalization
@@ -512,6 +1357,26 @@
   - 389.1531066894531
   summary_source: https://arxiv.org/pdf/2404.01509
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://arxiv.org/pdf/2404.01509#page=1
+    crop:
+    - 303.86199951171875
+    - 204.015625
+    - 550.1134643554688
+    - 389.1531066894531
+    caption_adapted: false
+  - number: 2
+    source: https://arxiv.org/pdf/2404.01509#page=5
+    crop:
+    - 35.0
+    - 62.99944305419922
+    - 577.0
+    - 167.00144958496094
+    caption_adapted: false
+  detail_page: /research/2024-can-biases-in-imagenet-models-explain-generalization/
+  detail_status: complete
+  abstract_source: https://arxiv.org/pdf/2404.01509
 - title: Ambiguous Annotations - When is a Pedestrian not a Pedestrian?
   year: '2024'
   figure: images/publications/045-ambiguous-annotations-when-is-a-pedestrian-not-a-pedestrian.webp
@@ -523,6 +1388,26 @@
   - 352.9649658203125
   summary_source: https://arxiv.org/pdf/2405.08794
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://arxiv.org/pdf/2405.08794#page=3
+    crop:
+    - 35.0
+    - 62.59935760498047
+    - 577.0
+    - 352.9649658203125
+    caption_adapted: false
+  - number: 2
+    source: https://arxiv.org/pdf/2405.08794#page=3
+    crop:
+    - 45
+    - 383
+    - 550
+    - 686
+    caption_adapted: false
+  detail_page: /research/2024-ambiguous-annotations-when-is-a-pedestrian-not-a-pedestrian/
+  detail_status: complete
+  abstract_source: https://arxiv.org/pdf/2405.08794
 - title: Are Vision Language Models Texture or Shape Biased and Can We Steer Them?
   year: '2024'
   code: https://github.com/paulgavrikov/vlm_shapebias
@@ -535,6 +1420,26 @@
   - 294.0180969238281
   summary_source: https://raw.githubusercontent.com/EliSchwartz/MMFM24/main/52.pdf
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://raw.githubusercontent.com/EliSchwartz/MMFM24/main/52.pdf#page=1
+    crop:
+    - 303.86199951171875
+    - 232.72837829589844
+    - 550.109375
+    - 294.0180969238281
+    caption_adapted: false
+  - number: 2
+    source: https://raw.githubusercontent.com/EliSchwartz/MMFM24/main/52.pdf#page=2
+    crop:
+    - 303.86199951171875
+    - 62.99896240234375
+    - 550.1115112304688
+    - 199.3831329345703
+    caption_adapted: false
+  detail_page: /research/2024-are-vision-language-models-texture-or-shape-biased-and-can-we-steer-them/
+  detail_status: complete
+  abstract_source: https://raw.githubusercontent.com/EliSchwartz/MMFM24/main/52.pdf
 - title: As large as it gets-Studying Infinitely Large Convolutions via Neural Implicit Frequency Filters
   year: '2024'
   code: https://github.com/GeJulia/NIFF
@@ -547,6 +1452,26 @@
   - 309.71490478515625
   summary_source: https://arxiv.org/pdf/2307.10001
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://arxiv.org/pdf/2307.10001#page=2
+    crop:
+    - 35.0
+    - 76.01800537109375
+    - 577.0
+    - 309.71490478515625
+    caption_adapted: false
+  - number: 2
+    source: https://arxiv.org/pdf/2307.10001#page=5
+    crop:
+    - 35.0
+    - 318.8956298828125
+    - 577.0
+    - 451.919921875
+    caption_adapted: false
+  detail_page: /research/2024-as-large-as-it-gets-studying-infinitely-large-convolutions-via-neural-implicit-frequency-filters/
+  detail_status: complete
+  abstract_source: https://arxiv.org/pdf/2307.10001
 - title: CosPGD - an efficient white-box adversarial attack for pixel-wise prediction tasks
   year: '2024'
   code: https://github.com/shashankskagnihotri/cospgd
@@ -559,6 +1484,26 @@
   - 354.1532897949219
   summary_source: https://arxiv.org/pdf/2302.02213
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://arxiv.org/pdf/2302.02213#page=1
+    crop:
+    - 302.44000244140625
+    - 165.35977172851562
+    - 548.0936279296875
+    - 354.1532897949219
+    caption_adapted: false
+  - number: 2
+    source: https://arxiv.org/pdf/2302.02213#page=5
+    crop:
+    - 302.44000244140625
+    - 58.06048583984375
+    - 546.6841430664062
+    - 327.4227600097656
+    caption_adapted: false
+  detail_page: /research/2024-cospgd-an-efficient-white-box-adversarial-attack-for-pixel-wise-prediction-tasks/
+  detail_status: complete
+  abstract_source: https://arxiv.org/pdf/2302.02213
 - title: MultiMax - Sparse and Multi-Modal Attention Learning
   year: '2024'
   code: https://github.com/ZhouYuxuanYX/MultiMax
@@ -571,6 +1516,26 @@
   - 264.433349609375
   summary_source: https://arxiv.org/pdf/2406.01189
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://arxiv.org/pdf/2406.01189#page=2
+    crop:
+    - 35.0
+    - 57.06059265136719
+    - 577.0
+    - 264.433349609375
+    caption_adapted: false
+  - number: 2
+    source: https://arxiv.org/pdf/2406.01189#page=5
+    crop:
+    - 49.93798828125
+    - 545.83203125
+    - 295.9263610839844
+    - 663.7029418945312
+    caption_adapted: false
+  detail_page: /research/2024-multimax-sparse-and-multi-modal-attention-learning/
+  detail_status: complete
+  abstract_source: https://arxiv.org/pdf/2406.01189
 - title: Implicit Representations for Constrained Image Segmentation
   year: '2024'
   code: https://github.com/jp-schneider/awesome
@@ -583,6 +1548,26 @@
   - 273.85369873046875
   summary_source: https://raw.githubusercontent.com/mlresearch/v235/main/assets/schneider24a/schneider24a.pdf
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://raw.githubusercontent.com/mlresearch/v235/main/assets/schneider24a/schneider24a.pdf#page=3
+    crop:
+    - 35.0
+    - 57.05842590332031
+    - 577.0
+    - 273.85369873046875
+    caption_adapted: false
+  - number: 2
+    source: https://raw.githubusercontent.com/mlresearch/v235/main/assets/schneider24a/schneider24a.pdf#page=4
+    crop:
+    - 302
+    - 58
+    - 577
+    - 178
+    caption_adapted: false
+  detail_page: /research/2024-implicit-representations-for-constrained-image-segmentation/
+  detail_status: complete
+  abstract_source: https://raw.githubusercontent.com/mlresearch/v235/main/assets/schneider24a/schneider24a.pdf
 - title: Learning the essential in less than 2k additional weights - a simple approach to improve image classification
     stability under corruptions
   year: '2024'
@@ -595,6 +1580,26 @@
   - 256.38214111328125
   summary_source: https://pure.mpg.de/rest/items/item_3625007/component/file_3625008/content
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://pure.mpg.de/rest/items/item_3625007/component/file_3625008/content#page=2
+    crop:
+    - 67.0
+    - 123.16915893554688
+    - 311.0411376953125
+    - 256.38214111328125
+    caption_adapted: false
+  - number: 2
+    source: https://pure.mpg.de/rest/items/item_3625007/component/file_3625008/content#page=4
+    crop:
+    - 35.0
+    - 75.9802017211914
+    - 577.0
+    - 227.3101806640625
+    caption_adapted: false
+  detail_page: /research/2024-learning-the-essential-in-less-than-2k-additional-weights-a-simple-approach-to-improve-image-classification-stabili/
+  detail_status: complete
+  abstract_source: https://pure.mpg.de/rest/items/item_3625007/component/file_3625008/content
 - title: Reliable Evaluation of Attribution Maps in CNNs - A Perturbation-Based Approach
   year: '2024'
   figure: images/publications/052-reliable-evaluation-of-attribution-maps-in-cnns-a-perturbation-based-approach.webp
@@ -606,6 +1611,26 @@
   - 315.0821228027344
   summary_source: https://link.springer.com/content/pdf/10.1007/s11263-024-02282-6.pdf
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://link.springer.com/content/pdf/10.1007/s11263-024-02282-6.pdf#page=2
+    crop:
+    - 46.03599548339844
+    - 46.60102081298828
+    - 294.1558532714844
+    - 315.0821228027344
+    caption_adapted: false
+  - number: 2
+    source: https://link.springer.com/content/pdf/10.1007/s11263-024-02282-6.pdf#page=5
+    crop:
+    - 35.0
+    - 47.67502975463867
+    - 560.2760009765625
+    - 422.2810974121094
+    caption_adapted: false
+  detail_page: /research/2024-reliable-evaluation-of-attribution-maps-in-cnns-a-perturbation-based-approach/
+  detail_status: complete
+  abstract_source: https://link.springer.com/content/pdf/10.1007/s11263-024-02282-6.pdf
 - title: How Do Training Methods Influence the Utilization of Vision Models?
   year: '2024'
   code: https://github.com/paulgavrikov/layer_criticality
@@ -618,6 +1643,26 @@
   - 640
   summary_source: https://arxiv.org/pdf/2410.14470
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://arxiv.org/pdf/2410.14470#page=2
+    crop:
+    - 135.0
+    - 70.0
+    - 470.0
+    - 640.0
+    caption_adapted: false
+  - number: 2
+    source: https://arxiv.org/pdf/2410.14470#page=5
+    crop:
+    - 103.0
+    - 62.99971008300781
+    - 509.1650695800781
+    - 258.6954650878906
+    caption_adapted: false
+  detail_page: /research/2024-how-do-training-methods-influence-the-utilization-of-vision-models/
+  detail_status: complete
+  abstract_source: https://arxiv.org/pdf/2410.14470
 - title: An evaluation of zero-cost proxies-from neural architecture performance prediction to model robustness
   year: '2024'
   code: https://github.com/jovitalukasik/zcp_eval
@@ -630,6 +1675,26 @@
   - 348.27410888671875
   summary_source: https://link.springer.com/content/pdf/10.1007/s11263-024-02265-7.pdf
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://link.springer.com/content/pdf/10.1007/s11263-024-02265-7.pdf#page=5
+    crop:
+    - 35.0
+    - 46.31003952026367
+    - 560.2760009765625
+    - 348.27410888671875
+    caption_adapted: false
+  - number: 2
+    source: https://link.springer.com/content/pdf/10.1007/s11263-024-02265-7.pdf#page=6
+    crop:
+    - 46.03514099121094
+    - 47.22203063964844
+    - 294.1405944824219
+    - 250.07510375976562
+    caption_adapted: false
+  detail_page: /research/2024-an-evaluation-of-zero-cost-proxies-from-neural-architecture-performance-prediction-to-model-robustness/
+  detail_status: complete
+  abstract_source: https://link.springer.com/content/pdf/10.1007/s11263-024-02265-7.pdf
 - title: I Spy With My Little Eye A Minimum Cost Multicut Investigation of Dataset Frames
   year: '2025'
   code: https://github.com/KathPra/MP4VisualFrameDetection
@@ -642,6 +1707,26 @@
   - 123.80300903320312
   summary_source: https://arxiv.org/pdf/2412.01296
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://arxiv.org/pdf/2412.01296#page=3
+    crop:
+    - 45.11199951171875
+    - 62.198883056640625
+    - 291.358642578125
+    - 123.80300903320312
+    caption_adapted: false
+  - number: 2
+    source: https://arxiv.org/pdf/2412.01296#page=5
+    crop:
+    - 35.0
+    - 62.5667724609375
+    - 577.0
+    - 229.54098510742188
+    caption_adapted: false
+  detail_page: /research/2025-i-spy-with-my-little-eye-a-minimum-cost-multicut-investigation-of-dataset-frames/
+  detail_status: complete
+  abstract_source: https://arxiv.org/pdf/2412.01296
 - title: FAIR-TAT - Improving Model Fairness Using Targeted Adversarial Training
   year: '2025'
   code: https://github.com/TejaswiniMedi/FAIR-TAT
@@ -654,6 +1739,26 @@
   - 570.9025268554688
   summary_source: https://arxiv.org/pdf/2410.23142
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://arxiv.org/pdf/2410.23142#page=4
+    crop:
+    - 45.11199951171875
+    - 382.49432373046875
+    - 291.3660583496094
+    - 570.9025268554688
+    caption_adapted: false
+  - number: 2
+    source: https://arxiv.org/pdf/2410.23142#page=5
+    crop:
+    - 45.11199951171875
+    - 62.99987030029297
+    - 292.8487548828125
+    - 179.44708251953125
+    caption_adapted: false
+  detail_page: /research/2025-fair-tat-improving-model-fairness-using-targeted-adversarial-training/
+  detail_status: complete
+  abstract_source: https://arxiv.org/pdf/2410.23142
 - title: VSTAR Generative Temporal Nursing for Longer Dynamic Video Synthesis
   year: '2025'
   code: https://github.com/boschresearch/VSTAR
@@ -666,6 +1771,26 @@
   - 271.9330139160156
   summary_source: https://arxiv.org/pdf/2403.13501
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://arxiv.org/pdf/2403.13501#page=2
+    crop:
+    - 35.0
+    - 74.16200256347656
+    - 577.0
+    - 271.9330139160156
+    caption_adapted: false
+  - number: 2
+    source: https://arxiv.org/pdf/2403.13501#page=4
+    crop:
+    - 103.0
+    - 58.018524169921875
+    - 509.665283203125
+    - 247.9563751220703
+    caption_adapted: false
+  detail_page: /research/2025-vstar-generative-temporal-nursing-for-longer-dynamic-video-synthesis/
+  detail_status: complete
+  abstract_source: https://arxiv.org/pdf/2403.13501
 - title: Can we talk models into seeing the world differently?
   year: '2025'
   code: https://github.com/paulgavrikov/vlm_shapebias
@@ -678,6 +1803,26 @@
   - 663.6073608398438
   summary_source: https://arxiv.org/pdf/2403.09193
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://arxiv.org/pdf/2403.09193#page=1
+    crop:
+    - 102.64099884033203
+    - 565.4577026367188
+    - 509.3497009277344
+    - 663.6073608398438
+    caption_adapted: false
+  - number: 2
+    source: https://arxiv.org/pdf/2403.09193#page=5
+    crop:
+    - 103.0
+    - 72.86244201660156
+    - 508.9997253417969
+    - 289.3014221191406
+    caption_adapted: false
+  detail_page: /research/2025-can-we-talk-models-into-seeing-the-world-differently/
+  detail_status: complete
+  abstract_source: https://arxiv.org/pdf/2403.09193
 - title: Towards deep learning for seismic demultiple
   year: '2025'
   figure: images/publications/059-towards-deep-learning-for-seismic-demultiple.webp
@@ -689,6 +1834,26 @@
   - 251
   summary_source: https://opus.hs-offenburg.de/frontdoor/deliver/index/docId/10963/file/GPR_GPR13672.pdf
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://opus.hs-offenburg.de/frontdoor/deliver/index/docId/10963/file/GPR_GPR13672.pdf#page=5
+    crop:
+    - 50.0
+    - 45.0
+    - 547.0
+    - 251.0
+    caption_adapted: false
+  - number: 2
+    source: https://opus.hs-offenburg.de/frontdoor/deliver/index/docId/10963/file/GPR_GPR13672.pdf#page=6
+    crop:
+    - 40
+    - 50
+    - 554
+    - 252
+    caption_adapted: false
+  detail_page: /research/2025-towards-deep-learning-for-seismic-demultiple/
+  detail_status: complete
+  abstract_source: https://opus.hs-offenburg.de/frontdoor/deliver/index/docId/10963/file/GPR_GPR13672.pdf
 - title: DispBench - Benchmarking Disparity Estimation to Synthetic Corruptions
   year: '2025'
   code: https://github.com/shashankskagnihotri/DispBench
@@ -701,6 +1866,26 @@
   - 351.43798828125
   summary_source: https://arxiv.org/pdf/2505.05091
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://arxiv.org/pdf/2505.05091#page=1
+    crop:
+    - 312.25
+    - 231.66290283203125
+    - 561.9664916992188
+    - 351.43798828125
+    caption_adapted: false
+  - number: 2
+    source: https://arxiv.org/pdf/2505.05091#page=4
+    crop:
+    - 53
+    - 66
+    - 300
+    - 617
+    caption_adapted: false
+  detail_page: /research/2025-dispbench-benchmarking-disparity-estimation-to-synthetic-corruptions/
+  detail_status: complete
+  abstract_source: https://arxiv.org/pdf/2505.05091
 - title: Corner Cases - How Size and Position of Objects Challenge ImageNet-Trained Models
   year: '2025'
   code: https://github.com/Mishalfatima/Corner_Cases
@@ -713,6 +1898,26 @@
   - 216.6779327392578
   summary_source: https://arxiv.org/pdf/2505.03569
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://arxiv.org/pdf/2505.03569#page=2
+    crop:
+    - 35.0
+    - 98.42781066894531
+    - 577.0
+    - 216.6779327392578
+    caption_adapted: false
+  - number: 2
+    source: https://arxiv.org/pdf/2505.03569#page=3
+    crop:
+    - 67
+    - 63
+    - 545
+    - 207
+    caption_adapted: false
+  detail_page: /research/2025-corner-cases-how-size-and-position-of-objects-challenge-imagenet-trained-models/
+  detail_status: complete
+  abstract_source: https://arxiv.org/pdf/2505.03569
 - title: Are Synthetic Corruptions A Reliable Proxy For Real-World Corruptions?
   year: '2025'
   code: https://github.com/shashankskagnihotri/benchmarking_robustness/tree/segmentation_david/semantic_segmentation
@@ -725,6 +1930,26 @@
   - 543.9729614257812
   summary_source: https://arxiv.org/pdf/2505.04835
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://arxiv.org/pdf/2505.04835#page=1
+    crop:
+    - 35.0
+    - 229.24783325195312
+    - 577.0
+    - 543.9729614257812
+    caption_adapted: false
+  - number: 2
+    source: https://arxiv.org/pdf/2505.04835#page=4
+    crop:
+    - 35.0
+    - 62.996795654296875
+    - 577.0
+    - 223.38198852539062
+    caption_adapted: false
+  detail_page: /research/2025-are-synthetic-corruptions-a-reliable-proxy-for-real-world-corruptions/
+  detail_status: complete
+  abstract_source: https://arxiv.org/pdf/2505.04835
 - title: Data-Eﬃcient Visual Concept Bottleneck Models
   year: '2025'
   code: https://github.com/KathPra/DCBM
@@ -737,6 +1962,28 @@
   - 308.5416259765625
   summary_source: https://arxiv.org/pdf/2412.11576
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://arxiv.org/pdf/2412.11576#page=1
+    crop:
+    - 301.93798828125
+    - 170.83444213867188
+    - 547.564453125
+    - 308.5416259765625
+    caption_adapted: false
+  - number: 2
+    source: https://arxiv.org/pdf/2412.11576#page=4
+    crop:
+    - 35.0
+    - 59.41923522949219
+    - 577.0
+    - 262.9250183105469
+    caption_adapted: false
+  detail_page: /research/2025-data-efficient-visual-concept-bottleneck-models/
+  detail_status: complete
+  abstract_source: https://arxiv.org/pdf/2412.11576
+  detail_note: Uses the linked public preprint shared with the later full-conference entry; the workshop version
+    may differ.
 - title: 3D-WAG - Wavelet-Guided Autoregressive Generation for 3D Shapes
   year: '2025'
   figure: images/publications/064-3d-wag-wavelet-guided-autoregressive-generation-for-3d-shapes.webp
@@ -748,6 +1995,26 @@
   - 129.27650451660156
   summary_source: https://arxiv.org/pdf/2411.19037
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://arxiv.org/pdf/2411.19037#page=2
+    crop:
+    - 25.0052490234375
+    - 25.0
+    - 391.7591247558594
+    - 129.27650451660156
+    caption_adapted: false
+  - number: 2
+    source: https://arxiv.org/pdf/2411.19037#page=5
+    crop:
+    - 23
+    - 25
+    - 396
+    - 113
+    caption_adapted: false
+  detail_page: /research/2025-3d-wag-wavelet-guided-autoregressive-generation-for-3d-shapes/
+  detail_status: complete
+  abstract_source: https://arxiv.org/pdf/2411.19037
 - title: A Visual RAG Pipeline for Few-Shot Fine-Grained Product Classification
   year: '2025'
   code: https://huggingface.co/datasets/blamm/retail_visual_rag_pipeline/tree/main
@@ -760,6 +2027,26 @@
   - 200.27200317382812
   summary_source: https://arxiv.org/pdf/2504.11838
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://arxiv.org/pdf/2504.11838#page=2
+    crop:
+    - 35.0
+    - 62.32891082763672
+    - 577.0
+    - 200.27200317382812
+    caption_adapted: false
+  - number: 2
+    source: https://arxiv.org/pdf/2504.11838#page=3
+    crop:
+    - 312
+    - 67
+    - 558
+    - 362
+    caption_adapted: false
+  detail_page: /research/2025-a-visual-rag-pipeline-for-few-shot-fine-grained-product-classification/
+  detail_status: complete
+  abstract_source: https://arxiv.org/pdf/2504.11838
 - title: PhysicsGen - Can Generative Models Learn from Images to Predict Complex Physical Relations?
   year: '2025'
   code: https://github.com/physicsgen/physicsgen
@@ -772,6 +2059,26 @@
   - 634.3274536132812
   summary_source: https://arxiv.org/pdf/2503.05333
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://arxiv.org/pdf/2503.05333#page=1
+    crop:
+    - 290.1210021972656
+    - 305.67755126953125
+    - 550.1158447265625
+    - 634.3274536132812
+    caption_adapted: false
+  - number: 2
+    source: https://arxiv.org/pdf/2503.05333#page=4
+    crop:
+    - 46
+    - 64
+    - 363
+    - 167
+    caption_adapted: false
+  detail_page: /research/2025-physicsgen-can-generative-models-learn-from-images-to-predict-complex-physical-relations/
+  detail_status: complete
+  abstract_source: https://arxiv.org/pdf/2503.05333
 - title: DCBM - Data-Efficient Visual Concept Bottleneck Models
   year: '2025'
   code: https://github.com/KathPra/DCBM
@@ -784,6 +2091,26 @@
   - 308.5416259765625
   summary_source: https://arxiv.org/pdf/2412.11576
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://arxiv.org/pdf/2412.11576#page=1
+    crop:
+    - 301.93798828125
+    - 170.83444213867188
+    - 547.564453125
+    - 308.5416259765625
+    caption_adapted: false
+  - number: 2
+    source: https://arxiv.org/pdf/2412.11576#page=4
+    crop:
+    - 35.0
+    - 59.41923522949219
+    - 577.0
+    - 262.9250183105469
+    caption_adapted: false
+  detail_page: /research/2025-dcbm-data-efficient-visual-concept-bottleneck-models/
+  detail_status: complete
+  abstract_source: https://arxiv.org/pdf/2412.11576
 - title: Balancing Diversity and Risk in LLM Sampling - How to Select Your Method and Parameter for Open-Ended Text
     Generation
   year: '2025'
@@ -797,6 +2124,26 @@
   - 145.6544952392578
   summary_source: https://arxiv.org/pdf/2408.13586
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://arxiv.org/pdf/2408.13586#page=2
+    crop:
+    - 65.86599731445312
+    - 60.864471435546875
+    - 294.1365966796875
+    - 145.6544952392578
+    caption_adapted: false
+  - number: 2
+    source: https://arxiv.org/pdf/2408.13586#page=2
+    crop:
+    - 300.89300537109375
+    - 53.83226776123047
+    - 529.411376953125
+    - 193.13844299316406
+    caption_adapted: false
+  detail_page: /research/2025-balancing-diversity-and-risk-in-llm-sampling-how-to-select-your-method-and-parameter-for-open-ended-text-generation/
+  detail_status: complete
+  abstract_source: https://arxiv.org/pdf/2408.13586
 - title: FlowBench - Benchmarking Optical Flow Estimation Methods for Reliability and Generalization
   year: '2025'
   code: https://github.com/shashankskagnihotri/FlowBench
@@ -809,6 +2156,26 @@
   - 230.0392303466797
   summary_source: https://pure.mpg.de/rest/items/item_3673945/component/file_3673946/content
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://pure.mpg.de/rest/items/item_3673945/component/file_3673946/content#page=2
+    crop:
+    - 35.0
+    - 83.8189468383789
+    - 577.0
+    - 230.0392303466797
+    caption_adapted: false
+  - number: 2
+    source: https://pure.mpg.de/rest/items/item_3673945/component/file_3673946/content#page=10
+    crop:
+    - 67
+    - 85
+    - 545
+    - 254
+    caption_adapted: false
+  detail_page: /research/2025-flowbench-benchmarking-optical-flow-estimation-methods-for-reliability-and-generalization/
+  detail_status: complete
+  abstract_source: https://pure.mpg.de/rest/items/item_3673945/component/file_3673946/content
 - title: Smart Eyes for Silent Threats - VLMs and In-Context Learning for THz Imaging
   year: '2025'
   code: https://github.com/Nicolas-Poggi/Project_THz_Classification
@@ -821,6 +2188,26 @@
   - 234.87295532226562
   summary_source: https://arxiv.org/pdf/2507.15576
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://arxiv.org/pdf/2507.15576#page=2
+    crop:
+    - 53.5
+    - 62.088287353515625
+    - 299.7467041015625
+    - 234.87295532226562
+    caption_adapted: false
+  - number: 2
+    source: https://arxiv.org/pdf/2507.15576#page=2
+    crop:
+    - 312.25
+    - 63.06891632080078
+    - 558.496826171875
+    - 196.10501098632812
+    caption_adapted: false
+  detail_page: /research/2025-smart-eyes-for-silent-threats-vlms-and-in-context-learning-for-thz-imaging/
+  detail_status: complete
+  abstract_source: https://arxiv.org/pdf/2507.15576
 - title: Missing Fine Details in Images - Last Seen in High Frequencies
   year: '2025'
   figure: images/publications/071-missing-fine-details-in-images-last-seen-in-high-frequencies.webp
@@ -832,6 +2219,26 @@
   - 307.2696228027344
   summary_source: https://arxiv.org/pdf/2509.05441v1
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://arxiv.org/pdf/2509.05441v1#page=2
+    crop:
+    - 328.3999938964844
+    - 137.66775512695312
+    - 510.4889831542969
+    - 307.2696228027344
+    caption_adapted: false
+  - number: 2
+    source: https://arxiv.org/pdf/2509.05441v1#page=3
+    crop:
+    - 108
+    - 62
+    - 508
+    - 211
+    caption_adapted: false
+  detail_page: /research/2025-missing-fine-details-in-images-last-seen-in-high-frequencies/
+  detail_status: complete
+  abstract_source: https://arxiv.org/pdf/2509.05441v1
 - title: Vision At Night - Exploring Biologically Inspired Preprocessing For Improved Robustness Via Color And Contrast
     Transformations
   year: '2025'
@@ -844,6 +2251,26 @@
   - 457.65509033203125
   summary_source: https://arxiv.org/pdf/2509.24863
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://arxiv.org/pdf/2509.24863#page=1
+    crop:
+    - 312.25
+    - 294.2834167480469
+    - 558.4967651367188
+    - 457.65509033203125
+    caption_adapted: false
+  - number: 2
+    source: https://arxiv.org/pdf/2509.24863#page=4
+    crop:
+    - 35.0
+    - 63.230499267578125
+    - 577.0
+    - 277.2521057128906
+    caption_adapted: false
+  detail_page: /research/2025-vision-at-night-exploring-biologically-inspired-preprocessing-for-improved-robustness-via-color-and-contrast-transf/
+  detail_status: complete
+  abstract_source: https://arxiv.org/pdf/2509.24863
 - title: TikZero - Zero-Shot Text-Guided Graphics Program Synthesis
   year: '2025'
   code: https://github.com/potamides/DeTikZify
@@ -856,6 +2283,26 @@
   - 454
   summary_source: https://arxiv.org/pdf/2503.11509
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://arxiv.org/pdf/2503.11509#page=1
+    crop:
+    - 313.0
+    - 244.0
+    - 555.0
+    - 454.0
+    caption_adapted: false
+  - number: 2
+    source: https://arxiv.org/pdf/2503.11509#page=2
+    crop:
+    - 53.5
+    - 62.99964904785156
+    - 301.2391357421875
+    - 230.90328979492188
+    caption_adapted: false
+  detail_page: /research/2025-tikzero-zero-shot-text-guided-graphics-program-synthesis/
+  detail_status: complete
+  abstract_source: https://arxiv.org/pdf/2503.11509
 - title: AIM - Amending Inherent Interpretability via Self-Supervised Masking
   year: '2025'
   figure: images/publications/074-aim-amending-inherent-interpretability-via-self-supervised-masking.webp
@@ -867,6 +2314,26 @@
   - 501.3540954589844
   summary_source: https://arxiv.org/pdf/2508.11502
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://arxiv.org/pdf/2508.11502#page=1
+    crop:
+    - 312.2499694824219
+    - 246.13201904296875
+    - 558.5031127929688
+    - 501.3540954589844
+    caption_adapted: false
+  - number: 2
+    source: https://arxiv.org/pdf/2508.11502#page=4
+    crop:
+    - 35.0
+    - 63.52629852294922
+    - 577.0
+    - 185.20912170410156
+    caption_adapted: false
+  detail_page: /research/2025-aim-amending-inherent-interpretability-via-self-supervised-masking/
+  detail_status: complete
+  abstract_source: https://arxiv.org/pdf/2508.11502
 - title: MaxSup - Overcoming Representation Collapse in Label Smoothing
   year: '2025'
   code: https://github.com/ZhouYuxuanYX/Maximum-Suppression-Regularization
@@ -879,6 +2346,26 @@
   - 141.74929809570312
   summary_source: https://arxiv.org/pdf/2502.15798
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://arxiv.org/pdf/2502.15798#page=2
+    crop:
+    - 103.0
+    - 61.99937438964844
+    - 509.3242492675781
+    - 141.74929809570312
+    caption_adapted: false
+  - number: 2
+    source: https://arxiv.org/pdf/2502.15798#page=10
+    crop:
+    - 301.0
+    - 132.7158966064453
+    - 510.4907531738281
+    - 321.998291015625
+    caption_adapted: false
+  detail_page: /research/2025-maxsup-overcoming-representation-collapse-in-label-smoothing/
+  detail_status: complete
+  abstract_source: https://arxiv.org/pdf/2502.15798
 - title: Real-time Prediction of Urban Sound Propagation with Conditioned Normalizing Flows
   year: '2025'
   figure: images/publications/076-real-time-prediction-of-urban-sound-propagation-with-conditioned-normalizing-flows.webp
@@ -890,6 +2377,26 @@
   - 187.75930786132812
   summary_source: https://arxiv.org/pdf/2510.04510
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://arxiv.org/pdf/2510.04510#page=3
+    crop:
+    - 103.0
+    - 62.39842224121094
+    - 508.9973449707031
+    - 187.75930786132812
+    caption_adapted: false
+  - number: 2
+    source: https://arxiv.org/pdf/2510.04510#page=4
+    crop:
+    - 103.71499633789062
+    - 276.3546142578125
+    - 508.8908996582031
+    - 578.02294921875
+    caption_adapted: false
+  detail_page: /research/2025-real-time-prediction-of-urban-sound-propagation-with-conditioned-normalizing-flows/
+  detail_status: complete
+  abstract_source: https://arxiv.org/pdf/2510.04510
 - title: A Granular Study of Safety Pretraining under Model Abliteration
   year: '2025'
   code: https://github.com/shashankskagnihotri/safety_pretraining
@@ -902,6 +2409,26 @@
   - 240
   summary_source: https://arxiv.org/pdf/2510.02768
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://arxiv.org/pdf/2510.02768#page=4
+    crop:
+    - 108.0
+    - 68.0
+    - 504.0
+    - 240.0
+    caption_adapted: false
+  - number: 2
+    source: https://arxiv.org/pdf/2510.02768#page=5
+    crop:
+    - 35.0
+    - 63.000640869140625
+    - 577.0
+    - 222.28338623046875
+    caption_adapted: false
+  detail_page: /research/2025-a-granular-study-of-safety-pretraining-under-model-abliteration/
+  detail_status: complete
+  abstract_source: https://arxiv.org/pdf/2510.02768
 - title: mSOP-765k - A Benchmark For Multi-Modal Structured Output Predictions
   year: '2026'
   code: https://huggingface.co/datasets/retail-product-promotion/mSOP-765k/tree/main/code
@@ -909,6 +2436,9 @@
   source: https://www.msop-765k.org/figures/abstract_mSOP765k.png
   summary_source: https://www.msop-765k.org/
   review_status: Paper or official project content reviewed.
+  detail_page: /research/2026-msop-765k-a-benchmark-for-multi-modal-structured-output-predictions/
+  detail_status: needs-pdf
+  abstract_source: https://www.msop-765k.org/
 - title: GeoDiv - Framework for Measuring Geographical Diversity in Text-to-Image Models
   year: '2026'
   code: https://github.com/moha23/geodiv
@@ -921,6 +2451,26 @@
   - 322.5764465332031
   summary_source: https://arxiv.org/pdf/2602.22120
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://arxiv.org/pdf/2602.22120#page=2
+    crop:
+    - 35.0
+    - 71.85960388183594
+    - 577.0
+    - 322.5764465332031
+    caption_adapted: false
+  - number: 2
+    source: https://arxiv.org/pdf/2602.22120#page=4
+    crop:
+    - 103.0
+    - 190.05001831054688
+    - 509.3622741699219
+    - 415.992919921875
+    caption_adapted: false
+  detail_page: /research/2026-geodiv-framework-for-measuring-geographical-diversity-in-text-to-image-models/
+  detail_status: complete
+  abstract_source: https://arxiv.org/pdf/2602.22120
 - title: RobustSpring - Benchmarking Robustness to Image Corruptions for Optical Flow, Scene Flow and Stereo
   year: '2026'
   figure: images/publications/080-robustspring-benchmarking-robustness-to-image-corruptions-for-optical-flow-scene-flow-and-stereo.webp
@@ -932,6 +2482,26 @@
   - 355.9764709472656
   summary_source: https://www.collaborative-ai.org/publications/oei26_iclr.pdf
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://www.collaborative-ai.org/publications/oei26_iclr.pdf#page=1
+    crop:
+    - 103.0
+    - 200.82614135742188
+    - 509.0033264160156
+    - 355.9764709472656
+    caption_adapted: false
+  - number: 2
+    source: https://www.collaborative-ai.org/publications/oei26_iclr.pdf#page=4
+    crop:
+    - 105
+    - 76
+    - 507
+    - 218
+    caption_adapted: false
+  detail_page: /research/2026-robustspring-benchmarking-robustness-to-image-corruptions-for-optical-flow-scene-flow-and-stereo/
+  detail_status: complete
+  abstract_source: https://www.collaborative-ai.org/publications/oei26_iclr.pdf
 - title: We need to re-think the concept of “real” images
   year: '2026'
   figure: images/publications/081-we-need-to-re-think-the-concept-of-real-images.webp
@@ -943,6 +2513,26 @@
   - 674
   summary_source: https://arxiv.org/pdf/2509.21864
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://arxiv.org/pdf/2509.21864#page=5
+    crop:
+    - 108.0
+    - 515.0
+    - 497.0
+    - 674.0
+    caption_adapted: false
+  - number: 2
+    source: https://arxiv.org/pdf/2509.21864#page=6
+    crop:
+    - 102.75997924804688
+    - 63.42901611328125
+    - 510.35174560546875
+    - 310.1117858886719
+    caption_adapted: false
+  detail_page: /research/2026-we-need-to-re-think-the-concept-of-real-images/
+  detail_status: complete
+  abstract_source: https://arxiv.org/pdf/2509.21864
 - title: Images as Tables - In-Context Learning with TabPFN for Low-Data Detection of AI-Generated Images
   year: '2026'
   code: https://github.com/jpwalter30/Towards-Generalizable-Detection-of-AI-Generated-Images
@@ -955,6 +2545,26 @@
   - 319.6014099121094
   summary_source: https://arxiv.org/pdf/2606.00872
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://arxiv.org/pdf/2606.00872#page=1
+    crop:
+    - 301.89300537109375
+    - 183.2055206298828
+    - 547.93115234375
+    - 319.6014099121094
+    caption_adapted: false
+  - number: 2
+    source: https://arxiv.org/pdf/2606.00872#page=3
+    crop:
+    - 35.0
+    - 58.06133270263672
+    - 577.0
+    - 166.40029907226562
+    caption_adapted: false
+  detail_page: /research/2026-images-as-tables-in-context-learning-with-tabpfn-for-low-data-detection-of-ai-generated-images/
+  detail_status: complete
+  abstract_source: https://arxiv.org/pdf/2606.00872
 - title: A New Kind of Network? Review and Reference Implementation of Neural Cellular Automata
   year: '2026'
   code: https://github.com/mspitzna/NCAtorch
@@ -967,6 +2577,26 @@
   - 691.3844604492188
   summary_source: https://arxiv.org/pdf/2604.24990
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://arxiv.org/pdf/2604.24990#page=1
+    crop:
+    - 301.0
+    - 516.050048828125
+    - 545.0114135742188
+    - 691.3844604492188
+    caption_adapted: false
+  - number: 2
+    source: https://arxiv.org/pdf/2604.24990#page=2
+    crop:
+    - 68
+    - 289
+    - 307
+    - 416
+    caption_adapted: false
+  detail_page: /research/2026-a-new-kind-of-network-review-and-reference-implementation-of-neural-cellular-automata/
+  detail_status: complete
+  abstract_source: https://arxiv.org/pdf/2604.24990
 - title: Efficient Fine-grained Image Retrieval with Vision Foundation Models for Industrial Objects
   year: '2026'
   figure: images/publications/084-efficient-fine-grained-image-retrieval-with-vision-foundation-models-for-industrial-objects.webp
@@ -978,11 +2608,34 @@
   - 489.13311767578125
   summary_source: https://openaccess.thecvf.com/content/CVPR2026W/FGVC13/papers/Liu_Efficient_Fine-grained_Image_Retrieval_with_Vision_Foundation_Models_for_Industrial_CVPRW_2026_paper.pdf
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://openaccess.thecvf.com/content/CVPR2026W/FGVC13/papers/Liu_Efficient_Fine-grained_Image_Retrieval_with_Vision_Foundation_Models_for_Industrial_CVPRW_2026_paper.pdf#page=1
+    crop:
+    - 312.25
+    - 269.52252197265625
+    - 558.5055541992188
+    - 489.13311767578125
+    caption_adapted: false
+  - number: 2
+    source: https://openaccess.thecvf.com/content/CVPR2026W/FGVC13/papers/Liu_Efficient_Fine-grained_Image_Retrieval_with_Vision_Foundation_Models_for_Industrial_CVPRW_2026_paper.pdf#page=3
+    crop:
+    - 53.5
+    - 62.99653625488281
+    - 299.7466735839844
+    - 266.1470947265625
+    caption_adapted: false
+  detail_page: /research/2026-efficient-fine-grained-image-retrieval-with-vision-foundation-models-for-industrial-objects/
+  detail_status: complete
+  abstract_source: https://openaccess.thecvf.com/content/CVPR2026W/FGVC13/papers/Liu_Efficient_Fine-grained_Image_Retrieval_with_Vision_Foundation_Models_for_Industrial_CVPRW_2026_paper.pdf
 - title: Fréchet Inception Distance is Failing to Preserve Rank Consistency for Synthetic Out-of-Distribution Samples
   year: '2026'
   figure_status: Needs an accessible PDF or author-supplied figure.
   summary_source: https://openreview.net/pdf?id=jWqcKaZdTS
   review_status: Title-based scope description only; full text required to verify contributions.
+  detail_page: /research/2026-frechet-inception-distance-is-failing-to-preserve-rank-consistency-for-synthetic-out-of-distribution-samples/
+  detail_status: needs-pdf
+  abstract_source: null
 - title: Prompt injection attacks on llm generated reviews of scientific publications
   year: '2026'
   figure: images/publications/086-prompt-injection-attacks-on-llm-generated-reviews-of-scientific-publications.webp
@@ -994,6 +2647,26 @@
   - 642.03173828125
   summary_source: https://arxiv.org/pdf/2509.10248
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://arxiv.org/pdf/2509.10248#page=1
+    crop:
+    - 281.20001220703125
+    - 399.1090087890625
+    - 517.6110229492188
+    - 642.03173828125
+    caption_adapted: false
+  - number: 2
+    source: https://arxiv.org/pdf/2509.10248#page=6
+    crop:
+    - 303
+    - 116
+    - 508
+    - 268
+    caption_adapted: false
+  detail_page: /research/2026-prompt-injection-attacks-on-llm-generated-reviews-of-scientific-publications/
+  detail_status: complete
+  abstract_source: https://arxiv.org/pdf/2509.10248
 - title: Benchmarking Document Parsers on Mathematical Formula Extraction from PDFs
   year: '2026'
   code: https://github.com/phorn1/pdf-parse-bench
@@ -1006,6 +2679,26 @@
   - 566.8662109375
   summary_source: https://arxiv.org/pdf/2512.09874
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://arxiv.org/pdf/2512.09874#page=5
+    crop:
+    - 129.75965881347656
+    - 113.77597045898438
+    - 485.6658935546875
+    - 566.8662109375
+    caption_adapted: false
+  - number: 2
+    source: https://arxiv.org/pdf/2512.09874#page=9
+    crop:
+    - 166.60000610351562
+    - 125.62994384765625
+    - 448.68695068359375
+    - 649.5462646484375
+    caption_adapted: false
+  detail_page: /research/2026-benchmarking-document-parsers-on-mathematical-formula-extraction-from-pdfs/
+  detail_status: complete
+  abstract_source: https://arxiv.org/pdf/2512.09874
 - title: Examining the Impact of Optical Aberrations to Image Classification and Object Detection Models
   year: '2026'
   code: https://github.com/PatMue/classification_robustness
@@ -1018,11 +2711,34 @@
   - 262
   summary_source: https://arxiv.org/pdf/2504.18510
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://arxiv.org/pdf/2504.18510#page=1
+    crop:
+    - 310.0
+    - 176.0
+    - 558.0
+    - 262.0
+    caption_adapted: false
+  - number: 2
+    source: https://arxiv.org/pdf/2504.18510#page=3
+    crop:
+    - 43.9639892578125
+    - 47.06896209716797
+    - 305.0225830078125
+    - 184.2115478515625
+    caption_adapted: false
+  detail_page: /research/2026-examining-the-impact-of-optical-aberrations-to-image-classification-and-object-detection-models/
+  detail_status: complete
+  abstract_source: https://arxiv.org/pdf/2504.18510
 - title: Parameterized Adverse Lens Corruptions to Probe Model Robustness to Optical Tolerances
   year: '2026'
   figure_status: Needs an accessible PDF or author-supplied figure.
   summary_source: https://openreview.net/pdf?id=a93BmQRNxC
   review_status: Abstract available in indexed OpenReview paper; PDF download blocked.
+  detail_page: /research/2026-parameterized-adverse-lens-corruptions-to-probe-model-robustness-to-optical-tolerances/
+  detail_status: needs-pdf
+  abstract_source: null
 - title: RAWDet-7 A Multi-Scenario Benchmark for Object Detection and Description on Quantized RAW Images
   year: '2026'
   figure: images/publications/090-rawdet-7-a-multi-scenario-benchmark-for-object-detection-and-description-on-quantized-raw-images.webp
@@ -1034,6 +2750,26 @@
   - 260.0569763183594
   summary_source: https://arxiv.org/pdf/2602.03760
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://arxiv.org/pdf/2602.03760#page=2
+    crop:
+    - 35.0
+    - 62.00605773925781
+    - 577.0
+    - 260.0569763183594
+    caption_adapted: false
+  - number: 2
+    source: https://arxiv.org/pdf/2602.03760#page=5
+    crop:
+    - 312.25
+    - 63.00322723388672
+    - 558.5055541992188
+    - 203.16299438476562
+    caption_adapted: false
+  detail_page: /research/2026-rawdet-7-a-multi-scenario-benchmark-for-object-detection-and-description-on-quantized-raw-images/
+  detail_status: complete
+  abstract_source: https://arxiv.org/pdf/2602.03760
 - title: STELLA a modular framework for SpatioTemporal Event-based Lagrangian particLe trAcking
   year: '2026'
   code: https://github.com/sesa1504/STELLA
@@ -1046,6 +2782,26 @@
   - 703.4173583984375
   summary_source: https://link.springer.com/content/pdf/10.1007/s00348-026-04253-8.pdf
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://link.springer.com/content/pdf/10.1007/s00348-026-04253-8.pdf#page=3
+    crop:
+    - 35.0
+    - 420.5670166015625
+    - 560.2760009765625
+    - 703.4173583984375
+    caption_adapted: false
+  - number: 2
+    source: https://link.springer.com/content/pdf/10.1007/s00348-026-04253-8.pdf#page=4
+    crop:
+    - 35.0
+    - 48.75581359863281
+    - 560.2760009765625
+    - 300.3232421875
+    caption_adapted: false
+  detail_page: /research/2026-stella-a-modular-framework-for-spatiotemporal-event-based-lagrangian-particle-tracking/
+  detail_status: complete
+  abstract_source: https://link.springer.com/content/pdf/10.1007/s00348-026-04253-8.pdf
 - title: CROC Evaluating and Training T2I Metrics with Pseudo- and Human-Labeled Contrastive Robustness Checks
   year: '2026'
   code: https://github.com/NL2G/CROC
@@ -1058,6 +2814,26 @@
   - 292.43914794921875
   summary_source: https://pure.mpg.de/rest/items/item_3656558_3/component/file_3717264/content
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://pure.mpg.de/rest/items/item_3656558_3/component/file_3717264/content#page=2
+    crop:
+    - 67.0
+    - 51.383750915527344
+    - 295.2795104980469
+    - 292.43914794921875
+    caption_adapted: false
+  - number: 2
+    source: https://pure.mpg.de/rest/items/item_3656558_3/component/file_3717264/content#page=4
+    crop:
+    - 35.0
+    - 51.751190185546875
+    - 560.2760009765625
+    - 237.93617248535156
+    caption_adapted: false
+  detail_page: /research/2026-croc-evaluating-and-training-t2i-metrics-with-pseudo-and-human-labeled-contrastive-robustness-checks/
+  detail_status: complete
+  abstract_source: https://pure.mpg.de/rest/items/item_3656558_3/component/file_3717264/content
 - title: Decoupling High and Low Frequencies for Faithful Image Generation with Fine Details
   year: '2026'
   code: https://github.com/TejaswiniMedi/DeBaT
@@ -1070,6 +2846,26 @@
   - 189
   summary_source: https://arxiv.org/pdf/2509.05441v4
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://arxiv.org/pdf/2509.05441v4#page=2
+    crop:
+    - 163.0
+    - 103.0
+    - 450.0
+    - 189.0
+    caption_adapted: false
+  - number: 2
+    source: https://arxiv.org/pdf/2509.05441v4#page=5
+    crop:
+    - 129.76499938964844
+    - 117.793701171875
+    - 485.6438903808594
+    - 261.8878479003906
+    caption_adapted: false
+  detail_page: /research/2026-decoupling-high-and-low-frequencies-for-faithful-image-generation-with-fine-details/
+  detail_status: complete
+  abstract_source: https://arxiv.org/pdf/2509.05441v4
 - title: Failure or Drift? Evaluating Monocular SLAM under Synthetic and Real-World Corruptions
   year: '2026'
   code: https://github.com/abhaythomas/master_thesis_vslamlab_robustness
@@ -1082,22 +2878,51 @@
   - 334.6518859863281
   summary_source: https://arxiv.org/pdf/2608.30690
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://arxiv.org/pdf/2608.30690#page=7
+    crop:
+    - 129.76499938964844
+    - 105.83663940429688
+    - 487.1560974121094
+    - 334.6518859863281
+    caption_adapted: false
+  - number: 2
+    source: https://arxiv.org/pdf/2608.30690#page=8
+    crop:
+    - 129.4239959716797
+    - 106.83587646484375
+    - 487.3896484375
+    - 261.2919006347656
+    caption_adapted: false
+  detail_page: /research/2026-failure-or-drift-evaluating-monocular-slam-under-synthetic-and-real-world-corruptions/
+  detail_status: complete
+  abstract_source: https://arxiv.org/pdf/2608.30690
 - title: We need theory-grounded explainability for abstract tasks to quantify model bias
   year: '2026'
   figure_status: Needs an accessible PDF or author-supplied figure.
   summary_source: https://www.linkedin.com/posts/katharina-prasse_eccv2026-computervision-explainability-activity-7496536456497291264-uFZH
   review_status: Position verified in author announcement; full text still needed.
+  detail_page: /research/2026-we-need-theory-grounded-explainability-for-abstract-tasks-to-quantify-model-bias/
+  detail_status: needs-pdf
+  abstract_source: null
 - title: Combining Finetuning and RAG for Structured Output Prediction on a Multimodal High Velocity Retail Dataset
   year: '2026'
   code: https://huggingface.co/datasets/retail-product-promotion/mSOP-765k/tree/main/code
   figure_status: Needs an accessible PDF or author-supplied figure.
   summary_source: https://www.msop-765k.org/
   review_status: Scope verified on the official mSOP project page; full text still needed.
+  detail_page: /research/2026-combining-finetuning-and-rag-for-structured-output-prediction-on-a-multimodal-high-velocity-retail-dataset/
+  detail_status: needs-pdf
+  abstract_source: null
 - title: Unsupervised Visual Concept Bottlenecks for Interpretable Bioimage Classification
   year: '2026'
   figure_status: Needs an accessible PDF or author-supplied figure.
   summary_source: https://openreview.net/pdf?id=hois3HoeYg
   review_status: Title-based scope description only; full text required to verify contributions.
+  detail_page: /research/2026-unsupervised-visual-concept-bottlenecks-for-interpretable-bioimage-classification/
+  detail_status: needs-pdf
+  abstract_source: null
 - title: LAION-Mobile - Evaluating Deepfake Detectors On One Million Smartphone Photos
   year: '2026'
   figure: images/publications/098-laion-mobile-evaluating-deepfake-detectors-on-one-million-smartphone-photos.webp
@@ -1109,6 +2934,26 @@
   - 431.97760009765625
   summary_source: https://arxiv.org/pdf/2609.11134
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://arxiv.org/pdf/2609.11134#page=2
+    crop:
+    - 35.0
+    - 41.02288818359375
+    - 560.2760009765625
+    - 431.97760009765625
+    caption_adapted: false
+  - number: 2
+    source: https://arxiv.org/pdf/2609.11134#page=3
+    crop:
+    - 35.0
+    - 42.022857666015625
+    - 560.2760009765625
+    - 194.32858276367188
+    caption_adapted: false
+  detail_page: /research/2026-laion-mobile-evaluating-deepfake-detectors-on-one-million-smartphone-photos/
+  detail_status: complete
+  abstract_source: https://arxiv.org/pdf/2609.11134
 - title: Beyond String Matching - Semantic Evaluation of PDF Table Extraction
   year: '2026'
   code: https://github.com/phorn1/pdf-parse-bench
@@ -1121,6 +2966,26 @@
   - 190
   summary_source: https://arxiv.org/pdf/2603.18652
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://arxiv.org/pdf/2603.18652#page=2
+    crop:
+    - 18.0
+    - 27.0
+    - 383.0
+    - 190.0
+    caption_adapted: false
+  - number: 2
+    source: https://arxiv.org/pdf/2603.18652#page=5
+    crop:
+    - 23
+    - 216
+    - 396
+    - 324
+    caption_adapted: false
+  detail_page: /research/2026-beyond-string-matching-semantic-evaluation-of-pdf-table-extraction/
+  detail_status: complete
+  abstract_source: https://arxiv.org/pdf/2603.18652
 - title: Reinforcement Learning Based Fair Adversarial Training
   year: '2026'
   figure: images/publications/100-reinforcement-learning-based-fair-adversarial-training.webp
@@ -1132,3 +2997,23 @@
   - 172
   summary_source: https://arxiv.org/pdf/2608.29247
   review_status: Paper or official project content reviewed.
+  detail_figures:
+  - number: 1
+    source: https://arxiv.org/pdf/2608.29247#page=2
+    crop:
+    - 18.0
+    - 28.0
+    - 386.0
+    - 172.0
+    caption_adapted: false
+  - number: 2
+    source: https://arxiv.org/pdf/2608.29247#page=5
+    crop:
+    - 35.0
+    - 52.62384033203125
+    - 373.4679870605469
+    - 184.9774932861328
+    caption_adapted: false
+  detail_page: /research/2026-reinforcement-learning-based-fair-adversarial-training/
+  detail_status: complete
+  abstract_source: https://arxiv.org/pdf/2608.29247

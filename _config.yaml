@@ -46,6 +46,9 @@ defaults:
 
 # collections
 collections:
+  publications:
+    output: true
+    permalink: /research/:name/
   members:
     output: true
 

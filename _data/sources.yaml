@@ -6,6 +6,7 @@
 # 2020
 #-------------------------
 - title: Watch your Up-Convolution - CNN Based Generative Deep Neural Networks are Failing to Reproduce Spectral Distributions
+  detail-page: /research/2020-watch-your-up-convolution-cnn-based-generative-deep-neural-networks-are-failing-to-reproduce-spectral-distributions/
   date: 2020-6-1 
   authors: 
     - Ricard Durall
@@ -34,6 +35,7 @@
   teaser-source: https://openaccess.thecvf.com/content_CVPR_2020/papers/Durall_Watch_Your_Up-Convolution_CNN_Based_Generative_Deep_Neural_Networks_Are_CVPR_2020_paper.pdf#page=1
 
 - title: Extracting horizon surfaces from 3D seismic data using deep learning
+  detail-page: /research/2020-extracting-horizon-surfaces-from-3d-seismic-data-using-deep-learning/
   date: 2020-6-1
   authors: 
     - Valentin Tschannen
@@ -58,6 +60,7 @@
   teaser-source: https://hal.science/hal-02560737/document#page=5
 
 - title: Detection of point scatterers using diffraction imaging and deep learning
+  detail-page: /research/2020-detection-of-point-scatterers-using-diffraction-imaging-and-deep-learning/
   date: 2020-6-1
   authors: 
     - Valentin Tschannen
@@ -85,6 +88,7 @@
   teaser-source: https://hal.science/hal-02354803/document#page=4
 
 - title: Smooth variational graph embeddings for efficient neural architecture search
+  detail-page: /research/2021-smooth-variational-graph-embeddings-for-efficient-neural-architecture-search/
   date: 2021-6-1
   authors: 
     - Jovita Lukasik
@@ -113,6 +117,7 @@
   teaser-source: https://arxiv.org/pdf/2010.04683v1#page=11
 
 - title: Shape your Space - A Gaussian Mixture Regularization Approach to Deterministic Autoencoders
+  detail-page: /research/2021-shape-your-space-a-gaussian-mixture-regularization-approach-to-deterministic-autoencoders/
   date: 2021-6-1
   authors: 
     - Amrutha Saseendran
@@ -139,6 +144,7 @@
   teaser-source: https://proceedings.neurips.cc/paper/2021/file/3c057cb2b41f22c0e740974d7a428918-Paper.pdf#page=5
 
 - title: An Empirical Investigation of Model-to-Model Distribution Shifts in Trained Convolutional Filters
+  detail-page: /research/2021-an-empirical-investigation-of-model-to-model-distribution-shifts-in-trained-convolutional-filters/
   date: 2021-6-1
   authors: 
     - Paul Gavrikov
@@ -164,6 +170,7 @@
   teaser-source: https://arxiv.org/pdf/2201.08465#page=2
 
 - title: Multi-Class Multi-Instance Count Conditioned Adversarial Image Generation
+  detail-page: /research/2021-multi-class-multi-instance-count-conditioned-adversarial-image-generation/
   date: 2021-6-1
   authors: 
     - Amrutha Saseendran
@@ -190,6 +197,7 @@
   teaser-source: https://openaccess.thecvf.com/content/ICCV2021/papers/Saseendran_Multi-Class_Multi-Instance_Count_Conditioned_Adversarial_Image_Generation_ICCV_2021_paper.pdf#page=1
 
 - title: Spectral distribution aware image generation
+  detail-page: /research/2021-spectral-distribution-aware-image-generation/
   date: 2021-6-1
   authors: 
     - Steffen Jung
@@ -221,6 +229,7 @@
   teaser-source: https://arxiv.org/pdf/2012.03110#page=2
 
 - title: Aliasing coincides with CNNs vulnerability towards adversarial attacks
+  detail-page: /research/2022-aliasing-coincides-with-cnns-vulnerability-towards-adversarial-attacks/
   date: 2022-6-1
   authors: 
     - Julia Grabinski
@@ -244,6 +253,7 @@
   teaser-source: https://openreview.net/references/pdf?id=Cdlz1Q74s6#page=1
 
 - title: Is RobustBench/AutoAttack a suitable Benchmark for Adversarial Robustness?
+  detail-page: /research/2022-is-robustbench-autoattack-a-suitable-benchmark-for-adversarial-robustness/
   date: 2022-6-1
   authors: 
     - Peter Lorenz
@@ -270,6 +280,7 @@
   teaser-source: https://arxiv.org/pdf/2112.01601#page=1
 
 - title: Robust Models are less Over-Confident
+  detail-page: /research/2022-robust-models-are-less-over-confident/
   date: 2022-6-1
   authors: 
     - Julia Grabinski
@@ -296,6 +307,7 @@
   teaser-source: https://arxiv.org/pdf/2210.05938#page=5
 
 - title: Surrogate NAS benchmarks - Going beyond the limited search spaces of tabular NAS benchmarks
+  detail-page: /research/2022-surrogate-nas-benchmarks-going-beyond-the-limited-search-spaces-of-tabular-nas-benchmarks/
   date: 2022-6-1
   authors: 
     - Arber Zela
@@ -324,6 +336,7 @@
   teaser-source: https://pure.mpg.de/rest/items/item_3404264/component/file_3404265/content#page=3
 
 - title: Higher-Order Multicuts for Geometric Model Fitting and Motion Segmentation
+  detail-page: /research/2022-higher-order-multicuts-for-geometric-model-fitting-and-motion-segmentation/
   date: 2022-6-1
   authors: 
     - Evgeny Levinkov
@@ -348,6 +361,7 @@
   teaser-source: https://pure.mpg.de/rest/items/item_3367293_6/component/file_3367904/content#page=4
 
 - title: Aliasing and adversarial robust generalization of CNNs
+  detail-page: /research/2022-aliasing-and-adversarial-robust-generalization-of-cnns/
   date: 2022-6-1
   authors: 
     - Julia Grabinski
@@ -373,6 +387,7 @@
   teaser-source: https://link.springer.com/content/pdf/10.1007/s10994-022-06222-8.pdf#page=2
 
 - title: Adversarial Robustness Through the Lens of Convolutional Filters
+  detail-page: /research/2022-adversarial-robustness-through-the-lens-of-convolutional-filters/
   date: 2022-6-1
   authors: 
     - Paul Gavrikov
@@ -401,6 +416,7 @@
   teaser-source: https://openaccess.thecvf.com/content/CVPR2022W/ArtOfRobust/papers/Gavrikov_Adversarial_Robustness_Through_the_Lens_of_Convolutional_Filters_CVPRW_2022_paper.pdf#page=1
 
 - title: CNN Filter DB - An Empirical Investigation of Trained Convolutional Filters
+  detail-page: /research/2022-cnn-filter-db-an-empirical-investigation-of-trained-convolutional-filters/
   date: 2022-6-1
   authors: 
     - Paul Gavrikov
@@ -430,6 +446,7 @@
   teaser-source: https://openaccess.thecvf.com/content/CVPR2022/papers/Gavrikov_CNN_Filter_DB_An_Empirical_Investigation_of_Trained_Convolutional_Filters_CVPR_2022_paper.pdf#page=1
 
 - title: FrequencyLowCut Pooling--Plug & Play against Catastrophic Overfitting
+  detail-page: /research/2022-frequencylowcut-pooling-plug-play-against-catastrophic-overfitting/
   date: 2022-6-1
   authors: 
     - Julia Grabinski
@@ -459,6 +476,7 @@
   teaser-source: https://arxiv.org/pdf/2204.00491#page=5
 
 - title: Learning Where To Look--Generative NAS is Surprisingly Efficient
+  detail-page: /research/2022-learning-where-to-look-generative-nas-is-surprisingly-efficient/
   date: 2022-6-1
   authors: 
     - Jovita Lukasik
@@ -484,6 +502,7 @@
   teaser-source: https://arxiv.org/pdf/2203.08734#page=2
 
 - title: Physics-informed learning of aerosol microphysics
+  detail-page: /research/2022-physics-informed-learning-of-aerosol-microphysics/
   date: 2022-6-1
   authors: 
     - Paula Harder
@@ -512,6 +531,7 @@
   teaser-source: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C468660D2AEE8E25DC3BF507517FF91A/S263446022200022Xa.pdf/div-class-title-physics-informed-learning-of-aerosol-microphysics-div.pdf#page=3
 
 - title: Does Medical Imaging learn different Convolution Filters?
+  detail-page: /research/2022-does-medical-imaging-learn-different-convolution-filters/
   date: 2022-6-1
   authors: 
     - Paul Gavrikov
@@ -536,6 +556,7 @@
   teaser-source: https://arxiv.org/pdf/2210.13799#page=2
 
 - title: Impact of realistic properties of the point spread function on classification tasks to reveal a possible distribution shift
+  detail-page: /research/2022-impact-of-realistic-properties-of-the-point-spread-function-on-classification-tasks-to-reveal-a-possible-distributi/
   date: 2022-6-1
   authors: 
     - Patrick Müller
@@ -559,6 +580,7 @@
   teaser-source: https://pure.mpg.de/rest/items/item_3473172/component/file_3473173/content#page=4
 
 - title: Robust Models are less Over-Confident
+  detail-page: /research/2022-robust-models-are-less-over-confident-22/
   date: 2022-6-1
   authors: 
     - Julia Grabinski
@@ -585,6 +607,7 @@
   teaser-source: https://arxiv.org/pdf/2210.05938#page=5
 
 - title: Trading off Image Quality for Robustness is not Necessary with Regularized Deterministic Autoencoders
+  detail-page: /research/2022-trading-off-image-quality-for-robustness-is-not-necessary-with-regularized-deterministic-autoencoders/
   date: 2022-6-1
   authors: 
     - Amrutha Saseendran
@@ -615,6 +638,7 @@
   teaser-source: https://pure.mpg.de/rest/items/item_3473164/component/file_3473165/content#page=5
 
 - title: Neural Architecture Design and Robustness - A Dataset
+  detail-page: /research/2023-neural-architecture-design-and-robustness-a-dataset/
   date: 2023-6-1
   authors: 
     - Steffen Jung
@@ -641,6 +665,7 @@
   teaser-source: https://arxiv.org/pdf/2306.06712#page=3
 
 - title: Deep diffusion models for seismic processing
+  detail-page: /research/2023-deep-diffusion-models-for-seismic-processing/
   date: 2023-6-1
   authors: 
     - Ricard Durall
@@ -669,6 +694,7 @@
   teaser-source: https://opus.hs-offenburg.de/frontdoor/deliver/index/docId/8238/file/1-s2.0-S009830042300081X-main.pdf#page=3
 
 - title: An Extended Study of Human-like Behavior under Adversarial Training
+  detail-page: /research/2023-an-extended-study-of-human-like-behavior-under-adversarial-training/
   date: 2023-6-1
   authors: 
     - Paul Gavrikov
@@ -694,6 +720,7 @@
   teaser-source: https://openaccess.thecvf.com/content/CVPR2023W/AML/papers/Gavrikov_An_Extended_Study_of_Human-Like_Behavior_Under_Adversarial_Training_CVPRW_2023_paper.pdf#page=2
 
 - title: Happy People -- Image Synthesis as Black-Box Optimization Problem in the Discrete Latent Space of Deep Generative Models
+  detail-page: /research/2023-happy-people-image-synthesis-as-black-box-optimization-problem-in-the-discrete-latent-space-of-deep-generative-mode/
   date: 2023-6-1
   authors: 
     - Steffen Jung
@@ -717,6 +744,7 @@
   teaser-source: https://arxiv.org/pdf/2306.06684#page=1
 
 - title: Fine-Grained Product Classification on Leaflet Advertisements
+  detail-page: /research/2023-fine-grained-product-classification-on-leaflet-advertisements/
   date: 2023-6-1
   authors: 
     - Daniel Ladwig
@@ -743,6 +771,7 @@
   teaser-source: https://arxiv.org/pdf/2305.03706#page=1
 
 - title: Neural Architecture Design and Robustness -- A Dataset
+  detail-page: /research/2023-neural-architecture-design-and-robustness-a-dataset-29/
   date: 2023-6-1
   authors: 
     - Steffen Jung1
@@ -769,6 +798,7 @@
   teaser-source: https://robustart.github.io/short_paper/33.pdf#page=1
 
 - title: Intra-Source Style Augmentation for Improved Domain Generalization
+  detail-page: /research/2023-intra-source-style-augmentation-for-improved-domain-generalization/
   date: 2023-6-1
   authors: 
     - Yumeng Li
@@ -796,6 +826,7 @@
   teaser-source: https://generative-vision.github.io/workshop-CVPR-23/data/12.pdf#page=1
 
 - title: Assessing Domain Generalization of Semantic Segmenters with Synthetic Data
+  detail-page: /research/2023-assessing-domain-generalization-of-semantic-segmenters-with-synthetic-data/
   date: 2023-6-1
   authors: 
     - Yumeng Li
@@ -817,6 +848,7 @@
   description: How can synthetic imagery help assess a segmenter's behavior beyond its training domain? This work investigates synthetic data as a tool for evaluating domain generalization in semantic segmentation.
 
 - title: On the Interplay of Convolutional Padding and Adversarial Robustness
+  detail-page: /research/2023-on-the-interplay-of-convolutional-padding-and-adversarial-robustness/
   date: 2023-6-1
   authors: 
     - Paul Gavrikov
@@ -841,6 +873,7 @@
   teaser-source: https://arxiv.org/pdf/2308.06612#page=1
 
 - title: On the unreasonable vulnerability of transformers for image restoration and an easy fix
+  detail-page: /research/2023-on-the-unreasonable-vulnerability-of-transformers-for-image-restoration-and-an-easy-fix/
   date: 2023-6-1 
   authors: 
     - Shashank Agnihotri
@@ -863,6 +896,7 @@
   teaser-source: https://arxiv.org/pdf/2307.13856#page=1
 
 - title: An In-Depth Study of U-net for Seismic Data Conditioning - Multiple Removal by Move-Out Discrimination
+  detail-page: /research/2023-an-in-depth-study-of-u-net-for-seismic-data-conditioning-multiple-removal-by-move-out-discrimination/
   date: 2023-6-1
   authors: 
     - Ricard Durall
@@ -887,6 +921,7 @@
   teaser-source: https://opus.hs-offenburg.de/frontdoor/deliver/index/docId/8245/file/durall-et-al-2023.pdf#page=4
 
 - title: Improving Native CNN Robustness with Filter Frequency Regularization
+  detail-page: /research/2023-improving-native-cnn-robustness-with-filter-frequency-regularization/
   date: 2023-6-1
   authors: 
     - Jovita Lukasik
@@ -917,6 +952,7 @@
   teaser-source: https://pure.mpg.de/rest/items/item_3583280/component/file_3583281/content#page=2
 
 - title: Improving Feature Stability during Upsampling-Spectral Artifacts and the Importance of Spatial Context
+  detail-page: /research/2024-improving-feature-stability-during-upsampling-spectral-artifacts-and-the-importance-of-spatial-context/
   date: 2024-6-1
   authors: 
     - Shashank Agnihotri
@@ -941,6 +977,7 @@
   teaser-source: https://pure.mpg.de/rest/items/item_3611850_1/component/file_3611851/content#page=2
 
 - title: Fake or JPEG? Revealing Common Biases in Generated Image Detection Datasets
+  detail-page: /research/2024-fake-or-jpeg-revealing-common-biases-in-generated-image-detection-datasets/
   date: 2024-6-1
   authors: 
     - Patrick Grommelt
@@ -969,6 +1006,7 @@
   teaser-source: https://arxiv.org/pdf/2403.17608#page=4
 
 - title: Can Visual Language Models Replace  OCR-Based Visual Question Answering Pipelines in Production? A Case Study in Retail
+  detail-page: /research/2024-can-visual-language-models-replace-ocr-based-visual-question-answering-pipelines-in-production-a-case-study-in-reta/
   date: 2024-6-1
   authors: 
     - Bianca Lamm
@@ -992,6 +1030,7 @@
   teaser-source: https://arxiv.org/pdf/2408.15626#page=1
 
 - title: Top-GAP - Integrating Size Priors in CNNs for more Interpretability, Robustness, and Bias Mitigation
+  detail-page: /research/2024-top-gap-integrating-size-priors-in-cnns-for-more-interpretability-robustness-and-bias-mitigation/
   date: 2024-6-1
   authors: 
     - Lars Nieradzik
@@ -1016,6 +1055,7 @@
   teaser-source: https://arxiv.org/pdf/2409.04819#page=2
 
 - title: Adversarial Supervision Makes Layout-to-Image Diffusion Models Thrive
+  detail-page: /research/2024-adversarial-supervision-makes-layout-to-image-diffusion-models-thrive/
   date: 2024-6-1
   authors: 
     - Yumeng Li
@@ -1044,6 +1084,7 @@
   teaser-source: https://arxiv.org/pdf/2401.08815#page=1
 
 - title: Urban Sound Propagation - a Benchmark for 1-Step Generative Modeling of Complex Physical Systems
+  detail-page: /research/2024-urban-sound-propagation-a-benchmark-for-1-step-generative-modeling-of-complex-physical-systems/
   date: 2024-6-1
   authors: 
     - Martin Spitznagel
@@ -1070,6 +1111,7 @@
   teaser-source: https://arxiv.org/pdf/2403.10904#page=3
 
 - title: Retail-786k - a Large-Scale Dataset for Visual Entity Matching
+  detail-page: /research/2024-retail-786k-a-large-scale-dataset-for-visual-entity-matching/
   date: 2024-6-1
   authors: 
     - Bianca Lamm
@@ -1096,6 +1138,7 @@
   teaser-source: https://arxiv.org/pdf/2309.17164#page=2
 
 - title: Intra- and extra-source exemplar-based style synthesis for improved domain generalization
+  detail-page: /research/2024-intra-and-extra-source-exemplar-based-style-synthesis-for-improved-domain-generalization/
   date: 2024-6-1
   authors: 
     - Yumeng Li
@@ -1125,6 +1168,7 @@
   teaser-source: https://link.springer.com/content/pdf/10.1007/s11263-023-01878-8.pdf#page=2
 
 - title: Can Biases in ImageNet Models Explain Generalization?
+  detail-page: /research/2024-can-biases-in-imagenet-models-explain-generalization/
   date: 2024-6-1 
   authors: 
     - Paul Gavrikov
@@ -1150,6 +1194,7 @@
   teaser-source: https://arxiv.org/pdf/2404.01509#page=1
 
 - title: Ambiguous Annotations - When is a Pedestrian not a Pedestrian?
+  detail-page: /research/2024-ambiguous-annotations-when-is-a-pedestrian-not-a-pedestrian/
   date: 2024-6-1 
   authors: 
     - Luisa Schwirten
@@ -1174,6 +1219,7 @@
   teaser-source: https://arxiv.org/pdf/2405.08794#page=3
 
 - title: Are Vision Language Models Texture or Shape Biased and Can We Steer Them?
+  detail-page: /research/2024-are-vision-language-models-texture-or-shape-biased-and-can-we-steer-them/
   date: 2024-6-1 
   authors: 
     - Paul Gavrikov
@@ -1205,6 +1251,7 @@
   teaser-source: https://raw.githubusercontent.com/EliSchwartz/MMFM24/main/52.pdf#page=1
 
 - title: As large as it gets-Studying Infinitely Large Convolutions via Neural Implicit Frequency Filters
+  detail-page: /research/2024-as-large-as-it-gets-studying-infinitely-large-convolutions-via-neural-implicit-frequency-filters/
   date: 2024-6-1
   authors: 
     - Julia Grabinski
@@ -1231,6 +1278,7 @@
   teaser-source: https://arxiv.org/pdf/2307.10001#page=2
 
 - title: CosPGD - an efficient white-box adversarial attack for pixel-wise prediction tasks 
+  detail-page: /research/2024-cospgd-an-efficient-white-box-adversarial-attack-for-pixel-wise-prediction-tasks/
   date: 2024-6-1
   authors: 
     - Shashank Agnihotri
@@ -1257,6 +1305,7 @@
   teaser-source: https://arxiv.org/pdf/2302.02213#page=1
 
 - title: MultiMax - Sparse and Multi-Modal Attention Learning  
+  detail-page: /research/2024-multimax-sparse-and-multi-modal-attention-learning/
   date: 2024-6-1
   authors: 
     - Y. Zhou
@@ -1283,6 +1332,7 @@
   teaser-source: https://arxiv.org/pdf/2406.01189#page=2
 
 - title: Implicit Representations for Constrained Image Segmentation
+  detail-page: /research/2024-implicit-representations-for-constrained-image-segmentation/
   date: 2024-6-1
   authors: 
     - J. P. Schneider 
@@ -1311,6 +1361,7 @@
   teaser-source: https://raw.githubusercontent.com/mlresearch/v235/main/assets/schneider24a/schneider24a.pdf#page=3
 
 - title: Learning the essential in less than 2k additional weights - a simple approach to improve image classification stability under corruptions
+  detail-page: /research/2024-learning-the-essential-in-less-than-2k-additional-weights-a-simple-approach-to-improve-image-classification-stabili/
   date: 2024-6-1
   authors: 
     - Kai Bäuerle
@@ -1336,6 +1387,7 @@
   teaser-source: https://pure.mpg.de/rest/items/item_3625007/component/file_3625008/content#page=2
 
 - title: Reliable Evaluation of Attribution Maps in CNNs - A Perturbation-Based Approach
+  detail-page: /research/2024-reliable-evaluation-of-attribution-maps-in-cnns-a-perturbation-based-approach/
   date: 2024-6-1
   authors: 
     - Lars Nieradzik
@@ -1360,6 +1412,7 @@
   teaser-source: https://link.springer.com/content/pdf/10.1007/s11263-024-02282-6.pdf#page=2
 
 - title: How Do Training Methods Influence the Utilization of Vision Models?
+  detail-page: /research/2024-how-do-training-methods-influence-the-utilization-of-vision-models/
   date: 2024-6-1
   authors: 
     - Paul Gavrikov
@@ -1387,6 +1440,7 @@
   teaser-source: https://arxiv.org/pdf/2410.14470#page=2
 
 - title: An evaluation of zero-cost proxies-from neural architecture performance prediction to model robustness
+  detail-page: /research/2024-an-evaluation-of-zero-cost-proxies-from-neural-architecture-performance-prediction-to-model-robustness/
   date: 2024-6-1
   authors: 
     - Jovita Lukasik
@@ -1417,6 +1471,7 @@
   teaser-source: https://link.springer.com/content/pdf/10.1007/s11263-024-02265-7.pdf#page=5
 
 - title: I Spy With My Little Eye A Minimum Cost Multicut Investigation of Dataset Frames
+  detail-page: /research/2025-i-spy-with-my-little-eye-a-minimum-cost-multicut-investigation-of-dataset-frames/
   date: 2025-6-1
   authors: 
     - Katharina Prasse
@@ -1443,6 +1498,7 @@
   teaser-source: https://arxiv.org/pdf/2412.01296#page=3
 
 - title: FAIR-TAT - Improving Model Fairness Using Targeted Adversarial Training
+  detail-page: /research/2025-fair-tat-improving-model-fairness-using-targeted-adversarial-training/
   date: 2025-6-1
   authors: 
     - Tejaswini Medi
@@ -1468,6 +1524,7 @@
   teaser-source: https://arxiv.org/pdf/2410.23142#page=4
 
 - title: VSTAR Generative Temporal Nursing for Longer Dynamic Video Synthesis
+  detail-page: /research/2025-vstar-generative-temporal-nursing-for-longer-dynamic-video-synthesis/
   date: 2025-6-1
   authors: 
     - Yumeng Li
@@ -1495,6 +1552,7 @@
   teaser-source: https://arxiv.org/pdf/2403.13501#page=2
 
 - title: Can we talk models into seeing the world differently?
+  detail-page: /research/2025-can-we-talk-models-into-seeing-the-world-differently/
   date: 2025-6-1
   authors: 
     - Paul Gavrikov
@@ -1526,6 +1584,7 @@
   teaser-source: https://arxiv.org/pdf/2403.09193#page=1
 
 - title: Towards deep learning for seismic demultiple
+  detail-page: /research/2025-towards-deep-learning-for-seismic-demultiple/
   date: 2025-6-1
   authors: 
     - Mario Fernandez,
@@ -1551,6 +1610,7 @@
   teaser-source: https://opus.hs-offenburg.de/frontdoor/deliver/index/docId/10963/file/GPR_GPR13672.pdf#page=5
 
 - title: DispBench - Benchmarking Disparity Estimation to Synthetic Corruptions
+  detail-page: /research/2025-dispbench-benchmarking-disparity-estimation-to-synthetic-corruptions/
   date: 2025-6-1 
   authors: 
     - S. Agnihotri
@@ -1579,6 +1639,7 @@
   teaser-source: https://arxiv.org/pdf/2505.05091#page=1
 
 - title: Corner Cases - How Size and Position of Objects Challenge ImageNet-Trained Models
+  detail-page: /research/2025-corner-cases-how-size-and-position-of-objects-challenge-imagenet-trained-models/
   date: 2025-6-1 
   authors: 
     - M. Fatima
@@ -1605,6 +1666,7 @@
   teaser-source: https://arxiv.org/pdf/2505.03569#page=2
 
 - title: Are Synthetic Corruptions A Reliable Proxy For Real-World Corruptions?
+  detail-page: /research/2025-are-synthetic-corruptions-a-reliable-proxy-for-real-world-corruptions/
   date: 2025-6-1 
   authors: 
     - S. Agnihotri
@@ -1632,6 +1694,7 @@
   teaser-source: https://arxiv.org/pdf/2505.04835#page=1
 
 - title: Data-Eﬃcient Visual Concept Bottleneck Models
+  detail-page: /research/2025-data-efficient-visual-concept-bottleneck-models/
   date: 2025-6-1 
   authors: 
     - Katharina Prasse
@@ -1659,6 +1722,7 @@
   teaser-source: https://arxiv.org/pdf/2412.11576#page=1
 
 - title:  3D-WAG - Wavelet-Guided Autoregressive Generation for 3D Shapes
+  detail-page: /research/2025-3d-wag-wavelet-guided-autoregressive-generation-for-3d-shapes/
   date: 2025-6-1 
   authors: 
     - Tejaswini Medi
@@ -1684,6 +1748,7 @@
   teaser-source: https://arxiv.org/pdf/2411.19037#page=2
 
 - title: A Visual RAG Pipeline for Few-Shot Fine-Grained Product Classification
+  detail-page: /research/2025-a-visual-rag-pipeline-for-few-shot-fine-grained-product-classification/
   date: 2025-6-1 
   authors: 
     - Bianca Lamm
@@ -1709,6 +1774,7 @@
   teaser-source: https://arxiv.org/pdf/2504.11838#page=2
 
 - title: PhysicsGen - Can Generative Models Learn from Images to Predict Complex Physical Relations?
+  detail-page: /research/2025-physicsgen-can-generative-models-learn-from-images-to-predict-complex-physical-relations/
   date: 2025-6-1 
   authors: 
     - Martin Spitznagel
@@ -1737,6 +1803,7 @@
   teaser-source: https://arxiv.org/pdf/2503.05333#page=1
 
 - title: DCBM - Data-Efficient Visual Concept Bottleneck Models 
+  detail-page: /research/2025-dcbm-data-efficient-visual-concept-bottleneck-models/
   date: 2025-6-1
   authors: 
     - Katharina Prasse
@@ -1764,6 +1831,7 @@
   teaser-source: https://arxiv.org/pdf/2412.11576#page=1
 
 - title: Balancing Diversity and Risk in LLM Sampling - How to Select Your Method and Parameter for Open-Ended Text Generation 
+  detail-page: /research/2025-balancing-diversity-and-risk-in-llm-sampling-how-to-select-your-method-and-parameter-for-open-ended-text-generation/
   date: 2025-6-1
   authors: 
     - Yuxuan Zhou
@@ -1790,6 +1858,7 @@
   teaser-source: https://arxiv.org/pdf/2408.13586#page=2
 
 - title: FlowBench - Benchmarking Optical Flow Estimation Methods for Reliability and Generalization
+  detail-page: /research/2025-flowbench-benchmarking-optical-flow-estimation-methods-for-reliability-and-generalization/
   date: 2025-6-1
   authors: 
     - Shashank Agnihotri
@@ -1822,6 +1891,7 @@
   teaser-source: https://pure.mpg.de/rest/items/item_3673945/component/file_3673946/content#page=2
 
 - title: Smart Eyes for Silent Threats - VLMs and In-Context Learning for THz Imaging
+  detail-page: /research/2025-smart-eyes-for-silent-threats-vlms-and-in-context-learning-for-thz-imaging/
   date: 2025-6-1
   authors: 
     - Nicolas Poggi
@@ -1848,6 +1918,7 @@
   teaser-source: https://arxiv.org/pdf/2507.15576#page=2
 
 - title: Missing Fine Details in Images - Last Seen in High Frequencies
+  detail-page: /research/2025-missing-fine-details-in-images-last-seen-in-high-frequencies/
   date: 2025-6-1
   authors: 
     - Tejaswini Medi
@@ -1872,6 +1943,7 @@
   teaser-source: https://arxiv.org/pdf/2509.05441v1#page=2
 
 - title: Vision At Night - Exploring Biologically Inspired Preprocessing For Improved Robustness Via Color And Contrast Transformations
+  detail-page: /research/2025-vision-at-night-exploring-biologically-inspired-preprocessing-for-improved-robustness-via-color-and-contrast-transf/
   date: 2025-6-1
   authors: 
     - Lorena Stracke
@@ -1897,6 +1969,7 @@
   teaser-source: https://arxiv.org/pdf/2509.24863#page=1
 
 - title: TikZero - Zero-Shot Text-Guided Graphics Program Synthesis
+  detail-page: /research/2025-tikzero-zero-shot-text-guided-graphics-program-synthesis/
   date: 2025-6-1
   authors: 
     - Jonas Belouadi
@@ -1928,6 +2001,7 @@
   teaser-source: https://arxiv.org/pdf/2503.11509#page=1
 
 - title: AIM - Amending Inherent Interpretability via Self-Supervised Masking
+  detail-page: /research/2025-aim-amending-inherent-interpretability-via-self-supervised-masking/
   date: 2025-6-1
   authors: 
     - Eyad Alshami
@@ -1952,6 +2026,7 @@
   teaser-source: https://arxiv.org/pdf/2508.11502#page=1
 
 - title: MaxSup - Overcoming Representation Collapse in Label Smoothing
+  detail-page: /research/2025-maxsup-overcoming-representation-collapse-in-label-smoothing/
   date: 2025-6-1
   authors: 
     - Yuxuan Zhou
@@ -1981,6 +2056,7 @@
   teaser-source: https://arxiv.org/pdf/2502.15798#page=2
 
 - title: Real-time Prediction of Urban Sound Propagation with Conditioned Normalizing Flows
+  detail-page: /research/2025-real-time-prediction-of-urban-sound-propagation-with-conditioned-normalizing-flows/
   date: 2025-6-1
   authors: 
     - Achim Eckerle
@@ -2004,6 +2080,7 @@
   teaser-source: https://arxiv.org/pdf/2510.04510#page=3
 
 - title: A Granular Study of Safety Pretraining under Model Abliteration
+  detail-page: /research/2025-a-granular-study-of-safety-pretraining-under-model-abliteration/
   date: 2025-6-1
   authors: 
     - Shashank Agnihotri
@@ -2038,6 +2115,7 @@
   teaser-source: https://arxiv.org/pdf/2510.02768#page=4
 
 - title: mSOP-765k - A Benchmark For Multi-Modal Structured Output Predictions
+  detail-page: /research/2026-msop-765k-a-benchmark-for-multi-modal-structured-output-predictions/
   date: 2026-6-1
   authors: 
     - Bianca Lamm
@@ -2063,6 +2141,7 @@
   teaser-source: https://www.msop-765k.org/figures/abstract_mSOP765k.png
 
 - title: GeoDiv - Framework for Measuring Geographical Diversity in Text-to-Image Models 
+  detail-page: /research/2026-geodiv-framework-for-measuring-geographical-diversity-in-text-to-image-models/
   date: 2026-6-1
   authors: 
     - Abhipsa Basu
@@ -2091,6 +2170,7 @@
   teaser-source: https://arxiv.org/pdf/2602.22120#page=2
 
 - title: RobustSpring - Benchmarking Robustness to Image Corruptions for Optical Flow, Scene Flow and Stereo
+  detail-page: /research/2026-robustspring-benchmarking-robustness-to-image-corruptions-for-optical-flow-scene-flow-and-stereo/
   date: 2026-6-1
   authors: 
     - Victor Oei
@@ -2119,6 +2199,7 @@
   teaser-source: https://www.collaborative-ai.org/publications/oei26_iclr.pdf#page=1
 
 - title: We need to re-think the concept of “real” images 
+  detail-page: /research/2026-we-need-to-re-think-the-concept-of-real-images/
   date: 2026-6-1
   authors: 
     - Janis Keuper
@@ -2140,6 +2221,7 @@
   teaser-source: https://arxiv.org/pdf/2509.21864#page=5
 
 - title: Images as Tables - In-Context Learning with TabPFN for Low-Data Detection of AI-Generated Images 
+  detail-page: /research/2026-images-as-tables-in-context-learning-with-tabpfn-for-low-data-detection-of-ai-generated-images/
   date: 2026-6-1
   authors: 
     - Jan Philip Walter
@@ -2166,6 +2248,7 @@
   teaser-source: https://arxiv.org/pdf/2606.00872#page=1
 
 - title: A New Kind of Network? Review and Reference Implementation of Neural Cellular Automata
+  detail-page: /research/2026-a-new-kind-of-network-review-and-reference-implementation-of-neural-cellular-automata/
   date: 2026-6-1
   authors: 
     - Martin Spitznagel
@@ -2191,6 +2274,7 @@
   teaser-source: https://arxiv.org/pdf/2604.24990#page=1
 
 - title: Efficient Fine-grained Image Retrieval with Vision Foundation Models for Industrial Objects
+  detail-page: /research/2026-efficient-fine-grained-image-retrieval-with-vision-foundation-models-for-industrial-objects/
   date: 2026-6-1 
   authors: 
     - Yushi Liu
@@ -2215,6 +2299,7 @@
   teaser-source: https://openaccess.thecvf.com/content/CVPR2026W/FGVC13/papers/Liu_Efficient_Fine-grained_Image_Retrieval_with_Vision_Foundation_Models_for_Industrial_CVPRW_2026_paper.pdf#page=1
 
 - title: Fréchet Inception Distance is Failing to Preserve Rank Consistency for Synthetic Out-of-Distribution Samples
+  detail-page: /research/2026-frechet-inception-distance-is-failing-to-preserve-rank-consistency-for-synthetic-out-of-distribution-samples/
   date: 2026-6-1 
   authors: 
     - Linghui Liu
@@ -2234,6 +2319,7 @@
   description: Does Fréchet Inception Distance preserve a trustworthy ordering outside familiar image distributions? This work examines rank consistency for synthetic out-of-distribution samples, focusing attention on the reliability of generator evaluation.
 
 - title: Prompt injection attacks on llm generated reviews of scientific publications
+  detail-page: /research/2026-prompt-injection-attacks-on-llm-generated-reviews-of-scientific-publications/
   date: 2026-6-1 
   authors: 
     - Janis Keuper
@@ -2255,6 +2341,7 @@
   teaser-source: https://arxiv.org/pdf/2509.10248#page=1
 
 - title: Benchmarking Document Parsers on Mathematical Formula Extraction from PDFs
+  detail-page: /research/2026-benchmarking-document-parsers-on-mathematical-formula-extraction-from-pdfs/
   date: 2026-6-1 
   authors:
     - Pius Horn
@@ -2280,6 +2367,7 @@
   teaser-source: https://arxiv.org/pdf/2512.09874#page=5
 
 - title: Examining the Impact of Optical Aberrations to Image Classification and Object Detection Models 
+  detail-page: /research/2026-examining-the-impact-of-optical-aberrations-to-image-classification-and-object-detection-models/
   date: 2026-6-1
   authors: 
     - Patrick Müller 
@@ -2306,6 +2394,7 @@
   teaser-source: https://arxiv.org/pdf/2504.18510#page=1
 
 - title: Parameterized Adverse Lens Corruptions to Probe Model Robustness to Optical Tolerances
+  detail-page: /research/2026-parameterized-adverse-lens-corruptions-to-probe-model-robustness-to-optical-tolerances/
   date: 2026-6-1
   authors: 
     - K. Bäuerle
@@ -2326,6 +2415,7 @@
   description: Lens blur is not always a harmless image degradation. Adverse Lens Corruption optimizes physically parameterized aberrations to find difficult optical conditions and test a model's sensitivity to lens tolerances.
 
 - title: RAWDet-7 A Multi-Scenario Benchmark for Object Detection and Description on Quantized RAW Images
+  detail-page: /research/2026-rawdet-7-a-multi-scenario-benchmark-for-object-detection-and-description-on-quantized-raw-images/
   date: 2026-6-1
   authors: 
     - M. Fatima
@@ -2351,6 +2441,7 @@
   teaser-source: https://arxiv.org/pdf/2602.03760#page=2
 
 - title: STELLA a modular framework for SpatioTemporal Event-based Lagrangian particLe trAcking
+  detail-page: /research/2026-stella-a-modular-framework-for-spatiotemporal-event-based-lagrangian-particle-tracking/
   date: 2026-6-1
   authors: 
     - Sebastian Sachs
@@ -2379,6 +2470,7 @@
   teaser-source: https://link.springer.com/content/pdf/10.1007/s00348-026-04253-8.pdf#page=3
 
 - title: CROC Evaluating and Training T2I Metrics with Pseudo- and Human-Labeled Contrastive Robustness Checks
+  detail-page: /research/2026-croc-evaluating-and-training-t2i-metrics-with-pseudo-and-human-labeled-contrastive-robustness-checks/
   date: 2026-6-1
   authors: 
     - Christoph Leiter
@@ -2405,6 +2497,7 @@
   teaser-source: https://pure.mpg.de/rest/items/item_3656558_3/component/file_3717264/content#page=2
 
 - title: Decoupling High and Low Frequencies for Faithful Image Generation with Fine Details 
+  detail-page: /research/2026-decoupling-high-and-low-frequencies-for-faithful-image-generation-with-fine-details/
   date: 2026-6-1
   authors: 
     - Tejaswini Medi
@@ -2436,6 +2529,7 @@
   teaser-source: https://arxiv.org/pdf/2509.05441v4#page=2
 
 - title: Failure or Drift? Evaluating Monocular SLAM under Synthetic and Real-World Corruptions
+  detail-page: /research/2026-failure-or-drift-evaluating-monocular-slam-under-synthetic-and-real-world-corruptions/
   date: 2026-6-1
   authors: 
     - Abhay Skaria Thomas
@@ -2466,6 +2560,7 @@
   teaser-source: https://arxiv.org/pdf/2608.30690#page=7
 
 - title: We need theory-grounded explainability for abstract tasks to quantify model bias
+  detail-page: /research/2026-we-need-theory-grounded-explainability-for-abstract-tasks-to-quantify-model-bias/
   date: 2026-6-1
   authors: 
     - Katharina Prasse
@@ -2488,6 +2583,7 @@
     link: https://openreview.net/forum?id=Oz2id4l0SX
 
 - title: Combining Finetuning and RAG for Structured Output Prediction on a Multimodal High Velocity Retail Dataset
+  detail-page: /research/2026-combining-finetuning-and-rag-for-structured-output-prediction-on-a-multimodal-high-velocity-retail-dataset/
   date: 2026-6-1
   authors: 
     - Bianca Lamm
@@ -2510,6 +2606,7 @@
   description: Rapidly changing product catalogs challenge static prediction models. This work studies how fine-tuning and retrieval-augmented generation can be combined to extract structured information from multimodal retail data.
 
 - title: Unsupervised Visual Concept Bottlenecks for Interpretable Bioimage Classification
+  detail-page: /research/2026-unsupervised-visual-concept-bottlenecks-for-interpretable-bioimage-classification/
   date: 2026-6-1
   authors: 
     - Linghui Liu
@@ -2533,6 +2630,7 @@
   description: Visual concepts can make biological image classification easier to interpret. This work investigates unsupervised concept bottlenecks as a way to connect bioimage predictions with intermediate visual evidence.
 
 - title: LAION-Mobile - Evaluating Deepfake Detectors On One Million Smartphone Photos
+  detail-page: /research/2026-laion-mobile-evaluating-deepfake-detectors-on-one-million-smartphone-photos/
   date: 2026-6-1
   authors: 
     - Achim von Stryk
@@ -2555,6 +2653,7 @@
   teaser-source: https://arxiv.org/pdf/2609.11134#page=2
 
 - title: Beyond String Matching - Semantic Evaluation of PDF Table Extraction
+  detail-page: /research/2026-beyond-string-matching-semantic-evaluation-of-pdf-table-extraction/
   date: 2026-6-1
   authors: 
     - Pius Horn
@@ -2580,6 +2679,7 @@
   teaser-source: https://arxiv.org/pdf/2603.18652#page=2
 
 - title: Reinforcement Learning Based Fair Adversarial Training
+  detail-page: /research/2026-reinforcement-learning-based-fair-adversarial-training/
   date: 2026-6-1
   authors: 
     - Tejaswini Medi

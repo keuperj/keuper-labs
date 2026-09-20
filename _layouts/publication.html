@@ -1,0 +1,59 @@
+---
+layout: default
+---
+{% assign paper = site.data.citations | where: "detail-page", page.url | first %}
+<article class="publication">
+  <a class="publication_back" href="{{ '/research/' | relative_url }}">&larr; All publications</a>
+  <div class="publication_header">
+    <p class="publication_venue">{{ paper.publisher | escape }} · {{ paper.date | date: '%Y' }}</p>
+    <h1>{{ page.title | escape }}</h1>
+    <p class="publication_authors">{{ paper.authors | join: ', ' | escape }}</p>
+    {% include tags.html tags=paper.tags link='/research/' %}
+    <nav class="publication_resources" aria-label="Paper resources">
+      {% if paper.link %}<a href="{{ paper.link | escape }}">{{ page.paper_link_label | default: 'Read paper' }} ↗</a>{% endif %}
+      {% for resource in paper.extra-links %}
+        {% unless resource.link == paper.link %}
+          {% assign resource-url = resource.link %}
+          {% if resource.type == 'youtube' %}{% assign resource-url = resource.link | prepend: 'https://www.youtube.com/' %}{% endif %}
+          <a href="{{ resource-url | escape }}">{% if resource.type == 'source' %}Source code{% else %}{{ resource.text | default: resource.type | capitalize | escape }}{% endif %} ↗</a>
+        {% endunless %}
+      {% endfor %}
+      <a href="#citation">Cite this paper</a>
+    </nav>
+  </div>
+
+  <div class="publication_impact">
+    <h2>Why this publication matters</h2>
+    <p>{{ page.why | escape }}</p>
+  </div>
+
+  <h2 id="abstract">Abstract</h2>
+  {% if page.abstract %}
+    <p class="publication_abstract">{{ page.abstract | escape }}</p>
+    <p class="publication_source"><a href="{{ page.abstract_source | escape }}">Abstract source ↗</a></p>
+  {% else %}
+    <p class="publication_pending">The original abstract will be added when the full paper is available.</p>
+  {% endif %}
+
+  <h2 id="figures">Figures</h2>
+  {% for figure in page.figures %}
+    <figure class="publication_figure">
+      <a href="{{ figure.image | relative_url }}" aria-label="Enlarge {{ figure.label | escape }}">
+        <img src="{{ figure.image | relative_url }}" alt="{{ figure.alt | escape }}" width="{{ figure.width }}" height="{{ figure.height }}" loading="lazy" decoding="async">
+      </a>
+      <figcaption><strong>{{ figure.label | escape }}.</strong> {{ figure.caption | escape }} <a href="{{ figure.source | escape }}">View in source ↗</a></figcaption>
+    </figure>
+  {% endfor %}
+  {% if page.figures.size < 2 %}
+    <p class="publication_pending">Additional figures and captions will be added when the full paper is available.</p>
+  {% endif %}
+
+  <h2 id="citation">Cite this paper</h2>
+  <div class="publication_citation_actions">
+    <button type="button" class="publication_copy" data-copy-bibtex="publication-bibtex" hidden>Copy BibTeX</button>
+    <a href="{{ page.bibtex_file | relative_url }}" download>Download .bib</a>
+    <span class="publication_copy_status" role="status" aria-live="polite"></span>
+  </div>
+  <pre class="publication_bibtex" tabindex="0" aria-label="BibTeX citation"><code id="publication-bibtex">{{ page.bibtex | escape }}</code></pre>
+  <p class="publication_source">Figures and abstract are reproduced from the linked research sources. Credit remains with the authors and publishers.</p>
+</article>
