@@ -92,6 +92,8 @@ nav:
 
 
 
+{% include research-topics.html %}
+
 ### Resources
 
 {%
@@ -117,6 +119,8 @@ nav:
 Selected list of recent papers. A full list of all publications can be found at our [Google Scholar](https://scholar.google.de/citations?user=GzGmPPAAAAAJ) page.
 
 {% include section.html %}
+
+<div id="publication-search"></div>
 
 {% include search-box.html %}
 
