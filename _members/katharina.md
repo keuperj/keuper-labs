@@ -1,16 +1,18 @@
 ---
 name: Katharina Prasse
-image: https://www.vc.informatik.uni-siegen.de/sites/www.vc.informatik.uni-siegen.de/files/styles/mitarbeiter_foto/public/pictures/katharinaprasse.jpg
-description:  at Uni Mannheim
+image: images/members/katharina-prasse.jpg
+description: at Uni Mannheim
 role: phd
 group: Mannheim
 aliases:
-  - K. Prasse
-  - Prasse
+- K. Prasse
+- Prasse
 links:
-  home-page: https://www.vc.informatik.uni-siegen.de/en/prasse-katharina
-  email: katharina.prasse@uni-siegen.de
-  twitter: 
+  home-page: https://www.uni-mannheim.de/dws/people/researchers/phd-students/katharina-prasse/
+  email: katharina.prasse@uni-mannheim.de
+  twitter: null
+image_source: https://www.uni-mannheim.de/media/_processed_/a/3/csm_PrasseKatharina_web-JWE_3a6dff2190.jpg
+photo_credit: 'Photo: Joseline Weinberg'
 ---
 
-PhD Student working on ...
+Katharina is a PhD student in Margret Keuper’s Machine Learning group at the University of Mannheim. Her research focuses on explainable AI and computer vision for climate-change-related applications.

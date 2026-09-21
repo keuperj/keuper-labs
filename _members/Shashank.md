@@ -8,8 +8,8 @@ aliases:
   - S. Agnihotri
   - Agnihotri
 links:
-  home-page: https://www.vc.informatik.uni-siegen.de/en/agnihotri-shashank
-  email: shashank.agnihotri@uni-siegen.de
+  home-page: https://www.uni-mannheim.de/dws/people/researchers/phd-students/shashank/
+  email: shashank.agnihotri@uni-mannheim.de
   twitter: shashankska
   google-scholar: https://scholar.google.com/citations?user=4CgQ7xwAAAAJ&hl=en
   github: https://github.com/shashankskagnihotri
@@ -17,7 +17,7 @@ links:
 ---
 
 
-I'm a second-year Ph.D. student at the University of Siegen, working in the Visual Computing Group headed by Prof. Dr. Margret Keuper. I work on robustness of Neural Networks, and Neural Architecture Search.
+I'm a Ph.D. student at the University of Mannheim, working in the Machine Learning group headed by Prof. Dr. Margret Keuper. I work on robustness of Neural Networks, and Neural Architecture Search.
 
 My research interests in detail are:
 - Architectural Design Choices for OOD Robustness and Adversarial Robustness of Vision Models
