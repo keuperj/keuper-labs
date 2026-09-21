@@ -1,0 +1,140 @@
+# Editorial overview of research published in 2024–2026.
+# Paper metadata and A* markers are resolved from citations (group: AAA).
+period: 2024–2026
+topics:
+- title: Reliable vision in the real world
+  summary: We test how vision systems behave when images are corrupted, cameras introduce optical distortions,
+    or inputs are deliberately manipulated. Our benchmarks and training methods help expose weaknesses
+    hidden by clean-image accuracy, with growing attention to motion, depth and fairness across classes.
+  papers:
+  - page: /research/2024-cospgd-an-efficient-white-box-adversarial-attack-for-pixel-wise-prediction-tasks/
+    label: CosPGD
+    venue: ICML 2024
+  - page: /research/2026-robustspring-benchmarking-robustness-to-image-corruptions-for-optical-flow-scene-flow-and-stereo/
+    label: RobustSpring
+    venue: ICLR 2026
+  - page: /research/2026-examining-the-impact-of-optical-aberrations-to-image-classification-and-object-detection-models/
+    label: Optical aberrations in vision models
+    venue: TPAMI 2026
+  tags:
+  - Robustness
+  - Adversarial Robustness
+  - Optical Flow
+  - Computational Imaging
+- title: Understanding what models see
+  summary: We investigate which visual clues drive a prediction and how to make those decisions understandable.
+    From testing shape and texture biases to building classifiers around visible concepts, this work helps
+    distinguish meaningful evidence from misleading shortcuts, including in biological images.
+  papers:
+  - page: /research/2024-can-biases-in-imagenet-models-explain-generalization/
+    label: Can Biases in ImageNet Models Explain Generalization?
+    venue: CVPR 2024
+  - page: /research/2025-dcbm-data-efficient-visual-concept-bottleneck-models/
+    label: 'DCBM: visual concept bottlenecks'
+    venue: ICML 2025
+  - page: /research/2025-aim-amending-inherent-interpretability-via-self-supervised-masking/
+    label: 'AIM: interpretable classification'
+    venue: ICCV 2025
+  tags:
+  - Explainable AI
+  - Concept Bottleneck Models
+  - Shape Bias
+  - Spurious Correlations
+- title: Controllable generation with finer detail
+  summary: We develop image and video generators that follow scene layouts, preserve fine textures and
+    sustain motion over longer sequences. By improving both control and the representations inside these
+    models, we aim to make generated content more useful for visual creation and downstream learning.
+  papers:
+  - page: /research/2024-adversarial-supervision-makes-layout-to-image-diffusion-models-thrive/
+    label: Adversarial layout-to-image diffusion
+    venue: ICLR 2024
+  - page: /research/2025-vstar-generative-temporal-nursing-for-longer-dynamic-video-synthesis/
+    label: 'VSTAR: longer dynamic videos'
+    venue: ICLR 2025
+  - page: /research/2026-decoupling-high-and-low-frequencies-for-faithful-image-generation-with-fine-details/
+    label: 'DeBaT: faithful fine-detail generation'
+    venue: ECCV 2026
+  tags:
+  - Generative Models
+  - Diffusion Models
+  - Controllable Generation
+  - Video Generation
+  - Frequency Analysis
+- title: Trustworthy evaluation of generated images
+  summary: We ask whether image generators represent the world fairly and whether evaluation tools measure
+    what they claim to measure. Our work uncovers geographic biases and dataset shortcuts, while rethinking
+    deepfake detection for smartphone photographs that already contain extensive computational processing.
+  papers:
+  - page: /research/2026-geodiv-framework-for-measuring-geographical-diversity-in-text-to-image-models/
+    label: 'GeoDiv: geographical diversity'
+    venue: ICLR 2026
+  - page: /research/2026-we-need-to-re-think-the-concept-of-real-images/
+    label: Rethinking “real” images
+    venue: ICML 2026
+  - page: /research/2026-croc-evaluating-and-training-t2i-metrics-with-pseudo-and-human-labeled-contrastive-robustness-checks/
+    label: 'CROC: testing text-to-image metrics'
+    venue: TACL 2026
+  tags:
+  - Deepfake Detection
+  - Dataset Bias
+  - Geographical Diversity
+  - Evaluation Metrics
+- title: Better learning and language generation
+  summary: We study how training and decoding choices affect what a model learns and produces. New attention
+    and regularization methods preserve useful information, while our analysis of language-model sampling
+    helps users balance varied outputs against unreliable continuations.
+  papers:
+  - page: /research/2024-multimax-sparse-and-multi-modal-attention-learning/
+    label: 'MultiMax: sparse, multi-modal attention'
+    venue: ICML 2024
+  - page: /research/2025-maxsup-overcoming-representation-collapse-in-label-smoothing/
+    label: 'MaxSup: avoiding representation collapse'
+    venue: NeurIPS 2025
+  - page: /research/2025-balancing-diversity-and-risk-in-llm-sampling-how-to-select-your-method-and-parameter-for-open-ended-text-generation/
+    label: Balancing diversity and risk in LLM sampling
+    venue: ACL 2025
+  tags:
+  - Attention
+  - Representation Learning
+  - Regularization
+  - Large Language Models
+- title: Multimodal AI for useful, structured outputs
+  summary: We connect language and vision to produce editable graphics, recognize fine-grained products
+    and extract structured information from advertisements and scientific documents. Datasets and semantic
+    evaluation reveal where foundation models succeed and where retrieval, adaptation or better measurements
+    are still needed.
+  papers:
+  - page: /research/2025-tikzero-zero-shot-text-guided-graphics-program-synthesis/
+    label: 'TikZero: text-to-graphics programs'
+    venue: ICCV 2025
+  - page: /research/2026-msop-765k-a-benchmark-for-multi-modal-structured-output-predictions/
+    label: 'mSOP-765k: structured retail predictions'
+    venue: TMLR 2026
+  - page: /research/2026-benchmarking-document-parsers-on-mathematical-formula-extraction-from-pdfs/
+    label: Benchmarking mathematical formula extraction
+    venue: ICPR 2026
+  tags:
+  - Vision-Language Models
+  - Retrieval-Augmented Generation
+  - Retail
+  - Document Parsing
+  - Program Synthesis
+- title: Learning physical processes from data
+  summary: We explore whether learned models can predict complex physical behavior quickly enough to support
+    interactive exploration. Benchmarks for image-based simulation and urban sound, together with event-camera
+    particle tracking, test how well these methods preserve the physical information researchers need.
+  papers:
+  - page: /research/2025-physicsgen-can-generative-models-learn-from-images-to-predict-complex-physical-relations/
+    label: 'PhysicsGen: learning physical relations'
+    venue: CVPR 2025
+  - page: /research/2025-real-time-prediction-of-urban-sound-propagation-with-conditioned-normalizing-flows/
+    label: Real-time urban sound propagation
+    venue: NeurIPS 2025 workshop
+  - page: /research/2026-stella-a-modular-framework-for-spatiotemporal-event-based-lagrangian-particle-tracking/
+    label: 'STELLA: event-based particle tracking'
+    venue: Experiments in Fluids 2026
+  tags:
+  - Scientific Machine Learning
+  - Physics Simulation
+  - Acoustics
+  - Event-Based Vision

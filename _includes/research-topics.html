@@ -1,0 +1,27 @@
+<div class="current_topics" aria-labelledby="current-topics">
+  <h2 id="current-topics">Current Topics</h2>
+  <p>Our research in {{ site.data.research-topics.period }} spans reliable vision, understandable models and useful generative AI. Explore the themes below and their key contributions; <strong>A*</strong> marks papers at our top-tier conferences. Select a tag to jump to matching publications across the full list.</p>
+  <div class="current_topics_grid">
+    {% for topic in site.data.research-topics.topics %}
+      <article class="research_topic">
+        <h3>{{ topic.title | escape }}</h3>
+        <p>{{ topic.summary | escape }}</p>
+        <ul class="research_topic_papers" aria-label="Key contributions">
+          {% for reference in topic.papers %}
+            {% assign paper = site.data.citations | where: "detail-page", reference.page | first %}
+            <li>
+              <a href="{{ reference.page | relative_url }}" title="{{ paper.title | escape }}">{{ reference.label | escape }}</a>
+              <span class="research_topic_venue">{{ reference.venue | escape }}{% if paper.group == "AAA" %} <strong class="research_topic_star">A*</strong>{% endif %}</span>
+            </li>
+          {% endfor %}
+        </ul>
+        <div class="tags" aria-label="Filter publications by topic">
+          {% for tag in topic.tags %}
+            {% capture query %}"tag: {{ tag }}"{% endcapture %}
+            <a class="tag" href="{{ '/research/' | relative_url }}?search={{ query | uri_escape }}#publication-search" data-tooltip="Show publications tagged {{ tag | escape }}">{{ tag | escape }}</a>
+          {% endfor %}
+        </div>
+      </article>
+    {% endfor %}
+  </div>
+</div>

@@ -1,0 +1,29 @@
+---
+---
+
+@import "palettes";
+@import "theme";
+
+.current_topics {
+  margin: 3rem 0;
+  text-align: left;
+
+  h2, h3, p, li { text-align: left; }
+  .current_topics_grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1.5rem; margin-top: 1.5rem; }
+  .research_topic { min-width: 0; padding: 1.5rem; border: 1px solid $gray-300; border-top: 3px solid $accent; border-radius: $rounded; }
+  .research_topic h3 { margin: 0 0 1rem; }
+  .research_topic p { margin: 0 0 1rem; }
+  .research_topic_papers { padding-left: 1.2rem; margin: 1rem 0; }
+  .research_topic_papers li { margin: 0.75rem 0; overflow-wrap: anywhere; }
+  .research_topic_venue { display: block; color: $gray-600; font-size: 0.85rem; }
+  .research_topic_star { margin-left: 0.3rem; color: $dark-accent; }
+  .tags { justify-content: flex-start; font-size: 0.85rem; }
+  .tag { white-space: normal; overflow-wrap: anywhere; }
+  a:focus-visible { outline: 3px solid $accent; outline-offset: 3px; }
+}
+
+#publication-search { scroll-margin-top: 2rem; }
+
+@media (max-width: 750px) {
+  .current_topics .current_topics_grid { grid-template-columns: 1fr; }
+}
