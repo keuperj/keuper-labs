@@ -1,0 +1,401 @@
+# Editorially selected related lab publications. Keys and values are stable internal paper URLs.
+? /research/2020-watch-your-up-convolution-cnn-based-generative-deep-neural-networks-are-failing-to-reproduce-spectral-distributions/
+: - /research/2021-spectral-distribution-aware-image-generation/
+  - /research/2024-fake-or-jpeg-revealing-common-biases-in-generated-image-detection-datasets/
+  - /research/2026-laion-mobile-evaluating-deepfake-detectors-on-one-million-smartphone-photos/
+/research/2020-extracting-horizon-surfaces-from-3d-seismic-data-using-deep-learning/:
+- /research/2020-detection-of-point-scatterers-using-diffraction-imaging-and-deep-learning/
+- /research/2023-deep-diffusion-models-for-seismic-processing/
+- /research/2025-towards-deep-learning-for-seismic-demultiple/
+/research/2020-detection-of-point-scatterers-using-diffraction-imaging-and-deep-learning/:
+- /research/2020-extracting-horizon-surfaces-from-3d-seismic-data-using-deep-learning/
+- /research/2023-an-in-depth-study-of-u-net-for-seismic-data-conditioning-multiple-removal-by-move-out-discrimination/
+- /research/2025-towards-deep-learning-for-seismic-demultiple/
+/research/2021-smooth-variational-graph-embeddings-for-efficient-neural-architecture-search/:
+- /research/2022-surrogate-nas-benchmarks-going-beyond-the-limited-search-spaces-of-tabular-nas-benchmarks/
+- /research/2022-learning-where-to-look-generative-nas-is-surprisingly-efficient/
+- /research/2023-neural-architecture-design-and-robustness-a-dataset/
+/research/2021-shape-your-space-a-gaussian-mixture-regularization-approach-to-deterministic-autoencoders/:
+- /research/2022-trading-off-image-quality-for-robustness-is-not-necessary-with-regularized-deterministic-autoencoders/
+- /research/2025-missing-fine-details-in-images-last-seen-in-high-frequencies/
+- /research/2026-decoupling-high-and-low-frequencies-for-faithful-image-generation-with-fine-details/
+/research/2021-an-empirical-investigation-of-model-to-model-distribution-shifts-in-trained-convolutional-filters/:
+- /research/2022-cnn-filter-db-an-empirical-investigation-of-trained-convolutional-filters/
+- /research/2022-does-medical-imaging-learn-different-convolution-filters/
+- /research/2022-adversarial-robustness-through-the-lens-of-convolutional-filters/
+/research/2021-multi-class-multi-instance-count-conditioned-adversarial-image-generation/:
+- /research/2021-spectral-distribution-aware-image-generation/
+- /research/2023-happy-people-image-synthesis-as-black-box-optimization-problem-in-the-discrete-latent-space-of-deep-generative-mode/
+- /research/2024-adversarial-supervision-makes-layout-to-image-diffusion-models-thrive/
+/research/2021-spectral-distribution-aware-image-generation/:
+- /research/2020-watch-your-up-convolution-cnn-based-generative-deep-neural-networks-are-failing-to-reproduce-spectral-distributions/
+- /research/2025-missing-fine-details-in-images-last-seen-in-high-frequencies/
+- /research/2026-decoupling-high-and-low-frequencies-for-faithful-image-generation-with-fine-details/
+/research/2022-aliasing-coincides-with-cnns-vulnerability-towards-adversarial-attacks/:
+- /research/2022-aliasing-and-adversarial-robust-generalization-of-cnns/
+- /research/2022-frequencylowcut-pooling-plug-play-against-catastrophic-overfitting/
+- /research/2022-adversarial-robustness-through-the-lens-of-convolutional-filters/
+/research/2022-is-robustbench-autoattack-a-suitable-benchmark-for-adversarial-robustness/:
+- /research/2023-neural-architecture-design-and-robustness-a-dataset/
+- /research/2024-cospgd-an-efficient-white-box-adversarial-attack-for-pixel-wise-prediction-tasks/
+- /research/2025-flowbench-benchmarking-optical-flow-estimation-methods-for-reliability-and-generalization/
+/research/2022-robust-models-are-less-over-confident/:
+- /research/2022-robust-models-are-less-over-confident-22/
+- /research/2025-maxsup-overcoming-representation-collapse-in-label-smoothing/
+- /research/2025-fair-tat-improving-model-fairness-using-targeted-adversarial-training/
+/research/2022-surrogate-nas-benchmarks-going-beyond-the-limited-search-spaces-of-tabular-nas-benchmarks/:
+- /research/2021-smooth-variational-graph-embeddings-for-efficient-neural-architecture-search/
+- /research/2022-learning-where-to-look-generative-nas-is-surprisingly-efficient/
+- /research/2024-an-evaluation-of-zero-cost-proxies-from-neural-architecture-performance-prediction-to-model-robustness/
+/research/2022-higher-order-multicuts-for-geometric-model-fitting-and-motion-segmentation/:
+- /research/2025-i-spy-with-my-little-eye-a-minimum-cost-multicut-investigation-of-dataset-frames/
+- /research/2024-implicit-representations-for-constrained-image-segmentation/
+- /research/2026-stella-a-modular-framework-for-spatiotemporal-event-based-lagrangian-particle-tracking/
+/research/2022-aliasing-and-adversarial-robust-generalization-of-cnns/:
+- /research/2022-aliasing-coincides-with-cnns-vulnerability-towards-adversarial-attacks/
+- /research/2022-frequencylowcut-pooling-plug-play-against-catastrophic-overfitting/
+- /research/2024-improving-feature-stability-during-upsampling-spectral-artifacts-and-the-importance-of-spatial-context/
+/research/2022-adversarial-robustness-through-the-lens-of-convolutional-filters/:
+- /research/2022-cnn-filter-db-an-empirical-investigation-of-trained-convolutional-filters/
+- /research/2023-improving-native-cnn-robustness-with-filter-frequency-regularization/
+- /research/2024-how-do-training-methods-influence-the-utilization-of-vision-models/
+/research/2022-cnn-filter-db-an-empirical-investigation-of-trained-convolutional-filters/:
+- /research/2021-an-empirical-investigation-of-model-to-model-distribution-shifts-in-trained-convolutional-filters/
+- /research/2022-does-medical-imaging-learn-different-convolution-filters/
+- /research/2022-adversarial-robustness-through-the-lens-of-convolutional-filters/
+/research/2022-frequencylowcut-pooling-plug-play-against-catastrophic-overfitting/:
+- /research/2022-aliasing-and-adversarial-robust-generalization-of-cnns/
+- /research/2024-improving-feature-stability-during-upsampling-spectral-artifacts-and-the-importance-of-spatial-context/
+- /research/2023-improving-native-cnn-robustness-with-filter-frequency-regularization/
+/research/2022-learning-where-to-look-generative-nas-is-surprisingly-efficient/:
+- /research/2021-smooth-variational-graph-embeddings-for-efficient-neural-architecture-search/
+- /research/2022-surrogate-nas-benchmarks-going-beyond-the-limited-search-spaces-of-tabular-nas-benchmarks/
+- /research/2024-an-evaluation-of-zero-cost-proxies-from-neural-architecture-performance-prediction-to-model-robustness/
+/research/2022-physics-informed-learning-of-aerosol-microphysics/:
+- /research/2025-physicsgen-can-generative-models-learn-from-images-to-predict-complex-physical-relations/
+- /research/2024-urban-sound-propagation-a-benchmark-for-1-step-generative-modeling-of-complex-physical-systems/
+- /research/2025-real-time-prediction-of-urban-sound-propagation-with-conditioned-normalizing-flows/
+/research/2022-does-medical-imaging-learn-different-convolution-filters/:
+- /research/2022-cnn-filter-db-an-empirical-investigation-of-trained-convolutional-filters/
+- /research/2021-an-empirical-investigation-of-model-to-model-distribution-shifts-in-trained-convolutional-filters/
+- /research/2026-unsupervised-visual-concept-bottlenecks-for-interpretable-bioimage-classification/
+? /research/2022-impact-of-realistic-properties-of-the-point-spread-function-on-classification-tasks-to-reveal-a-possible-distributi/
+: - /research/2026-examining-the-impact-of-optical-aberrations-to-image-classification-and-object-detection-models/
+  - /research/2026-parameterized-adverse-lens-corruptions-to-probe-model-robustness-to-optical-tolerances/
+  - /research/2024-learning-the-essential-in-less-than-2k-additional-weights-a-simple-approach-to-improve-image-classification-stabili/
+/research/2022-robust-models-are-less-over-confident-22/:
+- /research/2022-robust-models-are-less-over-confident/
+- /research/2025-maxsup-overcoming-representation-collapse-in-label-smoothing/
+- /research/2026-reinforcement-learning-based-fair-adversarial-training/
+/research/2022-trading-off-image-quality-for-robustness-is-not-necessary-with-regularized-deterministic-autoencoders/:
+- /research/2021-shape-your-space-a-gaussian-mixture-regularization-approach-to-deterministic-autoencoders/
+- /research/2025-missing-fine-details-in-images-last-seen-in-high-frequencies/
+- /research/2026-decoupling-high-and-low-frequencies-for-faithful-image-generation-with-fine-details/
+/research/2023-neural-architecture-design-and-robustness-a-dataset/:
+- /research/2023-neural-architecture-design-and-robustness-a-dataset-29/
+- /research/2024-an-evaluation-of-zero-cost-proxies-from-neural-architecture-performance-prediction-to-model-robustness/
+- /research/2022-learning-where-to-look-generative-nas-is-surprisingly-efficient/
+/research/2023-deep-diffusion-models-for-seismic-processing/:
+- /research/2023-an-in-depth-study-of-u-net-for-seismic-data-conditioning-multiple-removal-by-move-out-discrimination/
+- /research/2025-towards-deep-learning-for-seismic-demultiple/
+- /research/2020-extracting-horizon-surfaces-from-3d-seismic-data-using-deep-learning/
+/research/2023-an-extended-study-of-human-like-behavior-under-adversarial-training/:
+- /research/2024-can-biases-in-imagenet-models-explain-generalization/
+- /research/2024-are-vision-language-models-texture-or-shape-biased-and-can-we-steer-them/
+- /research/2025-can-we-talk-models-into-seeing-the-world-differently/
+? /research/2023-happy-people-image-synthesis-as-black-box-optimization-problem-in-the-discrete-latent-space-of-deep-generative-mode/
+: - /research/2021-multi-class-multi-instance-count-conditioned-adversarial-image-generation/
+  - /research/2021-shape-your-space-a-gaussian-mixture-regularization-approach-to-deterministic-autoencoders/
+  - /research/2025-missing-fine-details-in-images-last-seen-in-high-frequencies/
+/research/2023-fine-grained-product-classification-on-leaflet-advertisements/:
+- /research/2024-retail-786k-a-large-scale-dataset-for-visual-entity-matching/
+- /research/2025-a-visual-rag-pipeline-for-few-shot-fine-grained-product-classification/
+- /research/2024-can-visual-language-models-replace-ocr-based-visual-question-answering-pipelines-in-production-a-case-study-in-reta/
+/research/2023-neural-architecture-design-and-robustness-a-dataset-29/:
+- /research/2023-neural-architecture-design-and-robustness-a-dataset/
+- /research/2024-an-evaluation-of-zero-cost-proxies-from-neural-architecture-performance-prediction-to-model-robustness/
+- /research/2022-learning-where-to-look-generative-nas-is-surprisingly-efficient/
+/research/2023-intra-source-style-augmentation-for-improved-domain-generalization/:
+- /research/2024-intra-and-extra-source-exemplar-based-style-synthesis-for-improved-domain-generalization/
+- /research/2024-adversarial-supervision-makes-layout-to-image-diffusion-models-thrive/
+- /research/2023-assessing-domain-generalization-of-semantic-segmenters-with-synthetic-data/
+/research/2023-assessing-domain-generalization-of-semantic-segmenters-with-synthetic-data/:
+- /research/2024-intra-and-extra-source-exemplar-based-style-synthesis-for-improved-domain-generalization/
+- /research/2024-adversarial-supervision-makes-layout-to-image-diffusion-models-thrive/
+- /research/2025-are-synthetic-corruptions-a-reliable-proxy-for-real-world-corruptions/
+/research/2023-on-the-interplay-of-convolutional-padding-and-adversarial-robustness/:
+- /research/2022-frequencylowcut-pooling-plug-play-against-catastrophic-overfitting/
+- /research/2023-improving-native-cnn-robustness-with-filter-frequency-regularization/
+- /research/2022-aliasing-and-adversarial-robust-generalization-of-cnns/
+/research/2023-on-the-unreasonable-vulnerability-of-transformers-for-image-restoration-and-an-easy-fix/:
+- /research/2024-improving-feature-stability-during-upsampling-spectral-artifacts-and-the-importance-of-spatial-context/
+- /research/2024-cospgd-an-efficient-white-box-adversarial-attack-for-pixel-wise-prediction-tasks/
+- /research/2022-frequencylowcut-pooling-plug-play-against-catastrophic-overfitting/
+/research/2023-an-in-depth-study-of-u-net-for-seismic-data-conditioning-multiple-removal-by-move-out-discrimination/:
+- /research/2025-towards-deep-learning-for-seismic-demultiple/
+- /research/2023-deep-diffusion-models-for-seismic-processing/
+- /research/2020-extracting-horizon-surfaces-from-3d-seismic-data-using-deep-learning/
+/research/2023-improving-native-cnn-robustness-with-filter-frequency-regularization/:
+- /research/2022-adversarial-robustness-through-the-lens-of-convolutional-filters/
+- /research/2022-frequencylowcut-pooling-plug-play-against-catastrophic-overfitting/
+- /research/2024-learning-the-essential-in-less-than-2k-additional-weights-a-simple-approach-to-improve-image-classification-stabili/
+/research/2024-improving-feature-stability-during-upsampling-spectral-artifacts-and-the-importance-of-spatial-context/:
+- /research/2023-on-the-unreasonable-vulnerability-of-transformers-for-image-restoration-and-an-easy-fix/
+- /research/2022-frequencylowcut-pooling-plug-play-against-catastrophic-overfitting/
+- /research/2022-aliasing-and-adversarial-robust-generalization-of-cnns/
+/research/2024-fake-or-jpeg-revealing-common-biases-in-generated-image-detection-datasets/:
+- /research/2026-laion-mobile-evaluating-deepfake-detectors-on-one-million-smartphone-photos/
+- /research/2026-images-as-tables-in-context-learning-with-tabpfn-for-low-data-detection-of-ai-generated-images/
+- /research/2020-watch-your-up-convolution-cnn-based-generative-deep-neural-networks-are-failing-to-reproduce-spectral-distributions/
+? /research/2024-can-visual-language-models-replace-ocr-based-visual-question-answering-pipelines-in-production-a-case-study-in-reta/
+: - /research/2025-a-visual-rag-pipeline-for-few-shot-fine-grained-product-classification/
+  - /research/2026-msop-765k-a-benchmark-for-multi-modal-structured-output-predictions/
+  - /research/2026-combining-finetuning-and-rag-for-structured-output-prediction-on-a-multimodal-high-velocity-retail-dataset/
+/research/2024-top-gap-integrating-size-priors-in-cnns-for-more-interpretability-robustness-and-bias-mitigation/:
+- /research/2025-aim-amending-inherent-interpretability-via-self-supervised-masking/
+- /research/2025-corner-cases-how-size-and-position-of-objects-challenge-imagenet-trained-models/
+- /research/2024-implicit-representations-for-constrained-image-segmentation/
+/research/2024-adversarial-supervision-makes-layout-to-image-diffusion-models-thrive/:
+- /research/2023-intra-source-style-augmentation-for-improved-domain-generalization/
+- /research/2024-intra-and-extra-source-exemplar-based-style-synthesis-for-improved-domain-generalization/
+- /research/2023-assessing-domain-generalization-of-semantic-segmenters-with-synthetic-data/
+/research/2024-urban-sound-propagation-a-benchmark-for-1-step-generative-modeling-of-complex-physical-systems/:
+- /research/2025-physicsgen-can-generative-models-learn-from-images-to-predict-complex-physical-relations/
+- /research/2025-real-time-prediction-of-urban-sound-propagation-with-conditioned-normalizing-flows/
+- /research/2022-physics-informed-learning-of-aerosol-microphysics/
+/research/2024-retail-786k-a-large-scale-dataset-for-visual-entity-matching/:
+- /research/2023-fine-grained-product-classification-on-leaflet-advertisements/
+- /research/2025-a-visual-rag-pipeline-for-few-shot-fine-grained-product-classification/
+- /research/2026-msop-765k-a-benchmark-for-multi-modal-structured-output-predictions/
+/research/2024-intra-and-extra-source-exemplar-based-style-synthesis-for-improved-domain-generalization/:
+- /research/2023-intra-source-style-augmentation-for-improved-domain-generalization/
+- /research/2024-adversarial-supervision-makes-layout-to-image-diffusion-models-thrive/
+- /research/2023-assessing-domain-generalization-of-semantic-segmenters-with-synthetic-data/
+/research/2024-can-biases-in-imagenet-models-explain-generalization/:
+- /research/2023-an-extended-study-of-human-like-behavior-under-adversarial-training/
+- /research/2025-can-we-talk-models-into-seeing-the-world-differently/
+- /research/2024-how-do-training-methods-influence-the-utilization-of-vision-models/
+/research/2024-ambiguous-annotations-when-is-a-pedestrian-not-a-pedestrian/:
+- /research/2025-corner-cases-how-size-and-position-of-objects-challenge-imagenet-trained-models/
+- /research/2026-we-need-theory-grounded-explainability-for-abstract-tasks-to-quantify-model-bias/
+- /research/2024-reliable-evaluation-of-attribution-maps-in-cnns-a-perturbation-based-approach/
+/research/2024-are-vision-language-models-texture-or-shape-biased-and-can-we-steer-them/:
+- /research/2025-can-we-talk-models-into-seeing-the-world-differently/
+- /research/2024-can-biases-in-imagenet-models-explain-generalization/
+- /research/2023-an-extended-study-of-human-like-behavior-under-adversarial-training/
+/research/2024-as-large-as-it-gets-studying-infinitely-large-convolutions-via-neural-implicit-frequency-filters/:
+- /research/2024-learning-the-essential-in-less-than-2k-additional-weights-a-simple-approach-to-improve-image-classification-stabili/
+- /research/2023-improving-native-cnn-robustness-with-filter-frequency-regularization/
+- /research/2024-improving-feature-stability-during-upsampling-spectral-artifacts-and-the-importance-of-spatial-context/
+/research/2024-cospgd-an-efficient-white-box-adversarial-attack-for-pixel-wise-prediction-tasks/:
+- /research/2025-dispbench-benchmarking-disparity-estimation-to-synthetic-corruptions/
+- /research/2025-flowbench-benchmarking-optical-flow-estimation-methods-for-reliability-and-generalization/
+- /research/2023-on-the-unreasonable-vulnerability-of-transformers-for-image-restoration-and-an-easy-fix/
+/research/2024-multimax-sparse-and-multi-modal-attention-learning/:
+- /research/2025-maxsup-overcoming-representation-collapse-in-label-smoothing/
+- /research/2025-balancing-diversity-and-risk-in-llm-sampling-how-to-select-your-method-and-parameter-for-open-ended-text-generation/
+- /research/2025-vstar-generative-temporal-nursing-for-longer-dynamic-video-synthesis/
+/research/2024-implicit-representations-for-constrained-image-segmentation/:
+- /research/2022-higher-order-multicuts-for-geometric-model-fitting-and-motion-segmentation/
+- /research/2024-top-gap-integrating-size-priors-in-cnns-for-more-interpretability-robustness-and-bias-mitigation/
+- /research/2025-aim-amending-inherent-interpretability-via-self-supervised-masking/
+? /research/2024-learning-the-essential-in-less-than-2k-additional-weights-a-simple-approach-to-improve-image-classification-stabili/
+: - /research/2026-examining-the-impact-of-optical-aberrations-to-image-classification-and-object-detection-models/
+  - /research/2026-parameterized-adverse-lens-corruptions-to-probe-model-robustness-to-optical-tolerances/
+  - /research/2024-as-large-as-it-gets-studying-infinitely-large-convolutions-via-neural-implicit-frequency-filters/
+/research/2024-reliable-evaluation-of-attribution-maps-in-cnns-a-perturbation-based-approach/:
+- /research/2025-aim-amending-inherent-interpretability-via-self-supervised-masking/
+- /research/2024-top-gap-integrating-size-priors-in-cnns-for-more-interpretability-robustness-and-bias-mitigation/
+- /research/2026-we-need-theory-grounded-explainability-for-abstract-tasks-to-quantify-model-bias/
+/research/2024-how-do-training-methods-influence-the-utilization-of-vision-models/:
+- /research/2022-cnn-filter-db-an-empirical-investigation-of-trained-convolutional-filters/
+- /research/2022-adversarial-robustness-through-the-lens-of-convolutional-filters/
+- /research/2024-can-biases-in-imagenet-models-explain-generalization/
+/research/2024-an-evaluation-of-zero-cost-proxies-from-neural-architecture-performance-prediction-to-model-robustness/:
+- /research/2023-neural-architecture-design-and-robustness-a-dataset/
+- /research/2023-neural-architecture-design-and-robustness-a-dataset-29/
+- /research/2022-learning-where-to-look-generative-nas-is-surprisingly-efficient/
+/research/2025-i-spy-with-my-little-eye-a-minimum-cost-multicut-investigation-of-dataset-frames/:
+- /research/2022-higher-order-multicuts-for-geometric-model-fitting-and-motion-segmentation/
+- /research/2026-we-need-theory-grounded-explainability-for-abstract-tasks-to-quantify-model-bias/
+- /research/2026-geodiv-framework-for-measuring-geographical-diversity-in-text-to-image-models/
+/research/2025-fair-tat-improving-model-fairness-using-targeted-adversarial-training/:
+- /research/2026-reinforcement-learning-based-fair-adversarial-training/
+- /research/2022-robust-models-are-less-over-confident-22/
+- /research/2023-neural-architecture-design-and-robustness-a-dataset/
+/research/2025-vstar-generative-temporal-nursing-for-longer-dynamic-video-synthesis/:
+- /research/2024-adversarial-supervision-makes-layout-to-image-diffusion-models-thrive/
+- /research/2021-multi-class-multi-instance-count-conditioned-adversarial-image-generation/
+- /research/2026-decoupling-high-and-low-frequencies-for-faithful-image-generation-with-fine-details/
+/research/2025-can-we-talk-models-into-seeing-the-world-differently/:
+- /research/2024-are-vision-language-models-texture-or-shape-biased-and-can-we-steer-them/
+- /research/2024-can-biases-in-imagenet-models-explain-generalization/
+- /research/2026-we-need-theory-grounded-explainability-for-abstract-tasks-to-quantify-model-bias/
+/research/2025-towards-deep-learning-for-seismic-demultiple/:
+- /research/2023-an-in-depth-study-of-u-net-for-seismic-data-conditioning-multiple-removal-by-move-out-discrimination/
+- /research/2023-deep-diffusion-models-for-seismic-processing/
+- /research/2020-extracting-horizon-surfaces-from-3d-seismic-data-using-deep-learning/
+/research/2025-dispbench-benchmarking-disparity-estimation-to-synthetic-corruptions/:
+- /research/2026-robustspring-benchmarking-robustness-to-image-corruptions-for-optical-flow-scene-flow-and-stereo/
+- /research/2025-flowbench-benchmarking-optical-flow-estimation-methods-for-reliability-and-generalization/
+- /research/2024-cospgd-an-efficient-white-box-adversarial-attack-for-pixel-wise-prediction-tasks/
+/research/2025-corner-cases-how-size-and-position-of-objects-challenge-imagenet-trained-models/:
+- /research/2024-top-gap-integrating-size-priors-in-cnns-for-more-interpretability-robustness-and-bias-mitigation/
+- /research/2025-aim-amending-inherent-interpretability-via-self-supervised-masking/
+- /research/2024-can-biases-in-imagenet-models-explain-generalization/
+/research/2025-are-synthetic-corruptions-a-reliable-proxy-for-real-world-corruptions/:
+- /research/2023-assessing-domain-generalization-of-semantic-segmenters-with-synthetic-data/
+- /research/2026-robustspring-benchmarking-robustness-to-image-corruptions-for-optical-flow-scene-flow-and-stereo/
+- /research/2026-failure-or-drift-evaluating-monocular-slam-under-synthetic-and-real-world-corruptions/
+/research/2025-data-efficient-visual-concept-bottleneck-models/:
+- /research/2025-dcbm-data-efficient-visual-concept-bottleneck-models/
+- /research/2026-unsupervised-visual-concept-bottlenecks-for-interpretable-bioimage-classification/
+- /research/2025-aim-amending-inherent-interpretability-via-self-supervised-masking/
+/research/2025-3d-wag-wavelet-guided-autoregressive-generation-for-3d-shapes/:
+- /research/2026-decoupling-high-and-low-frequencies-for-faithful-image-generation-with-fine-details/
+- /research/2025-missing-fine-details-in-images-last-seen-in-high-frequencies/
+- /research/2021-shape-your-space-a-gaussian-mixture-regularization-approach-to-deterministic-autoencoders/
+/research/2025-a-visual-rag-pipeline-for-few-shot-fine-grained-product-classification/:
+- /research/2026-combining-finetuning-and-rag-for-structured-output-prediction-on-a-multimodal-high-velocity-retail-dataset/
+- /research/2026-msop-765k-a-benchmark-for-multi-modal-structured-output-predictions/
+- /research/2024-retail-786k-a-large-scale-dataset-for-visual-entity-matching/
+/research/2025-physicsgen-can-generative-models-learn-from-images-to-predict-complex-physical-relations/:
+- /research/2024-urban-sound-propagation-a-benchmark-for-1-step-generative-modeling-of-complex-physical-systems/
+- /research/2025-real-time-prediction-of-urban-sound-propagation-with-conditioned-normalizing-flows/
+- /research/2022-physics-informed-learning-of-aerosol-microphysics/
+/research/2025-dcbm-data-efficient-visual-concept-bottleneck-models/:
+- /research/2025-data-efficient-visual-concept-bottleneck-models/
+- /research/2026-unsupervised-visual-concept-bottlenecks-for-interpretable-bioimage-classification/
+- /research/2025-aim-amending-inherent-interpretability-via-self-supervised-masking/
+? /research/2025-balancing-diversity-and-risk-in-llm-sampling-how-to-select-your-method-and-parameter-for-open-ended-text-generation/
+: - /research/2024-multimax-sparse-and-multi-modal-attention-learning/
+  - /research/2025-a-granular-study-of-safety-pretraining-under-model-abliteration/
+  - /research/2026-prompt-injection-attacks-on-llm-generated-reviews-of-scientific-publications/
+/research/2025-flowbench-benchmarking-optical-flow-estimation-methods-for-reliability-and-generalization/:
+- /research/2025-dispbench-benchmarking-disparity-estimation-to-synthetic-corruptions/
+- /research/2026-robustspring-benchmarking-robustness-to-image-corruptions-for-optical-flow-scene-flow-and-stereo/
+- /research/2026-failure-or-drift-evaluating-monocular-slam-under-synthetic-and-real-world-corruptions/
+/research/2025-smart-eyes-for-silent-threats-vlms-and-in-context-learning-for-thz-imaging/:
+- /research/2026-rawdet-7-a-multi-scenario-benchmark-for-object-detection-and-description-on-quantized-raw-images/
+- /research/2026-examining-the-impact-of-optical-aberrations-to-image-classification-and-object-detection-models/
+- /research/2025-a-visual-rag-pipeline-for-few-shot-fine-grained-product-classification/
+/research/2025-missing-fine-details-in-images-last-seen-in-high-frequencies/:
+- /research/2026-decoupling-high-and-low-frequencies-for-faithful-image-generation-with-fine-details/
+- /research/2021-spectral-distribution-aware-image-generation/
+- /research/2021-shape-your-space-a-gaussian-mixture-regularization-approach-to-deterministic-autoencoders/
+? /research/2025-vision-at-night-exploring-biologically-inspired-preprocessing-for-improved-robustness-via-color-and-contrast-transf/
+: - /research/2026-rawdet-7-a-multi-scenario-benchmark-for-object-detection-and-description-on-quantized-raw-images/
+  - /research/2025-are-synthetic-corruptions-a-reliable-proxy-for-real-world-corruptions/
+  - /research/2024-learning-the-essential-in-less-than-2k-additional-weights-a-simple-approach-to-improve-image-classification-stabili/
+/research/2025-tikzero-zero-shot-text-guided-graphics-program-synthesis/:
+- /research/2026-benchmarking-document-parsers-on-mathematical-formula-extraction-from-pdfs/
+- /research/2026-beyond-string-matching-semantic-evaluation-of-pdf-table-extraction/
+- /research/2025-vstar-generative-temporal-nursing-for-longer-dynamic-video-synthesis/
+/research/2025-aim-amending-inherent-interpretability-via-self-supervised-masking/:
+- /research/2024-top-gap-integrating-size-priors-in-cnns-for-more-interpretability-robustness-and-bias-mitigation/
+- /research/2025-dcbm-data-efficient-visual-concept-bottleneck-models/
+- /research/2024-reliable-evaluation-of-attribution-maps-in-cnns-a-perturbation-based-approach/
+/research/2025-maxsup-overcoming-representation-collapse-in-label-smoothing/:
+- /research/2022-robust-models-are-less-over-confident-22/
+- /research/2022-robust-models-are-less-over-confident/
+- /research/2024-multimax-sparse-and-multi-modal-attention-learning/
+/research/2025-real-time-prediction-of-urban-sound-propagation-with-conditioned-normalizing-flows/:
+- /research/2024-urban-sound-propagation-a-benchmark-for-1-step-generative-modeling-of-complex-physical-systems/
+- /research/2025-physicsgen-can-generative-models-learn-from-images-to-predict-complex-physical-relations/
+- /research/2022-physics-informed-learning-of-aerosol-microphysics/
+/research/2025-a-granular-study-of-safety-pretraining-under-model-abliteration/:
+- /research/2026-prompt-injection-attacks-on-llm-generated-reviews-of-scientific-publications/
+- /research/2025-balancing-diversity-and-risk-in-llm-sampling-how-to-select-your-method-and-parameter-for-open-ended-text-generation/
+- /research/2025-can-we-talk-models-into-seeing-the-world-differently/
+/research/2026-msop-765k-a-benchmark-for-multi-modal-structured-output-predictions/:
+- /research/2026-combining-finetuning-and-rag-for-structured-output-prediction-on-a-multimodal-high-velocity-retail-dataset/
+- /research/2025-a-visual-rag-pipeline-for-few-shot-fine-grained-product-classification/
+- /research/2024-retail-786k-a-large-scale-dataset-for-visual-entity-matching/
+/research/2026-geodiv-framework-for-measuring-geographical-diversity-in-text-to-image-models/:
+- /research/2026-we-need-theory-grounded-explainability-for-abstract-tasks-to-quantify-model-bias/
+- /research/2025-can-we-talk-models-into-seeing-the-world-differently/
+- /research/2026-frechet-inception-distance-is-failing-to-preserve-rank-consistency-for-synthetic-out-of-distribution-samples/
+/research/2026-robustspring-benchmarking-robustness-to-image-corruptions-for-optical-flow-scene-flow-and-stereo/:
+- /research/2025-flowbench-benchmarking-optical-flow-estimation-methods-for-reliability-and-generalization/
+- /research/2025-dispbench-benchmarking-disparity-estimation-to-synthetic-corruptions/
+- /research/2025-are-synthetic-corruptions-a-reliable-proxy-for-real-world-corruptions/
+/research/2026-we-need-to-re-think-the-concept-of-real-images/:
+- /research/2026-laion-mobile-evaluating-deepfake-detectors-on-one-million-smartphone-photos/
+- /research/2024-fake-or-jpeg-revealing-common-biases-in-generated-image-detection-datasets/
+- /research/2026-images-as-tables-in-context-learning-with-tabpfn-for-low-data-detection-of-ai-generated-images/
+/research/2026-images-as-tables-in-context-learning-with-tabpfn-for-low-data-detection-of-ai-generated-images/:
+- /research/2026-laion-mobile-evaluating-deepfake-detectors-on-one-million-smartphone-photos/
+- /research/2024-fake-or-jpeg-revealing-common-biases-in-generated-image-detection-datasets/
+- /research/2026-we-need-to-re-think-the-concept-of-real-images/
+/research/2026-a-new-kind-of-network-review-and-reference-implementation-of-neural-cellular-automata/:
+- /research/2025-physicsgen-can-generative-models-learn-from-images-to-predict-complex-physical-relations/
+- /research/2022-physics-informed-learning-of-aerosol-microphysics/
+- /research/2025-real-time-prediction-of-urban-sound-propagation-with-conditioned-normalizing-flows/
+/research/2026-efficient-fine-grained-image-retrieval-with-vision-foundation-models-for-industrial-objects/:
+- /research/2024-retail-786k-a-large-scale-dataset-for-visual-entity-matching/
+- /research/2023-fine-grained-product-classification-on-leaflet-advertisements/
+- /research/2025-a-visual-rag-pipeline-for-few-shot-fine-grained-product-classification/
+? /research/2026-frechet-inception-distance-is-failing-to-preserve-rank-consistency-for-synthetic-out-of-distribution-samples/
+: - /research/2024-fake-or-jpeg-revealing-common-biases-in-generated-image-detection-datasets/
+  - /research/2025-physicsgen-can-generative-models-learn-from-images-to-predict-complex-physical-relations/
+  - /research/2021-spectral-distribution-aware-image-generation/
+/research/2026-prompt-injection-attacks-on-llm-generated-reviews-of-scientific-publications/:
+- /research/2025-a-granular-study-of-safety-pretraining-under-model-abliteration/
+- /research/2025-balancing-diversity-and-risk-in-llm-sampling-how-to-select-your-method-and-parameter-for-open-ended-text-generation/
+- /research/2026-benchmarking-document-parsers-on-mathematical-formula-extraction-from-pdfs/
+/research/2026-benchmarking-document-parsers-on-mathematical-formula-extraction-from-pdfs/:
+- /research/2026-beyond-string-matching-semantic-evaluation-of-pdf-table-extraction/
+- /research/2025-tikzero-zero-shot-text-guided-graphics-program-synthesis/
+- /research/2026-croc-evaluating-and-training-t2i-metrics-with-pseudo-and-human-labeled-contrastive-robustness-checks/
+/research/2026-examining-the-impact-of-optical-aberrations-to-image-classification-and-object-detection-models/:
+- /research/2026-parameterized-adverse-lens-corruptions-to-probe-model-robustness-to-optical-tolerances/
+- /research/2022-impact-of-realistic-properties-of-the-point-spread-function-on-classification-tasks-to-reveal-a-possible-distributi/
+- /research/2024-learning-the-essential-in-less-than-2k-additional-weights-a-simple-approach-to-improve-image-classification-stabili/
+/research/2026-parameterized-adverse-lens-corruptions-to-probe-model-robustness-to-optical-tolerances/:
+- /research/2026-examining-the-impact-of-optical-aberrations-to-image-classification-and-object-detection-models/
+- /research/2022-impact-of-realistic-properties-of-the-point-spread-function-on-classification-tasks-to-reveal-a-possible-distributi/
+- /research/2024-learning-the-essential-in-less-than-2k-additional-weights-a-simple-approach-to-improve-image-classification-stabili/
+/research/2026-rawdet-7-a-multi-scenario-benchmark-for-object-detection-and-description-on-quantized-raw-images/:
+- /research/2025-vision-at-night-exploring-biologically-inspired-preprocessing-for-improved-robustness-via-color-and-contrast-transf/
+- /research/2026-examining-the-impact-of-optical-aberrations-to-image-classification-and-object-detection-models/
+- /research/2025-smart-eyes-for-silent-threats-vlms-and-in-context-learning-for-thz-imaging/
+/research/2026-stella-a-modular-framework-for-spatiotemporal-event-based-lagrangian-particle-tracking/:
+- /research/2025-flowbench-benchmarking-optical-flow-estimation-methods-for-reliability-and-generalization/
+- /research/2026-failure-or-drift-evaluating-monocular-slam-under-synthetic-and-real-world-corruptions/
+- /research/2022-higher-order-multicuts-for-geometric-model-fitting-and-motion-segmentation/
+/research/2026-croc-evaluating-and-training-t2i-metrics-with-pseudo-and-human-labeled-contrastive-robustness-checks/:
+- /research/2026-frechet-inception-distance-is-failing-to-preserve-rank-consistency-for-synthetic-out-of-distribution-samples/
+- /research/2026-geodiv-framework-for-measuring-geographical-diversity-in-text-to-image-models/
+- /research/2026-beyond-string-matching-semantic-evaluation-of-pdf-table-extraction/
+/research/2026-decoupling-high-and-low-frequencies-for-faithful-image-generation-with-fine-details/:
+- /research/2025-missing-fine-details-in-images-last-seen-in-high-frequencies/
+- /research/2021-spectral-distribution-aware-image-generation/
+- /research/2025-3d-wag-wavelet-guided-autoregressive-generation-for-3d-shapes/
+/research/2026-failure-or-drift-evaluating-monocular-slam-under-synthetic-and-real-world-corruptions/:
+- /research/2025-flowbench-benchmarking-optical-flow-estimation-methods-for-reliability-and-generalization/
+- /research/2026-robustspring-benchmarking-robustness-to-image-corruptions-for-optical-flow-scene-flow-and-stereo/
+- /research/2025-are-synthetic-corruptions-a-reliable-proxy-for-real-world-corruptions/
+/research/2026-we-need-theory-grounded-explainability-for-abstract-tasks-to-quantify-model-bias/:
+- /research/2026-geodiv-framework-for-measuring-geographical-diversity-in-text-to-image-models/
+- /research/2025-can-we-talk-models-into-seeing-the-world-differently/
+- /research/2024-reliable-evaluation-of-attribution-maps-in-cnns-a-perturbation-based-approach/
+/research/2026-combining-finetuning-and-rag-for-structured-output-prediction-on-a-multimodal-high-velocity-retail-dataset/:
+- /research/2026-msop-765k-a-benchmark-for-multi-modal-structured-output-predictions/
+- /research/2025-a-visual-rag-pipeline-for-few-shot-fine-grained-product-classification/
+- /research/2024-can-visual-language-models-replace-ocr-based-visual-question-answering-pipelines-in-production-a-case-study-in-reta/
+/research/2026-unsupervised-visual-concept-bottlenecks-for-interpretable-bioimage-classification/:
+- /research/2025-dcbm-data-efficient-visual-concept-bottleneck-models/
+- /research/2025-data-efficient-visual-concept-bottleneck-models/
+- /research/2022-does-medical-imaging-learn-different-convolution-filters/
+/research/2026-laion-mobile-evaluating-deepfake-detectors-on-one-million-smartphone-photos/:
+- /research/2026-we-need-to-re-think-the-concept-of-real-images/
+- /research/2026-images-as-tables-in-context-learning-with-tabpfn-for-low-data-detection-of-ai-generated-images/
+- /research/2024-fake-or-jpeg-revealing-common-biases-in-generated-image-detection-datasets/
+/research/2026-beyond-string-matching-semantic-evaluation-of-pdf-table-extraction/:
+- /research/2026-benchmarking-document-parsers-on-mathematical-formula-extraction-from-pdfs/
+- /research/2026-msop-765k-a-benchmark-for-multi-modal-structured-output-predictions/
+- /research/2026-croc-evaluating-and-training-t2i-metrics-with-pseudo-and-human-labeled-contrastive-robustness-checks/
+/research/2026-reinforcement-learning-based-fair-adversarial-training/:
+- /research/2025-fair-tat-improving-model-fairness-using-targeted-adversarial-training/
+- /research/2022-robust-models-are-less-over-confident-22/
+- /research/2023-neural-architecture-design-and-robustness-a-dataset/

@@ -32,4 +32,9 @@
   .publication_copy_status { font-size: 0.9rem; }
   .publication_bibtex { max-width: 100%; overflow-x: auto; padding: 1.25rem; border: 1px solid $gray-300; border-radius: $rounded; background: $gray-100; font-size: 0.85rem; text-align: left; }
   .publication_bibtex code { white-space: pre; background: none; padding: 0; }
+  .publication_related { margin-top: 2.5rem; border-top: 1px solid $gray-300; }
+  .publication_related ul { list-style: none; padding: 0; }
+  .publication_related li { margin: 1.25rem 0; overflow-wrap: anywhere; text-align: left; }
+  .publication_related li a { display: block; font-weight: 600; }
+  .publication_related li span { display: block; margin-top: 0.35rem; font-size: 0.9rem; color: $gray-600; }
 }

@@ -2369,9 +2369,10 @@
     text. mSOP-765k supplies over 765,000 annotated advertisement images and evaluation
     tools for comparing multimodal models, including retrieval-augmented approaches.
   teaser: images/publications/078-msop-765k-a-benchmark-for-multi-modal-structured-output-predictions.webp
-  teaser-alt: A retail advertisement mapped to structured product and promotion attributes.
-  teaser-source: https://www.msop-765k.org/figures/abstract_mSOP765k.png
-  _cache: d8c807ef089b24200ef88cfa0bcde613084bd2f8a1765cb67e633c9deb3d37fa
+  teaser-alt: "A pipeline converts a multimodal advertisement into structured key\u2013\
+    value predictions."
+  teaser-source: https://openreview.net/pdf?id=H7eYL4yFZS#page=1
+  _cache: f92f84389dfe7d31553408f076b5e5b06536a2b32263fbdcdfa49e9a41873643
 - title: GeoDiv - Framework for Measuring Geographical Diversity in Text-to-Image
     Models
   detail-page: /research/2026-geodiv-framework-for-measuring-geographical-diversity-in-text-to-image-models/
@@ -2574,11 +2575,14 @@
   - Evaluation Metrics
   - Distribution Shift
   group: Workshop
-  description: "Does Fr\xE9chet Inception Distance preserve a trustworthy ordering\
-    \ outside familiar image distributions? This work examines rank consistency for\
-    \ synthetic out-of-distribution samples, focusing attention on the reliability\
-    \ of generator evaluation."
-  _cache: 3433fcbfd1c991a519be7d781f5a8cd83841948ad4aa35fc20acf1ea4c654f04
+  description: A generator ranking can change simply because its evaluation features
+    do not suit the images. Controlled experiments show that domain-adapted representations
+    make similarity rankings more consistent for shifted and non-natural images.
+  teaser: images/publications/085-2026-frechet-inception-distance-is-failing-to-preserve-rank-consistency-for-synthetic-out-of-distribution-samples.webp
+  teaser-alt: Three experimental settings compare image similarity rankings under
+    shifts and domain adaptation.
+  teaser-source: https://openreview.net/pdf?id=jWqcKaZdTS#page=2
+  _cache: fca470b6adb1d5e112bb62716163819fe70ed79ad23903af6890e6235f581a3c
 - title: Prompt injection attacks on llm generated reviews of scientific publications
   detail-page: /research/2026-prompt-injection-attacks-on-llm-generated-reviews-of-scientific-publications/
   date: '2026-06-01'
@@ -2670,9 +2674,9 @@
   detail-page: /research/2026-parameterized-adverse-lens-corruptions-to-probe-model-robustness-to-optical-tolerances/
   date: '2026-06-01'
   authors:
-  - "K. B\xE4uerle"
-  - "P. M\xFCller"
-  - I. Ihrke
+  - "Kai B\xE4uerle"
+  - "Patrick M\xFCller"
+  - Ivo Ihrke
   - Margret Keuper
   link: https://openreview.net/pdf?id=a93BmQRNxC
   publisher: Transactions on Machine Learning Research (TMLR)
@@ -2688,7 +2692,11 @@
   description: Lens blur is not always a harmless image degradation. Adverse Lens
     Corruption optimizes physically parameterized aberrations to find difficult optical
     conditions and test a model's sensitivity to lens tolerances.
-  _cache: 6347a9810ee7d8ddede31a0fe0c3cd176f9e21e77e5ce3409fc1269fe3680689
+  teaser: images/publications/089-2026-parameterized-adverse-lens-corruptions-to-probe-model-robustness-to-optical-tolerances.webp
+  teaser-alt: Changes to a camera lens can turn correct object detections into incorrect
+    predictions.
+  teaser-source: https://openreview.net/pdf?id=a93BmQRNxC#page=2
+  _cache: b39d1beff4098dbb0ab40a3b37ab0de33274fa520d60265686792027adb9323c
 - title: RAWDet-7 A Multi-Scenario Benchmark for Object Detection and Description
     on Quantized RAW Images
   detail-page: /research/2026-rawdet-7-a-multi-scenario-benchmark-for-object-detection-and-description-on-quantized-raw-images/
@@ -2841,8 +2849,8 @@
     systems.
   teaser-source: https://arxiv.org/pdf/2608.30690#page=7
   _cache: 3298c84188cac610d1c514d568432eaf990e4ad624107e0148af6050b8cfd29a
-- title: We need theory-grounded explainability for abstract tasks to quantify model
-    bias
+- title: 'Position: We need theory-grounded explainability for abstract classification
+    to quantify model bias'
   detail-page: /research/2026-we-need-theory-grounded-explainability-for-abstract-tasks-to-quantify-model-bias/
   date: '2026-06-01'
   authors:
@@ -2855,15 +2863,19 @@
   - Model Bias
   - Theory-Grounded Evaluation
   group: Workshop
-  description: Explanations of abstract classifications need a clear theoretical reference.
-    This position argues for evaluating model explanations against validated, context-specific
-    constructs to make model bias measurable.
+  description: Explanations of abstract concepts need a validated reference, not just
+    a plausible story. Case studies of wealth and affluence show how models and human
+    annotators diverge, motivating context-specific definitions that make bias measurable.
   link: https://openreview.net/forum?id=Oz2id4l0SX
   extra-links:
   - type: preprint
     link: https://openreview.net/forum?id=Oz2id4l0SX
-  _cache: 8931da1e6ffa40bfe0fb8cccbabda22d078269143b10819cc291eadf0bec2ee3
-- title: Combining Finetuning and RAG for Structured Output Prediction on a Multimodal
+  teaser: images/publications/095-2026-we-need-theory-grounded-explainability-for-abstract-tasks-to-quantify-model-bias.webp
+  teaser-alt: A heatmap compares wealth cues used by psychologists and seven foundation
+    models.
+  teaser-source: https://openreview.net/pdf?id=Oz2id4l0SX#page=3
+  _cache: d20757dccd44fb00ea82dd0c3e20a07d0183f83cc8c379059634ccb392d9d3bb
+- title: Combining Fine-Tuning and RAG for Structured Output Prediction on a Multimodal
     High Velocity Retail Dataset
   detail-page: /research/2026-combining-finetuning-and-rag-for-structured-output-prediction-on-a-multimodal-high-velocity-retail-dataset/
   date: '2026-06-01'
@@ -2885,10 +2897,14 @@
   - Structured Prediction
   - Retail
   group: Workshop
-  description: Rapidly changing product catalogs challenge static prediction models.
-    This work studies how fine-tuning and retrieval-augmented generation can be combined
-    to extract structured information from multimodal retail data.
-  _cache: 25f9359bffcb0853d636eb486b94304bc32f463a7ca121540fc16a4748f23efa
+  description: Fine-tuning and retrieval help with different parts of a retail advertisement.
+    A hybrid approach uses fine-tuning for visible information and retrieval for attributes
+    absent from the image, achieving the strongest overall performance in the study.
+  teaser: images/publications/096-2026-combining-finetuning-and-rag-for-structured-output-prediction-on-a-multimodal-high-velocity-retail-dataset.webp
+  teaser-alt: Fine-tuning, visual retrieval, and a hybrid pipeline produce structured
+    predictions from retail advertisements.
+  teaser-source: https://openreview.net/pdf?id=H4fdIUP8Jd#page=2
+  _cache: c042999b9afa50d13a5e9ab0176dfbb8c49bb4a51d237e46f95df84894dfe837
 - title: Unsupervised Visual Concept Bottlenecks for Interpretable Bioimage Classification
   detail-page: /research/2026-unsupervised-visual-concept-bottlenecks-for-interpretable-bioimage-classification/
   date: '2026-06-01'
@@ -2911,10 +2927,15 @@
   - Bioimage Analysis
   - Unsupervised Learning
   group: Workshop
-  description: Visual concepts can make biological image classification easier to
-    interpret. This work investigates unsupervised concept bottlenecks as a way to
-    connect bioimage predictions with intermediate visual evidence.
-  _cache: 5828f340dbd40bb8b9d01e6e4e91129a3068ed90c14cf7202caa47b2b389f74d
+  description: Interpretable bioimage classification need not start with expensive
+    manual concept labels. Across three microscopy datasets, unsupervised visual concept
+    bottlenecks retain competitive predictions while exposing concepts that often
+    align with biological structures.
+  teaser: images/publications/097-2026-unsupervised-visual-concept-bottlenecks-for-interpretable-bioimage-classification.webp
+  teaser-alt: Microscopy examples from softwood anatomy, white blood cells, and colorectal
+    tissue datasets.
+  teaser-source: https://openreview.net/pdf?id=hois3HoeYg#page=5
+  _cache: abb2ec7ebe27a509ec0c38fa4a202855f7926eb0e004a75a86c715d9791844b1
 - title: LAION-Mobile - Evaluating Deepfake Detectors On One Million Smartphone Photos
   detail-page: /research/2026-laion-mobile-evaluating-deepfake-detectors-on-one-million-smartphone-photos/
   date: '2026-06-01'

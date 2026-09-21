@@ -1,4 +1,4 @@
-# Research and figure provenance; reviewed 2026-09-20.
+# Research and figure provenance; last updated 2026-09-21.
 - title: Watch your Up-Convolution - CNN Based Generative Deep Neural Networks are Failing to Reproduce Spectral
     Distributions
   year: '2020'
@@ -2433,12 +2433,32 @@
   year: '2026'
   code: https://huggingface.co/datasets/retail-product-promotion/mSOP-765k/tree/main/code
   figure: images/publications/078-msop-765k-a-benchmark-for-multi-modal-structured-output-predictions.webp
-  source: https://www.msop-765k.org/figures/abstract_mSOP765k.png
-  summary_source: https://www.msop-765k.org/
-  review_status: Paper or official project content reviewed.
+  source: https://openreview.net/pdf?id=H7eYL4yFZS#page=1
+  summary_source: https://openreview.net/pdf?id=H7eYL4yFZS
+  review_status: Full paper supplied by the user and reviewed on 2026-09-21.
   detail_page: /research/2026-msop-765k-a-benchmark-for-multi-modal-structured-output-predictions/
-  detail_status: needs-pdf
-  abstract_source: https://www.msop-765k.org/
+  detail_status: complete
+  abstract_source: https://openreview.net/pdf?id=H7eYL4yFZS
+  crop: &id001
+  - 110
+  - 590
+  - 500
+  - 689
+  supplied_pdf: tmp/78.pdf
+  supplied_pdf_sha256: a513a062e9f0af5363a950e738404d50284374fbdd6021b9467770516840f44e
+  detail_figures:
+  - number: 1
+    source: https://openreview.net/pdf?id=H7eYL4yFZS#page=1
+    crop: *id001
+    caption_adapted: false
+  - number: 2
+    source: https://openreview.net/pdf?id=H7eYL4yFZS#page=4
+    crop:
+    - 278
+    - 124
+    - 541
+    - 480
+    caption_adapted: false
 - title: GeoDiv - Framework for Measuring Geographical Diversity in Text-to-Image Models
   year: '2026'
   code: https://github.com/moha23/geodiv
@@ -2632,10 +2652,32 @@
   year: '2026'
   figure_status: Needs an accessible PDF or author-supplied figure.
   summary_source: https://openreview.net/pdf?id=jWqcKaZdTS
-  review_status: Title-based scope description only; full text required to verify contributions.
+  review_status: Full paper supplied by the user and reviewed on 2026-09-21.
   detail_page: /research/2026-frechet-inception-distance-is-failing-to-preserve-rank-consistency-for-synthetic-out-of-distribution-samples/
-  detail_status: needs-pdf
-  abstract_source: null
+  detail_status: complete
+  abstract_source: https://openreview.net/pdf?id=jWqcKaZdTS
+  figure: images/publications/085-2026-frechet-inception-distance-is-failing-to-preserve-rank-consistency-for-synthetic-out-of-distribution-samples.webp
+  source: https://openreview.net/pdf?id=jWqcKaZdTS#page=2
+  crop: &id002
+  - 55
+  - 68
+  - 557
+  - 185
+  supplied_pdf: tmp/85.pdf
+  supplied_pdf_sha256: 13e8717849e0b0d3895162b68df82a865dfc017b600bfef7b3bb8b61af949fb8
+  detail_figures:
+  - number: 1
+    source: https://openreview.net/pdf?id=jWqcKaZdTS#page=2
+    crop: *id002
+    caption_adapted: false
+  - number: 2
+    source: https://openreview.net/pdf?id=jWqcKaZdTS#page=5
+    crop:
+    - 58
+    - 62
+    - 296
+    - 295
+    caption_adapted: false
 - title: Prompt injection attacks on llm generated reviews of scientific publications
   year: '2026'
   figure: images/publications/086-prompt-injection-attacks-on-llm-generated-reviews-of-scientific-publications.webp
@@ -2735,10 +2777,32 @@
   year: '2026'
   figure_status: Needs an accessible PDF or author-supplied figure.
   summary_source: https://openreview.net/pdf?id=a93BmQRNxC
-  review_status: Abstract available in indexed OpenReview paper; PDF download blocked.
+  review_status: Full paper supplied by the user and reviewed on 2026-09-21.
   detail_page: /research/2026-parameterized-adverse-lens-corruptions-to-probe-model-robustness-to-optical-tolerances/
-  detail_status: needs-pdf
-  abstract_source: null
+  detail_status: complete
+  abstract_source: https://openreview.net/pdf?id=a93BmQRNxC
+  figure: images/publications/089-2026-parameterized-adverse-lens-corruptions-to-probe-model-robustness-to-optical-tolerances.webp
+  source: https://openreview.net/pdf?id=a93BmQRNxC#page=2
+  crop: &id003
+  - 296
+  - 76
+  - 546
+  - 226
+  supplied_pdf: tmp/89.pdf
+  supplied_pdf_sha256: 4a155c5945aeb8772603f6e6eaf432eafc2b57b9ff17fb8a6060c3290adac414
+  detail_figures:
+  - number: 1
+    source: https://openreview.net/pdf?id=a93BmQRNxC#page=2
+    crop: *id003
+    caption_adapted: false
+  - number: 2
+    source: https://openreview.net/pdf?id=a93BmQRNxC#page=6
+    crop:
+    - 115
+    - 239
+    - 497
+    - 328
+    caption_adapted: false
 - title: RAWDet-7 A Multi-Scenario Benchmark for Object Detection and Description on Quantized RAW Images
   year: '2026'
   figure: images/publications/090-rawdet-7-a-multi-scenario-benchmark-for-object-detection-and-description-on-quantized-raw-images.webp
@@ -2898,31 +2962,97 @@
   detail_page: /research/2026-failure-or-drift-evaluating-monocular-slam-under-synthetic-and-real-world-corruptions/
   detail_status: complete
   abstract_source: https://arxiv.org/pdf/2608.30690
-- title: We need theory-grounded explainability for abstract tasks to quantify model bias
+- title: 'Position: We need theory-grounded explainability for abstract classification to quantify model bias'
   year: '2026'
   figure_status: Needs an accessible PDF or author-supplied figure.
-  summary_source: https://www.linkedin.com/posts/katharina-prasse_eccv2026-computervision-explainability-activity-7496536456497291264-uFZH
-  review_status: Position verified in author announcement; full text still needed.
+  summary_source: https://openreview.net/pdf?id=Oz2id4l0SX
+  review_status: Full paper supplied by the user and reviewed on 2026-09-21.
   detail_page: /research/2026-we-need-theory-grounded-explainability-for-abstract-tasks-to-quantify-model-bias/
-  detail_status: needs-pdf
-  abstract_source: null
-- title: Combining Finetuning and RAG for Structured Output Prediction on a Multimodal High Velocity Retail Dataset
+  detail_status: complete
+  abstract_source: https://openreview.net/pdf?id=Oz2id4l0SX
+  figure: images/publications/095-2026-we-need-theory-grounded-explainability-for-abstract-tasks-to-quantify-model-bias.webp
+  source: https://openreview.net/pdf?id=Oz2id4l0SX#page=3
+  crop: &id004
+  - 134
+  - 430
+  - 482
+  - 622
+  supplied_pdf: tmp/95.pdf
+  supplied_pdf_sha256: 4c5cc0cdb0cdef5ed68ae234121d3296a1de6ed996247685baea205c213142eb
+  detail_figures:
+  - number: 1
+    source: https://openreview.net/pdf?id=Oz2id4l0SX#page=3
+    crop: *id004
+    caption_adapted: false
+  - number: 2
+    source: https://openreview.net/pdf?id=Oz2id4l0SX#page=5
+    crop:
+    - 133
+    - 116
+    - 483
+    - 216
+    caption_adapted: false
+- title: Combining Fine-Tuning and RAG for Structured Output Prediction on a Multimodal High Velocity Retail Dataset
   year: '2026'
   code: https://huggingface.co/datasets/retail-product-promotion/mSOP-765k/tree/main/code
   figure_status: Needs an accessible PDF or author-supplied figure.
-  summary_source: https://www.msop-765k.org/
-  review_status: Scope verified on the official mSOP project page; full text still needed.
+  summary_source: https://openreview.net/pdf?id=H4fdIUP8Jd
+  review_status: Full paper supplied by the user and reviewed on 2026-09-21.
   detail_page: /research/2026-combining-finetuning-and-rag-for-structured-output-prediction-on-a-multimodal-high-velocity-retail-dataset/
-  detail_status: needs-pdf
-  abstract_source: null
+  detail_status: complete
+  abstract_source: https://openreview.net/pdf?id=H4fdIUP8Jd
+  figure: images/publications/096-2026-combining-finetuning-and-rag-for-structured-output-prediction-on-a-multimodal-high-velocity-retail-dataset.webp
+  source: https://openreview.net/pdf?id=H4fdIUP8Jd#page=2
+  crop: &id005
+  - 132
+  - 110
+  - 484
+  - 215
+  supplied_pdf: tmp/96.pdf
+  supplied_pdf_sha256: 9c55b685593337449793cc8447e83716b5165049007e2857421e78df8de626fd
+  detail_figures:
+  - number: 1
+    source: https://openreview.net/pdf?id=H4fdIUP8Jd#page=2
+    crop: *id005
+    caption_adapted: false
+  - number: 2
+    source: https://openreview.net/pdf?id=H4fdIUP8Jd#page=3
+    crop:
+    - 313
+    - 310
+    - 483
+    - 608
+    caption_adapted: false
 - title: Unsupervised Visual Concept Bottlenecks for Interpretable Bioimage Classification
   year: '2026'
   figure_status: Needs an accessible PDF or author-supplied figure.
   summary_source: https://openreview.net/pdf?id=hois3HoeYg
-  review_status: Title-based scope description only; full text required to verify contributions.
+  review_status: Full paper supplied by the user and reviewed on 2026-09-21.
   detail_page: /research/2026-unsupervised-visual-concept-bottlenecks-for-interpretable-bioimage-classification/
-  detail_status: needs-pdf
-  abstract_source: null
+  detail_status: complete
+  abstract_source: https://openreview.net/pdf?id=hois3HoeYg
+  figure: images/publications/097-2026-unsupervised-visual-concept-bottlenecks-for-interpretable-bioimage-classification.webp
+  source: https://openreview.net/pdf?id=hois3HoeYg#page=5
+  crop: &id006
+  - 134
+  - 438
+  - 482
+  - 615
+  supplied_pdf: tmp/97.pdf
+  supplied_pdf_sha256: ac7a58ab81e38cbeacf7de0614934498f589fcf86e8cf8ea54647f59528d9943
+  detail_figures:
+  - number: 1
+    source: https://openreview.net/pdf?id=hois3HoeYg#page=5
+    crop: *id006
+    caption_adapted: false
+  - number: 2
+    source: https://openreview.net/pdf?id=hois3HoeYg#page=8
+    crop:
+    - 145
+    - 497
+    - 471
+    - 591
+    caption_adapted: false
 - title: LAION-Mobile - Evaluating Deepfake Detectors On One Million Smartphone Photos
   year: '2026'
   figure: images/publications/098-laion-mobile-evaluating-deepfake-detectors-on-one-million-smartphone-photos.webp

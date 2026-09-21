@@ -73,3 +73,7 @@ plugins:
 
 # jekyll theme
 theme: null
+
+# Source PDFs supplied for editing are not part of the published site.
+exclude:
+  - tmp

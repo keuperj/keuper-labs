@@ -56,4 +56,21 @@ layout: default
   </div>
   <pre class="publication_bibtex" tabindex="0" aria-label="BibTeX citation"><code id="publication-bibtex">{{ page.bibtex | escape }}</code></pre>
   <p class="publication_source">Figures and abstract are reproduced from the linked research sources. Credit remains with the authors and publishers.</p>
+  {% assign related_urls = site.data.related-publications[page.url] %}
+  {% if related_urls.size > 0 %}
+    <aside class="publication_related" aria-labelledby="related-publications">
+      <h2 id="related-publications">Related lab publications</h2>
+      <ul>
+        {% for related_url in related_urls %}
+          {% assign related = site.data.citations | where: 'detail-page', related_url | first %}
+          {% if related and related_url != page.url %}
+            <li>
+              <a href="{{ related_url | relative_url }}">{{ related.title | escape }}</a>
+              <span>{{ related.publisher | escape }} · {{ related.date | date: '%Y' }}</span>
+            </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </aside>
+  {% endif %}
 </article>

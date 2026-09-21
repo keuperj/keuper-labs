@@ -17,27 +17,22 @@ Edit `_data/sources.yaml`, then run `python auto-cite/auto-cite.py` with the dep
 
 ## Remaining source material needed
 
-94 of the 100 entries have original teaser figures. Six entries still need accessible PDFs or author-supplied figures:
+99 of the 100 entries now have original paper teaser figures. Only **Assessing Domain Generalization of Semantic Segmenters with Synthetic Data** still needs its full paper, original abstract, and figures. Its existing workshop URL is not a paper download; its current summary remains scope-only.
 
-| Paper | Remaining work |
-| --- | --- |
-| Assessing Domain Generalization of Semantic Segmenters with Synthetic Data | The existing workshop URL redirects to sign-in. Verify the scope-only description against the paper and add a figure. |
-| Fréchet Inception Distance is Failing to Preserve Rank Consistency for Synthetic Out-of-Distribution Samples | OpenReview download blocked. Verify the scope-only description and add a figure. |
-| Parameterized Adverse Lens Corruptions to Probe Model Robustness to Optical Tolerances | Abstract reviewed; full PDF download blocked. Add a figure. |
-| We need theory-grounded explainability for abstract tasks to quantify model bias | Author announcement reviewed and missing paper link located; OpenReview download blocked. Check the full text and add a figure. |
-| Combining Finetuning and RAG for Structured Output Prediction on a Multimodal High Velocity Retail Dataset | Scope and code verified on the official mSOP project page; OpenReview download blocked. Check the full text and add a figure. |
-| Unsupervised Visual Concept Bottlenecks for Interpretable Bioimage Classification | OpenReview download blocked. Verify the scope-only description and add a figure. |
-
-These entries retain their venue logo. No substitute figure or unverified result is presented as coming from the paper.
+The six PDFs supplied on 2026-09-21 have been reviewed and incorporated. See [Papers needing PDFs](../../docs/publications-needing-pdfs.md) for the completed items and the remaining request.
 
 ## Publication detail pages
 
 Each source entry now has a `detail-page` URL pointing to its document in `_publications/`. The research list links to these pages; the original external `link` remains the paper resource. The `publications` collection uses the shared `_layouts/publication.html` layout and works with GitHub Pages without a custom Jekyll plugin.
 
-The detail documents contain the original abstract and its source, an editorial `why` section written for a general audience, figures with captions and source-page links, and BibTeX. `images/publications/details/` contains 186 larger, optimized WebP figures: two for each of the 93 accessible PDFs. The mSOP-765k page additionally uses its existing official project illustration and abstract. Full-size figure links allow readers to inspect small labels.
+The detail documents contain the original abstract and its source, an editorial `why` section written for a general audience, figures with captions and source-page links, and BibTeX. `images/publications/details/` contains 198 larger, optimized WebP figures: two for each of the 99 accessible papers. The mSOP-765k page now uses its supplied full PDF for both figures and the abstract. Full-size figure links allow readers to inspect small labels.
 
 Abstracts and captions were extracted from the linked sources, with PDF line breaks, ligatures, and broken word spacing normalized. The equation-heavy caption for “Trading off Image Quality for Robustness…” Figure 1 is a prose adaptation, recorded in the review data. Figure crops and abstract sources are documented in `_data/publication-review.yaml`.
 
 BibTeX uses known author, title, year, venue, and URL metadata. Unknown volume, page, and identifier fields are omitted. Keep a document's `bibtex` field and its corresponding `assets/bibtex/*.bib` download synchronized when editing a citation. The copy button falls back to selecting the citation if clipboard access is unavailable; the text and download remain available without JavaScript.
 
-For the complete list of **seven full PDFs needed to finish the detail pages**, including suggested filenames, see [Papers needing PDFs](../../docs/publications-needing-pdfs.md). This includes mSOP-765k: its project page is accessible, but its complete PDF is still needed for additional figures.
+For the **one remaining PDF needed**, see [Papers needing PDFs](../../docs/publications-needing-pdfs.md).
+
+## Related publications
+
+`_data/related-publications.yaml` contains three editorially selected related lab-paper URLs for every page. Links emphasize follow-up studies, earlier versions, shared methods, and closely related applications. The layout resolves titles and venues from the citation data so corrections stay synchronized. Keep these URLs stable when updating paper titles. When adding a publication, add its related-paper links here and consider linking back to it from existing relevant pages.
