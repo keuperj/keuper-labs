@@ -17,7 +17,7 @@ Joint research pages of the labs run by ***Margret Keuper and Janis Keuper***. W
 {%
   include card.html
   image="images/icpr26_bestpaper.png"
-  link="https://www.keuper-labs.org/research/?search=ICPR"
+  link="https://www.keuper-labs.org/research/?search=ICPR#2026"
   title="ICPR 20206"
   subtitle="Best Paper Award for our work on document parsing..."
   style="small"
@@ -25,7 +25,7 @@ Joint research pages of the labs run by ***Margret Keuper and Janis Keuper***. W
 {%
   include card.html
   image="images/bmvc_26.png"
-  link="https://www.keuper-labs.org/research/?search=BMVC"
+  link="https://www.keuper-labs.org/research/?search=BMVC#2026"
   title="BMVC 26"
   subtitle="2 paper accepted"
   style="small"
@@ -41,7 +41,7 @@ Joint research pages of the labs run by ***Margret Keuper and Janis Keuper***. W
 {%
   include card.html
   image="images/tpami.png"
-  link="https://keuperj.github.io/keuper-labs/research/?search=TPAMI"
+  link="https://www.keuper-labs.org/research/?search=TPAMI#2026"
   title="TPAMI 2026"
   subtitle="full paper accepted"
   style="small"
@@ -57,7 +57,7 @@ Joint research pages of the labs run by ***Margret Keuper and Janis Keuper***. W
 {%
   include card.html
   image="https://jmlr.org/tmlr/img/tmlr.jpg"
-  link="https://www.keuper-labs.org/research/?search=TMLR"
+  link="https://www.keuper-labs.org/research/?search=TMLR#2026"
   title="TMLR 26"
   subtitle="3 journal paper"
   style="small"
@@ -81,7 +81,7 @@ Joint research pages of the labs run by ***Margret Keuper and Janis Keuper***. W
 {%
   include card.html
   image="images/iclr_22.png"
-  link="https://keuperj.github.io/keuper-labs/research/?search=ICLR"
+  link="https://www.keuper-labs.org/research/?search=ICLR#2026"
   title="ICLR 26"
   subtitle="2 full paper accepted"
   style="small"
