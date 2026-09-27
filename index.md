@@ -59,7 +59,7 @@ Joint research pages of the labs run by ***Margret Keuper and Janis Keuper***. W
   image="https://jmlr.org/tmlr/img/tmlr.jpg"
   link="https://www.keuper-labs.org/research/?search=TMLR#2026"
   title="TMLR 26"
-  subtitle="3 journal paper"
+  subtitle="4 journal paper"
   style="small"
 %}
 {%
