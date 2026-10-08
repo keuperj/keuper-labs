@@ -3147,3 +3147,9 @@
   detail_page: /research/2026-reinforcement-learning-based-fair-adversarial-training/
   detail_status: complete
   abstract_source: https://arxiv.org/pdf/2608.29247
+- title: 'IBUS: Overcoming Structural Biases in Hierarchical NAS with Iterative Bottom-Up Sampling'
+  year: '2026'
+  summary_source: User-supplied publication title and BibTeX.
+  review_status: Metadata supplied by user; OpenReview requires browser verification. Abstract and figures pending.
+  detail_page: /research/2026-ibus-overcoming-structural-biases-in-hierarchical-nas-with-iterative-bottom-up-sampling/
+  detail_status: pending

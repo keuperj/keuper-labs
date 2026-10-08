@@ -3018,3 +3018,25 @@
   teaser-alt: Class-wise clean and robust accuracies illustrating fairness gaps.
   teaser-source: https://arxiv.org/pdf/2608.29247#page=2
   _cache: ce733f45ba6082bfef88a3cdd4ea8d2047062993583abf92598f9665168f6fc6
+- title: 'IBUS: Overcoming Structural Biases in Hierarchical NAS with Iterative Bottom-Up
+    Sampling'
+  detail-page: /research/2026-ibus-overcoming-structural-biases-in-hierarchical-nas-with-iterative-bottom-up-sampling/
+  date: '2026-06-01'
+  authors:
+  - Abay Artykbayev
+  - Martin Rapp
+  - Benedikt Staffler
+  - Margret Keuper
+  link: https://openreview.net/forum?id=AI5qzCymtR
+  publisher: AutoML 2026 Methods Track
+  extra-links:
+  - type: paper
+    text: OpenReview
+    link: https://openreview.net/forum?id=AI5qzCymtR
+  image: images/automl_26.png
+  tags:
+  - Neural Architecture Search
+  - Sampling
+  description: IBUS studies structural biases in hierarchical neural architecture
+    search. It proposes iterative bottom-up sampling to address these biases.
+  _cache: e7b3dc5e661bbaee6d4cab8b154eb27f83a56d9038abfacab74605c45f990957
