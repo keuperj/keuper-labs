@@ -16,14 +16,6 @@ Joint research pages of the labs run by ***Margret Keuper and Janis Keuper***. W
 ### Latest Highlights
 {%
   include card.html
-  image="images/icpr26_bestpaper.png"
-  link="https://www.keuper-labs.org/research/?search=ICPR#2026"
-  title="ICPR 20206"
-  subtitle="Best Paper Award for our work on document parsing..."
-  style="small"
-%}
-{%
-  include card.html
   image="images/neurips_22.png"
   image-fit="contain"
   link="/research/2026-2d-spatial-reasoning-with-adaptive-neural-cellular-automata/"
@@ -31,6 +23,24 @@ Joint research pages of the labs run by ***Margret Keuper and Janis Keuper***. W
   subtitle="2D Spatial Reasoning with Adaptive Neural Cellular Automata — accepted"
   style="small"
 %}
+{%
+  include card.html
+  image="images/automl_26_bestpaper.png"
+  image-fit="contain"
+  link="/research/2026-ibus-overcoming-structural-biases-in-hierarchical-nas-with-iterative-bottom-up-sampling/"
+  title="AutoML 2026"
+  subtitle="IBUS won the Best Paper Award in the Methods Track"
+  style="small"
+%}
+{%
+  include card.html
+  image="images/icpr26_bestpaper.png"
+  link="https://www.keuper-labs.org/research/?search=ICPR#2026"
+  title="ICPR 20206"
+  subtitle="Best Paper Award for our work on document parsing..."
+  style="small"
+%}
+
 {%
   include card.html
   image="images/ECCV26.jpg"
@@ -47,17 +57,7 @@ Joint research pages of the labs run by ***Margret Keuper and Janis Keuper***. W
   subtitle="full paper accepted"
   style="small"
 %}
-{%
-  include card.html
-  image="images/automl_26.png"
-  image-fit="contain"
-  ribbon="images/best-paper-ribbon.svg"
-  award="Best Paper Award"
-  link="/research/2026-ibus-overcoming-structural-biases-in-hierarchical-nas-with-iterative-bottom-up-sampling/"
-  title="AutoML 2026"
-  subtitle="IBUS won the Best Paper Award in the Methods Track"
-  style="small"
-%}
+
 {%
   include card.html
   image="https://jmlr.org/tmlr/img/tmlr.jpg"
