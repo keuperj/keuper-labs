@@ -3149,7 +3149,34 @@
   abstract_source: https://arxiv.org/pdf/2608.29247
 - title: 'IBUS: Overcoming Structural Biases in Hierarchical NAS with Iterative Bottom-Up Sampling'
   year: '2026'
-  summary_source: User-supplied publication title and BibTeX.
-  review_status: Metadata supplied by user; OpenReview requires browser verification. Abstract and figures pending.
+  summary_source: https://openreview.net/pdf?id=AI5qzCymtR
+  review_status: User-supplied full paper reviewed; abstract and original Figures 1 and 2 extracted.
   detail_page: /research/2026-ibus-overcoming-structural-biases-in-hierarchical-nas-with-iterative-bottom-up-sampling/
-  detail_status: pending
+  detail_status: complete
+  figure: images/publications/101-ibus.webp
+  source: https://openreview.net/pdf?id=AI5qzCymtR#page=2
+  crop:
+  - 101.904
+  - 68.64
+  - 511.104
+  - 212.256
+  abstract_source: https://openreview.net/pdf?id=AI5qzCymtR#page=1
+  detail_figures:
+  - number: 1
+    source: https://openreview.net/pdf?id=AI5qzCymtR#page=2
+    crop:
+    - 101.904
+    - 68.64
+    - 511.104
+    - 212.256
+    caption_adapted: false
+  - number: 2
+    source: https://openreview.net/pdf?id=AI5qzCymtR#page=8
+    crop:
+    - 179.52
+    - 68.64
+    - 435.6
+    - 133.584
+    caption_adapted: false
+  supplied_pdf: 49_IBUS_Overcoming_Structural_.pdf
+  code_reported_in_paper: https://github.com/boschresearch/ibus-nas

@@ -3037,6 +3037,12 @@
   tags:
   - Neural Architecture Search
   - Sampling
-  description: IBUS studies structural biases in hierarchical neural architecture
-    search. It proposes iterative bottom-up sampling to address these biases.
-  _cache: e7b3dc5e661bbaee6d4cab8b154eb27f83a56d9038abfacab74605c45f990957
+  description: Top-down architecture sampling can overlook useful patterns such as
+    skip-connections and convolutions. IBUS builds networks from compatible smaller
+    blocks, improving accuracy over einspace across seven tasks by up to 13.7 percentage
+    points and enabling hybrids of existing architecture families.
+  teaser: images/publications/101-ibus.webp
+  teaser-alt: IBUS module types and the iterative process of selecting, validating,
+    and adding building blocks to a growing pool.
+  teaser-source: https://openreview.net/pdf?id=AI5qzCymtR#page=2
+  _cache: 76b484cf9a9bccd157e19184344d865fa0a405c755c01e3edefda553cf4d6358
