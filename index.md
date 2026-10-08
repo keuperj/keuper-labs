@@ -16,6 +16,15 @@ Joint research pages of the labs run by ***Margret Keuper and Janis Keuper***. W
 ### Latest Highlights
 {%
   include card.html
+  image="images/dfg.jpg"
+  image-fit="contain"
+  link="https://www.uni-siegen.de/en/news/siegens-ai-flagship-project-moves-into-the-next-phase"
+  title="Learning to Sense"
+  subtitle="DFG approves the extension of our Research Group"
+  style="small"
+%}
+{%
+  include card.html
   image="images/neurips_22.png"
   image-fit="contain"
   link="/research/2026-2d-spatial-reasoning-with-adaptive-neural-cellular-automata/"
