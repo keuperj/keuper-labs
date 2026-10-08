@@ -24,6 +24,7 @@
   }
 
   .card_image {
+    position: relative;
     flex-shrink: 0;
     width: var(--width);
     height: calc(2 / 3 * var(--width));
@@ -35,6 +36,23 @@
       object-fit: cover;
       width: 100%;
       height: 100%;
+    }
+
+    &.card_image_contain {
+      background: white;
+
+      > img:not(.card_ribbon) {
+        object-fit: contain;
+      }
+    }
+
+    img.card_ribbon {
+      position: absolute;
+      top: 4px;
+      left: 4px;
+      width: 68px;
+      height: 96px;
+      object-fit: contain;
     }
   }
 

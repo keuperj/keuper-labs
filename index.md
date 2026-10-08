@@ -24,10 +24,11 @@ Joint research pages of the labs run by ***Margret Keuper and Janis Keuper***. W
 %}
 {%
   include card.html
-  image="images/bmvc_26.png"
-  link="https://www.keuper-labs.org/research/?search=BMVC#2026"
-  title="BMVC 26"
-  subtitle="2 paper accepted"
+  image="images/neurips_22.png"
+  image-fit="contain"
+  link="/research/2026-2d-spatial-reasoning-with-adaptive-neural-cellular-automata/"
+  title="NeurIPS 2026"
+  subtitle="2D Spatial Reasoning with Adaptive Neural Cellular Automata — accepted"
   style="small"
 %}
 {%
@@ -48,10 +49,13 @@ Joint research pages of the labs run by ***Margret Keuper and Janis Keuper***. W
 %}
 {%
   include card.html
-  image="https://github.com/mspitzna/NCAtorch/raw/main/figures/nca_torch_logo.png"
-  link="https://www.neural-cellular-automata.org/"
-  title="Neu Open Source Lib "
-  subtitle="NCATorch"
+  image="images/automl_26.png"
+  image-fit="contain"
+  ribbon="images/best-paper-ribbon.svg"
+  award="Best Paper Award"
+  link="/research/2026-ibus-overcoming-structural-biases-in-hierarchical-nas-with-iterative-bottom-up-sampling/"
+  title="AutoML 2026"
+  subtitle="IBUS won the Best Paper Award in the Methods Track"
   style="small"
 %}
 {%
