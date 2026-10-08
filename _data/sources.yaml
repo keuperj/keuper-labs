@@ -2779,3 +2779,31 @@
   teaser-alt: Comparison of supervised, prompt-conditioned, and interactive LISP-Net segmentation, showing a dense
     prompt propagated across slices with feedback.
   teaser-source: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11666858#page=2
+
+- title: 2D Spatial Reasoning with Adaptive Neural Cellular Automata
+  detail-page: /research/2026-2d-spatial-reasoning-with-adaptive-neural-cellular-automata/
+  date: 2026-6-1
+  authors:
+  - Martin Spitznagel
+  - Janis Keuper
+  link: https://arxiv.org/abs/2610.08518
+  publisher: NeurIPS 2026 (accepted; arXiv preprint)
+  extra-links:
+  - type: preprint
+    link: https://arxiv.org/abs/2610.08518
+  - type: source
+    text: Code
+    link: https://github.com/mspitzna/NCAtorch
+  image: images/neurips_22.png
+  tags:
+  - Neural Cellular Automata
+  - Spatial Reasoning
+  - Deformable Convolutions
+  group: AAA
+  description: Adaptive neural cellular automata learn where each grid cell should gather information as a solution
+    evolves. This enables compact, iterative models to solve Sudoku, handwritten-digit Sudoku, shortest-path mazes,
+    and global color-balance tasks with inspectable spatial reasoning patterns.
+  teaser: images/publications/103-2d-spatial-reasoning.webp
+  teaser-alt: Input and target examples for array Sudoku, handwritten-digit Sudoku, shortest-path maze solving,
+    and global color balance.
+  teaser-source: https://arxiv.org/pdf/2610.08518#page=4
