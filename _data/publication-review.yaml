@@ -3180,3 +3180,38 @@
     caption_adapted: false
   supplied_pdf: 49_IBUS_Overcoming_Structural_.pdf
   code_reported_in_paper: https://github.com/boschresearch/ibus-nas
+- title: 'LISP-Net: Context-Aware and Lightweight Interactive Medical Segmentation'
+  year: '2026'
+  code: https://github.com/Machauer-P/lisp-net
+  figure: images/publications/102-lisp-net.webp
+  source: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11666858#page=2
+  crop:
+  - 52.717
+  - 60.025
+  - 526.128
+  - 265.674
+  summary_source: https://doi.org/10.1109/ACCESS.2026.3727306
+  review_status: User-supplied full paper reviewed; original abstract and Figures 1 and 2 extracted. Public code
+    repository verified.
+  detail_page: /research/2026-lisp-net-context-aware-and-lightweight-interactive-medical-segmentation/
+  detail_status: complete
+  abstract_source: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11666858#page=1
+  detail_figures:
+  - number: 1
+    source: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11666858#page=2
+    crop:
+    - 52.717
+    - 60.025
+    - 526.128
+    - 265.674
+    caption_adapted: false
+  - number: 2
+    source: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11666858#page=6
+    crop:
+    - 47.498
+    - 67.332
+    - 526.65
+    - 298.557
+    caption_adapted: false
+  supplied_pdf: LISP-Net_Context-Aware_and_Lightweight_Interactive_Medical_Segmentation (1).pdf
+  venue_logo_source: IEEE Access header on supplied PDF page 2
