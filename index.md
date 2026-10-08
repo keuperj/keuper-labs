@@ -29,7 +29,7 @@ Joint research pages of the labs run by ***Margret Keuper and Janis Keuper***. W
   image-fit="contain"
   link="/research/2026-2d-spatial-reasoning-with-adaptive-neural-cellular-automata/"
   title="NeurIPS 2026"
-  subtitle="2D Spatial Reasoning with Adaptive Neural Cellular Automata — accepted"
+  subtitle="Full paper accepted - 2D Spatial Reasoning with Adaptive Neural Cellular Automata"
   style="small"
 %}
 {%
