@@ -18,7 +18,7 @@ Joint research pages of the labs run by ***Margret Keuper and Janis Keuper***. W
   include card.html
   image="images/ijcv.jpeg"
   image-fit="contain"
-  link="https://link.springer.com/article/10.1007/s11263-026-03005-9"
+  link="/research/2026-fix-your-downsampling-asap-aliasing-and-sinc-artifact-free-pooling-in-the-fourier-domain/"
   title="IJCV 2026"
   subtitle="New journal paper — Fix Your Downsampling ASAP! Aliasing and Sinc Artifact Free Pooling in the Fourier Domain"
   style="small"

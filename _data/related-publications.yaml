@@ -411,3 +411,9 @@
 - /research/2026-a-new-kind-of-network-review-and-reference-implementation-of-neural-cellular-automata/
 - /research/2026-we-need-theory-grounded-explainability-for-abstract-tasks-to-quantify-model-bias/
 - /research/2025-physicsgen-can-generative-models-learn-from-images-to-predict-complex-physical-relations/
+
+/research/2026-fix-your-downsampling-asap-aliasing-and-sinc-artifact-free-pooling-in-the-fourier-domain/:
+- /research/2022-frequencylowcut-pooling-plug-play-against-catastrophic-overfitting/
+- /research/2022-aliasing-coincides-with-cnns-vulnerability-towards-adversarial-attacks/
+- /research/2022-aliasing-and-adversarial-robust-generalization-of-cnns/
+- /research/2024-improving-feature-stability-during-upsampling-spectral-artifacts-and-the-importance-of-spatial-context/
