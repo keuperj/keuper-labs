@@ -2807,3 +2807,31 @@
   teaser-alt: Input and target examples for array Sudoku, handwritten-digit Sudoku, shortest-path maze solving,
     and global color balance.
   teaser-source: https://arxiv.org/pdf/2610.08518#page=4
+
+- title: Fix Your Downsampling ASAP! Aliasing and Sinc Artifact Free Pooling in the Fourier Domain
+  detail-page: /research/2026-fix-your-downsampling-asap-aliasing-and-sinc-artifact-free-pooling-in-the-fourier-domain/
+  date: 2026-6-1
+  authors:
+  - Julia Grabinski
+  - Steffen Jung
+  - Janis Keuper
+  - Margret Keuper
+  link: https://link.springer.com/article/10.1007/s11263-026-03005-9
+  publisher: International Journal of Computer Vision (IJCV 2026), Volume 134, Article 461
+  extra-links:
+  - type: paper
+    text: PDF
+    link: https://link.springer.com/content/pdf/10.1007/s11263-026-03005-9.pdf
+  image: images/ijcv.jpeg
+  tags:
+  - CNNs
+  - Frequency Analysis
+  - Anti-Aliasing
+  - Adversarial Robustness
+  group: journal
+  description: Downsampling can introduce aliasing and ringing artifacts that destabilize CNN features. FLC
+    Pooling and ASAP operate in the Fourier domain to improve robustness against common corruptions and adversarial
+    attacks while maintaining similar clean accuracy.
+  teaser: images/publications/104-asap.webp
+  teaser-alt: Comparison of MaxPooling, strided downsampling, FLC Pooling, and ASAP on a zebra image.
+  teaser-source: https://link.springer.com/content/pdf/10.1007/s11263-026-03005-9.pdf#page=2

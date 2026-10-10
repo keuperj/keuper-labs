@@ -16,6 +16,15 @@ Joint research pages of the labs run by ***Margret Keuper and Janis Keuper***. W
 ### Latest Highlights
 {%
   include card.html
+  image="images/ijcv.jpeg"
+  image-fit="contain"
+  link="https://link.springer.com/article/10.1007/s11263-026-03005-9"
+  title="IJCV 2026"
+  subtitle="New journal paper — Fix Your Downsampling ASAP! Aliasing and Sinc Artifact Free Pooling in the Fourier Domain"
+  style="small"
+%}
+{%
+  include card.html
   image="images/dfg.jpg"
   image-fit="contain"
   link="https://www.uni-siegen.de/en/news/siegens-ai-flagship-project-moves-into-the-next-phase"
